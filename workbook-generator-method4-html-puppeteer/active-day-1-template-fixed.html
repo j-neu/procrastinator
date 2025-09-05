@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Kalam', cursive;
+            font-size: 14px;
+            line-height: 1.4;
+            color: #4a5568;
+            background-color: white;
+            padding: 40px;
+        }
+        
+        .page {
+            width: 8.5in;
+            max-width: 8.5in;
+            margin: 0 auto;
+            background: white;
+            padding: 0.75in;
+            border: 2px solid #9cae9c;
+            border-radius: 15px;
+            position: relative;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            box-sizing: border-box;
+            /* Remove fixed height to allow natural flow */
+        }
+        
+        .page::before {
+            content: '';
+            position: absolute;
+            top: -5px;
+            left: -5px;
+            right: -5px;
+            bottom: -5px;
+            border: 3px solid #c77d5c;
+            border-radius: 20px;
+            z-index: -1;
+            transform: rotate(-0.5deg);
+        }
+        
+        .page::after {
+            content: '';
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 100px;
+            height: 60px;
+            background: #d4a574;
+            border-radius: 50%;
+            opacity: 0.1;
+            transform: rotate(15deg);
+            z-index: -1;
+        }
+        
+        /* CRITICAL PAGE BREAK CONTROLS - These are the main fixes */
+        
+        /* Never break these elements internally */
+        .exercise-section,
+        .commitment-box,
+        .reflection-section,
+        .hand-drawn-border,
+        .step-section,
+        .fillable-box,
+        .two-column-container,
+        .inline-fields,
+        .checkbox-grid,
+        .daily-focus,
+        .courage-quote {
+            page-break-inside: avoid !important;
+            break-inside: avoid !important;
+        }
+        
+        /* Keep headers with their content */
+        h1, h2, h3 {
+            page-break-after: avoid !important;
+            break-after: avoid !important;
+        }
+        
+        /* Orphans and widows control for all text */
+        p, li, div {
+            orphans: 3;
+            widows: 3;
+        }
+        
+        /* Special handling for complex layouts */
+        .two-column-container {
+            page-break-inside: avoid !important;
+            break-inside: avoid !important;
+            orphans: 5;
+            widows: 5;
+        }
+        
+        /* Inline fields must stay together */
+        .inline-fields {
+            page-break-inside: avoid !important;
+            break-inside: avoid !important;
+            display: block !important; /* Force block to prevent inline breaks */
+            white-space: nowrap;
+            overflow: visible;
+        }
+        
+        .inline-fields > * {
+            display: inline-block;
+            margin-right: 15px;
+            page-break-inside: avoid !important;
+            break-inside: avoid !important;
+        }
+        
+        /* If inline fields are too long, wrap but keep each field together */
+        .inline-fields.allow-wrap {
+            white-space: normal;
+        }
+        
+        .inline-fields.allow-wrap > * {
+            page-break-inside: avoid !important;
+            break-inside: avoid !important;
+            break-after: avoid !important;
+            page-break-after: avoid !important;
+        }
+        
+        /* Pattern section specific fixes (this was breaking in the image) */
+        .pattern-section {
+            page-break-inside: avoid !important;
+            break-inside: avoid !important;
+            page-break-before: auto;
+            break-before: auto;
+            orphans: 10;
+            widows: 10;
+        }
+        
+        .pattern-recognition-box {
+            page-break-inside: avoid !important;
+            break-inside: avoid !important;
+        }
+        
+        /* END CRITICAL PAGE BREAK CONTROLS */
+        
+        .hand-drawn-border {
+            border: 1px solid #4a5568;
+            border-radius: 4px;
+            padding: 8px;
+            margin: 6px 0;
+            position: relative;
+            background: linear-gradient(45deg, #faf9f6 0%, #b8c5b8 1%, #faf9f6 2%, #faf9f6 100%);
+        }
+        
+        .hand-drawn-border::before {
+            content: '';
+            position: absolute;
+            top: -3px;
+            left: -3px;
+            right: -3px;
+            bottom: -3px;
+            border: 1px dashed #7a8a7a;
+            border-radius: 12px;
+            transform: rotate(0.3deg);
+        }
+        
+        h1 {
+            font-size: 24px;
+            color: #c77d5c;
+            text-align: center;
+            margin-bottom: 12px;
+            transform: rotate(-0.5deg);
+            text-shadow: 2px 2px 0px #faf9f6;
+        }
+        
+        h2 {
+            font-size: 18px;
+            color: #9cae9c;
+            margin: 10px 0 6px 0;
+            transform: rotate(0.2deg);
+            border-bottom: 2px wavy #9cae9c;
+        }
+        
+        h3 {
+            font-size: 15px;
+            color: #7a8a7a;
+            margin: 8px 0 4px 0;
+            transform: rotate(-0.1deg);
+        }
+        
+        .subtitle {
+            font-size: 15px;
+            color: #718096;
+            text-align: center;
+            margin-bottom: 12px;
+            font-style: italic;
+        }
+        
+        .daily-focus {
+            background: #f5f7f0;
+            border: 2px solid #9cae9c;
+            border-radius: 15px;
+            padding: 10px;
+            margin: 10px 0;
+            transform: rotate(-0.2deg);
+        }
+        
+        .daily-focus strong {
+            color: #7a8a7a;
+        }
+        
+        .separator {
+            text-align: center;
+            margin: 10px 0;
+            font-size: 16px;
+            color: #b8c5b8;
+            transform: rotate(0.1deg);
+        }
+        
+        .exercise-section {
+            margin: 10px 0;
+            padding: 10px;
+            background: #fdf8f0;
+            border: 2px solid #d4a574;
+            border-radius: 12px;
+            transform: rotate(0.15deg);
+        }
+        
+        .exercise-section h2 {
+            color: #c77d5c;
+            margin-top: 0;
+        }
+        
+        .fillable-line {
+            border-bottom: 2px dotted #718096;
+            display: inline-block;
+            min-width: 120px;
+            margin: 0 5px;
+            height: 18px;
+        }
+        
+        .rating-line {
+            border-bottom: 2px dotted #718096;
+            display: inline-block;
+            min-width: 40px;
+            margin: 0 5px;
+            height: 18px;
+        }
+        
+        .fillable-box {
+            border: 2px dashed #b8c5b8;
+            border-radius: 8px;
+            padding: 8px;
+            margin: 6px 0;
+            background: #faf9f6;
+            min-height: 40px;
+            position: relative;
+        }
+        
+        .commitment-box {
+            background: #f0f4f0;
+            border: 1px solid #9cae9c;
+            border-radius: 4px;
+            padding: 8px;
+            margin: 6px 0;
+            transform: rotate(-0.1deg);
+        }
+        
+        .commitment-box h2 {
+            color: #7a8a7a;
+            margin-top: 0;
+        }
+        
+        .reflection-section {
+            background: #fdf8f0;
+            border: 1px solid #d4a574;
+            border-radius: 4px;
+            padding: 8px;
+            margin: 6px 0;
+            transform: rotate(0.1deg);
+        }
+        
+        .courage-quote {
+            background: #f5f7f0;
+            border-left: 5px solid #9cae9c;
+            padding: 12px 16px;
+            margin: 15px 0;
+            font-style: italic;
+            font-size: 14px;
+            transform: rotate(-0.05deg);
+        }
+        
+        .step-number {
+            background: #9cae9c;
+            color: white;
+            border-radius: 50%;
+            width: 26px;
+            height: 26px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin-right: 8px;
+            transform: rotate(5deg);
+        }
+        
+        .step-section {
+            margin: 10px 0;
+        }
+        
+        .checklist-item, .checkbox-row {
+            margin: 6px 0;
+            display: flex;
+            align-items: center;
+        }
+        
+        .checklist-item input[type="checkbox"], .checkbox-row input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            margin-right: 8px;
+            transform: rotate(-2deg);
+        }
+        
+        .doodle {
+            position: absolute;
+            opacity: 0.1;
+            z-index: -1;
+        }
+        
+        .doodle-star {
+            top: 80px;
+            right: 40px;
+            width: 25px;
+            height: 25px;
+            transform: rotate(15deg);
+        }
+        
+        .doodle-heart {
+            bottom: 80px;
+            left: 25px;
+            width: 20px;
+            height: 20px;
+            transform: rotate(-10deg);
+        }
+        
+        .page-footer {
+            position: absolute;
+            bottom: 15px;
+            right: 25px;
+            font-size: 11px;
+            color: #b8c5b8;
+            transform: rotate(1deg);
+        }
+        
+        ol, ul {
+            padding-left: 16px;
+            margin: 6px 0;
+        }
+        
+        li {
+            margin: 4px 0;
+        }
+        
+        strong {
+            color: #4a5568;
+        }
+        
+        em {
+            color: #718096;
+        }
+        
+        /* Two-column layout support - simplified and safer */
+        .two-column-container {
+            display: block; /* Safer than flex for page breaks */
+            margin: 8px 0;
+        }
+        
+        .two-column-container .column {
+            display: inline-block;
+            width: 48%;
+            vertical-align: top;
+            margin-right: 2%;
+        }
+        
+        .two-column-container .column:last-child {
+            margin-right: 0;
+        }
+        
+        /* Checkbox grid layout - simplified */
+        .checkbox-grid {
+            display: block; /* Avoid grid for PDF compatibility */
+            margin: 8px 0;
+        }
+        
+        .checkbox-grid .checkbox-row {
+            display: inline-block;
+            width: 48%;
+            margin: 2px 1%;
+            vertical-align: top;
+        }
+        
+        /* Compact inline layout - with better break handling */
+        .inline-fields {
+            margin: 6px 0;
+            line-height: 1.6;
+        }
+        
+        .inline-fields > span {
+            margin-right: 20px;
+            white-space: nowrap;
+        }
+        
+        /* Responsive adjustments for better space usage */
+        p {
+            margin: 4px 0;
+        }
+        
+        /* Print-specific optimizations */
+        @media print {
+            * {
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+            }
+            
+            body {
+                padding: 0;
+            }
+            
+            .page {
+                margin: 0;
+                box-shadow: none;
+            }
+            
+            /* Extra insurance for page breaks in print */
+            .exercise-section,
+            .commitment-box,
+            .reflection-section,
+            .step-section,
+            .pattern-section {
+                break-inside: avoid !important;
+                page-break-inside: avoid !important;
+            }
+            
+            .inline-fields {
+                break-inside: avoid !important;
+                page-break-inside: avoid !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <div class="doodle doodle-star">
+            <img src="assets/star.svg" alt="star" width="25" height="25">
+        </div>
+        <div class="doodle doodle-heart">
+            <img src="assets/lightbulb.svg" alt="lightbulb" width="20" height="20">
+        </div>
+        
+        <h1>{{title}}</h1>
+        <div class="subtitle">{{subtitle}}</div>
+        
+        <div class="daily-focus">
+            <strong>Today's Focus:</strong> {{focus}}<br>
+            <strong>Time Commitment:</strong> {{time}}<br>
+            <strong>Core Exercise:</strong> {{exercise}}
+        </div>
+        
+        <div class="separator">───</div>
+        
+        <div class="exercise-section">
+            <h2>Morning Check-in (2 minutes)</h2>
+            
+            <p><strong>Daily Questions:</strong></p>
+            <ul>
+                <li>What task am I strategically delaying and why might this be optimal timing?</li>
+                <li>What's my current energy/pressure level for peak performance?</li>
+                <li>How can I honor my natural work style today?</li>
+            </ul>
+            
+            <div class="fillable-box">
+                <strong>Task I'm delaying:</strong> <span class="fillable-line"></span><br>
+                <strong>Why optimal timing:</strong> <span class="fillable-line"></span><br>
+                <strong>Pressure/energy level:</strong> <span class="fillable-line"></span>
+            </div>
+        </div>
+        
+        <div class="separator">───</div>
+        
+        <div class="exercise-section">
+            <h2>Main Exercise: Strategic Delay Assessment (15 minutes)</h2>
+            
+            <p><strong>Purpose:</strong> Understand when your delay patterns serve you vs. when they might need adjustment</p>
+            
+            <div class="step-section">
+                <h3><span class="step-number">1</span>Recent Success Analysis (7 minutes)</h3>
+                <p>Think of 2 recent tasks where you delayed and achieved good results:</p>
+                
+                <div class="two-column-container">
+                    <div class="column">
+                        <div class="hand-drawn-border">
+                            <strong>Task 1:</strong> <span class="fillable-line"></span><br>
+                            <strong>When started:</strong> <span class="fillable-line"></span><br>
+                            <strong>Why you waited:</strong> <span class="fillable-line"></span><br>
+                            <div class="inline-fields allow-wrap">
+                                <span><strong>Quality (1-10):</strong> <span class="rating-line"></span></span>
+                                <span><strong>Stress (1-10):</strong> <span class="rating-line"></span></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <div class="hand-drawn-border">
+                            <strong>Task 2:</strong> <span class="fillable-line"></span><br>
+                            <strong>When started:</strong> <span class="fillable-line"></span><br>
+                            <strong>Why you waited:</strong> <span class="fillable-line"></span><br>
+                            <div class="inline-fields allow-wrap">
+                                <span><strong>Quality (1-10):</strong> <span class="rating-line"></span></span>
+                                <span><strong>Stress (1-10):</strong> <span class="rating-line"></span></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="step-section pattern-section">
+                <h3><span class="step-number">2</span>Pattern Recognition (5 minutes)</h3>
+                
+                <p><strong>What do your most successful delays have in common?</strong></p>
+                <div class="fillable-box pattern-recognition-box">
+                    <strong>Time of day you work best:</strong> <span class="fillable-line"></span><br><br>
+                    <strong>Optimal pressure level (1-10):</strong> <span class="rating-line"></span><br><br>
+                    <strong>Task types that benefit from delay:</strong> <span class="fillable-line"></span>
+                </div>
+                
+                <p><strong>When does your strategic delay work BEST?</strong></p>
+                <div class="checkbox-grid">
+                    <div class="checkbox-row"><input type="checkbox"> Complex creative projects</div>
+                    <div class="checkbox-row"><input type="checkbox"> Analytical/problem-solving tasks</div>
+                    <div class="checkbox-row"><input type="checkbox"> High-stakes presentations</div>
+                    <div class="checkbox-row"><input type="checkbox"> Other: <span class="fillable-line"></span></div>
+                </div>
+            </div>
+            
+            <div class="step-section">
+                <h3><span class="step-number">3</span>Challenge Area Identification (3 minutes)</h3>
+                
+                <p><strong>Times when delay might not have served you well:</strong></p>
+                <div class="hand-drawn-border">
+                    <strong>Challenging situation:</strong> <span class="fillable-line"></span><br>
+                    <strong>What went wrong?</strong> <span class="fillable-line"></span><br>
+                    <strong>Warning signs you missed:</strong> <span class="fillable-line"></span>
+                </div>
+                
+                <p><strong>Your delay approach might need adjustment when:</strong></p>
+                <div class="checkbox-grid">
+                    <div class="checkbox-row"><input type="checkbox"> Multiple deadlines converge</div>
+                    <div class="checkbox-row"><input type="checkbox"> Health/energy is compromised</div>
+                    <div class="checkbox-row"><input type="checkbox"> External dependencies exist</div>
+                    <div class="checkbox-row"><input type="checkbox"> Other: <span class="fillable-line"></span></div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="commitment-box">
+            <h2>Pressure Optimization Commitment (2 minutes)</h2>
+            
+            <p><strong>Purpose:</strong> Set intention for strategic improvement rather than elimination</p>
+            
+            <strong>One insight about your optimal pressure point:</strong><br>
+            <div class="fillable-box"></div>
+            
+            <div class="inline-fields allow-wrap">
+                <span><strong>One area to fine-tune:</strong> <span class="fillable-line"></span></span>
+                <span><strong>Today's experiment:</strong> <span class="fillable-line"></span></span>
+            </div>
+        </div>
+        
+        <div class="reflection-section">
+            <h2>Evening Reflection (1 minute)</h2>
+            
+            <p><strong>What did you notice about your energy and focus patterns today?</strong></p>
+            <div class="fillable-box"></div>
+            
+            <div class="inline-fields allow-wrap">
+                <span><strong>How did honoring your natural timing feel?</strong> <span class="fillable-line"></span></span>
+                <span><strong>One thing to explore more:</strong> <span class="fillable-line"></span></span>
+            </div>
+        </div>
+        
+        <h2>Tomorrow's Preparation</h2>
+        <p>Tomorrow we'll dive into understanding your natural energy patterns and how they align with your strategic timing.</p>
+        
+        <div class="courage-quote">
+            <strong>Strategic Thinking Thought:</strong><br>
+            <em>"My tendency to delay isn't a flaw to fix—it's a strength to optimize."</em>
+        </div>
+        
+        <div class="page-footer">
+            Day 1 - Active Procrastinator Workbook
+        </div>
+    </div>
+</body>
+</html>

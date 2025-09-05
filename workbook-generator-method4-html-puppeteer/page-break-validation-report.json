@@ -1,0 +1,441 @@
+{
+  "timestamp": "2025-09-05T16:15:11.715Z",
+  "testResults": {
+    "Original Template": {
+      "templatePath": "C:\\Users\\jakob\\Documents\\Cursor projects\\procrastinator\\workbook-generator-method4-html-puppeteer\\active-day-1-template.html",
+      "outputPath": "test-original-template.pdf",
+      "timestamp": "2025-09-05T16:15:07.515Z",
+      "preGenerationValidation": {
+        "rulePassed": {
+          "inline-fields-integrity": true,
+          "fillable-box-integrity": true,
+          "pattern-section-integrity": false,
+          "two-column-integrity": true,
+          "step-section-integrity": false,
+          "commitment-box-integrity": true
+        },
+        "elementDetails": {
+          "inline-fields-integrity": [
+            {
+              "index": 0,
+              "selector": ".inline-fields",
+              "height": 68.95172119140625,
+              "top": 922.6109008789062,
+              "bottom": 991.5626220703125,
+              "pagePosition": 1,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 1,
+              "selector": ".inline-fields",
+              "height": 68.95172119140625,
+              "top": 923.5010375976562,
+              "bottom": 992.4527587890625,
+              "pagePosition": 1,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 2,
+              "selector": ".inline-fields",
+              "height": 69.307861328125,
+              "top": 1736.158447265625,
+              "bottom": 1805.46630859375,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 3,
+              "selector": ".inline-fields",
+              "height": 69.307861328125,
+              "top": 1970.533447265625,
+              "bottom": 2039.84130859375,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            }
+          ],
+          "fillable-box-integrity": [
+            {
+              "index": 0,
+              "selector": ".fillable-box",
+              "height": 109.45639038085938,
+              "top": 490.8809509277344,
+              "bottom": 600.3373413085938,
+              "pagePosition": 1,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 1,
+              "selector": ".fillable-box",
+              "height": 148.643798828125,
+              "top": 1066.381103515625,
+              "bottom": 1215.02490234375,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 2,
+              "selector": ".fillable-box",
+              "height": 51.120361328125,
+              "top": 1678.1585693359375,
+              "bottom": 1729.2789306640625,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 3,
+              "selector": ".fillable-box",
+              "height": 51.120361328125,
+              "top": 1912.5335693359375,
+              "bottom": 1963.6539306640625,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            }
+          ],
+          "pattern-section-integrity": [
+            {
+              "index": 0,
+              "selector": ".pattern-section",
+              "height": 304.42449951171875,
+              "top": 1004.7876586914062,
+              "bottom": 1309.212158203125,
+              "pagePosition": 1,
+              "spansMultiplePages": true
+            }
+          ],
+          "two-column-integrity": [
+            {
+              "index": 0,
+              "selector": ".two-column-container",
+              "height": 200.83111572265625,
+              "top": 797.632080078125,
+              "bottom": 998.4631958007812,
+              "pagePosition": 1,
+              "spansMultiplePages": false
+            }
+          ],
+          "step-section-integrity": [
+            {
+              "index": 0,
+              "selector": ".step-section",
+              "height": 254.42462158203125,
+              "top": 744.03857421875,
+              "bottom": 998.4631958007812,
+              "pagePosition": 1,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 1,
+              "selector": ".step-section",
+              "height": 304.42449951171875,
+              "top": 1004.7876586914062,
+              "bottom": 1309.212158203125,
+              "pagePosition": 1,
+              "spansMultiplePages": true
+            },
+            {
+              "index": 2,
+              "selector": ".step-section",
+              "height": 233.2371826171875,
+              "top": 1317.53662109375,
+              "bottom": 1550.7738037109375,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            }
+          ],
+          "commitment-box-integrity": [
+            {
+              "index": 0,
+              "selector": ".commitment-box",
+              "height": 233.13427734375,
+              "top": 1585.354736328125,
+              "bottom": 1818.489013671875,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            }
+          ]
+        },
+        "layoutMetrics": {
+          "documentHeight": 2231,
+          "viewportHeight": 1600,
+          "estimatedPageHeight": 1056,
+          "estimatedPages": 3,
+          "contentDensity": 743.6666666666666
+        },
+        "issues": [
+          {
+            "rule": "pattern-section-integrity",
+            "severity": "CRITICAL",
+            "message": "Pattern recognition sections must stay together - Element 0 spans pages 1 to 2",
+            "element": {
+              "index": 0,
+              "selector": ".pattern-section",
+              "height": 304.42449951171875,
+              "top": 1004.7876586914062,
+              "bottom": 1309.212158203125,
+              "pagePosition": 1,
+              "spansMultiplePages": true
+            }
+          },
+          {
+            "rule": "step-section-integrity",
+            "severity": "WARNING",
+            "message": "Step sections with numbered circles must stay together - Element 1 spans pages 1 to 2",
+            "element": {
+              "index": 1,
+              "selector": ".step-section",
+              "height": 304.42449951171875,
+              "top": 1004.7876586914062,
+              "bottom": 1309.212158203125,
+              "pagePosition": 1,
+              "spansMultiplePages": true
+            }
+          }
+        ]
+      },
+      "pdfValidation": {
+        "pageCount": 2,
+        "expectedPages": 2,
+        "pageCountCorrect": true,
+        "fileSize": 256424,
+        "fileSizeReasonable": true,
+        "created": true
+      },
+      "overallScore": "ACCEPTABLE",
+      "recommendations": [
+        "🚨 CRITICAL: Fix page-breaking elements before production use",
+        "   - Pattern recognition sections must stay together - Element 0 spans pages 1 to 2",
+        "⚠️ WARNINGS: Consider addressing these layout issues",
+        "   - Step sections with numbered circles must stay together - Element 1 spans pages 1 to 2"
+      ]
+    },
+    "Fixed Template": {
+      "templatePath": "C:\\Users\\jakob\\Documents\\Cursor projects\\procrastinator\\workbook-generator-method4-html-puppeteer\\active-day-1-template-fixed.html",
+      "outputPath": "test-fixed-template.pdf",
+      "timestamp": "2025-09-05T16:15:11.715Z",
+      "preGenerationValidation": {
+        "rulePassed": {
+          "inline-fields-integrity": true,
+          "fillable-box-integrity": false,
+          "pattern-section-integrity": false,
+          "two-column-integrity": true,
+          "step-section-integrity": false,
+          "commitment-box-integrity": true
+        },
+        "elementDetails": {
+          "inline-fields-integrity": [
+            {
+              "index": 0,
+              "selector": ".inline-fields",
+              "height": 51.54315185546875,
+              "top": 837.8377075195312,
+              "bottom": 889.380859375,
+              "pagePosition": 1,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 1,
+              "selector": ".inline-fields",
+              "height": 51.543212890625,
+              "top": 838.6953735351562,
+              "bottom": 890.2385864257812,
+              "pagePosition": 1,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 2,
+              "selector": ".inline-fields",
+              "height": 26.5250244140625,
+              "top": 1717.1202392578125,
+              "bottom": 1743.645263671875,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 3,
+              "selector": ".inline-fields",
+              "height": 51.9156494140625,
+              "top": 1885.2921142578125,
+              "bottom": 1937.207763671875,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            }
+          ],
+          "fillable-box-integrity": [
+            {
+              "index": 0,
+              "selector": ".fillable-box",
+              "height": 95.46688842773438,
+              "top": 458.4850769042969,
+              "bottom": 553.9519653320312,
+              "pagePosition": 1,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 1,
+              "selector": ".fillable-box",
+              "height": 134.65423583984375,
+              "top": 975.1886596679688,
+              "bottom": 1109.8428955078125,
+              "pagePosition": 1,
+              "spansMultiplePages": true
+            },
+            {
+              "index": 2,
+              "selector": ".fillable-box",
+              "height": 41.1343994140625,
+              "top": 1671.1202392578125,
+              "bottom": 1712.254638671875,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 3,
+              "selector": ".fillable-box",
+              "height": 41.1343994140625,
+              "top": 1839.2921142578125,
+              "bottom": 1880.426513671875,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            }
+          ],
+          "pattern-section-integrity": [
+            {
+              "index": 0,
+              "selector": ".pattern-section",
+              "height": 332.216064453125,
+              "top": 919.5950927734375,
+              "bottom": 1251.8111572265625,
+              "pagePosition": 1,
+              "spansMultiplePages": true
+            }
+          ],
+          "two-column-integrity": [
+            {
+              "index": 0,
+              "selector": ".two-column-container",
+              "height": 168.2479248046875,
+              "top": 743.033203125,
+              "bottom": 911.2811279296875,
+              "pagePosition": 1,
+              "spansMultiplePages": false
+            }
+          ],
+          "step-section-integrity": [
+            {
+              "index": 0,
+              "selector": ".step-section",
+              "height": 225.84149169921875,
+              "top": 685.4396362304688,
+              "bottom": 911.2811279296875,
+              "pagePosition": 1,
+              "spansMultiplePages": false
+            },
+            {
+              "index": 1,
+              "selector": ".step-section",
+              "height": 332.216064453125,
+              "top": 919.5950927734375,
+              "bottom": 1251.8111572265625,
+              "pagePosition": 1,
+              "spansMultiplePages": true
+            },
+            {
+              "index": 2,
+              "selector": ".step-section",
+              "height": 291.02880859375,
+              "top": 1260.1251220703125,
+              "bottom": 1551.1539306640625,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            }
+          ],
+          "commitment-box-integrity": [
+            {
+              "index": 0,
+              "selector": ".commitment-box",
+              "height": 176.93115234375,
+              "top": 1581.729736328125,
+              "bottom": 1758.660888671875,
+              "pagePosition": 2,
+              "spansMultiplePages": false
+            }
+          ]
+        },
+        "layoutMetrics": {
+          "documentHeight": 2239,
+          "viewportHeight": 1600,
+          "estimatedPageHeight": 1056,
+          "estimatedPages": 3,
+          "contentDensity": 746.3333333333334
+        },
+        "issues": [
+          {
+            "rule": "fillable-box-integrity",
+            "severity": "CRITICAL",
+            "message": "Fillable text boxes must stay complete - Element 1 spans pages 1 to 2",
+            "element": {
+              "index": 1,
+              "selector": ".fillable-box",
+              "height": 134.65423583984375,
+              "top": 975.1886596679688,
+              "bottom": 1109.8428955078125,
+              "pagePosition": 1,
+              "spansMultiplePages": true
+            }
+          },
+          {
+            "rule": "pattern-section-integrity",
+            "severity": "CRITICAL",
+            "message": "Pattern recognition sections must stay together - Element 0 spans pages 1 to 2",
+            "element": {
+              "index": 0,
+              "selector": ".pattern-section",
+              "height": 332.216064453125,
+              "top": 919.5950927734375,
+              "bottom": 1251.8111572265625,
+              "pagePosition": 1,
+              "spansMultiplePages": true
+            }
+          },
+          {
+            "rule": "step-section-integrity",
+            "severity": "WARNING",
+            "message": "Step sections with numbered circles must stay together - Element 1 spans pages 1 to 2",
+            "element": {
+              "index": 1,
+              "selector": ".step-section",
+              "height": 332.216064453125,
+              "top": 919.5950927734375,
+              "bottom": 1251.8111572265625,
+              "pagePosition": 1,
+              "spansMultiplePages": true
+            }
+          }
+        ]
+      },
+      "pdfValidation": {
+        "pageCount": 3,
+        "expectedPages": 2,
+        "pageCountCorrect": false,
+        "fileSize": 206285,
+        "fileSizeReasonable": true,
+        "created": true
+      },
+      "overallScore": "FAIL",
+      "recommendations": [
+        "🚨 CRITICAL: Fix page-breaking elements before production use",
+        "   - Fillable text boxes must stay complete - Element 1 spans pages 1 to 2",
+        "   - Pattern recognition sections must stay together - Element 0 spans pages 1 to 2",
+        "⚠️ WARNINGS: Consider addressing these layout issues",
+        "   - Step sections with numbered circles must stay together - Element 1 spans pages 1 to 2",
+        "📄 PAGE COUNT: Expected 2 pages, got 3. Adjust content or layout."
+      ]
+    }
+  },
+  "summary": {
+    "testsRun": 2,
+    "passed": 1,
+    "failed": 1,
+    "improvements": []
+  }
+}

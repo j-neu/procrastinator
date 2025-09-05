@@ -1,0 +1,537 @@
+{
+  "timestamp": "2025-09-05T16:17:14.355Z",
+  "fixedTemplate": {
+    "success": true,
+    "breakAnalysis": {
+      "potentialBreaks": [
+        {
+          "selector": ".pattern-section",
+          "index": 0,
+          "height": 332.216064453125,
+          "top": 919.5950927734375,
+          "bottom": 1251.8111572265625,
+          "hasInlineChildren": true,
+          "childCount": 5,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".pattern-recognition-box",
+          "index": 0,
+          "height": 134.65423583984375,
+          "top": 975.1886596679688,
+          "bottom": 1109.8428955078125,
+          "hasInlineChildren": true,
+          "childCount": 10,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".two-column-container",
+          "index": 0,
+          "height": 168.2479248046875,
+          "top": 743.033203125,
+          "bottom": 911.2811279296875,
+          "hasInlineChildren": true,
+          "childCount": 2,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".step-section",
+          "index": 0,
+          "height": 225.84149169921875,
+          "top": 685.4396362304688,
+          "bottom": 911.2811279296875,
+          "hasInlineChildren": true,
+          "childCount": 3,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".step-section",
+          "index": 1,
+          "height": 332.216064453125,
+          "top": 919.5950927734375,
+          "bottom": 1251.8111572265625,
+          "hasInlineChildren": true,
+          "childCount": 5,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".step-section",
+          "index": 2,
+          "height": 291.02880859375,
+          "top": 1260.1251220703125,
+          "bottom": 1551.1539306640625,
+          "hasInlineChildren": true,
+          "childCount": 5,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".exercise-section .fillable-box",
+          "index": 1,
+          "height": 134.65423583984375,
+          "top": 975.1886596679688,
+          "bottom": 1109.8428955078125,
+          "hasInlineChildren": true,
+          "childCount": 10,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".commitment-box",
+          "index": 0,
+          "height": 176.93115234375,
+          "top": 1581.729736328125,
+          "bottom": 1758.660888671875,
+          "hasInlineChildren": true,
+          "childCount": 6,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".reflection-section",
+          "index": 0,
+          "height": 188.72802734375,
+          "top": 1763.495361328125,
+          "bottom": 1952.223388671875,
+          "hasInlineChildren": true,
+          "childCount": 4,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        }
+      ],
+      "criticalElements": [
+        {
+          "selector": ".inline-fields",
+          "index": 0,
+          "height": 51.54315185546875,
+          "top": 837.8377075195312,
+          "bottom": 889.380859375,
+          "hasInlineChildren": true,
+          "childCount": 2
+        },
+        {
+          "selector": ".inline-fields",
+          "index": 1,
+          "height": 51.543212890625,
+          "top": 838.6953735351562,
+          "bottom": 890.2385864257812,
+          "hasInlineChildren": true,
+          "childCount": 2
+        },
+        {
+          "selector": ".inline-fields",
+          "index": 2,
+          "height": 26.5250244140625,
+          "top": 1717.1202392578125,
+          "bottom": 1743.645263671875,
+          "hasInlineChildren": true,
+          "childCount": 2
+        },
+        {
+          "selector": ".inline-fields",
+          "index": 3,
+          "height": 51.9156494140625,
+          "top": 1885.2921142578125,
+          "bottom": 1937.207763671875,
+          "hasInlineChildren": true,
+          "childCount": 2
+        },
+        {
+          "selector": ".pattern-section",
+          "index": 0,
+          "height": 332.216064453125,
+          "top": 919.5950927734375,
+          "bottom": 1251.8111572265625,
+          "hasInlineChildren": true,
+          "childCount": 5
+        },
+        {
+          "selector": ".pattern-recognition-box",
+          "index": 0,
+          "height": 134.65423583984375,
+          "top": 975.1886596679688,
+          "bottom": 1109.8428955078125,
+          "hasInlineChildren": true,
+          "childCount": 10
+        },
+        {
+          "selector": ".two-column-container",
+          "index": 0,
+          "height": 168.2479248046875,
+          "top": 743.033203125,
+          "bottom": 911.2811279296875,
+          "hasInlineChildren": true,
+          "childCount": 2
+        },
+        {
+          "selector": ".step-section",
+          "index": 0,
+          "height": 225.84149169921875,
+          "top": 685.4396362304688,
+          "bottom": 911.2811279296875,
+          "hasInlineChildren": true,
+          "childCount": 3
+        },
+        {
+          "selector": ".step-section",
+          "index": 1,
+          "height": 332.216064453125,
+          "top": 919.5950927734375,
+          "bottom": 1251.8111572265625,
+          "hasInlineChildren": true,
+          "childCount": 5
+        },
+        {
+          "selector": ".step-section",
+          "index": 2,
+          "height": 291.02880859375,
+          "top": 1260.1251220703125,
+          "bottom": 1551.1539306640625,
+          "hasInlineChildren": true,
+          "childCount": 5
+        },
+        {
+          "selector": ".exercise-section .fillable-box",
+          "index": 0,
+          "height": 95.46688842773438,
+          "top": 458.4850769042969,
+          "bottom": 553.9519653320312,
+          "hasInlineChildren": true,
+          "childCount": 8
+        },
+        {
+          "selector": ".exercise-section .fillable-box",
+          "index": 1,
+          "height": 134.65423583984375,
+          "top": 975.1886596679688,
+          "bottom": 1109.8428955078125,
+          "hasInlineChildren": true,
+          "childCount": 10
+        },
+        {
+          "selector": ".commitment-box",
+          "index": 0,
+          "height": 176.93115234375,
+          "top": 1581.729736328125,
+          "bottom": 1758.660888671875,
+          "hasInlineChildren": true,
+          "childCount": 6
+        },
+        {
+          "selector": ".reflection-section",
+          "index": 0,
+          "height": 188.72802734375,
+          "top": 1763.495361328125,
+          "bottom": 1952.223388671875,
+          "hasInlineChildren": true,
+          "childCount": 4
+        }
+      ],
+      "layoutMetrics": {
+        "documentHeight": 2239,
+        "viewportHeight": 1600,
+        "estimatedPages": 3
+      }
+    },
+    "validationResults": {
+      "pageCount": 3,
+      "expectedPages": 2,
+      "pageCountCorrect": false,
+      "fileSize": 187946,
+      "fileSizeOK": true,
+      "breakAnalysisScore": 0.10000000000000014,
+      "issues": [
+        {
+          "type": "page_count",
+          "message": "Expected 2 pages, got 3",
+          "severity": "high"
+        },
+        {
+          "type": "break_analysis",
+          "message": "Page break analysis score low: 0.10",
+          "severity": "medium"
+        }
+      ],
+      "overallScore": "FAIL"
+    },
+    "outputPath": "test-fixed-breaks.pdf"
+  },
+  "originalTemplate": {
+    "success": true,
+    "breakAnalysis": {
+      "potentialBreaks": [
+        {
+          "selector": ".pattern-section",
+          "index": 0,
+          "height": 304.42449951171875,
+          "top": 1004.7876586914062,
+          "bottom": 1309.212158203125,
+          "hasInlineChildren": true,
+          "childCount": 5,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".pattern-recognition-box",
+          "index": 0,
+          "height": 148.643798828125,
+          "top": 1066.381103515625,
+          "bottom": 1215.02490234375,
+          "hasInlineChildren": true,
+          "childCount": 10,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".two-column-container",
+          "index": 0,
+          "height": 200.83111572265625,
+          "top": 797.632080078125,
+          "bottom": 998.4631958007812,
+          "hasInlineChildren": true,
+          "childCount": 2,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".step-section",
+          "index": 0,
+          "height": 254.42462158203125,
+          "top": 744.03857421875,
+          "bottom": 998.4631958007812,
+          "hasInlineChildren": true,
+          "childCount": 3,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".step-section",
+          "index": 1,
+          "height": 304.42449951171875,
+          "top": 1004.7876586914062,
+          "bottom": 1309.212158203125,
+          "hasInlineChildren": true,
+          "childCount": 5,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".step-section",
+          "index": 2,
+          "height": 233.2371826171875,
+          "top": 1317.53662109375,
+          "bottom": 1550.7738037109375,
+          "hasInlineChildren": true,
+          "childCount": 5,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".exercise-section .fillable-box",
+          "index": 0,
+          "height": 109.45639038085938,
+          "top": 490.8809509277344,
+          "bottom": 600.3373413085938,
+          "hasInlineChildren": true,
+          "childCount": 8,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".exercise-section .fillable-box",
+          "index": 1,
+          "height": 148.643798828125,
+          "top": 1066.381103515625,
+          "bottom": 1215.02490234375,
+          "hasInlineChildren": true,
+          "childCount": 10,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".commitment-box",
+          "index": 0,
+          "height": 233.13427734375,
+          "top": 1585.354736328125,
+          "bottom": 1818.489013671875,
+          "hasInlineChildren": true,
+          "childCount": 6,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        },
+        {
+          "selector": ".reflection-section",
+          "index": 0,
+          "height": 225.54052734375,
+          "top": 1827.323486328125,
+          "bottom": 2052.864013671875,
+          "hasInlineChildren": true,
+          "childCount": 4,
+          "issue": "Complex inline content at risk",
+          "severity": "medium"
+        }
+      ],
+      "criticalElements": [
+        {
+          "selector": ".inline-fields",
+          "index": 0,
+          "height": 68.95172119140625,
+          "top": 922.6109008789062,
+          "bottom": 991.5626220703125,
+          "hasInlineChildren": true,
+          "childCount": 2
+        },
+        {
+          "selector": ".inline-fields",
+          "index": 1,
+          "height": 68.95172119140625,
+          "top": 923.5010375976562,
+          "bottom": 992.4527587890625,
+          "hasInlineChildren": true,
+          "childCount": 2
+        },
+        {
+          "selector": ".inline-fields",
+          "index": 2,
+          "height": 69.307861328125,
+          "top": 1736.158447265625,
+          "bottom": 1805.46630859375,
+          "hasInlineChildren": true,
+          "childCount": 2
+        },
+        {
+          "selector": ".inline-fields",
+          "index": 3,
+          "height": 69.307861328125,
+          "top": 1970.533447265625,
+          "bottom": 2039.84130859375,
+          "hasInlineChildren": true,
+          "childCount": 2
+        },
+        {
+          "selector": ".pattern-section",
+          "index": 0,
+          "height": 304.42449951171875,
+          "top": 1004.7876586914062,
+          "bottom": 1309.212158203125,
+          "hasInlineChildren": true,
+          "childCount": 5
+        },
+        {
+          "selector": ".pattern-recognition-box",
+          "index": 0,
+          "height": 148.643798828125,
+          "top": 1066.381103515625,
+          "bottom": 1215.02490234375,
+          "hasInlineChildren": true,
+          "childCount": 10
+        },
+        {
+          "selector": ".two-column-container",
+          "index": 0,
+          "height": 200.83111572265625,
+          "top": 797.632080078125,
+          "bottom": 998.4631958007812,
+          "hasInlineChildren": true,
+          "childCount": 2
+        },
+        {
+          "selector": ".step-section",
+          "index": 0,
+          "height": 254.42462158203125,
+          "top": 744.03857421875,
+          "bottom": 998.4631958007812,
+          "hasInlineChildren": true,
+          "childCount": 3
+        },
+        {
+          "selector": ".step-section",
+          "index": 1,
+          "height": 304.42449951171875,
+          "top": 1004.7876586914062,
+          "bottom": 1309.212158203125,
+          "hasInlineChildren": true,
+          "childCount": 5
+        },
+        {
+          "selector": ".step-section",
+          "index": 2,
+          "height": 233.2371826171875,
+          "top": 1317.53662109375,
+          "bottom": 1550.7738037109375,
+          "hasInlineChildren": true,
+          "childCount": 5
+        },
+        {
+          "selector": ".exercise-section .fillable-box",
+          "index": 0,
+          "height": 109.45639038085938,
+          "top": 490.8809509277344,
+          "bottom": 600.3373413085938,
+          "hasInlineChildren": true,
+          "childCount": 8
+        },
+        {
+          "selector": ".exercise-section .fillable-box",
+          "index": 1,
+          "height": 148.643798828125,
+          "top": 1066.381103515625,
+          "bottom": 1215.02490234375,
+          "hasInlineChildren": true,
+          "childCount": 10
+        },
+        {
+          "selector": ".commitment-box",
+          "index": 0,
+          "height": 233.13427734375,
+          "top": 1585.354736328125,
+          "bottom": 1818.489013671875,
+          "hasInlineChildren": true,
+          "childCount": 6
+        },
+        {
+          "selector": ".reflection-section",
+          "index": 0,
+          "height": 225.54052734375,
+          "top": 1827.323486328125,
+          "bottom": 2052.864013671875,
+          "hasInlineChildren": true,
+          "childCount": 4
+        }
+      ],
+      "layoutMetrics": {
+        "documentHeight": 2231,
+        "viewportHeight": 1600,
+        "estimatedPages": 3
+      }
+    },
+    "validationResults": {
+      "pageCount": 2,
+      "expectedPages": 2,
+      "pageCountCorrect": true,
+      "fileSize": 239464,
+      "fileSizeOK": true,
+      "breakAnalysisScore": 1.3877787807814457e-16,
+      "issues": [
+        {
+          "type": "break_analysis",
+          "message": "Page break analysis score low: 0.00",
+          "severity": "medium"
+        }
+      ],
+      "overallScore": "FAIL"
+    },
+    "outputPath": "test-original-breaks.pdf"
+  },
+  "improvements": {
+    "pageCountImproved": false,
+    "breakScoreImproved": true,
+    "fileSizeImproved": true,
+    "overallImprovement": false
+  }
+}

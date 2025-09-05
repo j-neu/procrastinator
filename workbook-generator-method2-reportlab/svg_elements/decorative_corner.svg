@@ -1,5 +1,0 @@
-<!-- Decorative corner element -->
-<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-  <circle cx="25" cy="25" r="3" fill="#4dabf7" opacity="0.7"/>
-  <path d="M15,25 Q25,15 35,25 Q25,35 15,25" stroke="#4dabf7" stroke-width="1" fill="none" opacity="0.5"/>
-</svg>

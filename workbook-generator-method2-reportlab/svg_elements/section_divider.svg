@@ -1,8 +1,0 @@
-<!-- Section divider line -->
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="20" viewBox="0 0 300 20">
-  <path d="M10,10 Q50,8 100,12 T200,10 Q250,8 290,12" 
-        stroke="#dee2e6" stroke-width="1.5" fill="none"/>
-  <circle cx="150" cy="10" r="2" fill="#4dabf7" opacity="0.6"/>
-  <circle cx="100" cy="10" r="1" fill="#4dabf7" opacity="0.4"/>
-  <circle cx="200" cy="10" r="1" fill="#4dabf7" opacity="0.4"/>
-</svg>
