@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Kalam', cursive;
+            font-size: 14px;
+            line-height: 1.6;
+            color: #4a5568;
+            background-color: white;
+            padding: 40px;
+        }
+        
+        .page {
+            width: 8.5in;
+            height: 11in;
+            margin: 0 auto;
+            background: white;
+            padding: 0.75in;
+            border: 2px solid #9cae9c;
+            border-radius: 15px;
+            position: relative;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            page-break-after: always;
+            box-sizing: border-box;
+        }
+        
+        /* Force exactly 2 pages per day */
+        .page:nth-child(2n) {
+            page-break-after: always;
+        }
+        
+        /* Page break control for sections */
+        .exercise-section,
+        .commitment-box,
+        .reflection-section,
+        .hand-drawn-border {
+            page-break-inside: avoid;
+            break-inside: avoid;
+        }
+        
+        /* Never break fillable elements */
+        .fillable-box,
+        .fillable-line {
+            page-break-inside: avoid;
+            break-inside: avoid;
+        }
+        
+        /* Keep step sections together */
+        .step-section {
+            page-break-inside: avoid;
+            break-inside: avoid;
+        }
+        
+        .page::before {
+            content: '';
+            position: absolute;
+            top: -5px;
+            left: -5px;
+            right: -5px;
+            bottom: -5px;
+            border: 3px solid #c77d5c;
+            border-radius: 20px;
+            z-index: -1;
+            transform: rotate(-0.5deg);
+        }
+        
+        .page::after {
+            content: '';
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 100px;
+            height: 60px;
+            background: #d4a574;
+            border-radius: 50%;
+            opacity: 0.1;
+            transform: rotate(15deg);
+            z-index: -1;
+        }
+        
+        .hand-drawn-border {
+            border: 2px solid #4a5568;
+            border-radius: 10px;
+            padding: 15px;
+            margin: 15px 0;
+            position: relative;
+            background: linear-gradient(45deg, #faf9f6 0%, #b8c5b8 1%, #faf9f6 2%, #faf9f6 100%);
+        }
+        
+        .hand-drawn-border::before {
+            content: '';
+            position: absolute;
+            top: -3px;
+            left: -3px;
+            right: -3px;
+            bottom: -3px;
+            border: 1px dashed #7a8a7a;
+            border-radius: 12px;
+            transform: rotate(0.3deg);
+        }
+        
+        h1 {
+            font-size: 28px;
+            color: #c77d5c;
+            text-align: center;
+            margin-bottom: 20px;
+            transform: rotate(-0.5deg);
+            text-shadow: 2px 2px 0px #faf9f6;
+        }
+        
+        h2 {
+            font-size: 22px;
+            color: #9cae9c;
+            margin: 20px 0 10px 0;
+            transform: rotate(0.2deg);
+            border-bottom: 2px wavy #9cae9c;
+        }
+        
+        h3 {
+            font-size: 18px;
+            color: #7a8a7a;
+            margin: 15px 0 8px 0;
+            transform: rotate(-0.1deg);
+        }
+        
+        .subtitle {
+            font-size: 16px;
+            color: #718096;
+            text-align: center;
+            margin-bottom: 15px;
+            font-style: italic;
+        }
+        
+        .daily-focus {
+            background: #f5f7f0;
+            border: 2px solid #9cae9c;
+            border-radius: 15px;
+            padding: 15px;
+            margin: 20px 0;
+            transform: rotate(-0.2deg);
+        }
+        
+        .daily-focus strong {
+            color: #7a8a7a;
+        }
+        
+        .separator {
+            text-align: center;
+            margin: 25px 0;
+            font-size: 24px;
+            color: #b8c5b8;
+            transform: rotate(0.1deg);
+        }
+        
+        .exercise-section {
+            margin: 25px 0;
+            padding: 20px;
+            background: #fdf8f0;
+            border: 2px solid #d4a574;
+            border-radius: 12px;
+            transform: rotate(0.15deg);
+        }
+        
+        .exercise-section h2 {
+            color: #c77d5c;
+            margin-top: 0;
+        }
+        
+        .fillable-line {
+            border-bottom: 2px dotted #718096;
+            display: inline-block;
+            min-width: 200px;
+            margin: 0 5px;
+            height: 20px;
+        }
+        
+        .fillable-box {
+            border: 2px dashed #b8c5b8;
+            border-radius: 8px;
+            padding: 40px 15px;
+            margin: 10px 0;
+            background: #faf9f6;
+            min-height: 80px;
+            position: relative;
+        }
+        
+        .commitment-box {
+            background: #f0f4f0;
+            border: 3px solid #9cae9c;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            transform: rotate(-0.1deg);
+        }
+        
+        .commitment-box h2 {
+            color: #7a8a7a;
+            margin-top: 0;
+        }
+        
+        .reflection-section {
+            background: #fdf8f0;
+            border: 2px solid #d4a574;
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+            transform: rotate(0.1deg);
+        }
+        
+        .courage-quote {
+            background: #f5f7f0;
+            border-left: 5px solid #9cae9c;
+            padding: 15px 20px;
+            margin: 20px 0;
+            font-style: italic;
+            font-size: 16px;
+            transform: rotate(-0.05deg);
+        }
+        
+        .step-number {
+            background: #9cae9c;
+            color: white;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin-right: 10px;
+            transform: rotate(5deg);
+        }
+        
+        .checklist-item {
+            margin: 10px 0;
+            display: flex;
+            align-items: center;
+        }
+        
+        .checklist-item input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            margin-right: 10px;
+            transform: rotate(-2deg);
+        }
+        
+        .doodle {
+            position: absolute;
+            opacity: 0.1;
+            z-index: -1;
+        }
+        
+        .doodle-star {
+            top: 100px;
+            right: 50px;
+            width: 30px;
+            height: 30px;
+            transform: rotate(15deg);
+        }
+        
+        .doodle-heart {
+            bottom: 100px;
+            left: 30px;
+            width: 25px;
+            height: 25px;
+            transform: rotate(-10deg);
+        }
+        
+        .page-footer {
+            position: absolute;
+            bottom: 20px;
+            right: 30px;
+            font-size: 12px;
+            color: #b8c5b8;
+            transform: rotate(1deg);
+        }
+        
+        ol, ul {
+            padding-left: 20px;
+            margin: 10px 0;
+        }
+        
+        li {
+            margin: 8px 0;
+        }
+        
+        strong {
+            color: #4a5568;
+        }
+        
+        em {
+            color: #718096;
+        }
+        
+        /* Slight hand-drawn effect for borders */
+        @keyframes wiggle {
+            0% { transform: rotate(0deg) translateX(0px); }
+            25% { transform: rotate(0.5deg) translateX(1px); }
+            50% { transform: rotate(-0.3deg) translateX(-1px); }
+            75% { transform: rotate(0.2deg) translateX(0px); }
+            100% { transform: rotate(0deg) translateX(0px); }
+        }
+        
+        .hand-drawn-border:hover {
+            animation: wiggle 0.5s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <div class="doodle doodle-star">
+            <img src="assets/star.svg" alt="star" width="30" height="30">
+        </div>
+        <div class="doodle doodle-heart">
+            <img src="assets/lightbulb.svg" alt="lightbulb" width="25" height="25">
+        </div>
+        
+        <h1>{{title}}</h1>
+        <div class="subtitle">{{subtitle}}</div>
+        
+        <div class="daily-focus">
+            <strong>Today's Focus:</strong> {{focus}}<br>
+            <strong>Time Commitment:</strong> {{time}}<br>
+            <strong>Core Exercise:</strong> {{exercise}}
+        </div>
+        
+        <div class="separator">───</div>
+        
+        <div class="exercise-section">
+            <h2>Morning Check-in (2 minutes)</h2>
+            
+            <p><strong>Daily Questions:</strong></p>
+            <ul>
+                <li>What am I avoiding today and what fear is driving it?</li>
+                <li>What is one small step I can take toward a feared task?</li>
+                <li>How can I show myself compassion around this challenge?</li>
+            </ul>
+            
+            <p><em>Write your responses here:</em></p>
+            <div class="fillable-box">
+                Fear I'm experiencing today: <span class="fillable-line"></span>
+                <br><br>
+                Avoided task: <span class="fillable-line"></span>
+                <br><br>
+                One small step: <span class="fillable-line"></span>
+            </div>
+        </div>
+        
+        <div class="separator">───</div>
+        
+        <div class="exercise-section">
+            <h2>Main Exercise: Fear Inventory (15 minutes)</h2>
+            
+            <p><strong>Purpose:</strong> Map the specific fears that fuel your procrastination patterns</p>
+            
+            <div class="step-section">
+                <h3><span class="step-number">1</span>Identify Your Current Avoidance (5 minutes)</h3>
+                <p>Think about tasks you've been putting off. List 3-5 specific items:</p>
+                
+                <ol>
+                    <li><span class="fillable-line"></span></li>
+                    <li><span class="fillable-line"></span></li>
+                    <li><span class="fillable-line"></span></li>
+                    <li><span class="fillable-line"></span></li>
+                    <li><span class="fillable-line"></span></li>
+                </ol>
+            </div>
+            
+            <div class="step-section">
+                <h3><span class="step-number">2</span>Dig Deeper Into the Fears (10 minutes)</h3>
+                <p>For each avoided task, complete this framework:</p>
+                
+                <div class="hand-drawn-border">
+                    <strong>Task:</strong> <span class="fillable-line"></span><br>
+                    <strong>What specifically am I afraid might happen?</strong>
+                    <ul>
+                        <li><span class="fillable-line"></span></li>
+                        <li><span class="fillable-line"></span></li>
+                    </ul>
+                    
+                    <strong>What would this mean about me if it happened?</strong>
+                    <div class="fillable-box"></div>
+                    
+                    <strong>How likely is this fear to actually occur? (1-10 scale)</strong> <span class="fillable-line"></span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="commitment-box">
+            <h2>Single Small Step Commitment (2 minutes)</h2>
+            
+            <p><strong>Purpose:</strong> Build momentum with minimal action</p>
+            
+            <p>Choose ONE tiny action (5 minutes or less) toward a feared task:</p>
+            
+            <strong>My commitment for today:</strong> <span class="fillable-line"></span><br><br>
+            
+            <strong>When I will do it:</strong> <span class="fillable-line"></span><br><br>
+            
+            <strong>How I expect to feel before:</strong> <span class="fillable-line"></span>
+        </div>
+        
+        <div class="reflection-section">
+            <h2>Evening Reflection (1 minute)</h2>
+            
+            <div class="checklist-item">
+                <input type="checkbox"> <strong>Did you complete your small step?</strong> Yes / No
+            </div>
+            
+            <p><strong>How did you actually feel during/after?</strong> <span class="fillable-line"></span></p>
+            
+            <p><strong>What did you learn about your fear today?</strong></p>
+            <div class="fillable-box"></div>
+        </div>
+        
+        <div class="separator">───</div>
+        
+        <h2>Tomorrow's Preparation</h2>
+        <p>Tomorrow we'll start tracking how your emotions connect to your avoidance patterns. Keep your fear inventory handy as a reference.</p>
+        
+        <div class="courage-quote">
+            <strong>Courage Building Thought:</strong><br>
+            <em>"Every fear I name loses some of its power over me. I am building awareness, not judgment."</em>
+        </div>
+        
+        <div class="page-footer">
+            Day 1 - Avoidance Procrastinator Workbook
+        </div>
+    </div>
+</body>
+</html>
