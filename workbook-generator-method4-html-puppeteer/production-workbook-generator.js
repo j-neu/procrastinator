@@ -364,29 +364,47 @@ class ProductionWorkbookGenerator {
                     box-sizing: border-box;
                     page-break-after: always;
                     position: relative;
-                    border: 3px solid #9cae9c;
-                    border-radius: 15px;
                     background: white;
                     display: flex;
                     flex-direction: column;
+                }
+                
+                .page::after {
+                    content: '';
+                    position: absolute;
+                    top: 15px;
+                    left: 15px;
+                    right: 15px;
+                    bottom: 15px;
+                    border: 3px solid #9cae9c;
+                    border-radius: 15px;
+                    z-index: 1000;
+                    pointer-events: none;
+                    transform: rotate(-0.1deg);
+                    box-shadow: inset 0 0 0 1px rgba(156, 174, 156, 0.3);
+                }
+                
+                /* Add a second hand-drawn border layer for more sketchy effect */
+                .page::before {
+                    content: '';
+                    position: absolute;
+                    top: 16px;
+                    left: 14px;
+                    right: 16px;
+                    bottom: 14px;
+                    border: 2px solid rgba(156, 174, 156, 0.6);
+                    border-radius: 12px;
+                    z-index: 999;
+                    pointer-events: none;
+                    transform: rotate(0.15deg);
+                    border-style: dashed;
+                    border-dash-array: 5px 3px;
                 }
                 
                 .page:last-child {
                     page-break-after: auto;
                 }
                 
-                .page::before {
-                    content: '';
-                    position: absolute;
-                    top: -2px;
-                    left: -2px;
-                    right: -2px;
-                    bottom: -2px;
-                    border: 2px solid #c77d5c;
-                    border-radius: 18px;
-                    z-index: -1;
-                    transform: rotate(-0.2deg);
-                }
                 
                 /* Section containers with perfect break handling */
                 .section {
