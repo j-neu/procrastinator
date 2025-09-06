@@ -184,6 +184,21 @@
             min-width: 200px;
             margin: 0 5px;
             height: 20px;
+            flex: 1;
+        }
+        
+        /* Special class for lines that should extend to fill available space */
+        .fillable-line.extend-to-end {
+            flex: 1;
+            width: auto;
+            min-width: 100px;
+            max-width: 100%;
+        }
+        
+        /* Container for extending lines */
+        .extend-line-container {
+            display: flex;
+            align-items: baseline;
         }
         
         .fillable-box {
@@ -350,11 +365,11 @@
             
             <p><em>Write your responses here:</em></p>
             <div class="fillable-box">
-                Fear I'm experiencing today: <span class="fillable-line"></span>
+                <div class="extend-line-container">Fear I'm experiencing today: <span class="fillable-line extend-to-end"></span></div>
                 <br><br>
-                Avoided task: <span class="fillable-line"></span>
+                <div class="extend-line-container">Avoided task: <span class="fillable-line extend-to-end"></span></div>
                 <br><br>
-                One small step: <span class="fillable-line"></span>
+                <div class="extend-line-container">One small step: <span class="fillable-line extend-to-end"></span></div>
             </div>
         </div>
         
@@ -370,11 +385,11 @@
                 <p>Think about tasks you've been putting off. List 3-5 specific items:</p>
                 
                 <ol>
-                    <li><span class="fillable-line"></span></li>
-                    <li><span class="fillable-line"></span></li>
-                    <li><span class="fillable-line"></span></li>
-                    <li><span class="fillable-line"></span></li>
-                    <li><span class="fillable-line"></span></li>
+                    <li><span class="fillable-line extend-to-end"></span></li>
+                    <li><span class="fillable-line extend-to-end"></span></li>
+                    <li><span class="fillable-line extend-to-end"></span></li>
+                    <li><span class="fillable-line extend-to-end"></span></li>
+                    <li><span class="fillable-line extend-to-end"></span></li>
                 </ol>
             </div>
             
@@ -383,17 +398,17 @@
                 <p>For each avoided task, complete this framework:</p>
                 
                 <div class="hand-drawn-border">
-                    <strong>Task:</strong> <span class="fillable-line"></span><br>
+                    <div class="extend-line-container"><strong>Task:</strong> <span class="fillable-line extend-to-end"></span></div><br>
                     <strong>What specifically am I afraid might happen?</strong>
                     <ul>
-                        <li><span class="fillable-line"></span></li>
-                        <li><span class="fillable-line"></span></li>
+                        <li><span class="fillable-line extend-to-end"></span></li>
+                        <li><span class="fillable-line extend-to-end"></span></li>
                     </ul>
                     
                     <strong>What would this mean about me if it happened?</strong>
                     <div class="fillable-box"></div>
                     
-                    <strong>How likely is this fear to actually occur? (1-10 scale)</strong> <span class="fillable-line"></span>
+                    <div class="extend-line-container"><strong>How likely is this fear to actually occur? (1-10 scale)</strong> <span class="fillable-line extend-to-end"></span></div>
                 </div>
             </div>
         </div>
@@ -405,11 +420,11 @@
             
             <p>Choose ONE tiny action (5 minutes or less) toward a feared task:</p>
             
-            <strong>My commitment for today:</strong> <span class="fillable-line"></span><br><br>
+            <div class="extend-line-container"><strong>My commitment for today:</strong> <span class="fillable-line extend-to-end"></span></div><br><br>
             
-            <strong>When I will do it:</strong> <span class="fillable-line"></span><br><br>
+            <div class="extend-line-container"><strong>When I will do it:</strong> <span class="fillable-line extend-to-end"></span></div><br><br>
             
-            <strong>How I expect to feel before:</strong> <span class="fillable-line"></span>
+            <div class="extend-line-container"><strong>How I expect to feel before:</strong> <span class="fillable-line extend-to-end"></span></div>
         </div>
         
         <div class="reflection-section">
@@ -419,7 +434,7 @@
                 <input type="checkbox"> <strong>Did you complete your small step?</strong> Yes / No
             </div>
             
-            <p><strong>How did you actually feel during/after?</strong> <span class="fillable-line"></span></p>
+            <div class="extend-line-container"><p><strong>How did you actually feel during/after?</strong> <span class="fillable-line extend-to-end"></span></p></div>
             
             <p><strong>What did you learn about your fear today?</strong></p>
             <div class="fillable-box"></div>

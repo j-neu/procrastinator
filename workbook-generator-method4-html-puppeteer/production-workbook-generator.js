@@ -471,6 +471,21 @@ class ProductionWorkbookGenerator {
                     page-break-inside: avoid;
                 }
                 
+                /* Fillable lines that should extend to fill available space */
+                .fillable-line.extend-full {
+                    width: calc(100% - 4pt);
+                    display: block;
+                    margin: 1pt 0;
+                }
+                
+                /* Container-based extension for standalone lines */
+                .response-item .fillable-line:only-child,
+                .response-item .fillable-line:last-child {
+                    min-width: 150pt;
+                    flex: 1;
+                    max-width: calc(100% - 10pt);
+                }
+                
                 .fillable-area {
                     border: 2px dashed #b8c5b8;
                     border-radius: 6px;
@@ -632,7 +647,13 @@ class ProductionWorkbookGenerator {
                     display: flex;
                     align-items: center;
                     gap: 2mm;
-                    flex-wrap: wrap;
+                    flex-wrap: nowrap;
+                    width: 100%;
+                }
+                
+                .response-item strong {
+                    flex-shrink: 0;
+                    white-space: nowrap;
                 }
                 
                 /* Print optimization */
