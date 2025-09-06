@@ -8,16 +8,22 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I putting off until pressure builds?
-- What level of pressure energizes vs. overwhelms me?
-- How can I honor my natural rhythms while meeting commitments?
+**Daily Questions:** *(These questions help you understand your pressure patterns. You don't need pressure to be "bad" - you need to understand when and how it serves your best work.)*
+
+- **What task am I putting off until pressure builds?**  
+  *(Think of something you know you should start but haven't. This isn't procrastination if you're waiting for optimal timing - but notice what "optimal" means to you.)*
+
+- **What level of pressure energizes vs. overwhelms me?**  
+  *(Pressure can feel like excitement, focus, or urgency. Too little feels boring, too much feels panicked. Where's your sweet spot?)*
+
+- **How can I honor my natural rhythms while meeting commitments?**  
+  *(How can you work with your pressure needs instead of fighting them, while still being reliable to others?)*
 
 *Write your responses here:*
 ```
 Task I'm delaying: ____________________
 
-Pressure level I prefer (1-10): ____________________
+Pressure level I prefer (1-10): ____ *(1=no urgency, 5=moderate deadlines, 10=crisis mode)*
 
 My energy feels: ____________________
 ```
@@ -28,22 +34,24 @@ My energy feels: ____________________
 
 **Purpose:** Understand your unique pressure-performance relationship
 
+**What is "Pressure Pattern Analysis"?** This means looking at when you do your best work. Arousal procrastinators (sometimes called "thrill seekers") often genuinely perform better under time pressure or when stakes feel higher. This isn't a flaw - it's a performance pattern that can be optimized.
+
 ### Step 1: Pressure Performance History (7 minutes)
 Think about your best work experiences. List 3-5 specific achievements:
 
 **Achievement:** ____________________
 **Timeline pressure:** High / Medium / Low
-**Quality of outcome:** ____________________
+**Quality of outcome (1-10):** ____ *(1=poor result, 5=acceptable, 10=excellent)*
 **How you felt during:** ____________________
 
 **Achievement:** ____________________
 **Timeline pressure:** High / Medium / Low  
-**Quality of outcome:** ____________________
+**Quality of outcome (1-10):** ____ *(1=poor result, 5=acceptable, 10=excellent)*
 **How you felt during:** ____________________
 
 **Achievement:** ____________________
 **Timeline pressure:** High / Medium / Low
-**Quality of outcome:** ____________________
+**Quality of outcome (1-10):** ____ *(1=poor result, 5=acceptable, 10=excellent)*
 **How you felt during:** ____________________
 
 ### Step 2: Optimal Pressure Zone Identification (5 minutes)
@@ -82,9 +90,9 @@ Choose ONE task you've been avoiding because it lacks urgency:
 **Task:** ____________________
 
 **Artificial pressure I'll create:**
-□ Set a timer for ____ minutes
-□ Schedule it right before something important
-□ Tell someone I'll complete it by ____
+□ Set a timer for ____ minutes *(Example: "I'll work on this report for exactly 45 minutes, then stop")*
+□ Schedule it right before something important *(Example: "I'll do this task right before my 3pm meeting when I know I'll be focused")*
+□ Tell someone I'll complete it by ____ *(Example: "I'll text my colleague that I'll send the draft by tomorrow at noon")*
 □ Other: ____________________
 
 **When I'll try this:** ____________________

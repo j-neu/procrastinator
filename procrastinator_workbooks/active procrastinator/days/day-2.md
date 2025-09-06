@@ -21,7 +21,7 @@
 
 ## Understanding Your Energy-Pressure Connection (3 minutes)
 
-Active procrastinators often have sophisticated internal timing systems that align pressure with natural energy peaks. Most people don't understand this connection.
+**What is "energy architecture"?** Your energy architecture is your personal pattern of when you feel most alert, focused, and capable throughout the day. Active procrastinators often have sophisticated internal timing systems that align pressure with natural energy peaks. Most people don't understand this connection.
 
 **Reflect on yesterday's pressure assessment:**
 What pressure level did you identify as optimal? ____
@@ -35,10 +35,10 @@ How does your energy throughout the day affect your ability to handle pressure p
 
 ### Step 1: Daily Energy Mapping (5 minutes)
 
-**Map your typical energy patterns:**
+**Map your typical energy patterns:** *(1=sluggish/tired, 5=normal, 10=peak alertness)*
 
 **6-9 AM:** Energy Level (1-10): ____ | Best for: ____________________
-**9-12 PM:** Energy Level (1-10): ____ | Best for: ____________________
+**9 AM-12 noon:** Energy Level (1-10): ____ | Best for: ____________________
 **12-3 PM:** Energy Level (1-10): ____ | Best for: ____________________
 **3-6 PM:** Energy Level (1-10): ____ | Best for: ____________________
 **6-9 PM:** Energy Level (1-10): ____ | Best for: ____________________
@@ -50,7 +50,7 @@ Secondary: ____________________
 
 ### Step 2: Pressure-Performance Sweet Spot (4 minutes)
 
-**For each energy period, rate your pressure tolerance:**
+**For each energy period, rate your pressure tolerance:** *(Think about how well you perform in these combinations. 1=terrible work, 5=okay work, 10=your best work)*
 
 **High Energy + High Pressure:** Performance Quality (1-10): ____
 **High Energy + Medium Pressure:** Performance Quality (1-10): ____

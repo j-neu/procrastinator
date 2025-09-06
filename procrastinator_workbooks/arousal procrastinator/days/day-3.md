@@ -8,10 +8,16 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I putting off until pressure builds?
-- What level of pressure energizes vs. overwhelms me?
-- How can I honor my natural rhythms while meeting commitments?
+**Daily Questions:** *(These questions help you understand your pressure patterns. You don't need pressure to be "bad" - you need to understand when and how it serves your best work.)*
+
+- **What task am I putting off until pressure builds?**  
+  *(Think of something you know you should start but haven't. This isn't procrastination if you're waiting for optimal timing - but notice what "optimal" means to you.)*
+
+- **What level of pressure energizes vs. overwhelms me?**  
+  *(Pressure can feel like excitement, focus, or urgency. Too little feels boring, too much feels panicked. Where's your sweet spot?)*
+
+- **How can I honor my natural rhythms while meeting commitments?**  
+  *(How can you work with your pressure needs instead of fighting them, while still being reliable to others?)*
 
 *Urgency system check:*
 **How effective was your pressure creation technique yesterday?** ____________________

@@ -8,10 +8,16 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What decision am I avoiding today and why is it difficult?
-- What is one small choice I can make confidently?
-- How can I show myself patience with my decision-making process?
+**Daily Questions:** *(These questions help you understand your decision-making patterns. Many decisional procrastinators feel stuck because they want to make the "perfect" choice - but remember, good decisions are often better than perfect ones.)*
+
+- **What decision am I avoiding today and why is it difficult?**  
+  *(Think of a specific choice you need to make but haven't. The difficulty might be too many options, fear of choosing wrong, or wanting more information before deciding.)*
+
+- **What is one small choice I can make confidently?**  
+  *(Pick something small and relatively low-stakes. Decision-making is a skill that gets stronger with practice, so start with easier choices.)*
+
+- **How can I show myself patience with my decision-making process?**  
+  *(Remember that learning to decide with incomplete information takes practice. What would you say to a friend learning this skill?)*
 
 *Good enough progress check:*
 **Have you been able to apply "good enough" thinking to any decisions?** ____________________

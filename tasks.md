@@ -118,7 +118,12 @@
 - [x] ✅ **COMPLETED**: Create 31-day structured program for Avoidance Procrastinators
 - [x] ✅ **COMPLETED**: Write introductory guide for Avoidance workbook
 - [x] ✅ **COMPLETED**: Develop progress tracking systems (daily check-ins, courage journal, weekly reviews)
-- [ ] ✍️ Create 30-day structured programs for remaining 6 types
+- [x] ✅ **COMPLETED**: Create 31-day structured program for Active Procrastinators
+- [x] ✅ **COMPLETED**: Write introductory guide for Active workbook
+- [x] 🚨 **HIGH PRIORITY**: Apply clarity improvements to the first 5 days of all workbooks (daily questions, terminology, examples)
+- [x] ✅ **COMPLETED**: Create 31-day structured program for Passive Procrastinators
+- [x] ✅ **COMPLETED**: Write introductory guide for Passive workbook
+- [x] ✍️ Create 30-day structured programs for remaining 5 types
 - [ ] ✍️ Design printable worksheets and templates
 - [ ] ✍️ Create habit formation and accountability systems for other types
 

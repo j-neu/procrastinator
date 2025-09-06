@@ -8,10 +8,16 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I avoiding due to feeling overwhelmed or disorganized?
-- What is one small organizational step I can take today?
-- How can I approach this with curiosity rather than judgment?
+**Daily Questions:** *(These questions help you understand your disorganization patterns. Passive procrastination often happens when life feels chaotic or you lack systems. Remember: organization is a learnable skill, not a personality trait.)*
+
+- **What task am I avoiding due to feeling overwhelmed or disorganized?**  
+  *(Think of something specific you've put off because it feels too complicated, you don't know where to start, or your environment feels too chaotic to focus.)*
+
+- **What is one small organizational step I can take today?**  
+  *(This could be as simple as clearing one small area, writing down one task, or setting up one folder. The goal is to create a tiny bit more order in your life.)*
+
+- **How can I approach this with curiosity rather than judgment?**  
+  *(Instead of criticizing yourself for being "messy" or "disorganized," try to observe your patterns with interest. What would you say to a friend learning to get organized?)*
 
 *Planning system check-in:*
 **How did yesterday's 3-2-1 planning work for you?** ____________________

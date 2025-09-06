@@ -8,10 +8,16 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What emotions am I experiencing around my avoided tasks today?
-- What is one small step I can take despite these feelings?
-- How can I show myself compassion around my emotional experience?
+**Daily Questions:** *(These questions help you understand your emotional patterns. Emotion-regulation procrastination happens when you delay tasks to avoid uncomfortable feelings. Remember: emotions are temporary, but the relief from avoiding them is also temporary.)*
+
+- **What emotions am I experiencing around my avoided tasks today?**  
+  *(Notice what you feel when you think about specific tasks - anxiety, boredom, frustration, overwhelm, fear, anger, sadness. Sometimes it's a mix of feelings.)*
+
+- **What is one small step I can take despite these feelings?**  
+  *(Choose something so small that you can do it even while feeling uncomfortable. You don't need to feel good to take action.)*
+
+- **How can I show myself compassion around my emotional experience?**  
+  *(Your feelings make sense given your situation and history. What would you say to a friend experiencing these same emotions?)*
 
 *Reflect on yesterday's emotional trigger inventory:*
 **What pattern did I notice in my emotional avoidance?** ____________________

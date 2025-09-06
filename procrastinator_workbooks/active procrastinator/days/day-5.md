@@ -40,6 +40,8 @@ What you learned: ____________________
 
 **What could go wrong with your strategic delay approach?**
 
+**What is a "vulnerability"?** A vulnerability is any factor that could disrupt your normal ability to perform well under pressure. Think of these as potential weak points in your system.
+
 **Personal vulnerabilities:**
 □ Health/energy unpredictability
 □ Perfectionism paralyzing progress
@@ -85,6 +87,8 @@ What you learned: ____________________
 
 **Design a system for when you need to override your natural delay:**
 
+**What is a "quick-start protocol"?** This is your step-by-step plan for when you need to begin work immediately, even though it doesn't feel like the right time. Think of it as your emergency procedure.
+
 **Emergency Start Procedure:**
 1. ____________________
 2. ____________________
@@ -92,9 +96,9 @@ What you learned: ____________________
 4. ____________________
 5. ____________________
 
-**Quick progress method:** ____________________
-**Minimum viable outcome:** ____________________
-**Help sources:** ____________________
+**Quick progress method:** ____________________ *(How will you make fast progress when starting feels hard?)*
+**Minimum viable outcome:** ____________________ *(What's the smallest acceptable result?)*
+**Help sources:** ____________________ *(Who can you call for assistance?)*
 
 ---
 

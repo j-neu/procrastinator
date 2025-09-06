@@ -148,6 +148,9 @@ node generate-all.js --output=../final-workbooks/
 - [ ] Print test on physical paper
 - [ ] Visual inspection of hand-drawn styling
 - [ ] Content accuracy and formatting
+- [ ] **User Clarity Check**: All daily questions, terminology, and exercises clear for novice users
+- [ ] **Example Quality**: All techniques include specific, concrete examples
+- [ ] **Rating Scale Definitions**: All 1-10 scales include explanatory text
 - [ ] Interactive element positioning
 - [ ] **Fillable area integrity**: All text boxes complete and usable
 - [ ] **2-page layout consistency**: Proper content distribution
@@ -205,6 +208,8 @@ final-workbooks/
 - [x] ✅ Documentation updated
 
 ### Short-term (Weeks 2-4)
+- [ ] 🚨 **URGENT**: Apply clarity improvements to Avoidance Procrastinator workbook
+- [ ] 🚨 **URGENT**: Apply clarity improvements to all remaining workbooks before generation
 - [ ] Create content processing scripts for remaining 6 types
 - [ ] Build batch generation pipeline
 - [ ] Develop quality assurance automation

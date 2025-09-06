@@ -8,10 +8,16 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I strategically delaying and why might this be optimal timing?
-- What's my current energy/pressure level for peak performance?
-- How can I honor my natural work style today?
+**Daily Questions:** *(These questions help you tune into your natural patterns. Don't worry if they feel unclear at first - they'll make more sense as you progress.)*
+
+- **What task am I strategically delaying and why might this be optimal timing?**  
+  *(Think of something you need to do but haven't started yet. "Optimal timing" means waiting until conditions feel right for your best work - maybe you need more information, better energy, or closer deadline pressure.)*
+
+- **What's my current energy/pressure level for peak performance?**  
+  *(How alert do you feel right now? How much urgency do you sense? Active procrastinators often perform best when these align with their task needs.)*
+
+- **How can I honor my natural work style today?**  
+  *(Instead of forcing yourself to work like others, how can you work in a way that feels natural to you - whether that's waiting for pressure, working in bursts, or timing tasks with your energy?)*
 
 *Write your responses here:*
 ```
@@ -28,32 +34,34 @@ My current pressure/energy assessment: ____________________
 
 **Purpose:** Understand when your delay patterns serve you vs. when they might need adjustment
 
+**What is "strategic delay"?** Strategic delay means you intentionally wait to start a task because you know you'll perform better under pressure, have better information later, or can work more efficiently when the timing is right. This is different from procrastination caused by fear, anxiety, or disorganization.
+
 ### Step 1: Recent Success Analysis (7 minutes)
 Think of 3 recent tasks where you delayed and achieved good results:
 
 **Task 1:** ____________________
 **When you started:** ____________________
 **Why you waited:** ____________________
-**Quality of outcome (1-10):** ____
-**Stress level during work (1-10):** ____
+**Quality of outcome (1-10):** ____ *(1=terrible result, 5=acceptable, 10=excellent)*
+**Stress level during work (1-10):** ____ *(1=completely calm, 5=energized, 10=overwhelming)*
 
 **Task 2:** ____________________
 **When you started:** ____________________
 **Why you waited:** ____________________
-**Quality of outcome (1-10):** ____
-**Stress level during work (1-10):** ____
+**Quality of outcome (1-10):** ____ *(1=terrible result, 5=acceptable, 10=excellent)*
+**Stress level during work (1-10):** ____ *(1=completely calm, 5=energized, 10=overwhelming)*
 
 **Task 3:** ____________________
 **When you started:** ____________________
 **Why you waited:** ____________________
-**Quality of outcome (1-10):** ____
-**Stress level during work (1-10):** ____
+**Quality of outcome (1-10):** ____ *(1=terrible result, 5=acceptable, 10=excellent)*
+**Stress level during work (1-10):** ____ *(1=completely calm, 5=energized, 10=overwhelming)*
 
 ### Step 2: Pattern Recognition (5 minutes)
 
 **What do your most successful delays have in common?**
 - Time of day you prefer to work: ____________________
-- Optimal pressure level (1-10): ____________________
+- Optimal pressure level (1-10): ____ *(1=no pressure, 5=moderate urgency, 10=extreme deadline stress)*
 - Type of tasks that benefit most from delay: ____________________
 - Environmental conditions that help: ____________________
 

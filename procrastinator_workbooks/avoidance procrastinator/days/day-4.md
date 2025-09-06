@@ -8,10 +8,16 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What am I avoiding today and what fear is driving it?
-- What is one small step I can take toward a feared task?
-- How can I show myself compassion around this challenge?
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
+
+- **What am I avoiding today and what fear is driving it?**  
+  *(Think of a specific task you've been putting off. The "fear" might be obvious (fear of failure) or subtle (fear of not doing it perfectly, fear of judgment, fear of success).)*
+
+- **What is one small step I can take toward a feared task?**  
+  *(This should be something so small it feels almost silly - like opening a document, writing one sentence, or just gathering materials. The goal is movement, not completion.)*
+
+- **How can I show myself compassion around this challenge?**  
+  *(What would you say to a good friend facing the same struggle? Offer yourself that same kindness and understanding.)*
 
 *Yesterday's pattern insights:*
 **What did you notice from tracking your mood/energy/procrastination?**

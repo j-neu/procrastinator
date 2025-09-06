@@ -8,10 +8,16 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What am I avoiding today and what fear is driving it?
-- What is one small step I can take toward a feared task?
-- How can I show myself compassion around this challenge?
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
+
+- **What am I avoiding today and what fear is driving it?**  
+  *(Think of a specific task you've been putting off. The "fear" might be obvious (fear of failure) or subtle (fear of not doing it perfectly, fear of judgment, fear of success).)*
+
+- **What is one small step I can take toward a feared task?**  
+  *(This should be something so small it feels almost silly - like opening a document, writing one sentence, or just gathering materials. The goal is movement, not completion.)*
+
+- **How can I show myself compassion around this challenge?**  
+  *(What would you say to a good friend facing the same struggle? Offer yourself that same kindness and understanding.)*
 
 *Write your responses here:*
 ```
@@ -27,6 +33,8 @@ One small step: ____________________
 ## Main Exercise: Fear Inventory (15 minutes)
 
 **Purpose:** Map the specific fears that fuel your procrastination patterns
+
+**What is a "Fear Inventory"?** A fear inventory is simply a list of the specific worries, concerns, and "what if" thoughts that make you want to avoid certain tasks. Once you name these fears clearly, they often feel less overwhelming and you can address them more logically.
 
 ### Step 1: Identify Your Current Avoidance (5 minutes)
 Think about tasks you've been putting off. List 3-5 specific items:
@@ -48,7 +56,7 @@ For each avoided task, complete this framework:
 **What would this mean about me if it happened?**
 - ____________________
 
-**How likely is this fear to actually occur? (1-10 scale)** ____
+**How likely is this fear to actually occur? (1-10 scale)** ____ *(1=almost impossible, 5=might happen, 10=definitely will happen)*
 
 **Task:** ____________________
 **What specifically am I afraid might happen?**
@@ -58,7 +66,7 @@ For each avoided task, complete this framework:
 **What would this mean about me if it happened?**
 - ____________________
 
-**How likely is this fear to actually occur? (1-10 scale)** ____
+**How likely is this fear to actually occur? (1-10 scale)** ____ *(1=almost impossible, 5=might happen, 10=definitely will happen)*
 
 ---
 
