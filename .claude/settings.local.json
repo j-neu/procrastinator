@@ -30,7 +30,10 @@
       "Bash(start \"\" \"C:\\Users\\jakob\\Documents\\Cursor projects\\procrastinator\\workbook-generator-method4-html-puppeteer\\test-day-1.pdf\")",
       "Bash(copy openmoji-svg-black1F31F.svg workbook-generator-method4-html-puppeteerassetsstar.svg)",
       "Bash(start \"\" \"C:\\Users\\jakob\\Documents\\Cursor projects\\procrastinator\\workbook-generator-method4-html-puppeteer\\PRODUCTION-WORKBOOK.pdf\")",
-      "Bash(start \"\" \"C:\\Users\\jakob\\Documents\\Cursor projects\\procrastinator\\workbook-generator-method4-html-puppeteer\\active-day-1.pdf\")"
+      "Bash(start \"\" \"C:\\Users\\jakob\\Documents\\Cursor projects\\procrastinator\\workbook-generator-method4-html-puppeteer\\active-day-1.pdf\")",
+      "Bash(del generator.js generator-a5-optimized.js generator-final-clean.js generator-improved.js generator-reliable-font.js adaptive-layout-generator.js final-balanced.js optimal-two-page-generator.js smart-page-generator.js space-optimized-generator.js two-page-generator.js)",
+      "Bash(touch:*)",
+      "Bash(start:*)"
     ],
     "deny": [],
     "ask": []

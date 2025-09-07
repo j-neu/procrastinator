@@ -1,8 +1,14 @@
 # Production Pipeline: Workbook Generation
 
+## ⚠️ CRITICAL: ZERO HARDCODING POLICY ⚠️
+
+**ALL WORKBOOK CONTENT MUST COME FROM MARKDOWN FILES**
+
+The production pipeline MUST read 100% of content from `.md` files in `procrastinator_workbooks/`. NO text, questions, exercises, or content should be hardcoded in generator files.
+
 ## ⭐ Final Method: HTML/CSS + Puppeteer
 
-After testing 4 different approaches, **Method 4 (HTML/CSS + Puppeteer)** has been selected as our production method for generating professional workbook PDFs.
+After testing 4 different approaches, **Method 4 (HTML/CSS + Puppeteer)** has been selected as our production method for generating professional workbook PDFs from markdown source files.
 
 ### Why Method 4 Was Chosen
 
@@ -16,19 +22,21 @@ After testing 4 different approaches, **Method 4 (HTML/CSS + Puppeteer)** has be
 | **Authenticity** | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | **⭐⭐⭐⭐⭐** |
 
 **Key Advantages:**
+- **100% Markdown-Driven**: ALL content dynamically read from `.md` files, zero hardcoding
 - **Professional PDF Quality**: Vector-based text, crisp rendering at any zoom level
 - **Web Design Flexibility**: Full CSS capabilities including fonts, animations, gradients
 - **Hand-drawn Authenticity**: Kalam font + CSS transformations create genuine sketch feel
-- **Template System**: Easy content management with `{{variable}}` replacements
+- **Dynamic Content System**: Full markdown parsing and content extraction
 - **Print Optimization**: Proper margins, Letter format, high-resolution output
 - **Development Experience**: Familiar HTML/CSS workflow, fast iteration
 
 ## Production Workflow
 
-### 1. Content Creation
+### 1. Content Creation (Zero Hardcoding)
 ```
-Markdown Content → Template Variables → HTML Generation → PDF Export
+Markdown Source Files (.md) → Dynamic Parsing → Content Extraction → HTML Generation → PDF Export
 ```
+**CRITICAL**: All content flows from `.md` files. No hardcoded text allowed.
 
 ### 2. File Structure
 ```
@@ -57,12 +65,15 @@ npm install puppeteer
 - Extract template variables: `{{title}}`, `{{focus}}`, `{{exercise}}`, etc.
 - Organize content by procrastination type and day
 
-#### Step 3: PDF Generation
+#### Step 3: PDF Generation (From Markdown Files)
 ```bash
-node generator.js --type=avoidance --days=1-31
-# or
-node generator.js --single day-1-avoidance.md
+# Generate from specific markdown file
+node production-workbook-generator.js "../procrastinator_workbooks/active procrastinator/days/day-1.md" "output.pdf"
+
+# Generate with default day-1.md
+node production-workbook-generator.js
 ```
+**ZERO HARDCODING**: All content comes from the specified `.md` file
 
 #### Step 4: Quality Control
 - Visual inspection of generated PDFs

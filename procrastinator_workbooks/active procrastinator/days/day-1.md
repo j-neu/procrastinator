@@ -19,6 +19,7 @@
 - **How can I honor my natural work style today?**  
   *(Instead of forcing yourself to work like others, how can you work in a way that feels natural to you - whether that's waiting for pressure, working in bursts, or timing tasks with your energy?)*
 
+
 *Write your responses here:*
 ```
 Task I'm strategically delaying: ____________________
