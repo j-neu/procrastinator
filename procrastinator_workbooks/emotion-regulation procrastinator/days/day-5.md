@@ -1,125 +1,116 @@
-# Day 5: Rewriting Emotional Stories - Changing Your Inner Narrative
+# Day 5: Breaking Personal Tasks into Manageable Pieces
 
-**Today's Focus:** Transform unhelpful stories about emotions that fuel avoidance
-**Time Commitment:** 20 minutes
-**Core Exercise:** Narrative Reframe Practice
+**Today's Focus:** Transform overwhelming personal tasks into emotionally manageable steps
+**Time Commitment:** 15 minutes
+**Core Exercise:** Task Breakdown Practice
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand your emotional patterns. Emotion-regulation procrastination happens when you delay tasks to avoid uncomfortable feelings. Remember: emotions are temporary, but the relief from avoiding them is also temporary.)*
+**Daily Questions:** *(These questions help you understand your personal task patterns. Remember: big tasks feel overwhelming, but small steps feel manageable.)*
 
-- **What emotions am I experiencing around my avoided tasks today?**  
-  *(Notice what you feel when you think about specific tasks - anxiety, boredom, frustration, overwhelm, fear, anger, sadness. Sometimes it's a mix of feelings.)*
+- **What emotions am I experiencing around my personal tasks today?**  
+  *(Notice what you feel when you think about specific daily tasks - anxiety, boredom, frustration, overwhelm, fear, or irritation.)*
 
-- **What is one small step I can take despite these feelings?**  
-  *(Choose something so small that you can do it even while feeling uncomfortable. You don't need to feel good to take action.)*
+- **What is one tiny step I can take despite these feelings?**  
+  *(Choose the smallest possible step - like gathering materials or opening one email.)*
 
-- **How can I show myself compassion around my emotional experience?**  
-  *(Your feelings make sense given your situation and history. What would you say to a friend experiencing these same emotions?)*
+- **How can I be patient with myself as I learn to break tasks down?**  
+  *(Learning new habits takes time. How would you encourage a friend who's practicing this skill?)*
 
-*Urge surfing reflection:*
-**What did you notice about emotional waves yesterday?** ____________________
-**How did it feel to act while experiencing difficult emotions?** ____________________
-
----
-
-## Understanding Emotional Stories (4 minutes)
-
-We don't just experience emotions - we tell ourselves stories about what those emotions mean. These stories often drive more avoidance than the emotions themselves.
-
-### Common Unhelpful Emotional Stories:
-- "If I feel anxious, something bad will happen"
-- "I shouldn't feel frustrated about this"
-- "These emotions mean I'm not capable"
-- "I need to wait until I feel motivated"
-- "Feeling overwhelmed means I should stop"
-- "I'm too sensitive/emotional"
-
-### More Helpful Emotional Stories:
-- "Anxiety often comes with important tasks"
-- "Frustration shows I care about doing this well"
-- "Emotions are information, not predictions"
-- "I can act regardless of my emotional state"
-- "Overwhelm means this matters to me"
-- "My emotional sensitivity is a strength"
+*Safety setup reflection:*
+**What safety elements helped you most yesterday?** ____________________
+**How did creating safety change your experience with the task?** ____________________
 
 ---
 
-## Main Exercise: Story Archaeology and Rewriting (11 minutes)
+## Understanding Task Overwhelm (3 minutes)
 
-### Step 1: Identify Your Emotional Stories (4 minutes)
-**Think about a task you've been avoiding. What story do you tell yourself about the emotions it brings up?**
+Often, we avoid personal tasks not because they're actually difficult, but because they feel too big or undefined. When your brain can't see the specific steps, it feels overwhelming and triggers avoidance emotions.
 
-**Avoided task:** ____________________
-**Emotion it triggers:** ____________________
+### Why Tasks Feel Overwhelming:
+- **Too vague:** "Clean the house" vs. "Put dirty dishes in dishwasher"
+- **Too big:** "Get finances organized" vs. "Gather receipts from one drawer"
+- **Too many steps:** "Plan the move" vs. "Research one moving company"
+- **No clear start:** "Deal with paperwork" vs. "Open the first envelope"
+- **No end point:** "Organize office" vs. "Clear off desk surface"
 
-**Complete these sentences with your current story:**
-"When I feel ______________________, it means ______________________"
-
-"If I experience ______________________ while working, I should ______________________"
-
-"People who feel ______________________ about tasks like this are ______________________"
-
-"The right way to handle ______________________ is to ______________________"
-
-### Step 2: Examine the Story's Impact (3 minutes)
-**How does this story affect your behavior?**
-"Because I believe this story, I tend to ______________________"
-
-**Where did this story come from?**
-"I first learned this story when ______________________"
-
-**Who in your life modeled this story?** ______________________
-
-**Rate how helpful this story is (1-10):** ____
-**Rate how true this story feels (1-10):** ____
-
-### Step 3: Rewrite Your Story (4 minutes)
-**Create a more helpful narrative about the same emotion:**
-
-**New story version 1:**
-"When I feel ______________________, it actually means ______________________"
-
-**New story version 2:**
-"If I experience ______________________ while working, I can ______________________"
-
-**New story version 3:**
-"People who feel ______________________ about tasks like this are ______________________"
-
-**Choose the reframe that resonates most:** ______________________
-
-**How might your behavior change with this new story?** ______________________
+### How Small Steps Help Emotions:
+- Small steps feel doable instead of overwhelming
+- You can complete them even when feeling anxious or tired
+- Success with small steps builds confidence
+- Each small step reduces the overall emotional intensity
 
 ---
 
-## Story Integration Practice (2 minutes)
+## Main Exercise: Personal Task Breakdown (10 minutes)
 
-**Now test your new story by taking action:**
+### Step 1: Choose Your Overwhelming Personal Task (2 minutes)
+**Think about a personal task that feels too big or overwhelming:**
 
-**Take one step toward your avoided task while actively thinking your new story**
+**Overwhelming task:** ____________________
+**What emotion does this trigger? (1-10 intensity)** ____________________
 
-**Action taken:** ____________________
-**Which story were you thinking during the action - old or new?** ______________________
-**How did the new story affect your experience?** ______________________
+**Why does this task feel overwhelming?**
+☐ Too vague/undefined ☐ Too many steps ☐ Too big ☐ No clear start ☐ No end point
+
+**What makes you avoid this task?** ____________________
+
+### Step 2: Break It Into Tiny Steps (5 minutes)
+**Break your overwhelming task into the smallest possible steps:**
+
+**Step 1 (smallest possible first action):** ____________________
+**Step 2:** ____________________
+**Step 3:** ____________________
+**Step 4:** ____________________
+**Step 5:** ____________________
+
+**Make them even smaller if needed. Each step should:**
+- Take 5 minutes or less
+- Require no decision-making
+- Have a clear completion point
+- Feel doable even when you're tired or stressed
+
+### Step 3: Test Your First Small Step (3 minutes)
+**Now think about just doing Step 1:**
+
+**When you think about doing ONLY Step 1, what emotion do you feel?** ____________________
+**Intensity (1-10):** ____
+
+**Compare this to the original overwhelming task:**
+**Original task emotion intensity:** ____
+**Step 1 emotion intensity:** ____
+**What changed?** ____________________
+
+**Is Step 1 small enough that you could do it even while feeling this emotion?** Yes / No
+**If no, how could you make it even smaller?** ____________________
 
 ---
 
-## Emotional Story Collection (1 minute)
+## Small Step Action Practice (1 minute)
 
-**Common emotion-regulation procrastinator stories and helpful rewrites:**
+**Now actually do Step 1:**
 
-**Old:** "I need to feel motivated to start"
-**New:** "Action creates motivation, not the other way around"
+**Actually complete your Step 1 right now**
 
-**Old:** "These emotions are too intense to work through"
-**New:** "I can work alongside any emotion, no matter how intense"
+**Action completed:** ____________________
+**How did it feel to complete such a small step?** ______________________
+**Are you more willing to do Step 2 now?** Yes / No
 
-**Old:** "I shouldn't have to feel bad while doing important things"
-**New:** "Growth often involves discomfort, and that's perfectly normal"
+---
 
-**Which reframe do you most need to remember?** ______________________
+## Task Breakdown Tips (1 minute)
+
+**Quick breakdown strategies for common overwhelming personal tasks:**
+
+**"Clean the house"** → Start with "Clear coffee table"
+**"Get organized"** → Start with "Sort items in one small box"
+**"Handle paperwork"** → Start with "Open one piece of mail"
+**"Plan vacation"** → Start with "Look up one hotel"
+**"Exercise routine"** → Start with "Put on workout clothes"
+
+**What's one overwhelming task you could break down this way?** ______________________
 
 ---
 
@@ -134,7 +125,7 @@ We don't just experience emotions - we tell ourselves stories about what those e
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll learn practical techniques for regulating emotional intensity in the moment, giving you tools to work with strong emotions as they arise.
+Tomorrow we'll learn about creating personal daily routines that support your emotional well-being and make tasks feel more natural.
 
-**Story Rewrite Thought:**
-*"I am the author of my own emotional narratives. I choose stories that empower rather than limit me."*
+**Daily Reminder:**
+*"Any task becomes manageable when broken into small enough steps. I can handle any small step, even when feeling uncomfortable."*

@@ -1,154 +1,144 @@
-# Day 8: Creating Emotional Safety - Building Your Support System
+# Day 8: Personal Rewards and Emotional Celebration
 
-**Today's Focus:** Establish practices that make difficult emotions feel more manageable
-**Time Commitment:** 20 minutes
-**Core Exercise:** Emotional Safety Plan Creation
+**Today's Focus:** Create personal rewards that support your emotional well-being
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Reward System Design
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What emotions am I experiencing around my avoided tasks today?
-- What is one small step I can take despite these feelings?
-- How can I show myself compassion around my emotional experience?
+**Daily Questions:** *(Focus on creating positive emotional experiences around personal tasks.)*
 
-*Week 1 reflection:*
-**What was your biggest insight about emotions and procrastination last week?** ____________________
+- **What emotions am I experiencing around my personal tasks today?**
+  *(Notice if you tend to focus only on the difficulty and not celebrate progress.)*
 
----
+- **What small personal task can I complete and then reward myself for?**
+  *(Choose something manageable that deserves acknowledgment.)*
 
-## Understanding Emotional Safety (4 minutes)
+- **How can I celebrate my emotional growth and daily efforts?**
+  *(What would help you feel proud of your progress, even with small steps?)*
 
-When we feel emotionally unsafe, our nervous system prioritizes protection over productivity. Creating emotional safety doesn't mean avoiding all difficult emotions - it means having reliable resources to help you navigate them.
-
-### Components of Emotional Safety:
-**Internal Safety:**
-- Self-compassion practices
-- Reliable self-soothing techniques
-- Trustworthy inner dialogue
-- Emotional regulation skills
-
-**External Safety:**
-- Supportive relationships
-- Safe physical environments
-- Predictable routines and structures
-- Clear boundaries with others
-
-**Meaning-Making Safety:**
-- Connection to values and purpose
-- Growth mindset about emotions
-- Narrative that emotions are temporary
-- Trust in your resilience
+*"Good enough" reflection:*
+**How did aiming for "good enough" change your emotional experience yesterday?** ____________________
+**Which personal task felt more manageable with lower standards?** ____________________
 
 ---
 
-## Main Exercise: Building Your Emotional Safety Plan (11 minutes)
+## Understanding Personal Rewards and Emotional Well-being (3 minutes)
 
-### Step 1: Internal Safety Inventory (4 minutes)
+Many people with emotion-regulation procrastination focus heavily on what's difficult and forget to acknowledge progress. Personal rewards create positive emotional associations with daily tasks and build momentum.
 
-**Self-Compassion Check:**
-When you're struggling emotionally, what do you usually say to yourself?
-____________________
+### Why Personal Rewards Help Emotions:
+- **Create positive associations** with previously avoided tasks
+- **Build confidence** through celebrating small victories
+- **Support motivation** when emotions feel difficult
+- **Balance emotional experience** - not just struggle, but also satisfaction
+- **Reinforce emotional regulation skills** by making them worth practicing
 
-**Rewrite with compassion:**
-What would you say to a dear friend in the same situation?
-____________________
+### Types of Personal Rewards:
+**Immediate Rewards (right after completing a task):**
+- Favorite beverage, brief walk, pleasant music, social check-in
 
-**Your new self-compassion phrase:**
-"When I'm struggling with emotions, I will remind myself: ____________________"
+**Daily Rewards (end of day for consistent effort):**
+- Special meal, relaxing activity, entertainment, time with loved ones
 
-**Reliable Regulation Techniques (from Day 6):**
-My go-to emotional regulation sequence:
+**Weekly Rewards (for maintaining emotional progress):**
+- Something special you've been wanting, celebration activity
+
+---
+
+## Main Exercise: Designing Your Personal Reward System (10 minutes)
+
+### Step 1: Immediate Personal Task Rewards (3 minutes)
+
+**List 5 small rewards you can give yourself right after completing any personal task:**
+*(These should take 5 minutes or less and feel genuinely pleasant)*
+
+1. ____________________
+2. ____________________
+3. ____________________
+4. ____________________
+5. ____________________
+
+**Which of these rewards feel most motivating to you?** ____________________
+
+**Which could you easily do at home?** ____________________
+
+**Which could you do anywhere?** ____________________
+
+### Step 2: Daily and Weekly Personal Rewards (4 minutes)
+
+**Daily Rewards (for consistent emotional effort with personal tasks):**
+*(Things you can do at the end of the day to celebrate emotional growth)*
+
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Inner Dialogue Safety:**
-**Instead of:** "I shouldn't feel this way"
-**I'll think:** ____________________
+**Weekly Rewards (for maintaining emotional progress with personal tasks):**
+*(Bigger celebrations for a week of practicing emotional skills)*
 
-**Instead of:** "These emotions are too much"
-**I'll think:** ____________________
-
-### Step 2: External Safety Inventory (4 minutes)
-
-**Supportive Relationships:**
-Who can you talk to when emotions feel overwhelming?
 1. ____________________
 2. ____________________
 3. ____________________
 
-**If you don't have enough support, who could you reach out to?**
+**What does celebrating your emotional efforts mean to you?**
 ____________________
 
-**Safe Physical Spaces:**
-Where do you feel most emotionally regulated?
-1. ____________________
-2. ____________________
-
-**What makes these spaces feel safe?** ____________________
-
-**Boundary Check:**
-What situations or people tend to increase your emotional overwhelm?
+**How might celebrating small victories change your relationship with personal tasks?**
 ____________________
 
-**What boundary could you set to protect your emotional regulation?**
-____________________
+### Step 3: Emotional Progress Celebration (3 minutes)
 
-### Step 3: Meaning-Making Safety (3 minutes)
+**Ways to celebrate emotional regulation skills:**
+*(How will you acknowledge when you use breathing, break down tasks, create safety, etc.)*
 
-**Values Connection:**
-What's most important to you? (List 3 core values)
 1. ____________________
 2. ____________________
 3. ____________________
 
-**How does working through difficult emotions serve these values?**
-____________________
+**Personal mantra for celebrating emotional effort:**
+"When I practice emotional skills, I will tell myself: ____________________"
 
-**Growth Mindset Affirmation:**
-"My difficult emotions are ____________________" (teaching me, helping me grow, showing me what matters, etc.)
-
-**Resilience Evidence:**
-Name 3 challenging emotional experiences you've survived:
+**Evidence of your emotional growth:**
+List 3 ways you've grown emotionally in the past week:
 1. ____________________
 2. ____________________
 3. ____________________
 
-**What does this tell you about your emotional capacity?**
+**How does acknowledging this progress make you feel?**
 ____________________
 
 ---
 
-## Safety Plan Practice (2 minutes)
+## Reward System Practice (1 minute)
 
-**Choose one avoided task and implement your safety plan before approaching it:**
+**Choose one personal task and practice your reward system:**
 
-**Task:** ____________________
-**Internal safety used:** ____________________
-**External safety activated:** ____________________
-**Values connection:** "This task serves my value of ____________________"
+**Personal task:** ____________________
+**Planned immediate reward:** ____________________
 
-**Now take one step toward this task using your safety resources**
+**Complete the task now, then give yourself the reward**
 
-**Action taken:** ____________________
-**How did the safety plan affect your emotional experience?** ____________________
+**Task completed:** ____________________
+**Reward given:** ____________________
+**How did having a planned reward change your experience of the task?** ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**Which aspect of emotional safety do you most need to develop?** ____________________
+**How does planning rewards change your emotional approach to personal tasks?** ____________________
 
-**How does feeling emotionally safe change your relationship with difficult tasks?** ____________________
+**Which type of reward (immediate, daily, weekly) feels most motivating to you?** ____________________
 
-**What's one safety practice you'll commit to using regularly?** ____________________
+**What's one reward practice you'll commit to using regularly?** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll explore the relationship between emotions and values, learning to use your values as an anchor when emotions feel overwhelming.
+Tomorrow we'll learn about handling emotions when personal tasks feel boring or unstimulating.
 
-**Emotional Safety Thought:**
-*"I am creating conditions where all emotions are welcome, and all emotions can be navigated with skill and self-compassion."*
+**Daily Reminder:**
+*"I deserve to celebrate my efforts and progress. Small rewards create positive emotional associations with personal growth."*

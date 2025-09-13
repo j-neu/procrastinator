@@ -1,150 +1,149 @@
 # Day 22: Complex Multi-Layered Decisions
 
-**Today's Focus:** Navigate decisions with multiple variables and stakeholders
-**Time Commitment:** 20 minutes
+**Today's Focus:** Navigate personal decisions with multiple variables and considerations
+**Time Commitment:** 15 minutes
 **Core Exercise:** Multi-Dimensional Decision Analysis
 
 ---
 
-## Morning Check-in (2 minutes)
+## Morning Check-in (1 minute)
 
 **Daily Questions:**
-- What decision am I avoiding today and why is it difficult?
-- What is one small choice I can make confidently?
-- How can I show yourself patience with my decision-making process?
+- What personal productivity decision am I avoiding today?
+- What is one small personal choice I can make confidently right now?
 
 *Intuitive integration:*
-**How has combining gut instinct with analysis changed your decision experience?** ____________________
+**How has combining gut instinct with analysis changed your personal decision experience?** ____________________
 
 ---
 
-## Understanding Complex Decisions (3 minutes)
+## Understanding Complex Personal Decisions (2 minutes)
 
-Complex decisions involve multiple variables, stakeholders, and outcomes. The key is breaking complexity into manageable components while maintaining perspective on what matters most.
+Complex personal decisions involve multiple variables, considerations, and outcomes that affect your life. The key is breaking personal complexity into manageable components while maintaining perspective on what matters most to you personally.
 
-**Your complex decision patterns:**
-□ Getting overwhelmed by too many variables
-□ Losing sight of priorities amid complexity  
-□ Trying to optimize all factors simultaneously
-□ Avoiding decisions that affect multiple people
-□ Analysis paralysis with interconnected factors
-□ Difficulty weighing competing stakeholder needs
+**Your complex personal decision patterns:**
+□ Getting overwhelmed by too many personal variables
+□ Losing sight of personal priorities amid complexity  
+□ Trying to optimize all personal factors simultaneously
+□ Avoiding personal decisions that affect multiple life areas
+□ Analysis paralysis with interconnected personal factors
+□ Difficulty weighing competing personal needs
 
-**Current complex decision:** ____________________
-**What makes this decision complex?**
-□ Multiple stakeholders with different needs
-□ Many variables to consider
-□ Interconnected consequences
-□ Long-term vs. short-term trade-offs
-□ Uncertainty about multiple factors
-□ Competing values or priorities
+**Current complex personal decision:** ____________________
+**What makes this personal decision complex?**
+□ Multiple life areas with different needs
+□ Many personal variables to consider
+□ Interconnected personal consequences
+□ Long-term vs. short-term personal trade-offs
+□ Uncertainty about multiple personal factors
+□ Competing personal values or priorities
 
 ---
 
-## Main Exercise: Multi-Dimensional Decision Framework (13 minutes)
+## Main Exercise: Multi-Dimensional Personal Decision Framework (10 minutes)
 
-### Step 1: Complexity Mapping (4 minutes)
+### Step 1: Personal Complexity Mapping (3 minutes)
 
-**Your complex decision:** ____________________
+**Your complex personal decision:** ____________________
 
-**Key stakeholders affected:**
+**Key life areas affected:**
 1. ____________________
 2. ____________________
 3. ____________________
 4. ____________________
 
-**Primary variables to consider:**
+**Primary personal variables to consider:**
 1. ____________________
 2. ____________________
 3. ____________________
 4. ____________________
 5. ____________________
 
-**Time horizons involved:**
-- **Immediate impact (1 month):** ____________________
-- **Short-term impact (1 year):** ____________________
-- **Long-term impact (5+ years):** ____________________
+**Personal time horizons involved:**
+- **Immediate personal impact (1 month):** ____________________
+- **Short-term personal impact (1 year):** ____________________
+- **Long-term personal impact (5+ years):** ____________________
 
-### Step 2: Priority Hierarchy Creation (4 minutes)
+### Step 2: Personal Priority Hierarchy Creation (3 minutes)
 
-**Rank your decision factors by importance:**
+**Rank your personal decision factors by importance:**
 
-**Tier 1 - Critical (must satisfy):**
+**Tier 1 - Critical (must personally satisfy):**
 - ____________________
 - ____________________
 
-**Tier 2 - Important (should satisfy):**
+**Tier 2 - Important (should personally satisfy):**
 - ____________________
 - ____________________
 
-**Tier 3 - Desirable (nice to satisfy):**
+**Tier 3 - Desirable (nice to personally satisfy):**
 - ____________________
 - ____________________
 
-**Most important stakeholder:** ____________________
-**Most important outcome:** ____________________
-**Most important value:** ____________________
+**Most important personal life area:** ____________________
+**Most important personal outcome:** ____________________
+**Most important personal value:** ____________________
 
-### Step 3: Simplified Option Evaluation (3 minutes)
+### Step 3: Simplified Personal Option Evaluation (2 minutes)
 
-**Focus only on Tier 1 (critical) factors:**
+**Focus only on Tier 1 (critical) personal factors:**
 
-**Option 1:** ____________________
-**Meets critical factor 1?** Yes/No
-**Meets critical factor 2?** Yes/No
-**Overall critical assessment:** Pass/Fail
+**Personal Option 1:** ____________________
+**Meets critical personal factor 1?** Yes/No
+**Meets critical personal factor 2?** Yes/No
+**Overall critical personal assessment:** Pass/Fail
 
-**Option 2:** ____________________
-**Meets critical factor 1?** Yes/No
-**Meets critical factor 2?** Yes/No
-**Overall critical assessment:** Pass/Fail
+**Personal Option 2:** ____________________
+**Meets critical personal factor 1?** Yes/No
+**Meets critical personal factor 2?** Yes/No
+**Overall critical personal assessment:** Pass/Fail
 
-**Option 3:** ____________________
-**Meets critical factor 1?** Yes/No
-**Meets critical factor 2?** Yes/No
-**Overall critical assessment:** Pass/Fail
+**Personal Option 3:** ____________________
+**Meets critical personal factor 1?** Yes/No
+**Meets critical personal factor 2?** Yes/No
+**Overall critical personal assessment:** Pass/Fail
 
-**Options that pass critical test:** ____________________
+**Personal options that pass critical test:** ____________________
 
-### Step 4: Integration and Choice (2 minutes)
+### Step 4: Personal Integration and Choice (2 minutes)
 
-**Among options that meet critical factors:**
-**Which best serves the most important stakeholder?** ____________________
-**Which best achieves the most important outcome?** ____________________
-**Which best honors your most important value?** ____________________
+**Among personal options that meet critical factors:**
+**Which best serves your most important personal life area?** ____________________
+**Which best achieves your most important personal outcome?** ____________________
+**Which best honors your most important personal value?** ____________________
 
-**Your choice for this complex decision:** ____________________
-**Why this choice handles the complexity well:** ____________________
+**Your choice for this complex personal decision:** ____________________
+**Why this personal choice handles the complexity well:** ____________________
 
 ---
 
-## Complexity Management Strategy (1 minute)
+## Personal Complexity Management Strategy (1 minute)
 
-**Your approach to future complex decisions:**
-1. **Map all factors but prioritize ruthlessly**
-2. **Focus on critical factors first, optimize others second**
-3. **Remember that perfect solutions to complex problems don't exist**
-4. **Choose the option that best handles the most important elements**
+**Your approach to future complex personal decisions:**
+1. **Map all personal factors but prioritize ruthlessly**
+2. **Focus on critical personal factors first, optimize others second**
+3. **Remember that perfect solutions to complex personal problems don't exist**
+4. **Choose the personal option that best handles the most important personal elements**
 
-**Complex decision mantra:**
-□ "I can navigate complexity by focusing on what matters most"
-□ "Complex decisions don't require complex approaches"
-□ "I'll optimize for the critical factors and accept trade-offs on others"
+**Complex personal decision mantra:**
+□ "I can navigate personal complexity by focusing on what matters most to me"
+□ "Complex personal decisions don't require complex approaches"
+□ "I'll optimize for the critical personal factors and accept trade-offs on others"
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How does breaking complexity into tiers change your decision approach?**
+**How does breaking personal complexity into tiers change your personal decision approach?**
 ____________________
 
-**What complex decision feels more manageable now?**
+**What complex personal decision feels more manageable now?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll work on decision leadership - helping others through difficult choices.
+Tomorrow we'll work on personal decision leadership - helping others with their personal choices while maintaining your own boundaries.
 
-**Complexity Mastery Thought:**
-*"Complex decisions are just multiple simple decisions working together. I can handle complexity by focusing on what matters most."*
+**Personal Complexity Mastery Thought:**
+*"Complex personal decisions are just multiple simple personal decisions working together. I can handle personal complexity by focusing on what matters most to my life."*

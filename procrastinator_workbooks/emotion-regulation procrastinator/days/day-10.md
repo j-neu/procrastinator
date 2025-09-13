@@ -1,142 +1,138 @@
-# Day 10: Emotional Flexibility - Adapting Your Approach
+# Day 10: Personal Emotional Regulation Plan
 
-**Today's Focus:** Develop multiple strategies for different emotional challenges
-**Time Commitment:** 20 minutes
-**Core Exercise:** Flexible Response Strategy Building
+**Today's Focus:** Put together everything you've learned into a personalized plan
+**Time Commitment:** 15 minutes
+**Core Exercise:** Creating Your Personal Emotional Regulation System
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What emotions am I experiencing around my avoided tasks today?
-- What is one small step I can take despite these feelings?
-- How can I show myself compassion around my emotional experience?
+**Daily Questions:** *(Focus on integrating all your emotional regulation skills.)*
 
-*Values anchor reflection:*
-**How did connecting to your values affect your emotional experience yesterday?** ____________________
-**Which value feels most relevant to your current challenges?** ____________________
+- **What emotions am I experiencing around my personal tasks today?**
+  *(Notice if you can identify patterns and which skills might help most.)*
 
----
+- **What small personal task can I practice my emotional regulation skills with?**
+  *(Choose something where you can try multiple techniques you've learned.)*
 
-## Understanding Emotional Flexibility (4 minutes)
+- **How have my emotional regulation skills grown over these 10 days?**
+  *(What feels different about how you handle emotions around personal tasks?)*
 
-Different emotions require different approaches. Just as you wouldn't use the same tool for every physical task, emotional regulation works best when you match your strategy to the specific emotional challenge.
-
-### Emotional Categories and Optimal Strategies:
-
-**High Energy Emotions (anxiety, anger, frustration):**
-- Need: Energy discharge and calming
-- Best strategies: Movement, breathing, grounding
-
-**Low Energy Emotions (sadness, overwhelm, shame):**
-- Need: Gentle activation and self-compassion
-- Best strategies: Connection, meaning-making, small actions
-
-**Avoidance Emotions (fear, inadequacy, vulnerability):**
-- Need: Courage building and exposure
-- Best strategies: Values connection, graduated challenges
-
-**Confusion Emotions (uncertainty, indecision):**
-- Need: Clarity and structure
-- Best strategies: Information gathering, breaking down complexity
+*Boring task engagement reflection:*
+**How did making boring tasks more engaging help your motivation yesterday?** ____________________
+**Which engagement technique worked best for you?** ____________________
 
 ---
 
-## Main Exercise: Building Your Flexible Response System (11 minutes)
+## Review Your Emotional Regulation Skills (3 minutes)
 
-### Step 1: Emotion-Strategy Matching (4 minutes)
+Over the past 10 days, you've learned multiple emotional regulation skills. Let's review what you've practiced and identify your strongest tools.
 
-**Identify your current avoided tasks and their emotional signatures:**
+### Skills You've Practiced:
 
-**Task 1:** ____________________
-**Primary emotion:** ____________________ (High/Low/Avoidance/Confusion Energy)
-**Best strategy category:** ____________________
-
-**Task 2:** ____________________
-**Primary emotion:** ____________________ (High/Low/Avoidance/Confusion Energy)  
-**Best strategy category:** ____________________
-
-**Task 3:** ____________________
-**Primary emotion:** ____________________ (High/Low/Avoidance/Confusion Energy)
-**Best strategy category:** ____________________
-
-### Step 2: Strategy Selection and Testing (5 minutes)
-
-**Choose one task to work with:** ____________________
-**Emotion category:** ____________________
-
-**If HIGH ENERGY emotion, try:**
-□ 5 minutes of vigorous movement or exercise
-□ Box breathing or cold water exposure
-□ Write out all your thoughts without editing
-
-**If LOW ENERGY emotion, try:**
-□ Self-compassion phrase + gentle action
-□ Connect with a supportive person
-□ Focus on values and meaning
-
-**If AVOIDANCE emotion, try:**
-□ 2-minute exposure to the task
-□ Remember past successes with challenges
-□ Values-based courage affirmation
-
-**If CONFUSION emotion, try:**
-□ Gather one piece of clarifying information
-□ Break the task into smaller components
-□ Ask someone for guidance or perspective
-
-**Strategy chosen:** ____________________
-**Time spent on strategy:** ______ minutes
-
-**Rate emotional intensity:**
-Before strategy: ____ (1-10)
-After strategy: ____ (1-10)
-
-### Step 3: Action from Flexibility (2 minutes)
-
-**Now take action on your task using the emotional state created by your matched strategy:**
-
-**Action taken:** ____________________
-**How did matching strategy to emotion type affect your ability to act?** ____________________
-**What felt different about this targeted approach?** ____________________
+**Day 1:** Mapping personal emotional triggers  
+**Day 2:** Precise emotion naming  
+**Day 3:** Simple breathing techniques (4-4-4 breathing)  
+**Day 4:** Creating emotional safety setups  
+**Day 5:** Breaking overwhelming tasks into small steps  
+**Day 6:** Daily routines for emotional well-being  
+**Day 7:** "Good enough" standards to reduce perfectionist overwhelm  
+**Day 8:** Personal reward systems  
+**Day 9:** Making boring tasks more engaging  
+**Day 10:** Integrating everything into a personal plan
 
 ---
 
-## Flexibility Practice Planning (2 minutes)
+## Main Exercise: Creating Your Personal Emotional Regulation Plan (10 minutes)
 
-**Create your emotional flexibility quick-reference:**
+### Step 1: Identify Your Most Helpful Skills (3 minutes)
 
-**When I feel HIGH ENERGY emotions (anxiety, anger, frustration), I will:**
-1st strategy: ____________________
-2nd strategy: ____________________
+**Review the past 10 days and identify what's working best for you:**
 
-**When I feel LOW ENERGY emotions (sadness, overwhelm, shame), I will:**
-1st strategy: ____________________
-2nd strategy: ____________________
+**Which emotional regulation skill has helped you most?**
+☐ Breathing techniques ☐ Breaking tasks down ☐ Creating safety ☐ Daily routines  
+☐ "Good enough" standards ☐ Personal rewards ☐ Making tasks engaging ☐ Precise emotion naming
+**My #1 skill:** ____________________
 
-**When I feel AVOIDANCE emotions (fear, inadequacy, vulnerability), I will:**
-1st strategy: ____________________
-2nd strategy: ____________________
+**Which skill do you actually use most often?** ____________________
 
-**When I feel CONFUSION emotions (uncertainty, indecision), I will:**
-1st strategy: ____________________
-2nd strategy: ____________________
+**Which skill is easiest for you to remember in difficult moments?** ____________________
+
+**Which skill has the biggest impact on your emotions?** ____________________
+
+### Step 2: Create Your Personal Emotional Regulation Plan (4 minutes)
+
+**Design your go-to system for different emotional situations:**
+
+**When I feel OVERWHELMED by personal tasks, I will:**
+1st: ____________________
+2nd: ____________________
+
+**When I feel ANXIOUS about personal tasks, I will:**
+1st: ____________________
+2nd: ____________________
+
+**When I feel BORED by personal tasks, I will:**
+1st: ____________________
+2nd: ____________________
+
+**When personal tasks feel TOO BIG, I will:**
+1st: ____________________
+2nd: ____________________
+
+**When I want to AVOID personal tasks, I will:**
+1st: ____________________
+2nd: ____________________
+
+### Step 3: Test Your Personal Plan (3 minutes)
+
+**Choose a personal task that brings up emotions and use your plan:**
+
+**Personal task:** ____________________
+**Emotion I'm feeling:** ____________________
+**According to my plan, I should:** ____________________
+
+**Use your planned technique, then take one small action on the task**
+
+**Action completed:** ____________________
+**How did having a personal plan change the experience?** ____________________
+
+---
+
+## Your Complete Personal Emotional Regulation System (1 minute)
+
+**Fill in your comprehensive personal approach:**
+
+**My Daily Emotional Support Routine:**
+- Morning: ____________________
+- Between tasks: ____________________
+- Evening: ____________________
+
+**My Emergency Emotional Regulation Kit:**
+- When overwhelmed: ____________________
+- When anxious: ____________________
+- When avoiding: ____________________
+
+**My Personal Task Success Strategy:**
+- Break big tasks into: ____________________
+- Make boring tasks more: ____________________
+- Reward myself by: ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**Which emotional category do you most often experience with procrastination?** ____________________
+**How do you feel about your personal emotional regulation abilities after 10 days?** ____________________
 
-**How does matching strategies to emotion types compare to using the same approach every time?** ____________________
+**What's the biggest change in how you handle emotions with personal tasks?** ____________________
 
-**What flexibility skill do you most want to develop?** ____________________
+**Which skill do you most want to keep practicing as you continue?** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll explore building emotional resilience - developing the capacity to bounce back from emotional challenges more quickly.
+Tomorrow we'll start the next phase of your emotional regulation journey, building on the foundation you've created.
 
-**Emotional Flexibility Thought:**
-*"I am emotionally flexible and responsive. I have the right tool for every emotional challenge I encounter."*
+**Daily Reminder:**
+*"I have a personalized system for handling emotions with personal tasks. I can choose the right tool for each situation."*

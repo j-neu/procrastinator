@@ -1,91 +1,96 @@
-# Day 11: Momentum Building - The Power of Small Wins
+# Day 11: Personal Momentum Building - The Power of Small Personal Wins
 
-**Today's Focus:** Create sustainable progress through systematic momentum building
-**Time Commitment:** 20 minutes
-**Core Exercise:** Momentum System Design
+**Today's Focus:** Create sustainable personal progress through systematic momentum building
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Momentum System Design
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I avoiding due to feeling overwhelmed or disorganized?
-- What is one small organizational step I can take today?
-- How can I approach this with curiosity rather than judgment?
+**Daily Questions:** *(These questions help you understand how momentum affects your personal productivity. Passive procrastination often happens when you feel stuck or like you're not making progress. Remember: small personal wins create energy for bigger goals.)*
 
-*Communication management check-in:*
-**How did scheduled email checking work for you yesterday?** ____________________
+- **What personal task am I avoiding because I feel stuck or unmotivated?**
+  *(Think of something in your personal life you've been putting off because you don't feel like you're making progress, it feels too hard to start, or you've lost momentum.)*
+
+- **What is one small personal win I can create today?**
+  *(This could be completing one small personal task, making 15 minutes of progress on a personal goal, or organizing one small area of your personal life.)*
+
+- **How can I approach personal momentum-building with patience rather than pressure?**
+  *(Instead of pressuring yourself to be highly productive, try to see small personal wins as building blocks that naturally create motivation for bigger actions.)*
+
+*Personal communication management check-in:*
+**How did your personal communication boundaries work yesterday?** ____________________
 
 ---
 
-## Today's 3-2-1 Plan (3 minutes)
+## Today's 3-1-1 Personal Plan (2 minutes)
 
-**My 3 Main Priorities for Today:**
+**My 3 Personal Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 2 Quick Tasks (5 min each):**
-1. ____________________
-2. ____________________
+**My 1 Quick Personal Task (5-10 min):**
+____________________
 
-**My 1 Organizational Improvement:**
+**My 1 Personal Routine/Habit:**
 ____________________
 
 ---
 
-## The Momentum Problem (2 minutes)
+## The Personal Momentum Problem (2 minutes)
 
-Passive procrastinators often struggle with all-or-nothing thinking: either perfect productivity or complete avoidance. This creates cycles where small setbacks feel like complete failures, killing motivation.
+Passive procrastinators often struggle with all-or-nothing thinking: either perfect personal productivity or complete avoidance of personal goals. This creates cycles where small personal setbacks feel like complete failures, killing motivation for personal development.
 
-**Today's solution:** Build a momentum system based on small, consistent wins rather than perfect performance.
+**Today's solution:** Build a personal momentum system based on small, consistent personal wins rather than perfect performance in your personal life.
 
 ---
 
-## Main Exercise: Momentum System Creation (10 minutes)
+## Main Exercise: Personal Momentum System Creation (7 minutes)
 
 ### Step 1: Small Win Identification (3 minutes)
 
-**What small actions consistently make you feel accomplished?**
+**What small personal actions consistently make you feel accomplished?**
 
-**5-minute wins that always feel good:**
-- ____________________
-- ____________________
-- ____________________
-
-**15-minute wins that build confidence:**
-- ____________________  
-- ____________________
-- ____________________
-
-**30-minute wins that create real progress:**
+**5-minute personal wins that always feel good:**
 - ____________________
 - ____________________
 - ____________________
 
-**My most reliable momentum builder:** ____________________
+**15-minute personal wins that build confidence:**
+- ____________________
+- ____________________
+- ____________________
+
+**30-minute personal wins that create real progress:**
+- ____________________
+- ____________________
+- ____________________
+
+**My most reliable personal momentum builder:** ____________________
 
 ### Step 2: Daily Momentum Protocol (4 minutes)
 
-**Design your daily momentum sequence:**
+**Design your daily personal momentum sequence:**
 
-**Morning Momentum (choose 1):**
-□ Complete one 5-minute organizational task
-□ Make progress on Priority #1 for 15 minutes
-□ Clear one small item completely off your list
-□ Other: ____________________
+**Morning Personal Momentum (choose 1):**
+□ Complete one 5-minute personal organizational task
+□ Make progress on Personal Priority #1 for 15 minutes
+□ Clear one small personal item completely off your list
+□ Other personal momentum action: ____________________
 
-**Midday Reset (choose 1):**
-□ Review and celebrate morning progress
-□ Tackle one quick task from your capture system
-□ Organize workspace for afternoon productivity
-□ Other: ____________________
+**Midday Personal Reset (choose 1):**
+□ Review and celebrate morning personal progress
+□ Tackle one quick personal task from your capture system
+□ Organize personal space for evening productivity
+□ Other personal reset: ____________________
 
-**Evening Wind-Down (choose 1):**  
-□ Prepare tomorrow's workspace and priorities
-□ Celebrate three things you accomplished today
-□ Process and clear any new captured items
-□ Other: ____________________
+**Evening Personal Wind-Down (choose 1):**
+□ Prepare tomorrow's personal space and priorities
+□ Celebrate three personal things you accomplished today
+□ Process and clear any new personal captured items
+□ Other personal wind-down: ____________________
 
 ### Step 3: Progress Tracking System (3 minutes)
 

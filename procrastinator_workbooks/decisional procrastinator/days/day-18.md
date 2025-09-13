@@ -1,186 +1,185 @@
 # Day 18: Learning from Past Decisions
 
-**Today's Focus:** Extract wisdom from your decision-making history
-**Time Commitment:** 20 minutes
-**Core Exercise:** Decision Learning Analysis
+**Today's Focus:** Extract wisdom from your personal decision-making history
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Decision Learning Analysis
 
 ---
 
-## Morning Check-in (2 minutes)
+## Morning Check-in (1 minute)
 
 **Daily Questions:**
-- What decision am I avoiding today and why is it difficult?
-- What is one small choice I can make confidently?
-- How can I show yourself patience with my decision-making process?
+- What personal productivity decision am I avoiding today?
+- What is one small personal choice I can make confidently right now?
 
 *Pressure practice:*
-**Did you practice any timed decision-making yesterday?** ____________________
+**Did you practice any timed personal decision-making yesterday?** ____________________
 
 ---
 
-## Your Decision-Making Track Record (3 minutes)
+## Your Personal Decision-Making Track Record (2 minutes)
 
-Every decision you've made contains learning opportunities. By analyzing patterns in your past choices, you can identify what works, what doesn't, and what conditions support your best decision-making.
+Every personal decision you've made contains learning opportunities. By analyzing patterns in your past personal choices, you can identify what works, what doesn't, and what conditions support your best personal decision-making.
 
-**Quick decision inventory:**
+**Quick personal decision inventory:**
 
-**Good decisions I've made:**
+**Good personal decisions I've made:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Decisions I regret:**
+**Personal decisions I regret:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Decisions I kept second-guessing:**
+**Personal decisions I kept second-guessing:**
 1. ____________________
 2. ____________________
 
-**Most important decision patterns to understand:**
-□ When do I decide well vs. poorly?
-□ What conditions support good decisions?
-□ What makes me second-guess good choices?
-□ How do I handle uncertainty and unexpected outcomes?
+**Most important personal decision patterns to understand:**
+□ When do I make personal decisions well vs. poorly?
+□ What conditions support good personal decisions?
+□ What makes me second-guess good personal choices?
+□ How do I handle personal uncertainty and unexpected outcomes?
 
 ---
 
-## Main Exercise: Decision Learning Analysis (13 minutes)
+## Main Exercise: Personal Decision Learning Analysis (10 minutes)
 
-### Step 1: Good Decision Pattern Analysis (4 minutes)
+### Step 1: Good Personal Decision Pattern Analysis (3 minutes)
 
-**Choose your best decision from the past year:**
+**Choose your best personal decision from the past year:**
 ____________________
 
-**Why this was a good decision:**
+**Why this was a good personal decision:**
 ____________________
 
-**Your decision-making process for this choice:**
-- **How much time did you take?** ____________________
-- **What information did you gather?** ____________________
-- **Who did you consult, if anyone?** ____________________
-- **What criteria did you use?** ____________________
-- **How did you handle uncertainty?** ____________________
+**Your personal decision-making process for this choice:**
+- **How much personal time did you take?** ____________________
+- **What personal information did you gather?** ____________________
+- **Who did you consult about this personal choice, if anyone?** ____________________
+- **What personal criteria did you use?** ____________________
+- **How did you handle personal uncertainty?** ____________________
 
-**Conditions that supported this good decision:**
-□ Had clear priorities
-□ Set a decision deadline
-□ Limited information gathering
-□ Trusted my judgment
-□ Focused on my values
+**Conditions that supported this good personal decision:**
+□ Had clear personal priorities
+□ Set a personal decision deadline
+□ Limited personal information gathering
+□ Trusted my personal judgment
+□ Focused on my personal values
 □ Other: ____________________
 
-**Pattern recognition:**
-**I make good decisions when:** ____________________
+**Personal pattern recognition:**
+**I make good personal decisions when:** ____________________
 
-### Step 2: Decision Regret Analysis (4 minutes)
+### Step 2: Personal Decision Regret Analysis (3 minutes)
 
-**Choose a decision you regret:**
+**Choose a personal decision you regret:**
 ____________________
 
-**Why you regret this decision:**
+**Why you regret this personal decision:**
 ____________________
 
-**What was different about your process:**
-- **Time pressure or timeline?** ____________________
-- **Information gathering approach?** ____________________
-- **Who influenced the decision?** ____________________
-- **What criteria did you use?** ____________________
-- **How did you handle uncertainty?** ____________________
+**What was different about your personal process:**
+- **Personal time pressure or timeline?** ____________________
+- **Personal information gathering approach?** ____________________
+- **Who influenced the personal decision?** ____________________
+- **What personal criteria did you use?** ____________________
+- **How did you handle personal uncertainty?** ____________________
 
-**What led to the poor outcome:**
-□ Rushed without enough thought
-□ Overthought and ignored instincts
-□ Let others' opinions override my judgment
-□ Focused on wrong criteria
-□ Made assumptions that proved wrong
-□ Avoided the decision too long
+**What led to the poor personal outcome:**
+□ Rushed personal choice without enough thought
+□ Overthought and ignored personal instincts
+□ Let others' opinions override my personal judgment
+□ Focused on wrong personal criteria
+□ Made personal assumptions that proved wrong
+□ Avoided the personal decision too long
 □ Other: ____________________
 
-**Learning insight:**
-**I make poor decisions when:** ____________________
+**Personal learning insight:**
+**I make poor personal decisions when:** ____________________
 
-### Step 3: Second-Guessing Pattern Analysis (3 minutes)
+### Step 3: Personal Second-Guessing Pattern Analysis (2 minutes)
 
-**Decision you second-guessed despite good outcomes:**
+**Personal decision you second-guessed despite good outcomes:**
 ____________________
 
-**Why you second-guessed this choice:**
+**Why you second-guessed this personal choice:**
 ____________________
 
-**What triggered the doubt:**
-□ Someone questioned my choice
-□ Saw downsides I hadn't considered
-□ Compared to other options afterward
-□ Perfectionist thinking kicked in
-□ Feared making a mistake
+**What triggered the personal doubt:**
+□ Someone questioned my personal choice
+□ Saw personal downsides I hadn't considered
+□ Compared to other personal options afterward
+□ Perfectionist thinking kicked in about personal choices
+□ Feared making a personal mistake
 □ Other: ____________________
 
-**Outcome reality check:**
-**Did the second-guessing serve any purpose?** Yes/No
-**Would you make the same choice again?** Yes/No
+**Personal outcome reality check:**
+**Did the personal second-guessing serve any purpose?** Yes/No
+**Would you make the same personal choice again?** Yes/No
 
-**Insight:**
-**I second-guess good decisions when:** ____________________
+**Personal insight:**
+**I second-guess good personal decisions when:** ____________________
 
-### Step 4: Decision-Making Wisdom Synthesis (2 minutes)
+### Step 4: Personal Decision-Making Wisdom Synthesis (2 minutes)
 
-**Based on your pattern analysis:**
+**Based on your personal pattern analysis:**
 
-**My decision-making superpowers:**
+**My personal decision-making superpowers:**
 1. ____________________
 2. ____________________
 
-**My decision-making vulnerabilities:**
+**My personal decision-making vulnerabilities:**
 1. ____________________
 2. ____________________
 
-**Conditions that bring out my best decision-making:**
+**Conditions that bring out my best personal decision-making:**
 ____________________
 
-**Warning signs that I'm likely to decide poorly:**
+**Warning signs that I'm likely to decide personally poorly:**
 ____________________
 
-**Personal decision-making rules based on my history:**
+**Personal decision-making rules based on my personal history:**
 1. ____________________
 2. ____________________
 3. ____________________
 
 ---
 
-## Decision Learning Integration (1 minute)
+## Personal Decision Learning Integration (1 minute)
 
-**Apply your learning to a current decision:**
+**Apply your personal learning to a current decision:**
 
-**Current choice you're facing:** ____________________
+**Current personal choice you're facing:** ____________________
 
-**Based on your patterns, how should you approach this decision?**
+**Based on your personal patterns, how should you approach this decision?**
 ____________________
 
-**What conditions will support your best choice-making?**
+**What personal conditions will support your best choice-making?**
 ____________________
 
-**What pitfalls should you avoid?**
+**What personal pitfalls should you avoid?**
 ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**What surprised you about your decision-making patterns?**
+**What surprised you about your personal decision-making patterns?**
 ____________________
 
-**Which insight will most help your future choices?**
+**Which personal insight will most help your future personal choices?**
 ____________________
 
-**How does understanding your patterns change your confidence?**
+**How does understanding your personal patterns change your confidence?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll address the fear of making irreversible decisions.
+Tomorrow we'll address the fear of making irreversible personal decisions.
 
-**Decision Learning Thought:**
-*"My past decisions teach me how to choose better. I learn from every choice and continuously improve my judgment."*
+**Personal Decision Learning Thought:**
+*"My past personal decisions teach me how to choose better. I learn from every personal choice and continuously improve my personal judgment."*

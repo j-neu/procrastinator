@@ -1,32 +1,32 @@
-# Day 2: Emotional Vocabulary - Precision in Feeling
+# Day 2: Emotional Vocabulary for Personal Tasks
 
-**Today's Focus:** Develop precise language for your emotional experiences
-**Time Commitment:** 20 minutes
-**Core Exercise:** Emotion Naming Practice
+**Today's Focus:** Develop precise language for your emotional experiences with daily tasks
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Task Emotion Naming Practice
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand your emotional patterns. Emotion-regulation procrastination happens when you delay tasks to avoid uncomfortable feelings. Remember: emotions are temporary, but the relief from avoiding them is also temporary.)*
+**Daily Questions:** *(These questions help you understand your personal emotional patterns with daily tasks. Remember: emotions give you information, but they don't have to control your choices.)*
 
-- **What emotions am I experiencing around my avoided tasks today?**  
-  *(Notice what you feel when you think about specific tasks - anxiety, boredom, frustration, overwhelm, fear, anger, sadness. Sometimes it's a mix of feelings.)*
+- **What emotions am I experiencing around my personal tasks today?**  
+  *(Notice what you feel when you think about specific daily tasks - anxiety, boredom, frustration, overwhelm, fear, or irritation.)*
 
-- **What is one small step I can take despite these feelings?**  
-  *(Choose something so small that you can do it even while feeling uncomfortable. You don't need to feel good to take action.)*
+- **What is one small personal task I can take despite these feelings?**  
+  *(Choose something manageable that you can do even while feeling uncomfortable - like clearing your desk or returning one call.)*
 
 - **How can I show myself compassion around my emotional experience?**  
-  *(Your feelings make sense given your situation and history. What would you say to a friend experiencing these same emotions?)*
+  *(Your feelings make sense. What would you say to a friend experiencing these same emotions about daily responsibilities?)*
 
-*Reflect on yesterday's emotional trigger inventory:*
-**What pattern did I notice in my emotional avoidance?** ____________________
+*Reflect on yesterday's personal task emotional inventory:*
+**What pattern did I notice in my emotional avoidance of personal tasks?** ____________________
 
 ---
 
-## Understanding Emotional Granularity (3 minutes)
+## Understanding Emotional Granularity for Daily Tasks (2 minutes)
 
-Research shows that people who can name emotions precisely ("frustrated" vs "angry," "anxious" vs "overwhelmed") have better emotional regulation and less avoidance behavior.
+Research shows that people who can name emotions precisely ("frustrated" vs "angry," "anxious" vs "overwhelmed") have better emotional regulation and less avoidance of daily responsibilities.
 
 ### Common Procrastination Emotions - Get Specific:
 
@@ -50,11 +50,11 @@ Research shows that people who can name emotions precisely ("frustrated" vs "ang
 
 ---
 
-## Main Exercise: Precision Emotion Mapping (12 minutes)
+## Main Exercise: Personal Task Emotion Mapping (10 minutes)
 
-### Step 1: Yesterday's Task Review (4 minutes)
+### Step 1: Yesterday's Personal Task Review (3 minutes)
 
-**Choose one avoided task from yesterday's inventory:** ____________________
+**Choose one avoided personal task from yesterday's inventory:** ____________________
 
 **Your initial emotion label was:** ____________________
 
@@ -88,13 +88,13 @@ Research shows that people who can name emotions precisely ("frustrated" vs "ang
 
 **Your more precise emotion word:** ____________________
 
-**Close your eyes and imagine starting this task. Notice:**
+**Close your eyes and imagine starting this personal task. Notice:**
 - Where do you feel this emotion in your body? ____________________
 - What's the physical sensation like? (tight, heavy, fluttery, etc.) ____________________
 - What does this emotion want you to do? ____________________
 - What is this emotion trying to protect you from? ____________________
 
-### Step 3: Emotional Wisdom Discovery (4 minutes)
+### Step 3: Emotional Wisdom Discovery (3 minutes)
 
 **Complete these sentences:**
 "This emotion is telling me that ____________________"
@@ -108,9 +108,9 @@ Research shows that people who can name emotions precisely ("frustrated" vs "ang
 
 ---
 
-## Micro-Action with Emotion (2 minutes)
+## Micro-Action with Personal Task (1 minute)
 
-**Take one tiny step toward your avoided task (2 minutes or less) while staying aware of your emotions.**
+**Take one tiny step toward your avoided personal task (1 minute or less) while staying aware of your emotions.**
 
 **Your micro-action:** ____________________
 
@@ -134,7 +134,7 @@ Research shows that people who can name emotions precisely ("frustrated" vs "ang
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll learn the RAIN technique - a powerful method for staying present with difficult emotions while maintaining your ability to act.
+Tomorrow we'll learn a simple breathing technique to help you stay calm with difficult emotions while handling your daily responsibilities.
 
-**Emotional Precision Thought:**
-*"The more precisely I can name my emotions, the more power I have to work with them skillfully."*
+**Daily Reminder:**
+*"The more precisely I can name my emotions, the better I can work with them while taking care of myself."*

@@ -1,44 +1,49 @@
-# Day 19: Decision Frameworks - Eliminating Analysis Paralysis
+# Day 19: Personal Decision Frameworks - Eliminating Personal Analysis Paralysis
 
-**Today's Focus:** Build systematic decision-making processes that prevent procrastination
-**Time Commitment:** 20 minutes
-**Core Exercise:** Decision Framework Toolkit
+**Today's Focus:** Build systematic personal decision-making processes that prevent personal procrastination
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Decision Framework Toolkit
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I avoiding due to feeling overwhelmed or disorganized?
-- What is one small organizational step I can take today?
-- How can I approach this with curiosity rather than judgment?
+**Daily Questions:** *(These questions help you understand how personal decision paralysis creates procrastination. Passive procrastination often happens when you can't decide what to do about personal goals or life choices. Remember: quick personal decisions are better than perfect personal decisions that never get made.)*
 
-*Stress-proof systems check-in:*
-**How confident do you feel about maintaining organization under pressure now?** ____________________
+- **What personal decision am I avoiding that's preventing progress on personal goals?**
+  *(Think of something in your personal life you keep putting off because you can't decide which approach to take, you're overthinking the options, or you're waiting for the "perfect" choice to become clear.)*
+
+- **What is one personal decision framework I can create to speed up similar choices?**
+  *(This could be a simple way to choose between personal activities, a method for prioritizing personal goals, or a quick process for making everyday personal decisions.)*
+
+- **How can I approach personal decision-making with confidence rather than perfectionism?**
+  *(Instead of needing the perfect personal choice, try to see most personal decisions as reversible experiments that can be adjusted as you learn more.)*
+
+*Personal stress-proof systems check-in:*
+**How confident do you feel about maintaining personal productivity under pressure now?** ____________________
 
 ---
 
-## Today's 3-2-1 Plan (3 minutes)
+## Today's 3-1-1 Personal Plan (2 minutes)
 
-**My 3 Main Priorities for Today:**
+**My 3 Personal Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 2 Quick Tasks (5 min each):**
-1. ____________________
-2. ____________________
+**My 1 Quick Personal Task (5-10 min):**
+____________________
 
-**My 1 Organizational Improvement:**
+**My 1 Personal Routine/Habit:**
 ____________________
 
 ---
 
-## The Decision Paralysis Problem (2 minutes)
+## The Personal Decision Paralysis Problem (2 minutes)
 
-Analysis paralysis creates procrastination by making every choice feel overwhelming. Without decision frameworks, passive procrastinators can spend more time deciding than doing, leading to delay and stress.
+Personal analysis paralysis creates procrastination by making every personal choice feel overwhelming. Without personal decision frameworks, passive procrastinators can spend more time deciding than doing in their personal lives, leading to delay and stress about personal goals.
 
-**Today's solution:** Simple, reliable decision frameworks that enable quick, confident choices and maintain forward momentum.
+**Today's solution:** Simple, reliable personal decision frameworks that enable quick, confident personal choices and maintain forward momentum in your personal life.
 
 ---
 

@@ -1,129 +1,123 @@
-# Day 3: Risk Management and Safety Nets
+# Day 3: Planning Personal Tasks Around Your Energy
 
-**Today's Focus:** Build protection systems for pressure-driven work
-**Time Commitment:** 20 minutes
-**Core Exercise:** Safety Net Development
+**Today's Focus:** Match your daily planning to your natural energy patterns
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Energy Planning System
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand your pressure patterns. You don't need pressure to be "bad" - you need to understand when and how it serves your best work.)*
+**Daily Questions:** *(These questions help you understand your personal productivity patterns. There's no right or wrong way to be productive - we're exploring what works for you.)*
 
-- **What task am I putting off until pressure builds?**  
-  *(Think of something you know you should start but haven't. This isn't procrastination if you're waiting for optimal timing - but notice what "optimal" means to you.)*
+- **What personal task have I been putting off?**  
+  *(Think of something in your personal life you know you should do but haven't - like organizing a space, calling someone, exercising, or working on a hobby.)*
 
-- **What level of pressure energizes vs. overwhelms me?**  
-  *(Pressure can feel like excitement, focus, or urgency. Too little feels boring, too much feels panicked. Where's your sweet spot?)*
+- **When do I feel most motivated and energized?**  
+  *(Notice what times of day, situations, or feelings help you want to get things done.)*
 
-- **How can I honor my natural rhythms while meeting commitments?**  
-  *(How can you work with your pressure needs instead of fighting them, while still being reliable to others?)*
+- **What makes boring tasks feel more interesting to me?**  
+  *(Music, timers, rewards, doing them with others, competition with yourself?)*
 
-*Urgency system check:*
-**How effective was your pressure creation technique yesterday?** ____________________
-
----
-
-## Main Exercise: Safety Net Development (15 minutes)
-
-**Purpose:** Create protective systems that allow safe pressure-driven work
-
-### Step 1: Risk Inventory for Pressure Work (5 minutes)
-
-Identify the main risks of your pressure-driven approach:
-
-**Quality risks:**
-- ____________________
-- ____________________
-
-**Deadline risks:**
-- ____________________
-- ____________________
-
-**Stress/health risks:**
-- ____________________
-- ____________________
-
-**Relationship/professional risks:**
-- ____________________
-- ____________________
-
-**Most concerning risk:** ____________________
-
-### Step 2: Safety Net Design (7 minutes)
-
-For each major risk, create a protective system:
-
-**For quality control:**
-□ Quick quality check template
-□ Peer review arrangements
-□ Minimum viable product standards
-□ Other: ____________________
-
-**For deadline protection:**
-□ Buffer time calculations
-□ Early warning checkpoints
-□ Emergency acceleration plans
-□ Other: ____________________
-
-**For stress management:**
-□ Pressure intensity monitoring
-□ Recovery/decompression practices
-□ Energy level tracking
-□ Other: ____________________
-
-**For professional safety:**
-□ Communication about work style
-□ Progress update systems
-□ Backup plan communication
-□ Other: ____________________
-
-### Step 3: Emergency Protocol Creation (3 minutes)
-
-**When pressure becomes overwhelming stress:**
-
-**Warning signs I'm in trouble:**
-1. ____________________
-2. ____________________
-3. ____________________
-
-**My emergency response plan:**
-1. ____________________
-2. ____________________
-3. ____________________
-
-**People I can reach out to:** ____________________
+*Motivation check:*
+**How did your motivation technique work yesterday?** ____________________
 
 ---
 
-## Safety Net Implementation (2 minutes)
+## Main Exercise: Personal Energy Planning (10 minutes)
 
-**Purpose:** Set up one protective system immediately
+**Purpose:** Learn to plan your personal tasks around when you naturally have energy for them
 
-Choose your most important upcoming deadline:
+### Step 1: Your Daily Energy Pattern (4 minutes)
 
-**Task/deadline:** ____________________
+**Map out your typical energy throughout a day:**
 
-**Primary risk:** ____________________
+**Morning (6am - 11am):**
+My energy is usually: High / Medium / Low
+I'm most motivated to do: ____________________
+I tend to avoid: ____________________
 
-**Safety net I'll implement:** ____________________
+**Midday (11am - 3pm):**
+My energy is usually: High / Medium / Low
+I'm most motivated to do: ____________________
+I tend to avoid: ____________________
 
-**When I'll set this up:** ____________________
+**Afternoon (3pm - 7pm):**
+My energy is usually: High / Medium / Low
+I'm most motivated to do: ____________________
+I tend to avoid: ____________________
+
+**Evening (7pm - bedtime):**
+My energy is usually: High / Medium / Low
+I'm most motivated to do: ____________________
+I tend to avoid: ____________________
+
+### Step 2: Task-Energy Matching (4 minutes)
+
+**Think about different types of personal tasks and when they feel easiest:**
+
+**High-energy tasks I should do when I feel most energized:**
+*(Examples: exercise, big cleaning projects, difficult phone calls)*
+- ____________________
+- ____________________
+
+**Medium-energy tasks I can do when I feel okay:**
+*(Examples: grocery shopping, light organizing, routine errands)*
+- ____________________
+- ____________________
+
+**Low-energy tasks I can do even when tired:**
+*(Examples: watching educational videos, gentle hobbies, easy planning)*
+- ____________________
+- ____________________
+
+### Step 3: Simple Daily Planning Strategy (2 minutes)
+
+**Create a simple approach to planning your personal tasks:**
+
+**My highest energy time is usually:** ____________________
+**I'll save this time for:** ____________________
+
+**My medium energy time is usually:** ____________________
+**I'll use this time for:** ____________________
+
+**My lowest energy time is usually:** ____________________
+**I'll use this time for:** ____________________
+
+**When I'm procrastinating on something, I'll ask:** 
+"Is this the right energy time for this task, or should I wait/switch to something else?"
+
+---
+
+## Energy Planning Practice (2 minutes)
+
+**Purpose:** Plan one personal task using your energy awareness
+
+**Personal task you want to complete this week:**
+____________________
+
+**What type of energy does this task need:** High / Medium / Low
+
+**Best time for you to do this based on your energy pattern:**
+____________________
+
+**How you'll make it easier if your energy is low that day:**
+____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**What safety net feels most important to implement?** ____________________
+**How does planning around your energy feel different from just trying to push through?** ____________________
 
-**How does having backup plans affect your confidence in using pressure?** ____________________
+**What time of day do you think will work best for personal tasks you've been avoiding?** ____________________
 
-**What would you add to your emergency protocol?** ____________________
+**What did you learn about your energy patterns today?** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll explore how to distinguish productive pressure from destructive stress.
+Tomorrow we'll explore how to recognize the difference between good motivation and overwhelming pressure.
 
-**Safety-First Pressure Thought:**
-*"I can work with high pressure because I have systems that keep me safe and ensure quality outcomes."*
+**Energy Planning Wisdom:**
+*"I can work with my natural energy patterns instead of fighting them."*

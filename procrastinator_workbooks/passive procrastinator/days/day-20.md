@@ -1,44 +1,49 @@
-# Day 20: Strategic Goal Setting - Aligning Systems with Ambitions
+# Day 20: Personal Strategic Goal Setting - Aligning Personal Systems with Personal Ambitions
 
-**Today's Focus:** Create sustainable goal-setting practices that support rather than overwhelm your systems
-**Time Commitment:** 20 minutes
-**Core Exercise:** System-Aligned Goal Framework
+**Today's Focus:** Create sustainable personal goal-setting practices that support rather than overwhelm your personal productivity
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal System-Aligned Goal Framework
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I avoiding due to feeling overwhelmed or disorganized?
-- What is one small organizational step I can take today?
-- How can I approach this with curiosity rather than judgment?
+**Daily Questions:** *(These questions help you understand how overwhelming personal goals create procrastination. Passive procrastination often happens when you have too many personal goals competing for attention. Remember: fewer personal goals pursued consistently beat many personal goals pursued sporadically.)*
 
-*Decision framework check-in:*
-**How did using decision frameworks speed up your choices yesterday?** ____________________
+- **What personal goal am I avoiding because I have too many other personal goals competing for my attention?**
+  *(Think of something important in your personal life you want to achieve but keep putting off because you're trying to work on too many other personal goals, projects, or improvements at the same time.)*
+
+- **What is one personal goal I can focus on primarily to make real progress?**
+  *(This should be something that matters to your personal growth and that you can realistically make progress on with your current personal productivity systems and available time.)*
+
+- **How can I approach personal goal-setting with focus rather than overwhelm?**
+  *(Instead of trying to improve everything about your personal life at once, try to see focused goal pursuit as a way to actually achieve meaningful personal change.)*
+
+*Personal decision framework check-in:*
+**How did using personal decision frameworks speed up your personal choices yesterday?** ____________________
 
 ---
 
-## Today's 3-2-1 Plan (3 minutes)
+## Today's 3-1-1 Personal Plan (2 minutes)
 
-**My 3 Main Priorities for Today:**
+**My 3 Personal Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 2 Quick Tasks (5 min each):**
-1. ____________________
-2. ____________________
+**My 1 Quick Personal Task (5-10 min):**
+____________________
 
-**My 1 Organizational Improvement:**
+**My 1 Personal Routine/Habit:**
 ____________________
 
 ---
 
-## The Goal Overwhelm Problem (2 minutes)
+## The Personal Goal Overwhelm Problem (2 minutes)
 
-Traditional goal-setting often creates procrastination by overwhelming your organizational systems with too many competing priorities. System-aligned goals work with your capacity rather than against it.
+Traditional personal goal-setting often creates procrastination by overwhelming your personal productivity systems with too many competing personal priorities. Personal system-aligned goals work with your personal capacity rather than against it.
 
-**Today's solution:** Strategic goal-setting that enhances your organizational systems rather than overloading them.
+**Today's solution:** Strategic personal goal-setting that enhances your personal productivity systems rather than overloading them.
 
 ---
 
@@ -161,20 +166,20 @@ How it fits my systems: ____________________
 
 ---
 
-## Week 3 Progress Review
+## Week 3 Personal Progress Review
 
-**In the past week, you've developed:**
-☐ Integrated organizational systems
-☐ Automatic organizational habits  
-☐ Stress-proof backup systems
-☐ Quick decision-making frameworks
-☐ Strategic goal-setting approaches
+**In the past week, you've developed personal productivity skills:**
+☐ Integrated personal productivity systems
+☐ Automatic personal productivity habits
+☐ Personal stress-proof backup systems
+☐ Quick personal decision-making frameworks
+☐ Strategic personal goal-setting approaches
 
-**My biggest transformation this week:** ____________________
+**My biggest personal transformation this week:** ____________________
 
-**What feels most sustainable:** ____________________
+**What personal skills feel most sustainable:** ____________________
 
-**What's become automatic:** ____________________
+**What personal habits have become automatic:** ____________________
 
 ---
 

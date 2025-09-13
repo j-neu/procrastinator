@@ -1,44 +1,49 @@
-# Day 14: Boundaries and No - Protecting Your Systems
+# Day 14: Personal Boundaries - Protecting Your Personal Productivity
 
-**Today's Focus:** Learn to say no and delegate to protect your organizational progress
-**Time Commitment:** 20 minutes
-**Core Exercise:** Boundary Setting Framework
+**Today's Focus:** Learn to set personal boundaries to protect your personal goals and energy
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Boundary Setting Framework
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I avoiding due to feeling overwhelmed or disorganized?
-- What is one small organizational step I can take today?
-- How can I approach this with curiosity rather than judgment?
+**Daily Questions:** *(These questions help you understand how poor personal boundaries affect your productivity. Passive procrastination often happens when you say yes to too many things and neglect personal goals. Remember: personal boundaries protect your capacity for what matters most to you.)*
 
-*Flexibility check-in:*
-**How did your flexible response protocols help yesterday?** ____________________
+- **What personal goal am I avoiding because I'm too busy with other people's requests?**
+  *(Think of something in your personal life you want to work on but keep putting off because you're always helping others, saying yes to social commitments, or taking on tasks that aren't really your responsibility.)*
+
+- **What is one personal boundary I can set to protect my time for personal goals?**
+  *(This could be saying no to a request, setting limits on help you give others, or protecting certain times for your personal priorities.)*
+
+- **How can I approach personal boundary-setting with confidence rather than guilt?**
+  *(Instead of feeling guilty about setting personal limits, try to see boundaries as necessary self-care that allows you to be more present and helpful when you do choose to engage.)*
+
+*Personal flexibility check-in:*
+**How did your personal flexible response protocols help yesterday?** ____________________
 
 ---
 
-## Today's 3-2-1 Plan (3 minutes)
+## Today's 3-1-1 Personal Plan (2 minutes)
 
-**My 3 Main Priorities for Today:**
+**My 3 Personal Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 2 Quick Tasks (5 min each):**
-1. ____________________
-2. ____________________
+**My 1 Quick Personal Task (5-10 min):**
+____________________
 
-**My 1 Organizational Improvement:**
+**My 1 Personal Routine/Habit:**
 ____________________
 
 ---
 
-## The Overcommitment Problem (2 minutes)
+## The Personal Overcommitment Problem (2 minutes)
 
-Passive procrastinators often say yes to everything, overwhelming their systems and triggering the chaos-avoidance cycle. Without boundaries, even the best organizational systems collapse under too much input.
+Passive procrastinators often say yes to everything, overwhelming their personal lives and making it impossible to focus on personal goals. Without personal boundaries, even the best personal productivity systems collapse under too many demands from others.
 
-**Today's solution:** Strategic boundary setting that protects your capacity and maintains your organizational progress.
+**Today's solution:** Strategic personal boundary setting that protects your capacity for personal growth and maintains your personal productivity progress.
 
 ---
 

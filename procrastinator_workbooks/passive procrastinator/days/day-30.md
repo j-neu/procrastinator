@@ -1,44 +1,49 @@
-# Day 30: Personal Manifesto - Defining Your Organizational Philosophy
+# Day 30: Personal Productivity Manifesto - Defining Your Personal Philosophy
 
-**Today's Focus:** Create your personal organizational manifesto and long-term vision for continued growth and mastery
-**Time Commitment:** 20 minutes
-**Core Exercise:** Personal Manifesto Creation and Future Vision Planning
+**Today's Focus:** Create your personal productivity manifesto and long-term vision for continued personal growth and mastery
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Productivity Manifesto Creation and Personal Future Vision Planning
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I avoiding due to feeling overwhelmed or disorganized?
-- What is one small organizational step I can take today?
-- How can I approach this with curiosity rather than judgment?
+**Daily Questions:** *(These questions help you understand how to create a personal philosophy that guides your continued productivity growth. Passive procrastination can return without clear personal principles and vision. Remember: a personal manifesto becomes your North Star for all future personal productivity decisions.)*
 
-*Organizational leadership check-in:*
-**How did stepping into organizational leadership feel yesterday?** ____________________
+- **What do I now believe about personal productivity and personal growth that I didn't believe 30 days ago?**
+  *(Think about how your understanding of personal productivity, personal goals, and personal development has changed through this journey, and what core beliefs now guide your approach to your personal life.)*
+
+- **What is one personal principle I want to commit to that will guide my personal productivity decisions going forward?**
+  *(This could be a principle about how you approach personal goals, how you handle personal setbacks, how you balance personal productivity with personal well-being, or how you make personal decisions.)*
+
+- **How can I approach creating my personal productivity philosophy with authenticity rather than perfection?**
+  *(Instead of trying to create the perfect manifesto, try to capture what feels true to your personal experience and what will genuinely guide you in your continued personal growth.)*
+
+*Personal inspiration check-in:*
+**How did sharing your personal transformation feel yesterday?** ____________________
 
 ---
 
-## Today's 3-2-1 Plan (3 minutes)
+## Today's 3-1-1 Personal Plan (2 minutes)
 
-**My 3 Main Priorities for Today:**
+**My 3 Personal Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 2 Quick Tasks (5 min each):**
-1. ____________________
-2. ____________________
+**My 1 Quick Personal Task (5-10 min):**
+____________________
 
-**My 1 Organizational Improvement:**
+**My 1 Personal Routine/Habit:**
 ____________________
 
 ---
 
-## The Philosophy Foundation (2 minutes)
+## The Personal Philosophy Foundation (2 minutes)
 
-A personal organizational manifesto serves as your North Star - a clear articulation of your beliefs, values, and commitments around organization that guides decisions and maintains motivation during challenging times.
+A personal productivity manifesto serves as your North Star - a clear articulation of your beliefs, values, and commitments around personal productivity that guides personal decisions and maintains motivation during challenging times.
 
-**Today's goal:** Create a powerful personal manifesto that captures your organizational philosophy and provides direction for your continued growth journey.
+**Today's goal:** Create a powerful personal manifesto that captures your personal productivity philosophy and provides direction for your continued personal growth journey.
 
 ---
 

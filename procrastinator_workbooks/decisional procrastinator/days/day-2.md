@@ -1,34 +1,31 @@
 # Day 2: The Information Trap
 
-**Today's Focus:** Learn when you have "enough" information to decide
-**Time Commitment:** 20 minutes
-**Core Exercise:** Information Sufficiency Assessment
+**Today's Focus:** Learn when you have "enough" information to make personal productivity decisions
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Information Sufficiency Assessment
 
 ---
 
-## Morning Check-in (2 minutes)
+## Morning Check-in (1 minute)
 
-**Daily Questions:** *(These questions help you understand your decision-making patterns. Many decisional procrastinators feel stuck because they want to make the "perfect" choice - but remember, good decisions are often better than perfect ones.)*
+**Daily Questions:** *(Focus on personal productivity choices you can make today with the information you already have.)*
 
-- **What decision am I avoiding today and why is it difficult?**  
-  *(Think of a specific choice you need to make but haven't. The difficulty might be too many options, fear of choosing wrong, or wanting more information before deciding.)*
+- **What personal productivity decision am I avoiding today?**  
+  *(Think of a choice about your daily routine, habits, or personal goals that you've been researching but not deciding on.)*
 
-- **What is one small choice I can make confidently?**  
-  *(Pick something small and relatively low-stakes. Decision-making is a skill that gets stronger with practice, so start with easier choices.)*
-
-- **How can I show myself patience with my decision-making process?**  
-  *(Remember that learning to decide with incomplete information takes practice. What would you say to a friend learning this skill?)*
+- **What is one small personal choice I can make with my current knowledge?**  
+  *(Pick something about your day, workspace, or habits that doesn't require perfect information.)*
 
 *Decision patterns from yesterday:*
 **What did you notice about your decision triggers yesterday?** ____________________
 
 ---
 
-## Why "More Information" Becomes a Trap (3 minutes)
+## Why "More Information" Becomes a Personal Productivity Trap (2 minutes)
 
-Decisional procrastinators often believe they need more data, more research, or more certainty before choosing. But research shows that beyond a certain point, additional information doesn't improve decision quality—it just increases anxiety and delay.
+You often believe you need more research about productivity methods, more certainty about outcomes, or more data about "the best" approach before choosing. But research shows that beyond a certain point, additional information doesn't improve personal decisions—it just increases anxiety and delay.
 
-**Think of a decision you're currently avoiding:**
+**Think of a personal productivity decision you're currently avoiding:**
 ____________________
 
 **What information are you waiting to get before deciding?**
@@ -36,38 +33,37 @@ ____________________
 - ____________________
 - ____________________
 
-**How long have you been waiting for this information?** ____________________
+**How long have you been researching this personal choice?** ____________________
 
-**Is this information realistic to obtain? Or are you waiting for certainty that doesn't exist?**
+**Is this information realistic to obtain? Or are you waiting for certainty about personal outcomes that doesn't exist?**
 ____________________
 
 ---
 
-## Main Exercise: Information Sufficiency Check (12 minutes)
+## Main Exercise: Personal Information Sufficiency Check (10 minutes)
 
-### Step 1: The 70% Rule (4 minutes)
+### Step 1: The 70% Rule for Personal Decisions (3 minutes)
 
-Research suggests that most good decisions can be made with 70% of the information we'd ideally want.
+Research suggests that most good personal productivity decisions can be made with 70% of the information you'd ideally want.
 
-**Your avoided decision:** ____________________
+**Your avoided personal decision:** ____________________
 
-**List everything you already know about this choice:**
+**List everything you already know about this personal choice:**
 1. ____________________
 2. ____________________
 3. ____________________
 4. ____________________
-5. ____________________
 
-**What you still don't know:**
+**What you still don't know about personal outcomes:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Estimate: What percentage of "ideal" information do you actually have?** ____%
+**Estimate: What percentage of "ideal" information do you actually have for this personal decision?** ____%
 
-### Step 2: Information Categorization (4 minutes)
+### Step 2: Personal Information Categorization (3 minutes)
 
-**Sort your "missing" information:**
+**Sort your "missing" personal information:**
 
 **Category 1 - Obtainable with reasonable effort:**
 - ____________________
@@ -81,7 +77,7 @@ Research suggests that most good decisions can be made with 70% of the informati
 - ____________________
 - ____________________
 
-### Step 3: Good Enough Decision Framework (4 minutes)
+### Step 3: Good Enough Personal Decision Framework (4 minutes)
 
 **For Category 1 (reasonable effort) information:**
 - **Time limit for gathering this:** ____ hours/days
@@ -90,25 +86,25 @@ Research suggests that most good decisions can be made with 70% of the informati
 **For Categories 2 & 3 (excessive effort or unknowable):**
 - **I will make my decision without this information because:** ____________________
 
-**Decision criteria - A "good enough" choice for this decision would need to:**
+**Personal decision criteria - A "good enough" choice for this personal decision would need to:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Given what I know right now, which option(s) meet these criteria?**
+**Given what I know right now, which personal option(s) meet these criteria?**
 ____________________
 
 ---
 
-## Information Gathering Time Box (2 minutes)
+## Personal Information Gathering Time Box (1 minute)
 
-**Purpose:** Put boundaries around research to prevent endless analysis
+**Purpose:** Put boundaries around personal research to prevent endless analysis
 
-**For your current avoided decision:**
-- **Information I will gather:** ____________________
-- **Time limit for gathering it:** ______ (maximum 2 hours total)
-- **When I will make the decision regardless:** ______ (date/time)
-- **My decision-making deadline:** ____________________
+**For your current avoided personal decision:**
+- **Personal information I will gather:** ____________________
+- **Time limit for gathering it:** ______ (maximum 1 hour total)
+- **When I will make the personal decision regardless:** ______ (date/time)
+- **My personal decision deadline:** ____________________
 
 **Set a timer/reminder for your decision deadline right now.**
 
@@ -116,19 +112,19 @@ ____________________
 
 ## Evening Reflection (1 minute)
 
-**What surprised you about how much information you already have?**
+**What surprised you about how much personal information you already have?**
 ____________________
 
-**What's one piece of "unknowable" information you've been waiting for?**
+**What's one piece of "unknowable" personal outcome you've been waiting for?**
 ____________________
 
-**How does it feel to set a decision deadline?**
+**How does it feel to set a personal decision deadline?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll practice making decisions with time limits to break the analysis paralysis cycle.
+Tomorrow we'll practice making personal decisions with time limits to break the analysis paralysis cycle.
 
-**Information Wisdom Thought:**
-*"Perfect information doesn't exist. Good enough information leads to good enough progress."*
+**Personal Information Wisdom Thought:**
+*"Perfect information about personal productivity doesn't exist. Good enough information leads to good enough personal progress."*

@@ -1,43 +1,40 @@
 # Day 1: Mapping Your Decision Paralysis - The Foundation
 
-**Today's Focus:** Identify the specific patterns in your decision-making struggles
-**Time Commitment:** 20 minutes
-**Core Exercise:** Decision Paralysis Inventory
+**Today's Focus:** Identify the specific patterns in your personal decision-making struggles
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Decision Paralysis Inventory
 
 ---
 
-## Morning Check-in (2 minutes)
+## Morning Check-in (1 minute)
 
-**Daily Questions:** *(These questions help you understand your decision-making patterns. Many decisional procrastinators feel stuck because they want to make the "perfect" choice - but remember, good decisions are often better than perfect ones.)*
+**Daily Questions:** *(These questions help you understand your personal decision-making patterns. Focus on everyday choices that affect your productivity and personal goals.)*
 
-- **What decision am I avoiding today and why is it difficult?**  
-  *(Think of a specific choice you need to make but haven't. The difficulty might be too many options, fear of choosing wrong, or wanting more information before deciding.)*
+- **What personal task or goal am I avoiding choosing today?**  
+  *(Think of something in your daily life - organizing your schedule, starting a personal project, or deciding on a routine.)*
 
-- **What is one small choice I can make confidently?**  
-  *(Pick something small and relatively low-stakes. Decision-making is a skill that gets stronger with practice, so start with easier choices.)*
-
-- **How can I show myself patience with my decision-making process?**  
-  *(Remember that learning to decide with incomplete information takes practice. What would you say to a friend learning this skill?)*
+- **What is one small personal choice I can make confidently right now?**  
+  *(Pick something simple about your day or personal habits. Build your decision-making muscle with low-stakes practice.)*
 
 *Write your responses here:*
 ```
-Decision I'm avoiding today: ____________________
+Personal task/goal I'm avoiding: ____________________
 
 What makes it difficult: ____________________
 
-One small choice I can make: ____________________
+One small choice I can make today: ____________________
 ```
 
 ---
 
-## Main Exercise: Decision Paralysis Inventory (15 minutes)
+## Main Exercise: Personal Decision Paralysis Inventory (12 minutes)
 
-**Purpose:** Map the specific patterns that cause your decision-making paralysis
+**Purpose:** Map the specific patterns that cause your personal decision-making paralysis
 
-**What is "Decision Paralysis"?** This is when you get stuck between options, unable to move forward because you're afraid of choosing wrong, want perfect information, or feel overwhelmed by possibilities. It's different from procrastination - you want to decide, but something keeps you stuck in analysis mode.
+**What is "Personal Decision Paralysis"?** This is when you get stuck choosing between personal options - what to work on first, which habit to build, how to organize your day, or which personal goal to pursue. You want to make progress, but something keeps you stuck in analysis mode about your own life and productivity.
 
-### Step 1: Current Decision Avoidance (5 minutes)
-Think about decisions you've been putting off. List 3-5 specific choices:
+### Step 1: Current Personal Decision Avoidance (3 minutes)
+Think about personal productivity decisions you've been putting off. List 3-5 specific choices:
 
 1. ____________________
 2. ____________________
@@ -45,56 +42,56 @@ Think about decisions you've been putting off. List 3-5 specific choices:
 4. ____________________
 5. ____________________
 
-### Step 2: Analyze Your Decision Patterns (10 minutes)
-For each delayed decision, complete this framework:
+### Step 2: Analyze Your Personal Decision Patterns (7 minutes)
+For each delayed personal decision, complete this framework:
 
-**Decision:** ____________________
-**What specifically makes this choice difficult?**
-- Too many options?
-- Fear of making the wrong choice?
-- Unclear outcomes?
-- Perfectionism (waiting for the "best" option)?
+**Personal Decision:** ____________________
+**What specifically makes this personal choice difficult?**
+- Too many productivity methods to choose from?
+- Fear of choosing the "wrong" approach?
+- Unclear personal outcomes?
+- Perfectionism (waiting for the "perfect" system)?
 - Other: ____________________
 
-**What would happen if I made any reasonable choice today?**
+**What would happen if I made any reasonable choice about this today?**
 - ____________________
 
-**How likely is it that any of these options would be truly catastrophic? (1-10 scale)** ____ *(1=almost impossible, 5=might be problematic, 10=would be disastrous)*
+**How likely is it that any of these personal choices would be truly harmful to my progress? (1-10 scale)** ____ *(1=almost impossible, 5=might slow progress, 10=would be seriously damaging)*
 
-**Decision:** ____________________
-**What specifically makes this choice difficult?**
-- Too many options?
-- Fear of making the wrong choice?
-- Unclear outcomes?
-- Perfectionism (waiting for the "best" option)?
+**Personal Decision:** ____________________
+**What specifically makes this personal choice difficult?**
+- Too many productivity methods to choose from?
+- Fear of choosing the "wrong" approach?
+- Unclear personal outcomes?
+- Perfectionism (waiting for the "perfect" system)?
 - Other: ____________________
 
-**What would happen if I made any reasonable choice today?**
+**What would happen if I made any reasonable choice about this today?**
 - ____________________
 
-**How likely is it that any of these options would be truly catastrophic? (1-10 scale)** ____ *(1=almost impossible, 5=might be problematic, 10=would be disastrous)*
+**How likely is it that any of these personal choices would be truly harmful to my progress? (1-10 scale)** ____ *(1=almost impossible, 5=might slow progress, 10=would be seriously damaging)*
 
-### Step 3: Your Decision-Making Triggers
-**I tend to get stuck in analysis paralysis when:**
-□ There are more than 3 options
-□ The decision feels permanent or hard to change
-□ I don't have all the information I want
-□ Others might judge my choice
-□ I'm worried about missing out on a better option
-□ The stakes feel high
+### Step 3: Your Personal Decision-Making Triggers (2 minutes)
+**I tend to get stuck in analysis paralysis about personal choices when:**
+□ There are multiple productivity methods to choose from
+□ The choice feels like it will define my whole routine
+□ I don't know enough about the "best" approach
+□ I worry others will think my choice is wrong
+□ I'm worried about missing out on a better system
+□ I feel like my personal success depends on this choice
 □ Other: ____________________
 
 ---
 
-## Single Decision Commitment (2 minutes)
+## Single Personal Decision Commitment (1 minute)
 
-**Purpose:** Build momentum with one small choice
+**Purpose:** Build momentum with one small personal choice
 
-Choose ONE minor decision (that affects only today) you can make right now:
+Choose ONE minor personal decision (that affects only today) you can make right now:
 
-**My commitment for today:** ____________________
+**My personal commitment for today:** ____________________
 
-**Why this choice is "good enough":** ____________________
+**Why this choice is "good enough" for my progress:** ____________________
 
 **When I will act on this decision:** ____________________
 
@@ -106,12 +103,12 @@ Choose ONE minor decision (that affects only today) you can make right now:
 
 **How did it feel to make that choice?** ____________________
 
-**What did you learn about your decision-making today?** ____________________
+**What did you learn about your personal decision-making today?** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll explore how much information is actually "enough" to make good decisions.
+Tomorrow we'll explore how much information is actually "enough" to make good personal productivity decisions.
 
-**Decision-Making Thought:**
-*"I don't need perfect information to make good enough choices. I can decide with what I know."*
+**Personal Decision-Making Thought:**
+*"I don't need perfect information to make good enough choices about my personal productivity. I can decide and adjust as I learn."*

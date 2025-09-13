@@ -1,153 +1,152 @@
 # Day 29: Decision Legacy - Shaping Your Future Self
 
-**Today's Focus:** Make choices that create the person you want to become
-**Time Commitment:** 20 minutes
+**Today's Focus:** Make personal choices that create the person you want to become
+**Time Commitment:** 15 minutes
 **Core Exercise:** Future Self Decision Alignment
 
 ---
 
-## Morning Check-in (2 minutes)
+## Morning Check-in (1 minute)
 
 **Daily Questions:**
-- What decision am I avoiding today and why is it difficult?
-- What is one small choice I can make confidently?
-- How can I show yourself patience with my decision-making process?
+- What personal productivity decision am I avoiding today?
+- What is one small personal choice I can make confidently right now?
 
-*Strategic timing practice:*
-**Have you applied strategic patience to any decisions, or moved forward on ones you were over-thinking?** ____________________
+*Personal strategic timing practice:*
+**Have you applied personal strategic patience to any personal decisions, or moved forward on personal ones you were over-thinking?** ____________________
 
 ---
 
-## Decisions as Identity Creation (3 minutes)
+## Personal Decisions as Identity Creation (2 minutes)
 
-Every decision is a vote for who you want to become. Your choices don't just solve problems—they shape your character, capabilities, and life trajectory. Legacy thinking transforms decision-making from problem-solving to identity creation.
+Every personal decision is a vote for who you want to become personally. Your personal choices don't just solve problems—they shape your character, capabilities, and personal life trajectory. Personal legacy thinking transforms personal decision-making from problem-solving to identity creation.
 
-**Your decision-making has been shaping you:**
+**Your personal decision-making has been shaping you:**
 
 **Looking back over the past year:**
-**What kind of person do your decisions suggest you're becoming?** ____________________
+**What kind of person do your personal decisions suggest you're becoming?** ____________________
 
-**What pattern do you see in your choices?** ____________________
+**What personal pattern do you see in your choices?** ____________________
 
-**What future self are your current decisions creating?** ____________________
+**What future self are your current personal decisions creating?** ____________________
 
-**Is this the person you want to become?** Yes/No
+**Is this the person you personally want to become?** Yes/No
 
-**If not, what would need to change in your decision-making?** ____________________
+**If not, what would need to change in your personal decision-making?** ____________________
 
 ---
 
-## Main Exercise: Future Self Decision Framework (13 minutes)
+## Main Exercise: Personal Future Self Decision Framework (10 minutes)
 
-### Step 1: Future Self Visioning (4 minutes)
+### Step 1: Personal Future Self Visioning (3 minutes)
 
-**Imagine yourself 5 years from now, having become your best version:**
+**Imagine yourself 5 years from now, having personally become your best version:**
 
-**Your future self characteristics:**
-- **Values you embody:** ____________________
-- **Capabilities you've developed:** ____________________
-- **Relationships you've cultivated:** ____________________
-- **Contributions you're making:** ____________________
-- **How you spend your time:** ____________________
-- **What you're known for:** ____________________
+**Your personal future self characteristics:**
+- **Personal values you embody:** ____________________
+- **Personal capabilities you've developed:** ____________________
+- **Personal relationships you've cultivated:** ____________________
+- **Personal contributions you're making:** ____________________
+- **How you personally spend your time:** ____________________
+- **What you're personally known for:** ____________________
 
-**Your future self's decision-making style:**
-- **How they approach choices:** ____________________
-- **What they prioritize:** ____________________
-- **What they no longer struggle with:** ____________________
+**Your future self's personal decision-making style:**
+- **How they personally approach choices:** ____________________
+- **What they personally prioritize:** ____________________
+- **What they no longer personally struggle with:** ____________________
 
-### Step 2: Decision Legacy Assessment (4 minutes)
+### Step 2: Personal Decision Legacy Assessment (3 minutes)
 
-**For major decisions you're currently facing:**
+**For major personal decisions you're currently facing:**
 
-**Decision 1:** ____________________
+**Personal Decision 1:** ____________________
 
-**Future self questions:**
-- **Which choice would your future self be most proud of?** ____________________
-- **Which option builds capabilities you want to develop?** ____________________
-- **Which choice moves you toward becoming who you want to be?** ____________________
-- **What would this decision teach you?** ____________________
+**Personal future self questions:**
+- **Which personal choice would your future self be most proud of?** ____________________
+- **Which personal option builds capabilities you want to develop?** ____________________
+- **Which personal choice moves you toward becoming who you want to be?** ____________________
+- **What would this personal decision teach you?** ____________________
 
-**Decision 2:** ____________________
+**Personal Decision 2:** ____________________
 
-**Future self questions:**
-- **Which choice aligns with your future self's values?** ____________________
-- **Which option creates the most growth opportunity?** ____________________
-- **Which choice would you regret NOT taking?** ____________________
-- **How would your future self view this decision?** ____________________
+**Personal future self questions:**
+- **Which personal choice aligns with your future self's values?** ____________________
+- **Which personal option creates the most growth opportunity?** ____________________
+- **Which personal choice would you regret NOT taking?** ____________________
+- **How would your personal future self view this decision?** ____________________
 
-### Step 3: Identity-Based Decision Making (3 minutes)
+### Step 3: Personal Identity-Based Decision Making (2 minutes)
 
-**Transform decision criteria from outcome-based to identity-based:**
+**Transform personal decision criteria from outcome-based to identity-based:**
 
-**Instead of asking:** "What will give me the best outcome?"
-**Ask:** "What would the person I want to become choose?"
+**Instead of asking:** "What will give me the best personal outcome?"
+**Ask:** "What would the person I want to personally become choose?"
 
-**Instead of asking:** "What's safest or most comfortable?"  
-**Ask:** "What choice develops the character I want to build?"
+**Instead of asking:** "What's personally safest or most comfortable?"  
+**Ask:** "What personal choice develops the character I want to build?"
 
-**Instead of asking:** "What do others expect or approve of?"
-**Ask:** "What honors my authentic values and vision?"
+**Instead of asking:** "What do others expect or approve of personally?"
+**Ask:** "What honors my authentic personal values and vision?"
 
-**Apply identity-based thinking:**
+**Apply personal identity-based thinking:**
 
-**Current decision:** ____________________
+**Current personal decision:** ____________________
 
-**Outcome-based thinking says:** ____________________
-**Identity-based thinking says:** ____________________
-**The difference:** ____________________
+**Personal outcome-based thinking says:** ____________________
+**Personal identity-based thinking says:** ____________________
+**The personal difference:** ____________________
 
-### Step 4: Legacy Decision Principles (2 minutes)
+### Step 4: Personal Legacy Decision Principles (2 minutes)
 
-**Your decision legacy framework:**
+**Your personal decision legacy framework:**
 
-**I will choose options that:**
-□ Build capabilities rather than just solve problems
-□ Align with my values even when it's difficult  
-□ Create opportunities for growth and learning
-□ Contribute to something larger than myself
-□ Model the character I want to develop
-□ Honor my future self's priorities
+**I will personally choose options that:**
+□ Build personal capabilities rather than just solve problems
+□ Align with my personal values even when it's difficult  
+□ Create personal opportunities for growth and learning
+□ Contribute to my personal development
+□ Model the personal character I want to develop
+□ Honor my personal future self's priorities
 
-**Your top 3 legacy decision principles:**
+**Your top 3 personal legacy decision principles:**
 1. ____________________
 2. ____________________  
 3. ____________________
 
-**Your decision legacy statement:**
-"Through my choices, I am creating a person who ____________________"
+**Your personal decision legacy statement:**
+"Through my personal choices, I am creating a person who ____________________"
 
 ---
 
-## Legacy Decision Practice (1 minute)
+## Personal Legacy Decision Practice (1 minute)
 
-**Make one decision today based on legacy thinking:**
+**Make one personal decision today based on personal legacy thinking:**
 
-**Decision:** ____________________
-**Choice based on immediate outcomes:** ____________________
-**Choice based on future self alignment:** ____________________
-**Your legacy-based choice:** ____________________
+**Personal Decision:** ____________________
+**Personal choice based on immediate outcomes:** ____________________
+**Personal choice based on future self alignment:** ____________________
+**Your personal legacy-based choice:** ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How does thinking about decision legacy change what feels important vs. unimportant?**
+**How does thinking about personal decision legacy change what feels personally important vs. unimportant?**
 ____________________
 
-**What kind of person are your recent decisions creating?**
+**What kind of person are your recent personal decisions creating?**
 ____________________
 
-**What decision would your future self thank you for making now?**
+**What personal decision would your future self thank you for making now?**
 ____________________
 
-**How might legacy thinking transform your approach to difficult choices?**
+**How might personal legacy thinking transform your approach to difficult personal choices?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow is your final integration day before graduation.
+Tomorrow is your final personal integration day before graduation.
 
-**Decision Legacy Thought:**
-*"Every choice I make is a vote for who I'm becoming. I choose with intention, creating the person I want to be through the decisions I make today."*
+**Personal Decision Legacy Thought:**
+*"Every personal choice I make is a vote for who I'm personally becoming. I choose personally with intention, creating the person I want to be through the personal decisions I make today."*

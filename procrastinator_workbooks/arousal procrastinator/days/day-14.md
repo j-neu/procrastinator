@@ -1,129 +1,123 @@
-# Day 14: Quality Assurance Under Pressure
+# Day 14: Doing Personal Tasks with Care (Not Perfectionism)
 
-**Today's Focus:** Maintain high quality while working under pressure
-**Time Commitment:** 20 minutes
-**Core Exercise:** Pressure Quality Systems Development
+**Today's Focus:** Learn to do personal tasks well without getting stuck in perfectionism
+**Time Commitment:** 15 minutes
+**Core Exercise:** Good Enough Standards for Personal Tasks
 
 ---
 
 ## Morning Check-in (2 minutes)
 
 **Daily Questions:**
-- What task am I putting off until pressure builds?
-- What level of pressure energizes vs. overwhelms me?
-- How can I honor my natural rhythms while meeting commitments?
+- What personal task have I been putting off?
+- When do I feel most motivated and energized?
+- What makes boring tasks feel more interesting to me?
 
-*Communication practice check:*
-**Have you had any opportunities to communicate your work style? How did it go?** ____________________
+*Setback recovery check:*
+**How did practicing setback recovery feel yesterday?** ____________________
 
 ---
 
-## Main Exercise: Pressure Quality Systems (15 minutes)
+## Main Exercise: Good Enough Standards for Personal Tasks (10 minutes)
 
-**Purpose:** Develop systems that ensure quality in high-pressure work
+**Purpose:** Learn to do personal tasks with care while avoiding perfectionism that leads to avoidance
 
-### Step 1: Quality Risk Assessment (5 minutes)
+### Step 1: Understanding Your Perfectionism Patterns (3 minutes)
 
-**When working under pressure, what quality issues arise:**
+**Think about personal tasks you avoid because of perfectionism:**
 
-**Common mistakes you make:**
+**Tasks you put off because they need to be "perfect":**
+□ Organizing/decluttering (it has to be completely perfect)
+□ Creative projects (they have to be amazing)
+□ Communication (emails, calls have to be perfectly worded)
+□ Exercise routines (have to be the perfect workout)
+□ Health habits (diet has to be perfect)
+□ Other: ____________________
+
+**What perfectionism thoughts sound like in your head:**
 - ____________________
 - ____________________
-- ____________________
 
-**What gets overlooked:**
-- ____________________
-- ____________________
-
-**Quality standards that slip:**
+**How perfectionism hurts your productivity:**
 - ____________________
 - ____________________
 
-**Your highest quality risks under pressure:**
-1. ____________________
+### Step 2: Good Enough Standards (5 minutes)
+
+**Create realistic standards that feel caring but doable:**
+
+**For organizing/cleaning tasks:**
+Perfectionist standard: ____________________
+Good enough standard: *(Example: "Tidy enough that I feel peaceful in the space")*
+____________________
+
+**For creative or personal projects:**
+Perfectionist standard: ____________________
+Good enough standard: *(Example: "Done with care and effort, doesn't have to be masterpiece")*
+____________________
+
+**For communication tasks:**
+Perfectionist standard: ____________________
+Good enough standard: *(Example: "Clear, kind, and sent - doesn't have to be perfect")*
+____________________
+
+**For health and self-care:**
+Perfectionist standard: ____________________
+Good enough standard: *(Example: "Taking care of myself consistently, not perfectly")*
+____________________
+
+### Step 3: Care vs. Perfectionism Guidelines (2 minutes)
+
+**Learn to tell the difference between caring and perfectionism:**
+
+**Caring feels like:**
+- ____________________
+- ____________________
+
+**Perfectionism feels like:**
+- ____________________
+- ____________________
+
+**When I notice perfectionism, I'll ask myself:**
+1. "What would good enough look like here?"
 2. ____________________
 3. ____________________
 
-### Step 2: Quality Protection Systems (7 minutes)
-
-**Quick quality check protocols:**
-
-**Before starting pressure work:**
-□ Clarify success criteria
-□ Identify minimum viable quality
-□ Set up review checkpoints
-□ Other: ____________________
-
-**During pressure work:**
-□ Micro-quality checks every _____ minutes
-□ Template/checklist usage
-□ Peer/expert consultation
-□ Other: ____________________
-
-**After pressure work completion:**
-□ Cool-down quality review
-□ External perspective check
-□ Error-prone area double-check
-□ Other: ____________________
-
-**Quality assurance tools:**
-Templates: ____________________
-Checklists: ____________________
-Review partners: ____________________
-Quality standards reference: ____________________
-
-### Step 3: Pressure-Quality Balance Strategy (3 minutes)
-
-**Your quality-pressure optimization approach:**
-
-**When pressure is moderate:**
-Quality approach: ____________________
-
-**When pressure is high:**
-Quality approach: ____________________
-
-**When pressure is extreme:**
-Quality approach: ____________________
-
-**Your quality non-negotiables (never compromise on):**
-1. ____________________
-2. ____________________
-
-**Acceptable quality trade-offs under pressure:**
+**My reminder for when perfectionism is blocking me:**
 ____________________
 
 ---
 
-## Quality System Implementation (2 minutes)
+## Good Enough Practice (2 minutes)
 
-**Purpose:** Set up one quality assurance system
+**Purpose:** Practice using good enough standards on a real task
 
-**Next pressure work session, you'll implement:**
+**Personal task you've been avoiding due to perfectionism:**
 ____________________
 
-**Quality check you'll build into your process:**
+**What the perfectionist approach would look like:**
 ____________________
 
-**How you'll remember to use this system:**
+**What good enough would look like:**
 ____________________
 
-**Success metric for quality maintenance:**
+**One small action you'll take today using the good enough standard:**
 ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How does having quality systems change your confidence in pressure work?** ____________________
+**How does having "good enough" standards change your approach to personal tasks?** ____________________
 
-**Which quality protection method feels most important for you?** ____________________
+**What's the difference between caring and perfectionism for you?** ____________________
 
-**What would make quality assurance easier in high-pressure situations?** ____________________
+**What would you tell someone else who struggles with perfectionism?** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll work on optimizing your pressure performance for different types of tasks.
+Tomorrow we'll practice matching different motivation strategies to different types of personal tasks.
 
-**Quality Confidence Thought:**
-*"I can maintain high standards even under pressure because I have systems that protect quality while honoring my need for urgency."*
+**Good Enough Wisdom:**
+*"I can do personal tasks with care and quality without needing them to be perfect. Good enough done is better than perfect never started."*

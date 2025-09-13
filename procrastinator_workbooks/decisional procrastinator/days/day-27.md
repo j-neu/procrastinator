@@ -1,169 +1,168 @@
 # Day 27: Decision-Making Under Extreme Uncertainty
 
-**Today's Focus:** Navigate choices when the future is highly unpredictable
-**Time Commitment:** 20 minutes
+**Today's Focus:** Navigate personal choices when the future is highly unpredictable
+**Time Commitment:** 15 minutes
 **Core Exercise:** Uncertainty Navigation Framework
 
 ---
 
-## Morning Check-in (2 minutes)
+## Morning Check-in (1 minute)
 
 **Daily Questions:**
-- What decision am I avoiding today and why is it difficult?
-- What is one small choice I can make confidently?
-- How can I show yourself patience with my decision-making process?
+- What personal productivity decision am I avoiding today?
+- What is one small personal choice I can make confidently right now?
 
-*Domain systems:*
-**Have you started applying domain-specific decision frameworks?** ____________________
-
----
-
-## Extreme Uncertainty vs. Normal Uncertainty (2 minutes)
-
-Some decisions involve extreme uncertainty where traditional analysis fails. These require different approaches focused on adaptability and resilience rather than optimization.
-
-**Extreme uncertainty characteristics:**
-□ Multiple unknown variables
-□ Rapidly changing circumstances  
-□ No historical precedent
-□ Unpredictable external factors
-□ Long-term consequences unclear
-□ Expert opinions conflicting
-
-**Current decision with extreme uncertainty:** ____________________
-
-**What makes this extremely uncertain?**
-____________________
-
-**Normal decision-making approaches that don't work here:**
-____________________
+*Personal domain systems:*
+**Have you started applying personal domain-specific decision frameworks?** ____________________
 
 ---
 
-## Main Exercise: Extreme Uncertainty Navigation (14 minutes)
+## Personal Extreme Uncertainty vs. Normal Uncertainty (2 minutes)
 
-### Step 1: Uncertainty Assessment (3 minutes)
+Some personal decisions involve extreme uncertainty where traditional personal analysis fails. These require different personal approaches focused on personal adaptability and resilience rather than optimization.
 
-**Your extremely uncertain decision:** ____________________
+**Personal extreme uncertainty characteristics:**
+□ Multiple unknown personal variables
+□ Rapidly changing personal circumstances  
+□ No personal historical precedent
+□ Unpredictable personal external factors
+□ Long-term personal consequences unclear
+□ Expert opinions about your personal situation conflicting
 
-**Known unknowns (things you know you don't know):**
+**Current personal decision with extreme uncertainty:** ____________________
+
+**What makes this personally extremely uncertain?**
+____________________
+
+**Normal personal decision-making approaches that don't work here:**
+____________________
+
+---
+
+## Main Exercise: Personal Extreme Uncertainty Navigation (10 minutes)
+
+### Step 1: Personal Uncertainty Assessment (2 minutes)
+
+**Your extremely uncertain personal decision:** ____________________
+
+**Personal known unknowns (things you know you don't personally know):**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Unknown unknowns (potential surprises you can't predict):**
-- **What could completely change the situation?** ____________________
-- **What are you assuming will stay constant?** ____________________
-- **What "black swan" events could occur?** ____________________
+**Personal unknown unknowns (potential personal surprises you can't predict):**
+- **What could completely change your personal situation?** ____________________
+- **What are you personally assuming will stay constant?** ____________________
+- **What "black swan" events could personally occur?** ____________________
 
-**Uncertainty timeline:**
-**How long until you'll have better information?** ____________________
-**Can you afford to wait that long?** Yes/No
+**Personal uncertainty timeline:**
+**How long until you'll have better personal information?** ____________________
+**Can you personally afford to wait that long?** Yes/No
 
-### Step 2: Antifragile Decision Framework (4 minutes)
+### Step 2: Personal Antifragile Decision Framework (3 minutes)
 
-**Instead of trying to predict, focus on resilience:**
+**Instead of trying to personally predict, focus on personal resilience:**
 
-**Option evaluation for extreme uncertainty:**
+**Personal option evaluation for extreme uncertainty:**
 
-**Option 1:** ____________________
-- **Best case scenario:** ____________________
-- **Worst case scenario:** ____________________
-- **How easy to reverse/modify:** ____________________
-- **How well positions you for unexpected opportunities:** ____________________
+**Personal Option 1:** ____________________
+- **Personal best case scenario:** ____________________
+- **Personal worst case scenario:** ____________________
+- **How easy to personally reverse/modify:** ____________________
+- **How well positions you personally for unexpected opportunities:** ____________________
 
-**Option 2:** ____________________
-- **Best case scenario:** ____________________
-- **Worst case scenario:** ____________________
-- **How easy to reverse/modify:** ____________________
-- **How well positions you for unexpected opportunities:** ____________________
+**Personal Option 2:** ____________________
+- **Personal best case scenario:** ____________________
+- **Personal worst case scenario:** ____________________
+- **How easy to personally reverse/modify:** ____________________
+- **How well positions you personally for unexpected opportunities:** ____________________
 
-**Which option:**
-- **Has the best upside potential:** ____________________
-- **Limits downside risk:** ____________________
-- **Maintains flexibility:** ____________________
-- **Builds capabilities for unknown futures:** ____________________
+**Which personal option:**
+- **Has the best personal upside potential:** ____________________
+- **Limits personal downside risk:** ____________________
+- **Maintains personal flexibility:** ____________________
+- **Builds personal capabilities for unknown futures:** ____________________
 
-### Step 3: Real Options Approach (4 minutes)
+### Step 3: Personal Real Options Approach (3 minutes)
 
-**Create choices that keep future options open:**
+**Create personal choices that keep future personal options open:**
 
-**Can you make a smaller commitment first?**
-- **Pilot version:** ____________________
-- **Trial period:** ____________________
-- **Reversible first step:** ____________________
+**Can you make a smaller personal commitment first?**
+- **Personal pilot version:** ____________________
+- **Personal trial period:** ____________________
+- **Reversible personal first step:** ____________________
 
-**Can you build in decision checkpoints?**
-- **30-day review:** What would trigger a change?
-- **90-day assessment:** What information would clarify the path?
-- **Annual evaluation:** When would you reconsider completely?
+**Can you build in personal decision checkpoints?**
+- **30-day personal review:** What would trigger a personal change?
+- **90-day personal assessment:** What personal information would clarify the path?
+- **Annual personal evaluation:** When would you personally reconsider completely?
 
-**Can you create portfolio approaches?**
-- **Diversified bets:** ____________________
-- **Multiple small experiments:** ____________________
-- **Balanced risk strategies:** ____________________
+**Can you create personal portfolio approaches?**
+- **Diversified personal bets:** ____________________
+- **Multiple small personal experiments:** ____________________
+- **Balanced personal risk strategies:** ____________________
 
-**Your real options strategy:**
+**Your personal real options strategy:**
 ____________________
 
-### Step 4: Decision Under Extreme Uncertainty Protocol (3 minutes)
+### Step 4: Personal Decision Under Extreme Uncertainty Protocol (2 minutes)
 
-**Your framework for highly uncertain choices:**
+**Your personal framework for highly uncertain personal choices:**
 
-**Step 1: Accept that optimization is impossible**
-**Focus on:** Resilience over efficiency
+**Step 1: Accept that personal optimization is impossible**
+**Focus on:** Personal resilience over personal efficiency
 
-**Step 2: Prioritize reversibility and learning**  
-**Choose:** Options that preserve future choices
+**Step 2: Prioritize personal reversibility and learning**  
+**Choose:** Personal options that preserve future personal choices
 
-**Step 3: Build capability over commitment**
-**Develop:** Skills that serve multiple scenarios
+**Step 3: Build personal capability over commitment**
+**Develop:** Personal skills that serve multiple personal scenarios
 
-**Step 4: Plan for adaptation**
-**Prepare:** Systems for changing course quickly
+**Step 4: Plan for personal adaptation**
+**Prepare:** Personal systems for changing course quickly
 
-**Your extreme uncertainty decision:**
+**Your extreme uncertainty personal decision:**
 ____________________
 
-**Why this choice handles uncertainty well:**
+**Why this personal choice handles uncertainty well:**
 ____________________
 
-**How you'll adapt if circumstances change:**
+**How you'll personally adapt if circumstances change:**
 ____________________
 
 ---
 
-## Uncertainty Comfort Building (1 minute)
+## Personal Uncertainty Comfort Building (1 minute)
 
-**Embrace uncertainty as opportunity:**
+**Embrace personal uncertainty as personal opportunity:**
 
-**Complete this reframe:**
-**Instead of:** "I can't decide because the future is too uncertain"
-**Try:** "I'll choose the path that best positions me for an uncertain future"
+**Complete this personal reframe:**
+**Instead of:** "I can't decide personally because the future is too uncertain"
+**Try:** "I'll choose the personal path that best positions me for an uncertain personal future"
 
-**Your uncertainty opportunity mantra:**
-□ "Uncertainty creates space for possibilities I can't yet imagine"  
-□ "I thrive in uncertainty by staying adaptable and curious"
-□ "The future is uncertain for everyone—I'll navigate it skillfully"
-□ "Uncertainty is the price of meaningful change and growth"
+**Your personal uncertainty opportunity mantra:**
+□ "Personal uncertainty creates space for personal possibilities I can't yet imagine"  
+□ "I thrive in personal uncertainty by staying personally adaptable and curious"
+□ "The personal future is uncertain for everyone—I'll navigate it skillfully"
+□ "Personal uncertainty is the price of meaningful personal change and growth"
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How does focusing on adaptability vs. prediction change your relationship with uncertain choices?**
+**How does focusing on personal adaptability vs. prediction change your relationship with uncertain personal choices?**
 ____________________
 
-**What extremely uncertain decision feels more manageable now?**
+**What extremely uncertain personal decision feels more manageable now?**
 ____________________
 
-**How might uncertainty navigation skills serve your life and career?**
+**How might personal uncertainty navigation skills serve your personal life and growth?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll work on decision wisdom - knowing when NOT to decide.
+Tomorrow we'll work on personal decision wisdom - knowing when NOT to decide personally.
 
-**Extreme Uncertainty Thought:**
-*"I cannot predict the future, but I can make choices that position me to thrive regardless of what comes. Uncertainty is where opportunity lives."*
+**Personal Extreme Uncertainty Thought:**
+*"I cannot predict my personal future, but I can make personal choices that position me to thrive personally regardless of what comes. Personal uncertainty is where personal opportunity lives."*

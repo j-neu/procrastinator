@@ -1,172 +1,177 @@
-# Day 7: Routine Foundations - Eliminating Daily Decisions
+# Day 7: Personal Routine Foundations - Eliminating Daily Decisions
 
-**Today's Focus:** Build simple routines that reduce decision fatigue and create automatic progress
-**Time Commitment:** 20 minutes  
-**Core Exercise:** Essential Routine Design
+**Today's Focus:** Build simple personal routines that reduce decision fatigue and create automatic progress
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Routine Design
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I avoiding due to feeling overwhelmed or disorganized?
-- What is one small organizational step I can take today?
-- How can I approach this with curiosity rather than judgment?
+**Daily Questions:** *(These questions help you understand how lack of personal routines affects your productivity. Passive procrastination often happens when you have to make the same personal decisions repeatedly. Remember: personal routines create freedom from decision fatigue.)*
 
-*Priority check-in:*
-**How did the priority matrix help you focus yesterday?** ____________________
+- **What personal task am I avoiding because I have to decide how to do it every time?**
+  *(Think of something in your personal life you put off because you have to figure out the approach each time, you don't have a system for it, or it feels like too many small decisions.)*
+
+- **What is one personal routine I could create to make life easier?**
+  *(This could be a morning routine, an evening routine, a way to handle household tasks, or a system for personal goal work. Focus on your personal life, not work complexity.)*
+
+- **How can I approach personal routine-building with self-compassion?**
+  *(Instead of judging yourself for not being naturally organized, try to see routines as supportive structures that make your personal life easier and more enjoyable.)*
+
+*Personal priority check-in:*
+**How did the personal priority matrix help you focus yesterday?** ____________________
 
 ---
 
-## Today's 3-2-1 Plan (3 minutes)
+## Today's 3-1-1 Personal Plan (2 minutes)
 
-**My 3 Main Priorities for Today:**
+**My 3 Personal Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 2 Quick Tasks (5 min each):**
-1. ____________________
-2. ____________________
+**My 1 Quick Personal Task (5-10 min):**
+____________________
 
-**My 1 Organizational Improvement:**
+**My 1 Personal Routine/Habit:**
 ____________________
 
 ---
 
-## The Decision Fatigue Problem (2 minutes)
+## The Personal Decision Fatigue Problem (2 minutes)
 
-Every day you make thousands of small decisions. By the time you get to important work, your decision-making energy is depleted. Simple routines eliminate these micro-decisions and preserve mental energy for what matters.
+Every day you make hundreds of small decisions about personal tasks. By the time you get to important personal goals, your decision-making energy is depleted. Simple personal routines eliminate these micro-decisions and preserve mental energy for what matters in your life.
 
-**Today's goal:** Create 2-3 simple routines that run on autopilot.
+**Today's goal:** Create 2 simple personal routines that run on autopilot.
 
 ---
 
-## Main Exercise: Essential Routine Design (10 minutes)
+## Main Exercise: Personal Routine Design (7 minutes)
 
-### Step 1: Current Routine Audit (3 minutes)
+### Step 1: Current Personal Routine Audit (2 minutes)
 
-**What routines do you already have (even informal ones)?**
+**What personal routines do you already have (even informal ones)?**
 
-**Morning:** ____________________
+**Morning personal routine:** ____________________
 
-**Work start:** ____________________
+**Evening personal routine:** ____________________
 
-**End of day:** ____________________
+**Weekend personal routine:** ____________________
 
-**Weekly:** ____________________
+**Personal goal work routine:** ____________________
 
-**What works well about these?** ____________________
+**What works well about these personal routines?** ____________________
 
-**What causes problems or delays?** ____________________
+**What personal areas cause repeated decisions or delays?** ____________________
 
-### Step 2: Routine Opportunity Identification (3 minutes)
+### Step 2: Personal Routine Opportunity Identification (2 minutes)
 
-**Where do you waste time making the same decisions repeatedly?**
+**Where do you waste time making the same personal decisions repeatedly?**
 
-□ What to work on first each day
-□ How to organize daily priorities  
-□ When to take breaks
-□ How to handle email/messages
-□ What to do when feeling overwhelmed
-□ How to prepare for the next day
-□ Weekly planning and review
+□ What personal tasks to do first each day
+□ How to handle household/life admin tasks
+□ When to work on personal goals
+□ How to prepare for the next personal day
+□ Personal planning and review
+□ Personal self-care activities
+□ Personal space maintenance
 
-**My biggest routine opportunity:** ____________________
+**My biggest personal routine opportunity:** ____________________
 
-**Why this would help:** ____________________
+**Why this would help my personal life:** ____________________
 
-### Step 3: Simple Routine Design (4 minutes)
+### Step 3: Simple Personal Routine Design (3 minutes)
 
-**Design ONE morning work routine (5 minutes maximum):**
+**Design ONE morning personal routine (5 minutes maximum):**
 
-**My morning work routine will be:**
+**My morning personal routine will be:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**This routine will happen:** ____________________
+**This personal routine will happen:** ____________________
 **It will take approximately:** ____ minutes
-**The benefit will be:** ____________________
+**The personal benefit will be:** ____________________
 
-**Design ONE end-of-day routine (5 minutes maximum):**
+**Design ONE evening personal routine (5 minutes maximum):**
 
-**My end-of-day routine will be:**
+**My evening personal routine will be:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**This routine will happen:** ____________________  
+**This personal routine will happen:** ____________________
 **It will take approximately:** ____ minutes
-**The benefit will be:** ____________________
+**The personal benefit will be:** ____________________
 
 ---
 
-## Routine Implementation Test (2 minutes)
+## Personal Routine Implementation Test (2 minutes)
 
-**Test one routine right now:**
+**Test one personal routine right now:**
 
-**Which routine will you test?** ____________________
+**Which personal routine will you test?** ____________________
 
-**Set a timer and execute it exactly as designed**
+**Set a timer and execute it exactly as designed for your personal life**
 
-*Complete the routine - come back after*
+*Complete the personal routine - come back after*
 
-**How did it feel?** ____________________
+**How did it feel to have a personal routine?** ____________________
 
-**What worked well?** ____________________
+**What worked well for your personal life?** ____________________
 
-**What would you adjust?** ____________________
+**What would you adjust in your personal routine?** ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**Did you use your designed routines today?** ____________________
+**Did you use your designed personal routines today?** ____________________
 
-**What was the impact of having a set routine?** ____________________
+**What was the impact of having a set personal routine?** ____________________
 
-**Which routine felt most natural?** ____________________
+**Which personal routine felt most natural?** ____________________
 
-**What routine would be most valuable to add next?** ____________________
-
----
-
-## Week 1 Progress Review
-
-**This week you've built:**
-☐ Daily planning system (3-2-1 method)
-☐ Organized workspace foundation  
-☐ External brain (capture system)
-☐ Time estimation skills
-☐ Priority matrix framework
-☐ Essential routines
-
-**My biggest win this week:** ____________________
-
-**What feels most sustainable?** ____________________
-
-**What needs more practice?** ____________________
-
-**How has my procrastination changed?** ____________________
+**What personal routine would be most valuable to add next?** ____________________
 
 ---
 
-## Routine Success Rules
+## Week 1 Personal Progress Review
 
-**To make routines stick:**
+**This week you've built personal productivity foundations:**
+☐ Personal daily planning system (3-1-1 method)
+☐ Personal environment organization
+☐ Personal external brain (capture system)
+☐ Personal time estimation skills
+☐ Personal priority matrix framework
+☐ Personal essential routines
 
-1. **Start smaller than you think necessary**
-2. **Link new routines to existing habits**  
-3. **Focus on consistency over perfection**
-4. **Adjust routines based on what works**
+**My biggest personal productivity win this week:** ____________________
 
-**My routine commitment:** "Every day I will ____________________"
+**What personal system feels most sustainable?** ____________________
+
+**What personal skill needs more practice?** ____________________
+
+**How has my personal procrastination changed?** ____________________
+
+---
+
+## Personal Routine Success Rules
+
+**To make personal routines stick:**
+
+1. **Start smaller than you think necessary for personal tasks**
+2. **Link new personal routines to existing personal habits**
+3. **Focus on personal consistency over perfection**
+4. **Adjust personal routines based on what works for your life**
+
+**My personal routine commitment:** "Every day I will ____________________"
 
 ---
 
 ## Tomorrow's Preparation
-Next week we'll build on your foundation with advanced organizational systems and momentum-building techniques.
+Next week we'll build on your personal productivity foundation with advanced personal systems and momentum-building techniques for your personal goals.
 
-**Routine Power Thought:**
-*"Routines are not restrictions - they're the foundation of freedom. When basic decisions are automatic, I have energy for what matters most."*
+**Personal Routine Power Thought:**
+*"Personal routines are not restrictions - they're the foundation of personal freedom. When basic personal decisions are automatic, I have energy for what matters most in my life."*

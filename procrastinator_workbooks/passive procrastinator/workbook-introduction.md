@@ -1,35 +1,35 @@
-# The Passive Procrastinator Workbook: From Chaos to Clarity
+# The Passive Procrastinator Workbook: From Overwhelm to Personal Productivity
 
-## Welcome to Your Organization Revolution
+## Welcome to Your Personal Productivity Journey
 
-If you've identified as a **Passive Procrastinator**, you represent the most traditionally recognized form of procrastination—the kind that most productivity advice was designed to address. Unlike other types who may have strategic or psychological reasons for delay, your procrastination often stems from feeling overwhelmed, disorganized, or simply not knowing where to start. The good news? This means traditional organizational strategies can be incredibly effective once properly adapted to your specific patterns.
+If you've identified as a **Passive Procrastinator**, you experience the most common form of procrastination—the kind that stems from feeling overwhelmed, disorganized, or simply not knowing where to start with personal tasks and goals. Unlike other types who may procrastinate strategically, your delays often happen because you lack simple systems for managing your daily life and personal responsibilities.
 
-**You procrastinate because your systems haven't caught up with your intentions.** Your brain craves structure and clarity, but without proper organizational frameworks, even simple tasks can feel overwhelming. This isn't about lacking motivation or intelligence—you likely have plenty of both. It's about building the external structures that support your internal drive and creating systems that work *with* your natural tendencies rather than against them.
+**You procrastinate because your personal systems haven't caught up with your intentions.** You likely have clear goals and good intentions, but without basic organizational frameworks, even simple personal tasks can feel overwhelming. This isn't about lacking motivation or capability—it's about building the simple daily structures that support your personal growth and help you follow through on what matters to you.
 
-## Why Generic Organization Advice Falls Short
+## Why Generic Productivity Advice Falls Short
 
-Most organization systems assume you already have basic structural habits in place, or they offer overwhelming complex systems that require perfect implementation from day one. As a passive procrastinator, you need something different: **gradual system building** that acknowledges your tendency to feel overwhelmed and works within your capacity for change.
+Most productivity systems assume you already have basic organizational habits in place, or they offer complex systems designed for managing teams and projects. As a passive procrastinator, you need something different: **simple personal systems** that acknowledge your tendency to feel overwhelmed and focus on individual productivity rather than external complexities.
 
-This workbook is different. Based on research from organizational psychology, habit formation science, and cognitive load theory, it addresses the **how** of getting organized in a way that sticks. You'll build systems incrementally, focusing on reducing cognitive overhead and creating sustainable structures that prevent overwhelm before it starts.
+This workbook is different. Based on research from habit formation science and personal productivity psychology, it addresses the **how** of getting organized in your personal life in a way that sticks. You'll build simple habits gradually, focusing on reducing overwhelm and creating sustainable routines that prevent procrastination before it starts.
 
-## What You'll Master in These 31 Days
+## What You'll Develop in These 31 Days
 
-This isn't about becoming a different type of person—it's about giving your existing motivation the structure it needs to flourish. Through daily exercises rooted in evidence-based organizational practices, you'll:
+This isn't about becoming a different type of person—it's about giving your existing motivation simple structures to flourish. Through brief daily exercises focused on personal development, you'll:
 
-- **Create simple, sustainable organizational systems** that reduce decision fatigue
-- **Build automatic habits** for the most common procrastination trigger points
-- **Develop time estimation skills** to prevent the overwhelm that leads to avoidance
-- **Master prioritization techniques** that keep you focused on what matters most
-- **Establish routines** that eliminate daily decision-making around basic tasks
-- **Design environment setups** that support action rather than avoidance
-- **Build momentum systems** that make starting easier than stopping
+- **Create simple daily planning habits** that reduce decision fatigue
+- **Build automatic routines** for the most common personal procrastination triggers
+- **Develop realistic time estimation** to prevent the overwhelm that leads to avoidance
+- **Master simple prioritization** that keeps you focused on personal goals
+- **Establish morning and evening routines** that eliminate daily decision-making
+- **Design personal spaces** that support action rather than avoidance
+- **Build small momentum systems** that make starting personal tasks easier than avoiding them
 
-Each day requires only 20 minutes and provides both immediate organizational improvements and long-term system building. You'll track your progress, refine your approaches, and gradually build an external support structure that makes productivity feel natural rather than forced.
+Each day requires only 15 minutes and focuses on personal productivity development. You'll track your progress, build simple daily habits, and gradually create systems that make following through on personal goals feel natural rather than forced.
 
-## Your Organization Skills Are Developing
+## Your Personal Productivity Skills Are Developing
 
-You don't need to become a completely different person to overcome passive procrastination. The organizational capacity you need is already developing—it just needs the right systems and gradual implementation to flourish. This workbook provides exactly that: simple, clear steps that build on each other to create lasting structural change.
+You don't need to become a completely different person to overcome passive procrastination. The organizational capacity you need is already within you—it just needs simple systems and gradual implementation to flourish. This workbook provides exactly that: clear, brief steps that build on each other to create lasting change in your personal productivity.
 
-**Your procrastination has been a signal that you need better systems. Now it's time to build those systems in a way that honors your need for clarity and reduces overwhelm.**
+**Your procrastination has been a signal that you need better personal systems. Now it's time to build those systems in a way that honors your need for simplicity and reduces overwhelm.**
 
-Ready to transform chaos into clarity? Your organized future self is waiting on the other side of systematic change.
+Ready to transform overwhelm into personal productivity? Your organized, productive future self is waiting on the other side of simple, consistent action.

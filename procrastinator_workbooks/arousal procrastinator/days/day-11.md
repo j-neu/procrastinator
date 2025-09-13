@@ -1,146 +1,133 @@
-# Day 11: Burnout Prevention and Early Warning Systems
+# Day 11: Building Momentum Without Burning Out
 
-**Today's Focus:** Build systems to prevent pressure-driven burnout
-**Time Commitment:** 20 minutes
-**Core Exercise:** Burnout Prevention System Design
+**Today's Focus:** Learn to stay motivated on personal goals without overwhelming yourself
+**Time Commitment:** 15 minutes
+**Core Exercise:** Sustainable Personal Momentum System
 
 ---
 
 ## Morning Check-in (2 minutes)
 
 **Daily Questions:**
-- What task am I putting off until pressure builds?
-- What level of pressure energizes vs. overwhelms me?
-- How can I honor my natural rhythms while meeting commitments?
+- What personal task have I been putting off?
+- When do I feel most motivated and energized?
+- What makes boring tasks feel more interesting to me?
 
-*Energy cycle reflection:*
-**How well did you work with your energy patterns yesterday?** ____________________
+*Energy pattern reflection:*
+**How well did you match tasks to your energy levels yesterday?** ____________________
 
 ---
 
-## Main Exercise: Burnout Prevention System (15 minutes)
+## Main Exercise: Sustainable Personal Momentum (10 minutes)
 
-**Purpose:** Create early warning systems and prevention strategies for pressure burnout
+**Purpose:** Learn to build steady progress on personal goals without overwhelming yourself
 
-### Step 1: Personal Burnout Pattern Analysis (6 minutes)
+### Step 1: Understanding Your Overwhelm Patterns (3 minutes)
 
-**Reflect on past experiences with pressure burnout:**
+**Think about times when you got overwhelmed trying to be productive:**
 
-**Last time you burned out from pressure work:**
-Situation: ____________________
-Duration of high pressure: ____________________
-Warning signs you ignored: ____________________
-How long recovery took: ____________________
+**Last time you pushed yourself too hard with personal tasks:**
+What you were trying to do: ____________________
+How you felt: ____________________
+What happened: ____________________
+How long it took to recover: ____________________
 
-**Your burnout warning signals:**
+**Your personal overwhelm warning signs:**
 
-**Physical signals:**
-□ Sleep disruption
-□ Energy crashes
-□ Physical tension/pain
-□ Appetite changes
+**Physical signs:**
+□ Feeling tired all the time
+□ Trouble sleeping
+□ Tension or stress in your body
+□ Not taking care of basic needs
 □ Other: ____________________
 
-**Mental signals:**
-□ Difficulty concentrating
-□ Decreased decision-making quality
-□ Negative self-talk increase
-□ Loss of perspective
+**Mental/emotional signs:**
+□ Feeling irritable or cranky
+□ Hard to concentrate
+□ Everything feels overwhelming
+□ Losing motivation for things you usually enjoy
+□ Being hard on yourself
 □ Other: ____________________
 
-**Emotional signals:**
-□ Irritability increase
-□ Anxiety/overwhelm
-□ Loss of enjoyment
-□ Feeling disconnected
+**Behavior signs:**
+□ Avoiding all tasks, even easy ones
+□ Not wanting to see people
+□ Giving up on goals completely
+□ Going back to old habits
 □ Other: ____________________
 
-**Behavioral signals:**
-□ Procrastination increasing
-□ Social withdrawal
-□ Neglecting self-care
-□ Quality decreasing
+### Step 2: Sustainable Momentum Guidelines (4 minutes)
+
+**Create simple guidelines for steady progress:**
+
+**Daily momentum that feels sustainable:**
+How many personal tasks feel doable per day: ____________________
+What counts as "enough" for a normal day: ____________________
+
+**Weekly momentum that feels sustainable:**
+How many productive days per week: ____________________
+How many rest/easy days per week: ____________________
+
+**Warning signs to slow down:**
+□ I'm feeling overwhelmed
+□ I'm being hard on myself
+□ Tasks are starting to feel like pressure instead of choice
+□ I'm avoiding things I normally enjoy
 □ Other: ____________________
 
-### Step 2: Early Warning System Creation (5 minutes)
+### Step 3: Gentle Recovery Plan (3 minutes)
 
-**Design your burnout prevention system:**
+**When you notice overwhelm warning signs:**
 
-**Daily check-in questions:**
-1. ____________________
+**Immediate action (same day):**
+1. Take a break and be kind to myself
+2. ____________________
+
+**Next day recovery:**
+1. Do only essential/easy tasks
+2. ____________________
+
+**Getting back to momentum:**
+1. Start with one small, enjoyable task
 2. ____________________
 3. ____________________
 
-**Weekly assessment:**
-How many high-pressure days this week? ____
-Quality of recovery time? ____
-Overall energy trend? ____
-
-**Red flag checklist - If 3+ are present, take action:**
-□ ____________________
-□ ____________________
-□ ____________________
-□ ____________________
-□ ____________________
-
-**Yellow flag checklist - Caution zone:**
-□ ____________________
-□ ____________________
-□ ____________________
-
-### Step 3: Prevention Protocol Design (4 minutes)
-
-**When yellow flags appear:**
-Action 1: ____________________
-Action 2: ____________________
-Action 3: ____________________
-
-**When red flags appear:**
-Immediate response: ____________________
-24-hour plan: ____________________
-Recovery protocol: ____________________
-
-**Emergency support system:**
-Who to contact: ____________________
-What to ask for: ____________________
-How to get help: ____________________
-
-**Burnout recovery plan:**
-Phase 1 (first week): ____________________
-Phase 2 (weeks 2-4): ____________________
-Return to pressure work: ____________________
+**People who can help when I'm overwhelmed:**
+- ____________________
+- ____________________
 
 ---
 
-## Prevention System Implementation (2 minutes)
+## Momentum Check-In Practice (2 minutes)
 
-**Purpose:** Start using your early warning system immediately
+**Purpose:** Start monitoring your sustainable momentum
 
-**Set up your daily check-in system:**
-When: ____________________
-How: ____________________
-Where you'll record responses: ____________________
+**Right now, how do you feel about your personal productivity:**
+Energy level: Low / Medium / High
+Motivation level: Low / Medium / High
+Overwhelm level: None / Some / High
 
-**This week's prevention focus:**
+**Based on this check-in:**
+What type of day should today be: *(Productive / Gentle / Rest)*
 ____________________
 
-**One change you'll make to reduce burnout risk:**
+**One thing you'll do to honor where you're at:**
 ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How does having a burnout prevention system change your relationship with pressure work?** ____________________
+**How does thinking about sustainable momentum change your approach to personal tasks?** ____________________
 
-**Which warning signs are most important for you to monitor?** ____________________
+**Which warning signs are most important for you to notice?** ____________________
 
-**How confident do you feel about preventing burnout now?** ____________________
+**What does "enough" productivity look like for you?** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll explore advanced pressure timing techniques for complex projects.
+Tomorrow we'll explore how to stay motivated on longer-term personal goals.
 
-**Prevention Wisdom Thought:**
-*"I can sustain high-pressure performance long-term because I monitor my well-being and take preventive action before burnout occurs."*
+**Sustainable Momentum Wisdom:**
+*"I can build steady progress on my personal goals by honoring my limits and taking care of myself."*

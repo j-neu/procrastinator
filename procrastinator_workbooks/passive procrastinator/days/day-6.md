@@ -1,157 +1,160 @@
-# Day 6: Priority Matrix - When Everything Seems Important
+# Day 6: Personal Priority Clarity - When Everything Feels Important
 
-**Today's Focus:** Master simple prioritization to eliminate decision paralysis
-**Time Commitment:** 20 minutes
-**Core Exercise:** Priority Matrix Implementation
+**Today's Focus:** Master simple prioritization for personal tasks to eliminate decision paralysis
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Priority Matrix
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I avoiding due to feeling overwhelmed or disorganized?
-- What is one small organizational step I can take today?
-- How can I approach this with curiosity rather than judgment?
+**Daily Questions:** *(These questions help you understand how competing personal priorities affect your productivity. Passive procrastination often happens when you can't decide which personal task to tackle first. Remember: clear personal priorities reduce overwhelm.)*
 
-*Time estimation check-in:*
-**How accurate were your time estimates yesterday?** ____________________
+- **What personal task am I avoiding because I can't decide if it's important enough?**
+  *(Think of something in your personal life you've put off because you're not sure if it's a priority, there are too many competing personal tasks, or you feel guilty about not doing other things first.)*
+
+- **What is one personal priority I can clarify today?**
+  *(This could be deciding which personal goal matters most this week, choosing between competing personal tasks, or identifying what personal activities actually support your bigger goals.)*
+
+- **How can I approach my personal priority decisions with clarity rather than guilt?**
+  *(Instead of feeling guilty about what you're not doing, try to focus on making clear choices about what will actually improve your personal life most.)*
+
+*Personal time estimation check-in:*
+**How accurate were your personal time estimates yesterday?** ____________________
 
 ---
 
-## Today's 3-2-1 Plan (3 minutes)
+## Today's 3-1-1 Personal Plan (2 minutes)
 
-**My 3 Main Priorities for Today:**
+**My 3 Personal Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 2 Quick Tasks (5 min each):**
-1. ____________________
-2. ____________________
+**My 1 Quick Personal Task (5-10 min):**
+____________________
 
-**My 1 Organizational Improvement:**
+**My 1 Personal Routine/Habit:**
 ____________________
 
 ---
 
-## The Priority Overwhelm Problem (2 minutes)
+## The Personal Priority Overwhelm Problem (2 minutes)
 
-When everything feels important, nothing gets proper attention. Passive procrastinators often avoid starting because they can't decide what to tackle first, leading to a cycle of delay and stress.
+When all your personal tasks feel important, nothing gets proper attention. Passive procrastinators often avoid starting personal projects because they can't decide which personal goal to tackle first, leading to a cycle of delay and stress about personal life.
 
-**Today's solution:** The simple 2x2 Priority Matrix that eliminates decision paralysis.
+**Today's solution:** A simple personal priority system that eliminates decision paralysis in your personal life.
 
 ---
 
-## Main Exercise: Priority Matrix Mastery (10 minutes)
+## Main Exercise: Personal Priority Matrix (7 minutes)
 
-### Step 1: Current Task Brain Dump (3 minutes)
+### Step 1: Personal Task Brain Dump (2 minutes)
 
-**List everything you need to do this week (use your capture system):**
+**List personal tasks and goals you're trying to juggle this week:**
 
 ```
-All current tasks:
+Personal tasks/goals:
 1. ____________________
-2. ____________________  
+2. ____________________
 3. ____________________
 4. ____________________
 5. ____________________
 6. ____________________
 7. ____________________
 8. ____________________
-9. ____________________
-10. ____________________
 ```
 
-### Step 2: Priority Matrix Sorting (4 minutes)
+### Step 2: Personal Priority Matrix Sorting (3 minutes)
 
-**Sort each task into one quadrant:**
+**Sort each personal task into one quadrant:**
 
-**URGENT + IMPORTANT (Do First)**
-- ____________________
-- ____________________
-
-**IMPORTANT + NOT URGENT (Schedule)**  
+**URGENT + IMPORTANT FOR MY LIFE (Do First)**
 - ____________________
 - ____________________
 
-**URGENT + NOT IMPORTANT (Delegate/Minimize)**
+**IMPORTANT FOR MY GOALS + NOT URGENT (Schedule)**
 - ____________________
 - ____________________
 
-**NOT URGENT + NOT IMPORTANT (Eliminate)**
+**URGENT + NOT IMPORTANT FOR MY GOALS (Minimize)**
 - ____________________
 - ____________________
 
-### Step 3: Action Planning by Quadrant (3 minutes)
+**NOT URGENT + NOT IMPORTANT FOR MY LIFE (Eliminate)**
+- ____________________
+- ____________________
 
-**Do First (tackle immediately):**
+### Step 3: Personal Action Planning (2 minutes)
+
+**Do First (tackle immediately for my personal life):**
 **This week:** ____________________
 **Today:** ____________________
 
-**Schedule (plan specific times):**
+**Schedule (plan specific personal times):**
 **This week:** ____________________
 **Next week:** ____________________
 
-**Delegate/Minimize (reduce time/effort):**
+**Minimize (reduce personal time/effort on these):**
 **How I'll minimize:** ____________________
 
-**Eliminate (stop doing or say no):**
+**Eliminate (stop doing these personal activities):**
 **What I'll stop:** ____________________
 
 ---
 
-## Quick Priority Decision Practice (2 minutes)
+## Quick Personal Priority Decision Practice (2 minutes)
 
-**Practice the 30-second priority check:**
+**Practice the 30-second personal priority check:**
 
-When facing multiple tasks, ask:
-1. "What happens if this waits until tomorrow?" 
-2. "Will this matter in a week?"
-3. "Am I the only one who can do this?"
+When facing multiple personal tasks, ask:
+1. "What happens to my personal goals if this waits until tomorrow?"
+2. "Will this personal task matter for my life in a week?"
+3. "Does this personal activity support my bigger life goals?"
 
-**Practice with two tasks from your list:**
+**Practice with two personal tasks from your list:**
 
-**Task A:** ____________________
+**Personal Task A:** ____________________
 **Answers:** ____________________
-**Priority level:** ____________________
+**Personal priority level:** ____________________
 
-**Task B:** ____________________  
+**Personal Task B:** ____________________
 **Answers:** ____________________
-**Priority level:** ____________________
+**Personal priority level:** ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How did using the priority matrix feel?** ____________________
+**How did using the personal priority matrix feel?** ____________________
 
-**What was hardest about prioritizing?** ____________________
+**What was hardest about prioritizing personal tasks?** ____________________
 
-**Which quadrant had the most items?** ____________________
+**Which personal quadrant had the most items?** ____________________
 
-**What will you do differently in your prioritization tomorrow?** ____________________
+**What will you do differently in your personal prioritization tomorrow?** ____________________
 
 ---
 
-## Priority Decision Rules
+## Personal Priority Decision Rules
 
-**To make prioritization automatic:**
+**To make personal prioritization automatic:**
 
-**When overwhelmed by choices, I will:**
-1. Use the priority matrix quickly (not perfectly)
-2. Start with "Do First" quadrant only  
-3. Limit daily priorities to 3 maximum
-4. Remember: done is better than perfectly prioritized
+**When overwhelmed by personal choices, I will:**
+1. Use the personal priority matrix quickly (not perfectly)
+2. Start with "Do First" personal quadrant only
+3. Limit daily personal priorities to 3 maximum
+4. Remember: taking action on personal goals is better than perfect personal planning
 
-**My priority rule:** "When everything seems important, I will ____________________"
+**My personal priority rule:** "When all my personal tasks seem important, I will ____________________"
 
-**My biggest prioritization challenge:** ____________________
-**My strategy:** ____________________
+**My biggest personal prioritization challenge:** ____________________
+**My strategy for personal decisions:** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll establish simple routines that eliminate daily decision-making around your most common tasks.
+Tomorrow we'll establish simple personal routines that eliminate daily decision-making around your most common personal tasks.
 
-**Priority Clarity Thought:**
-*"Not everything urgent is important, and not everything important is urgent. Clear priorities create calm action."*
+**Personal Priority Clarity Thought:**
+*"Not everything urgent in my personal life is important for my goals, and not everything important for my life is urgent. Clear personal priorities create calm, purposeful action."*

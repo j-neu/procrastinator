@@ -1,160 +1,159 @@
 # Day 21: Advanced Phase - Intuitive Decision-Making
 
-**Today's Focus:** Develop and trust your intuitive decision-making abilities
-**Time Commitment:** 20 minutes
-**Core Exercise:** Intuition Calibration
+**Today's Focus:** Develop and trust your intuitive personal decision-making abilities
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Intuition Calibration
 
 ---
 
-## Morning Check-in (2 minutes)
+## Morning Check-in (1 minute)
 
 **Daily Questions:**
-- What decision am I avoiding today and why is it difficult?
-- What is one small choice I can make confidently?
-- How can I show yourself patience with my decision-making process?
+- What personal productivity decision am I avoiding today?
+- What is one small personal choice I can make confidently right now?
 
 *Advanced phase preparation:*
-**What's your biggest decision-making strength to build on?** ____________________
+**What's your biggest personal decision-making strength to build on?** ____________________
 
 ---
 
-## Welcome to Advanced Decision-Making (2 minutes)
+## Welcome to Advanced Personal Decision-Making (1 minute)
 
-You've mastered the fundamentals of decision-making. Now we'll develop more sophisticated skills: integrating intuition with analysis, making high-stakes choices, and building decision-making systems that serve you for life.
+You've mastered the fundamentals of personal decision-making. Now we'll develop more sophisticated personal skills: integrating intuition with analysis, making high-stakes personal choices, and building personal decision-making systems that serve your life.
 
-**Advanced skills you'll develop:**
-- Calibrating and trusting intuitive insights
-- Making complex, multi-layered decisions
-- Leading others through difficult choices
-- Creating decision-making systems for recurring situations
-- Handling truly high-stakes, irreversible choices
-- Developing wisdom about when to decide vs. when to wait
+**Advanced personal skills you'll develop:**
+- Calibrating and trusting personal intuitive insights
+- Making complex, multi-layered personal decisions
+- Helping others with their personal choices
+- Creating personal decision-making systems for recurring situations
+- Handling truly high-stakes, irreversible personal choices
+- Developing personal wisdom about when to decide vs. when to wait
 
 ---
 
-## Understanding Intuitive Decision-Making (3 minutes)
+## Understanding Personal Intuitive Decision-Making (2 minutes)
 
-Intuition isn't mystical—it's your brain's rapid processing of patterns, experiences, and subtle information. For analytical minds, learning to integrate intuition with logic creates more complete decision-making.
+Personal intuition isn't mystical—it's your brain's rapid processing of personal patterns, experiences, and subtle information about your own life. For analytical minds, learning to integrate personal intuition with logic creates more complete personal decision-making.
 
-**Your current relationship with intuition:**
-□ I trust my gut instincts
-□ I analyze my gut reactions
-□ I ignore intuitive feelings
-□ I get confused by conflicting gut signals
-□ I don't know how to access my intuition
-□ My intuition seems unreliable
+**Your current relationship with personal intuition:**
+□ I trust my gut instincts about personal choices
+□ I analyze my gut reactions to personal decisions
+□ I ignore intuitive feelings about personal matters
+□ I get confused by conflicting personal gut signals
+□ I don't know how to access my personal intuition
+□ My personal intuition seems unreliable
 
-**Recent decision where your gut feeling was:**
+**Recent personal decision where your gut feeling was:**
 **Right:** ____________________
 **Wrong:** ____________________
 **Ignored:** ____________________
 
-**What this tells you about your intuition:** ____________________
+**What this tells you about your personal intuition:** ____________________
 
 ---
 
-## Main Exercise: Intuition Calibration (11 minutes)
+## Main Exercise: Personal Intuition Calibration (9 minutes)
 
-### Step 1: Intuition vs. Analysis Comparison (4 minutes)
+### Step 1: Personal Intuition vs. Analysis Comparison (3 minutes)
 
-**Current decision you're facing:** ____________________
+**Current personal decision you're facing:** ____________________
 
-**Intuitive assessment (2 minutes max):**
-- **Close your eyes and imagine choosing each option**
-- **Which option feels right in your body?** ____________________
-- **Which option gives you energy vs. drains energy?** ____________________
-- **Your gut choice:** ____________________
+**Personal intuitive assessment (1 minute max):**
+- **Close your eyes and imagine choosing each personal option**
+- **Which personal option feels right in your body?** ____________________
+- **Which personal option gives you energy vs. drains energy?** ____________________
+- **Your personal gut choice:** ____________________
 
-**Analytical assessment (2 minutes max):**
-- **Which option best meets your criteria?** ____________________
-- **Which has the best risk/reward ratio?** ____________________
-- **Your logical choice:** ____________________
+**Personal analytical assessment (1 minute max):**
+- **Which personal option best meets your criteria?** ____________________
+- **Which has the best personal risk/reward ratio?** ____________________
+- **Your logical personal choice:** ____________________
 
-**Integration:**
-**Do intuition and analysis agree?** Yes/No
-**If different, what might explain the discrepancy?**
+**Personal Integration:**
+**Do personal intuition and analysis agree?** Yes/No
+**If different, what might explain the personal discrepancy?**
 ____________________
 
-### Step 2: Intuition Accuracy Testing (3 minutes)
+### Step 2: Personal Intuition Accuracy Testing (3 minutes)
 
-**Practice with small, low-stakes decisions:**
+**Practice with small, low-stakes personal decisions:**
 
-**Test 1:** Choose between two restaurants for tonight
-**Intuitive choice (30 seconds):** ____________________
-**Analytical choice (30 seconds):** ____________________
-**Final choice:** ____________________
+**Test 1:** Choose between two personal tasks to work on
+**Personal intuitive choice (30 seconds):** ____________________
+**Personal analytical choice (30 seconds):** ____________________
+**Final personal choice:** ____________________
 
-**Test 2:** Pick a route to a destination
-**Intuitive choice:** ____________________
-**Analytical choice:** ____________________
-**Final choice:** ____________________
+**Test 2:** Pick a personal routine for tomorrow
+**Personal intuitive choice:** ____________________
+**Personal analytical choice:** ____________________
+**Final personal choice:** ____________________
 
-**Test 3:** Select what to wear tomorrow
-**Intuitive choice:** ____________________
-**Analytical choice:** ____________________
-**Final choice:** ____________________
+**Test 3:** Select what personal goal to focus on this week
+**Personal intuitive choice:** ____________________
+**Personal analytical choice:** ____________________
+**Final personal choice:** ____________________
 
-**Pattern recognition:**
-**When intuition and analysis agree, confidence feels:** ____________________
-**When they disagree, I tend to:** ____________________
+**Personal pattern recognition:**
+**When personal intuition and analysis agree, confidence feels:** ____________________
+**When they disagree about personal choices, I tend to:** ____________________
 
-### Step 3: Intuition Development Practice (2 minutes)
+### Step 3: Personal Intuition Development Practice (1 minute)
 
-**Strengthen your intuitive signals:**
+**Strengthen your personal intuitive signals:**
 
-**Body awareness:** Where do you feel "yes" vs. "no" decisions?
-- **Yes/good decision feels like:** ____________________
-- **No/poor decision feels like:** ____________________
+**Personal body awareness:** Where do you feel "yes" vs. "no" personal decisions?
+- **Yes/good personal decision feels like:** ____________________
+- **No/poor personal decision feels like:** ____________________
 - **Location in body:** ____________________
 
-**Energy awareness:** How do different choices affect your energy?
-- **Energizing choices tend to:** ____________________
-- **Draining choices tend to:** ____________________
+**Personal energy awareness:** How do different personal choices affect your energy?
+- **Energizing personal choices tend to:** ____________________
+- **Draining personal choices tend to:** ____________________
 
-### Step 4: Integrated Decision Protocol (2 minutes)
+### Step 4: Personal Integrated Decision Protocol (2 minutes)
 
-**Create your intuition-analysis integration process:**
+**Create your personal intuition-analysis integration process:**
 
-**Step 1:** Quick intuitive assessment - what feels right?
-**Step 2:** Analytical check - what makes logical sense?
-**Step 3:** If aligned, proceed confidently
-**Step 4:** If misaligned, explore why:
-- Is analysis missing something emotional/personal?
-- Is intuition reacting to fear rather than wisdom?
-- What additional information might help align them?
+**Step 1:** Quick personal intuitive assessment - what feels personally right?
+**Step 2:** Personal analytical check - what makes logical sense for your life?
+**Step 3:** If personally aligned, proceed confidently
+**Step 4:** If personally misaligned, explore why:
+- Is personal analysis missing something emotional/personal?
+- Is personal intuition reacting to fear rather than wisdom?
+- What additional personal information might help align them?
 
-**Your integration approach:**
+**Your personal integration approach:**
 ____________________
 
 ---
 
-## Intuition Practice Commitment (1 minute)
+## Personal Intuition Practice Commitment (1 minute)
 
-**This week, practice integrated decision-making on:**
+**This week, practice integrated personal decision-making on:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**How you'll track intuition accuracy:**
+**How you'll track personal intuition accuracy:**
 ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How might integrating intuition change your decision-making confidence?**
+**How might integrating personal intuition change your decision-making confidence?**
 ____________________
 
-**When do you think intuition is most vs. least reliable?**
+**When do you think personal intuition is most vs. least reliable?**
 ____________________
 
-**What would you attempt if you could trust both your gut and your logic?**
+**What personal goals would you attempt if you could trust both your gut and your logic?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll work on making complex, multi-layered decisions that involve multiple people and outcomes.
+Tomorrow we'll work on making complex, multi-layered personal decisions that involve multiple personal factors and outcomes.
 
-**Intuitive Integration Thought:**
-*"My best decisions integrate both analytical thinking and intuitive wisdom. I trust the intelligence of my whole being."*
+**Personal Intuitive Integration Thought:**
+*"My best personal decisions integrate both analytical thinking and intuitive wisdom. I trust the intelligence of my whole being when making personal choices."*

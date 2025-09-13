@@ -1,176 +1,169 @@
 # Day 24: Creating Decision Automation Systems
 
-**Today's Focus:** Build systems that eliminate routine decision fatigue
-**Time Commitment:** 20 minutes  
+**Today's Focus:** Build personal systems that eliminate routine personal choice fatigue
+**Time Commitment:** 15 minutes  
 **Core Exercise:** Personal Decision Automation Design
 
 ---
 
-## Morning Check-in (2 minutes)
+## Morning Check-in (1 minute)
 
 **Daily Questions:**
-- What decision am I avoiding today and why is it difficult?
-- What is one small choice I can make confidently?
-- How can I show yourself patience with my decision-making process?
+- What personal productivity decision am I avoiding today?
+- What is one small personal choice I can make confidently right now?
 
-*Decision leadership practice:*
-**Have you had opportunities to help others with their decisions?** ____________________
+*Personal decision support practice:*
+**Have you had opportunities to help others with their personal decisions?** ____________________
 
 ---
 
-## The Power of Decision Automation (3 minutes)
+## The Power of Personal Choice Automation (2 minutes)
 
-Decision fatigue is real - every choice uses mental energy. By automating routine decisions, you preserve your decision-making power for choices that truly matter.
+Personal decision fatigue is real - every personal choice uses mental energy. By automating routine personal decisions, you preserve your decision-making power for personal choices that truly matter.
 
-**Areas where you experience decision fatigue:**
+**Personal areas where you experience decision fatigue:**
 □ What to wear each day
 □ What to eat for meals
-□ Daily/weekly routines
-□ Work processes and priorities
-□ Financial choices and spending
-□ Social and leisure activities
-□ Health and wellness practices
-□ Technology and app choices
+□ Personal daily/weekly routines
+□ Personal productivity processes
+□ Personal spending choices
+□ Personal leisure activities
+□ Personal health and wellness practices
+□ Personal technology choices
 
-**Current decisions you make repeatedly:**
+**Current personal decisions you make repeatedly:**
 1. ____________________
 2. ____________________
 3. ____________________
 4. ____________________
 
-**How much mental energy do these drain?** ____________________
+**How much personal mental energy do these drain?** ____________________
 
 ---
 
-## Main Exercise: Decision Automation System Design (13 minutes)
+## Main Exercise: Personal Decision Automation System Design (10 minutes)
 
-### Step 1: Automation Opportunity Assessment (4 minutes)
+### Step 1: Personal Automation Opportunity Assessment (3 minutes)
 
-**Identify decisions ripe for automation:**
+**Identify personal decisions ripe for automation:**
 
-**Daily recurring decisions:**
+**Daily recurring personal decisions:**
 - ____________________
 - ____________________
 - ____________________
 
-**Weekly recurring decisions:**
+**Weekly recurring personal decisions:**
 - ____________________
 - ____________________
 
-**Monthly recurring decisions:**
+**Monthly recurring personal decisions:**
 - ____________________
 - ____________________
 
-**For each decision, rate automation potential (1-5):**
-**Decision:** ____________________
-**How routine is this?** ____
-**How much energy does it take?** ____
-**How predictable are good choices?** ____
-**Total automation score:** ____/15
+**For each personal decision, rate automation potential (1-5):**
+**Personal Decision:** ____________________
+**How routine is this personally?** ____
+**How much personal energy does it take?** ____
+**How predictable are good personal choices?** ____
+**Total personal automation score:** ____/15
 
-**Highest scoring decisions for automation:**
+**Highest scoring personal decisions for automation:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-### Step 2: Automation Strategy Selection (4 minutes)
+### Step 2: Personal Automation Strategy Selection (3 minutes)
 
-**Choose automation approaches:**
+**Choose personal automation approaches:**
 
-**Strategy 1: Default Rules**
-Create simple rules that eliminate choice
+**Strategy 1: Personal Default Rules**
+Create simple personal rules that eliminate choice
 *Example: "I always eat the same breakfast on weekdays"*
 
-**Strategy 2: Batch Decisions**
-Make similar decisions all at once
-*Example: "I plan all meals on Sunday"*
+**Strategy 2: Personal Batch Decisions**
+Make similar personal decisions all at once
+*Example: "I plan all personal meals on Sunday"*
 
-**Strategy 3: Criteria-Based Systems**
-Create decision trees for predictable choices
-*Example: "If budget < $X, I choose option A"*
+**Strategy 3: Personal Criteria-Based Systems**
+Create personal decision trees for predictable choices
+*Example: "If personal energy < X, I choose rest option"*
 
-**Strategy 4: External Systems**
-Use tools/services that decide for you
-*Example: "Subscription service chooses my books"*
+**Strategy 4: Personal External Systems**
+Use tools/services that decide for you personally
+*Example: "Meal delivery service chooses my personal nutrition"*
 
-**For your top automation candidates:**
+**For your top personal automation candidates:**
 
-**Decision 1:** ____________________
-**Automation strategy:** ____________________
-**Specific system:** ____________________
+**Personal Decision 1:** ____________________
+**Personal automation strategy:** ____________________
+**Specific personal system:** ____________________
 
-**Decision 2:** ____________________
-**Automation strategy:** ____________________
-**Specific system:** ____________________
+**Personal Decision 2:** ____________________
+**Personal automation strategy:** ____________________
+**Specific personal system:** ____________________
 
-### Step 3: Automation Implementation Plan (3 minutes)
+### Step 3: Personal Automation Implementation Plan (2 minutes)
 
-**Design your automation systems:**
+**Design your personal automation systems:**
 
-**System 1:**
-**Decision to automate:** ____________________
-**Automation rule:** ____________________
-**When you'll implement:** ____________________
-**How you'll remember/maintain it:** ____________________
+**Personal System 1:**
+**Personal decision to automate:** ____________________
+**Personal automation rule:** ____________________
+**When you'll personally implement:** ____________________
+**How you'll personally remember/maintain it:** ____________________
 
-**System 2:**
-**Decision to automate:** ____________________
-**Automation rule:** ____________________
-**When you'll implement:** ____________________
-**How you'll remember/maintain it:** ____________________
+**Personal System 2:**
+**Personal decision to automate:** ____________________
+**Personal automation rule:** ____________________
+**When you'll personally implement:** ____________________
+**How you'll personally remember/maintain it:** ____________________
 
-**System 3:**
-**Decision to automate:** ____________________
-**Automation rule:** ____________________
-**When you'll implement:** ____________________
-**How you'll remember/maintain it:** ____________________
+### Step 4: Personal Automation Boundaries (2 minutes)
 
-### Step 4: Automation Boundaries (2 minutes)
-
-**Decisions that should NOT be automated:**
-□ Unique or creative choices
-□ High-stakes decisions
-□ Decisions affecting others significantly
-□ Choices where variety/flexibility matters
-□ Decisions requiring current context
+**Personal decisions that should NOT be automated:**
+□ Unique or creative personal choices
+□ High-stakes personal decisions
+□ Personal decisions affecting your wellbeing significantly
+□ Personal choices where variety/flexibility matters to you
+□ Personal decisions requiring current context
 □ Personal growth opportunities
 
-**Your automation philosophy:**
-**I will automate:** ____________________
-**I will always keep flexible:** ____________________
-**I will review my automated decisions:** Every ______ months
+**Your personal automation philosophy:**
+**I will personally automate:** ____________________
+**I will always keep personally flexible:** ____________________
+**I will review my automated personal decisions:** Every ______ months
 
 ---
 
-## Decision Energy Conservation (1 minute)
+## Personal Decision Energy Conservation (1 minute)
 
-**Calculate your energy savings:**
+**Calculate your personal energy savings:**
 
-**Estimated daily decisions before automation:** ____
-**Estimated daily decisions after automation:** ____
-**Energy/time saved per day:** ______ minutes
-**Energy preserved for important decisions:** ____________________
+**Estimated daily personal decisions before automation:** ____
+**Estimated daily personal decisions after automation:** ____
+**Personal energy/time saved per day:** ______ minutes
+**Personal energy preserved for important personal decisions:** ____________________
 
-**This freed-up decision-making capacity will help with:**
+**This freed-up personal decision-making capacity will help with:**
 ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How might decision automation change your daily experience?**
+**How might personal decision automation change your daily personal experience?**
 ____________________
 
-**Which automated decision system are you most excited to try?**
+**Which automated personal decision system are you most excited to try?**
 ____________________
 
-**What important decisions could you focus on with less decision fatigue?**
+**What important personal decisions could you focus on with less personal decision fatigue?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll tackle high-stakes decision mastery.
+Tomorrow we'll tackle high-stakes personal decision mastery.
 
-**Decision Automation Thought:**
-*"By automating routine choices, I preserve my decision-making energy for the choices that shape my life."*
+**Personal Decision Automation Thought:**
+*"By automating routine personal choices, I preserve my personal decision-making energy for the personal choices that shape my life."*

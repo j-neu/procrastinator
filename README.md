@@ -7,11 +7,11 @@ A science-backed platform to help people understand their procrastination patter
 This project creates a complete ecosystem for procrastination help:
 
 1. **Landing Page + Quiz** - Interactive assessment to identify procrastination type
-2. **Type Explorer** - Educational content about the 7 types of procrastinators  
+2. **Type Explorer** - Educational content about the 6 types of procrastinators  
 3. **Workbook Sales** - Integration with Gumroad for selling targeted workbooks
 4. **Low-Content Workbooks** - Daily exercises tailored to each procrastination type
 
-## The 7 Procrastination Types
+## The 6 Procrastination Types
 
 Based on research by Ferrari (1991), Chu & Choi (2005), and contemporary cognitive psychology:
 
@@ -229,12 +229,12 @@ Generates production-ready workbooks with perfect layout and hand-drawn styling 
 
 ### Ready for Production Scaling
 1. **Content Adaptation** - Apply production generator to remaining 6 procrastination types
-2. **Batch Generation** - Generate complete workbook library (7 types × 31 days = 217 pages)
+2. **Batch Generation** - Generate complete workbook library (6 types × 31 days = 186 pages)
 3. **Distribution Setup** - Upload to Gumroad for commercial sales
 
 ### Current Production Status
 - ✅ **Quiz System**: Advanced 35-question assessment with statistical scoring
-- ✅ **Complete Content**: All 7 procrastination types with 31-day programs
+- ✅ **Complete Content**: All 6 procrastination types with 31-day programs
 - ✅ **Production Generator**: Perfect layout system with hand-drawn styling
 - ✅ **Template System**: `PRODUCTION-WORKBOOK.pdf` demonstrates final quality
 - 🎯 **Ready**: System ready for full workbook library generation

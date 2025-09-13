@@ -1,49 +1,54 @@
-# Day 12: Energy Management - Working With Your Natural Rhythms
+# Day 12: Personal Energy Management - Working With Your Natural Rhythms
 
-**Today's Focus:** Align tasks with your energy patterns for maximum efficiency
-**Time Commitment:** 20 minutes
-**Core Exercise:** Energy Pattern Analysis and Task Matching
+**Today's Focus:** Align personal tasks with your energy patterns for maximum personal productivity
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Energy Pattern Analysis and Task Matching
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I avoiding due to feeling overwhelmed or disorganized?
-- What is one small organizational step I can take today?
-- How can I approach this with curiosity rather than judgment?
+**Daily Questions:** *(These questions help you understand how personal energy affects your productivity. Passive procrastination often happens when you try to do personal tasks at the wrong energy times. Remember: working with your natural rhythms makes personal productivity easier.)*
 
-*Momentum check-in:*
-**How many small wins did you create yesterday?** ____
-**How did that feel?** ____________________
+- **What personal task am I avoiding because I never feel like I have the right energy for it?**
+  *(Think of something in your personal life you keep putting off because you're always too tired, it feels too hard, or you can never find the right time when you feel capable.)*
+
+- **What is one personal task I can match to my current energy level today?**
+  *(This could be doing an energizing personal task when you feel alert, or a routine personal task when you feel tired. Focus on matching rather than forcing.)*
+
+- **How can I approach personal energy management with self-acceptance rather than judgment?**
+  *(Instead of criticizing yourself for having energy dips, try to see energy patterns as natural rhythms that can support your personal productivity when honored.)*
+
+*Personal momentum check-in:*
+**How many small personal wins did you create yesterday?** ____
+**How did that feel for your personal motivation?** ____________________
 
 ---
 
-## Today's 3-2-1 Plan (3 minutes)
+## Today's 3-1-1 Personal Plan (2 minutes)
 
-**My 3 Main Priorities for Today:**
+**My 3 Personal Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 2 Quick Tasks (5 min each):**
-1. ____________________
-2. ____________________
+**My 1 Quick Personal Task (5-10 min):**
+____________________
 
-**My 1 Organizational Improvement:**
+**My 1 Personal Routine/Habit:**
 ____________________
 
 ---
 
-## The Energy Mismatch Problem (2 minutes)
+## The Personal Energy Mismatch Problem (2 minutes)
 
-Many passive procrastinators try to force productivity at the wrong times, then feel frustrated when they can't focus. Working against your natural energy patterns creates unnecessary struggle and avoidance.
+Many passive procrastinators try to force personal productivity at the wrong times, then feel frustrated when they can't focus on personal goals. Working against your natural energy patterns creates unnecessary struggle and avoidance of personal tasks.
 
-**Today's solution:** Map your energy patterns and match tasks accordingly for effortless productivity.
+**Today's solution:** Map your personal energy patterns and match personal tasks accordingly for effortless personal productivity.
 
 ---
 
-## Main Exercise: Energy Pattern Analysis (10 minutes)
+## Main Exercise: Personal Energy Pattern Analysis (7 minutes)
 
 ### Step 1: Energy Pattern Recognition (4 minutes)
 
@@ -76,37 +81,37 @@ Many passive procrastinators try to force productivity at the wrong times, then 
 
 ### Step 2: Task-Energy Matching (3 minutes)
 
-**Match different task types to your energy patterns:**
+**Match different personal task types to your energy patterns:**
 
-**High Energy + High Focus (your peak time):**
-- ____________________
-- ____________________
-
-**Medium Energy + Good Focus:**
+**High Personal Energy + High Focus (your peak time):**
 - ____________________
 - ____________________
 
-**Low Energy + Routine Tasks:**
+**Medium Personal Energy + Good Focus:**
 - ____________________
 - ____________________
 
-**Recovery Time + Organizing Tasks:**
+**Low Personal Energy + Routine Personal Tasks:**
+- ____________________
+- ____________________
+
+**Personal Recovery Time + Personal Organizing Tasks:**
 - ____________________
 - ____________________
 
 ### Step 3: Energy-Based Schedule Design (3 minutes)
 
-**Redesign today's schedule based on your energy patterns:**
+**Redesign today's personal schedule based on your energy patterns:**
 
-**Peak energy time, I will work on:** ____________________
+**Peak personal energy time, I will work on:** ____________________
 
-**Medium energy time, I will work on:** ____________________
+**Medium personal energy time, I will work on:** ____________________
 
-**Low energy time, I will work on:** ____________________
+**Low personal energy time, I will work on:** ____________________
 
-**What I'll stop trying to do during low energy periods:** ____________________
+**What personal tasks I'll stop trying to do during low energy periods:** ____________________
 
-**What tasks I'll move to better energy matches:** ____________________
+**What personal tasks I'll move to better energy matches:** ____________________
 
 ---
 

@@ -151,15 +151,15 @@ Contribution goal: ____________________
 
 ## Your Ongoing Journey
 
-Congratulations! You have developed sophisticated emotional mastery skills that will serve you, your relationships, and your contributions to the world for the rest of your life. 
+Congratulations! You have developed sophisticated personal productivity mastery skills that will serve you, your relationships, and your contributions to the world for the rest of your life. 
 
-You are no longer someone who avoids emotions - you are someone who transforms through them. You are no longer someone whose emotions control your actions - you are someone who uses emotions as fuel for courageous action.
+You are no longer someone who avoids personal tasks - you are someone who transforms through them. You are no longer someone whose emotions around tasks control your actions - you are someone who uses emotions as information and fuel for courageous action.
 
-Your journey continues every day as you apply these skills, face new challenges with courage, and help others discover their own emotional wisdom.
+Your journey continues every day as you apply these skills, face new personal task challenges with confidence, and help others discover their own personal productivity wisdom.
 
-**Graduation Thought:**
-*\"I am emotionally masterful. I navigate any feeling with skill, use emotions as fuel for growth, and contribute my emotional wisdom to creating a more emotionally intelligent world. My transformation continues every day.\"*
+**Daily Reminder:**
+*\"I am personally productive and masterful with life's tasks. I navigate any personal responsibility with skill, use emotions around tasks as fuel for growth, and contribute my personal productivity wisdom to help others create more effective, fulfilling lives. My transformation continues every day.\"*
 
-## Welcome to Your New Life as an Emotional Master
+## Welcome to Your New Life as a Personal Productivity Master
 
-The world needs your emotional courage, wisdom, and leadership. Go forward and shine.
+The world needs your personal effectiveness, wisdom, and example. Go forward and thrive in all your daily responsibilities.

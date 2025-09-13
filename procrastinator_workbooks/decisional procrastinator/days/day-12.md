@@ -1,139 +1,138 @@
 # Day 12: Creating Decision-Making Systems
 
-**Today's Focus:** Build systems that prevent future paralysis
-**Time Commitment:** 20 minutes
-**Core Exercise:** Personal Decision System Design
+**Today's Focus:** Build personal systems that prevent future productivity paralysis
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Productivity Decision System Design
 
 ---
 
-## Morning Check-in (2 minutes)
+## Morning Check-in (1 minute)
 
 **Daily Questions:**
-- What decision am I avoiding today and why is it difficult?
-- What is one small choice I can make confidently?
-- How can I show myself patience with my decision-making process?
+- What personal productivity decision am I avoiding today?
+- What is one small personal choice I can make confidently right now?
 
 *Implementation check:*
-**Did you follow through on yesterday's implementation intention?** ____________________
+**Did you follow through on yesterday's personal implementation intention?** ____________________
 
 ---
 
-## The Power of Decision Systems (2 minutes)
+## The Power of Personal Decision Systems (1 minute)
 
-Instead of approaching each decision from scratch, systems create repeatable processes that bypass paralysis. Good systems match your natural thinking style while adding structure and time boundaries.
+Instead of approaching each personal decision from scratch, personal systems create repeatable processes that bypass paralysis. Good personal systems match your natural thinking style while adding structure and time boundaries.
 
-**Your current decision-making is:**
+**Your current personal decision-making is:**
 □ Inconsistent and reactive
-□ Overthought and slow
+□ Overthought and slow about personal choices
 □ Anxiety-provoking
 □ Energy-draining
 
-**With systems, you want decision-making to be:**
-□ Predictable and efficient
+**With personal systems, you want decision-making to be:**
+□ Predictable and efficient for personal choices
 □ Appropriately thorough
 □ Confident and calm
 □ Energy-preserving
 
 ---
 
-## Main Exercise: Personal Decision System Creation (14 minutes)
+## Main Exercise: Personal Productivity Decision System Creation (11 minutes)
 
-### System 1: Daily Decision Routine (4 minutes)
+### System 1: Daily Personal Decision Routine (3 minutes)
 
-**Morning Decision Review (5 minutes daily):**
-- What decisions do I need to make today?
-- Which are urgent vs. important?
-- What can I decide right now?
-- What needs more thought, and how much time will I give it?
+**Morning Personal Decision Review (5 minutes daily):**
+- What personal productivity decisions do I need to make today?
+- Which personal choices are urgent vs. important?
+- What personal decisions can I decide right now?
+- What personal choices need more thought, and how much time will I give them?
 
-**Evening Decision Closure (3 minutes daily):**
-- What decisions did I make today?
-- What am I proud of?
-- What decisions am I carrying into tomorrow?
+**Evening Personal Decision Closure (3 minutes daily):**
+- What personal decisions did I make today?
+- What personal choices am I proud of?
+- What personal decisions am I carrying into tomorrow?
 
-**Your daily routine timing:**
-**Morning review at:** ____:____ AM
-**Evening closure at:** ____:____ PM
+**Your daily personal routine timing:**
+**Morning personal review at:** ____:____ AM
+**Evening personal closure at:** ____:____ PM
 
-### System 2: Decision Categories and Time Allocations (4 minutes)
+### System 2: Personal Decision Categories and Time Allocations (3 minutes)
 
-**Micro decisions (under $50, minimal consequences):**
+**Micro personal decisions (small habits, daily choices, minimal consequences):**
 - **Time limit:** ____ minutes
 - **Method:** ____________________
 
-**Minor decisions (moderate impact, reversible):**
+**Minor personal decisions (moderate personal impact, reversible):**
 - **Time limit:** ____ minutes  
 - **Method:** ____________________
 
-**Major decisions (significant impact, harder to reverse):**
+**Major personal decisions (significant personal impact, harder to reverse):**
 - **Time limit:** ____ hours/days
 - **Method:** ____________________
 
-**Life decisions (career, relationships, major life changes):**
+**Life personal decisions (major personal goals, lifestyle changes, personal development):**
 - **Time limit:** ____ weeks
 - **Method:** ____________________
 
-### System 3: Your Decision Toolkit (3 minutes)
+### System 3: Your Personal Decision Toolkit (2 minutes)
 
-**For quick decisions, I'll use:**
-□ 3-criteria filter from Day 7
+**For quick personal decisions, I'll use:**
+□ Personal 3-criteria filter from Day 7
 □ Gut reaction + logic check
-□ "Good enough" standards
+□ "Good enough" personal standards
 □ Coin flip + reaction test
 □ Other: ____________________
 
-**For complex decisions, I'll use:**
-□ Important Decision Matrix from Day 7
-□ Pros/cons with weighting
-□ Future self consultation
-□ Implementation intention planning
+**For complex personal decisions, I'll use:**
+□ Important Personal Decision Matrix from Day 7
+□ Personal pros/cons with weighting
+□ Future personal self consultation
+□ Personal implementation intention planning
 □ Other: ____________________
 
-**My go-to decision tool:** ____________________
+**My go-to personal decision tool:** ____________________
 
-### System 4: Decision Support Structure (3 minutes)
+### System 4: Personal Decision Support Structure (3 minutes)
 
-**When I need input from others:**
+**When I need input from others about personal choices:**
 - **Maximum people to consult:** ____
-- **Maximum time for gathering input:** ____
-- **Questions I'll ask:** ____________________
+- **Maximum time for gathering personal input:** ____
+- **Questions I'll ask about personal decisions:** ____________________
 
-**When I'm stuck in paralysis:**
-- **My escape technique:** ____________________
-- **Person I'll call for perspective:** ____________________
-- **Time limit before I choose anyway:** ____
+**When I'm stuck in personal paralysis:**
+- **My personal escape technique:** ____________________
+- **Person I'll call for personal perspective:** ____________________
+- **Time limit before I choose personal option anyway:** ____
 
-**My decision support person:** ____________________
+**My personal decision support person:** ____________________
 
 ---
 
-## System Testing (1 minute)
+## Personal System Testing (1 minute)
 
-**Apply your system to a current decision:**
+**Apply your personal system to a current decision:**
 
-**Decision:** ____________________
-**Category:** Micro/Minor/Major/Life
-**Time allocation:** ____
-**Tool to use:** ____________________
-**When you'll decide:** ____________________
+**Personal Decision:** ____________________
+**Personal Category:** Micro/Minor/Major/Life
+**Personal Time allocation:** ____
+**Personal Tool to use:** ____________________
+**When you'll decide personally:** ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How might having systems change your relationship with future decisions?**
+**How might having personal systems change your relationship with future personal decisions?**
 ____________________
 
-**Which system component will be most helpful for you?**
+**Which personal system component will be most helpful for you?**
 ____________________
 
-**What would you add to make these systems even better?**
+**What would you add to make these personal systems even better?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll address the perfectionist thinking that often underlies decision paralysis.
+Tomorrow we'll address the perfectionist thinking that often underlies personal decision paralysis.
 
-**Decision Systems Thought:**
-*"Good systems free me from starting from scratch with every choice. I can trust my process."*
+**Personal Decision Systems Thought:**
+*"Good personal systems free me from starting from scratch with every personal choice. I can trust my personal process."*

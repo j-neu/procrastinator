@@ -1,138 +1,142 @@
-# Day 11: Building Emotional Resilience - Bouncing Back Faster
+# Day 11: Building Personal Task Momentum
 
-**Today's Focus:** Develop capacity to recover from emotional setbacks quickly
-**Time Commitment:** 20 minutes
-**Core Exercise:** Resilience Building Practice
+**Today's Focus:** Create positive momentum with your daily personal tasks
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Momentum Building System
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What emotions am I experiencing around my avoided tasks today?
-- What is one small step I can take despite these feelings?
-- How can I show myself compassion around my emotional experience?
+**Daily Questions:** *(Focus on building positive momentum with personal tasks.)*
 
-*Flexibility reflection:*
-**How did matching strategies to emotion types work for you yesterday?** ____________________
-**Which emotional category do you most need targeted strategies for?** ____________________
+- **What emotions am I experiencing around my personal tasks today?**
+  *(Notice if you feel more confident or capable than when you started this workbook.)*
 
----
+- **What small personal task can I build momentum with today?**
+  *(Choose something where completing it would make other tasks feel easier.)*
 
-## Understanding Emotional Resilience (4 minutes)
+- **How can I celebrate my growing emotional skills with personal tasks?**
+  *(What progress have you made in handling emotions around daily responsibilities?)*
 
-Emotional resilience isn't about avoiding difficult emotions or never getting knocked down. It's about developing the capacity to bounce back from emotional challenges more quickly and completely.
-
-### Components of Emotional Resilience:
-**Recovery Speed:** How quickly you return to baseline after emotional upset
-**Learning Integration:** How well you extract wisdom from emotional experiences  
-**Adaptive Capacity:** How flexibly you adjust to new emotional challenges
-**Meaning-Making:** How you frame emotional difficulties within a larger story
-**Self-Compassion:** How kindly you treat yourself during emotional struggles
-
-### Signs of Growing Resilience:
-- Emotional storms feel less devastating
-- You return to functioning faster after setbacks
-- You see emotions as information rather than verdicts
-- You maintain perspective during intense feelings
-- You trust your ability to handle whatever arises
+*Personal regulation plan reflection:*
+**How did having a personal emotional regulation plan help you yesterday?** ____________________
+**Which part of your plan feels most reliable?** ____________________
 
 ---
 
-## Main Exercise: Resilience Assessment and Building (11 minutes)
+## Understanding Personal Task Momentum (3 minutes)
 
-### Step 1: Current Resilience Inventory (4 minutes)
+Momentum with personal tasks happens when completing one task makes you feel more capable and motivated to tackle others. This creates a positive cycle that makes emotional regulation easier.
 
-**Think about a recent emotional challenge related to procrastination:**
-**Situation:** ____________________
-**Emotion experienced:** ____________________
-**How long did the intense emotion last?** ____________________
-**How did you recover?** ____________________
+### How Personal Task Momentum Works:
+**Success Breeds Success:** Completing tasks builds confidence for future tasks
+**Emotional Momentum:** Positive emotions from completion carry forward
+**Skill Building:** Each successful task strengthens your emotional regulation abilities
+**Environment Improvement:** Completed tasks create a more supportive environment
+**Identity Shift:** You start seeing yourself as someone who follows through
 
-**Rate your current resilience (1-10):**
-Recovery speed: ____
-Learning from experience: ____
-Adapting to new challenges: ____
-Finding meaning in difficulties: ____
-Self-compassion during struggles: ____
+### Signs of Growing Momentum:
+- Personal tasks feel less overwhelming
+- You complete tasks more consistently
+- Emotions around tasks become more manageable
+- You feel more in control of your daily life
+- You trust your ability to handle personal responsibilities
 
-**Your strongest resilience area:** ____________________
+---
+
+## Main Exercise: Personal Task Momentum Building (10 minutes)
+
+### Step 1: Current Personal Task Momentum Assessment (3 minutes)
+
+**Think about your personal tasks over the past week:**
+**Which personal task did you complete that felt good?** ____________________
+**What emotions did you feel after completing it?** ____________________
+**How did that completion affect your motivation for other tasks?** ____________________
+
+**Rate your current personal task momentum (1-10):**
+*(1=stuck/avoiding tasks, 5=some progress, 10=consistently following through)*
+Task completion consistency: ____
+Emotional management with tasks: ____
+Motivation for daily responsibilities: ____
+Confidence in handling personal tasks: ____
+Feeling in control of daily life: ____
+
+**Your strongest momentum area:** ____________________
 **Area most needing development:** ____________________
 
-### Step 2: Resilience Building Technique Practice (4 minutes)
+### Step 2: Momentum Building Technique Practice (4 minutes)
 
 **Choose your area for development and practice the corresponding technique:**
 
-**FOR RECOVERY SPEED:**
-**Post-Emotion Reset Protocol:**
-1. Name the emotion: "I just experienced ______"
-2. Thank it for the information: "Thank you for showing me ______"
-3. Return to body: Three deep breaths
-4. Take one small positive action
+**FOR TASK COMPLETION CONSISTENCY:**
+**Daily Win Protocol:**
+1. Choose one small personal task each morning
+2. Complete it before noon
+3. Notice how completion makes you feel
+4. Use that energy for one more small task
 
-**Practice with a recent emotional experience:**
-Emotion: ____________________
-Information it provided: ____________________
-Small positive action: ____________________
+**Practice right now:**
+Small task I'll complete: ____________________
+Completed? Yes / No
+How do I feel after completion? ____________________
 
-**FOR LEARNING INTEGRATION:**
-**Emotional Experience Debrief:**
-"What did this emotion teach me about myself?"
-"How can this experience make me wiser?"
-"What would I do differently next time?"
-"How does this experience serve my growth?"
+**FOR EMOTIONAL MANAGEMENT:**
+**Task Emotion Check-In:**
+- Before starting: "What am I feeling?" ____________________
+- During task: "How am I doing emotionally?" ____________________
+- After completion: "What emotions do I have now?" ____________________
 
-**Your learning insights:** ____________________
+**FOR MOTIVATION BUILDING:**
+**Momentum Linking:**
+"Since I just completed ______, I feel capable of ______."
+"This success reminds me that I can ______."
+"I'm becoming someone who ______." 
 
-**FOR MEANING-MAKING:**
-**Difficulty as Transformation:**
-"This emotional challenge is helping me develop ______"
-"Future me will be grateful I learned to handle ______"
-"This difficulty is part of my story of becoming ______"
+**Your momentum statement:** ____________________
 
-**Your meaning frame:** ____________________
+### Step 3: Momentum Building Application (3 minutes)
 
-### Step 3: Resilience Application (3 minutes)
+**Choose a personal task and apply your momentum-building approach:**
 
-**Choose a current emotional challenge and apply your resilience-building approach:**
+**Personal task:** ____________________
+**Current motivation level (1-10):** ____
+**Momentum technique applied:** ____________________
 
-**Current challenge:** ____________________
-**Primary emotion:** ____________________
-**Resilience technique applied:** ____________________
-
-**Take one action while using your resilience frame:**
-**Action taken:** ____________________
-**How did the resilience approach affect your experience?** ____________________
+**Complete the task using your momentum approach:**
+**Task completed:** Yes / No
+**Motivation level after completion (1-10):** ____
+**How did the momentum approach change your experience?** ____________________
 
 ---
 
-## Resilience Recovery Plan (2 minutes)
+## Personal Task Momentum Plan (1 minute)
 
-**Create your personal bounce-back protocol:**
+**Create your personal momentum-building protocol:**
 
-**When I experience emotional overwhelm, I will:**
-1. **First (immediate):** ____________________
-2. **Second (within an hour):** ____________________  
-3. **Third (same day):** ____________________
-4. **Follow-up (next day):** ____________________
+**To build momentum with personal tasks, I will:**
+1. **Daily:** ____________________
+2. **When feeling stuck:** ____________________
+3. **After completing any task:** ____________________
+4. **When motivation is low:** ____________________
 
-**My resilience reminder phrase:**
-"I have survived 100% of my difficult emotions so far. This one will pass too, and I will learn from it."
+**My momentum reminder phrase:**
+"Each personal task I complete builds my confidence and makes the next one easier. I am becoming someone who follows through."
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How does focusing on resilience change your relationship with difficult emotions?** ____________________
+**How does focusing on momentum change your approach to personal tasks?** ____________________
 
-**What surprised you about your current resilience capacity?** ____________________
+**What surprised you about your current momentum-building capacity?** ____________________
 
-**Which resilience skill do you most want to strengthen?** ____________________
+**Which momentum skill do you most want to strengthen?** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll explore the concept of "emotional courage" - developing the bravery to feel feelings fully while still taking meaningful action.
+Tomorrow we'll learn about handling emotions when personal tasks feel overwhelming or too complicated.
 
-**Emotional Resilience Thought:**
-*"I am emotionally resilient. Every emotional challenge I navigate makes me stronger and wiser."*
+**Daily Reminder:**
+*"Each personal task I complete builds momentum for the next. I am creating positive cycles of success."*

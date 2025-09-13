@@ -1,136 +1,118 @@
-# Day 15: Task-Specific Pressure Optimization
+# Day 15: Matching Energy to Different Personal Tasks
 
-**Today's Focus:** Tailor pressure techniques to different types of work
-**Time Commitment:** 20 minutes
-**Core Exercise:** Task-Pressure Matching System
+**Today's Focus:** Adapt your motivation strategies for different types of personal tasks
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Task-Energy Matching
 
 ---
 
 ## Morning Check-in (2 minutes)
 
 **Daily Questions:**
-- What task am I putting off until pressure builds?
-- What level of pressure energizes vs. overwhelms me?
-- How can I honor my natural rhythms while meeting commitments?
+- What personal task have I been putting off?
+- When do I feel most motivated and energized?
+- What makes boring tasks feel more interesting to me?
 
-*Quality system check:*
-**Did you implement a quality assurance system in recent pressure work? How did it help?** ____________________
+*Progress check:*
+**What motivation strategy from this week worked best for you?** ____________________
 
 ---
 
-## Main Exercise: Task-Pressure Optimization (15 minutes)
+## Main Exercise: Personal Task-Energy Matching (10 minutes)
 
-**Purpose:** Match pressure techniques to specific task types for optimal results
+**Purpose:** Learn which motivation approaches work best for different types of personal tasks
 
-### Step 1: Task Type Analysis (6 minutes)
+### Step 1: Your Personal Task Categories (4 minutes)
 
-**Categorize your common tasks and their pressure needs:**
+**Think about the different types of personal tasks you do. For each category, note what works:**
 
-**Creative/Innovative Tasks:**
-Examples: ____________________
-Optimal pressure level: Low / Medium / High
-Best timing: ____________________
-Pressure techniques that help: ____________________
-Pressure techniques that hurt: ____________________
+**Fun/Creative Personal Tasks:**
+Examples: *(hobbies, creative projects, learning new things)* ____________________
+When I'm most motivated: ____________________
+What helps me start: ____________________
+What helps me keep going: ____________________
 
-**Analytical/Problem-Solving Tasks:**
-Examples: ____________________
-Optimal pressure level: Low / Medium / High
-Best timing: ____________________
-Pressure techniques that help: ____________________
-Pressure techniques that hurt: ____________________
+**Routine Personal Tasks:**
+Examples: *(cleaning, organizing, personal admin, bills)* ____________________
+When I'm most motivated: ____________________
+What helps me start: ____________________
+What helps me keep going: ____________________
 
-**Routine/Administrative Tasks:**
-Examples: ____________________
-Optimal pressure level: Low / Medium / High
-Best timing: ____________________
-Pressure techniques that help: ____________________
-Pressure techniques that hurt: ____________________
+**Health/Self-Care Tasks:**
+Examples: *(exercise, meal prep, medical appointments)* ____________________
+When I'm most motivated: ____________________
+What helps me start: ____________________
+What helps me keep going: ____________________
 
-**Communication/Presentation Tasks:**
-Examples: ____________________
-Optimal pressure level: Low / Medium / High
-Best timing: ____________________
-Pressure techniques that help: ____________________
-Pressure techniques that hurt: ____________________
+**Social/Relationship Tasks:**
+Examples: *(calling friends, planning events, gifts, thank you notes)* ____________________
+When I'm most motivated: ____________________
+What helps me start: ____________________
+What helps me keep going: ____________________
 
-### Step 2: Task-Specific Pressure Strategies (6 minutes)
+### Step 2: Energy Strategy Matching (4 minutes)
 
-**For creative work:**
-Pressure creation method: ____________________
-Timing strategy: ____________________
-Environment setup: ____________________
-Recovery needed: ____________________
+**For each task type, what motivation approach works best:**
 
-**For analytical work:**
-Pressure creation method: ____________________
-Timing strategy: ____________________
-Environment setup: ____________________
-Recovery needed: ____________________
+**Fun/Creative Tasks:**
+Best motivation strategy: ____________________
+Best time of day: ____________________
+Best environment: ____________________
 
-**For routine work:**
-Pressure creation method: ____________________
-Timing strategy: ____________________
-Environment setup: ____________________
-Recovery needed: ____________________
+**Routine Tasks:**
+Best motivation strategy: ____________________
+Best time of day: ____________________
+Best environment: ____________________
 
-**For communication work:**
-Pressure creation method: ____________________
-Timing strategy: ____________________
-Environment setup: ____________________
-Recovery needed: ____________________
+**Health/Self-Care Tasks:**
+Best motivation strategy: ____________________
+Best time of day: ____________________
+Best environment: ____________________
 
-### Step 3: Integration Strategy (3 minutes)
+**Social/Relationship Tasks:**
+Best motivation strategy: ____________________
+Best time of day: ____________________
+Best environment: ____________________
 
-**When you have mixed-type work:**
-Sequencing strategy: ____________________
-Pressure transition method: ____________________
-Energy management: ____________________
+### Step 3: Your Personal Decision Guide (2 minutes)
 
-**Task switching under pressure:**
-How to maintain focus: ____________________
-When to batch vs. separate: ____________________
-
-**Your task-pressure decision framework:**
-1. Identify task type
+**When facing any personal task, I'll ask myself:**
+1. What type of task is this?
 2. ____________________
 3. ____________________
 4. ____________________
 
 ---
 
-## Task-Pressure Practice (2 minutes)
+## Today's Task-Energy Practice (2 minutes)
 
-**Purpose:** Apply task-specific pressure optimization
+**Purpose:** Apply task-specific motivation
 
-**Task you need to complete soon:**
+**Personal task I need to do soon:**
 ____________________
 
-**Task type:** Creative / Analytical / Routine / Communication
+**Task type:** Fun/Creative / Routine / Health/Self-Care / Social/Relationship
 
-**Optimal pressure approach for this type:**
+**Best motivation approach for this type:**
 ____________________
 
-**Specific technique you'll use:**
-____________________
-
-**When and where you'll do this:**
+**When and how I'll do this today:**
 ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**Which task type benefits most from your pressure-driven approach?** ____________________
+**Which type of personal task comes most naturally to you?** ____________________
 
-**Which task type needs the most adjustment to your usual pressure methods?** ____________________
+**Which type needs the most motivation strategies?** ____________________
 
-**How will this task-specific approach improve your overall performance?** ____________________
+**How will matching your energy to task types help your daily life?** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll explore how to handle pressure work when motivation is low.
+Tomorrow we'll explore how to maintain motivation when your energy is naturally low.
 
-**Task Optimization Thought:**
-*"I can tailor my pressure approach to match the specific needs of different types of work, optimizing performance across all areas."*
+**Task-Energy Thought:**
+*"I can choose the right motivation approach for each type of personal task I need to do."*

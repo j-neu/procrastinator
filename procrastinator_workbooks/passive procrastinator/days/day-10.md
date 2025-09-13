@@ -1,44 +1,49 @@
-# Day 10: Communication Control - Taming Email and Messages
+# Day 10: Personal Communication Control - Managing Personal Digital Overwhelm
 
-**Today's Focus:** Create simple systems for managing email and communications without overwhelm
-**Time Commitment:** 20 minutes
-**Core Exercise:** Communication Management Setup
+**Today's Focus:** Create simple systems for managing personal communications and digital overwhelm
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Communication Management
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What task am I avoiding due to feeling overwhelmed or disorganized?
-- What is one small organizational step I can take today?
-- How can I approach this with curiosity rather than judgment?
+**Daily Questions:** *(These questions help you understand how personal communications affect your productivity. Passive procrastination often happens when personal digital life feels overwhelming. Remember: you can control your personal communication habits.)*
 
-*Distraction management check-in:*
-**How effective was your distraction protocol yesterday?** ____________________
+- **What personal task am I avoiding because my personal digital life feels overwhelming?**
+  *(Think of something in your personal life you've put off because your personal email, messages, or social media feel too chaotic or demanding.)*
+
+- **What is one personal communication boundary I can set today?**
+  *(This could be setting personal email times, turning off personal notifications during focus time, or creating personal communication-free periods.)*
+
+- **How can I approach personal digital boundaries with self-respect rather than guilt?**
+  *(Instead of feeling guilty about not being instantly available, try to see personal communication boundaries as necessary for your well-being and goals.)*
+
+*Personal focus management check-in:*
+**How effective was your personal focus protocol yesterday?** ____________________
 
 ---
 
-## Today's 3-2-1 Plan (3 minutes)
+## Today's 3-1-1 Personal Plan (2 minutes)
 
-**My 3 Main Priorities for Today:**
+**My 3 Personal Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 2 Quick Tasks (5 min each):**
-1. ____________________
-2. ____________________
+**My 1 Quick Personal Task (5-10 min):**
+____________________
 
-**My 1 Organizational Improvement:**
+**My 1 Personal Routine/Habit:**
 ____________________
 
 ---
 
-## The Communication Overwhelm Problem (2 minutes)
+## The Personal Communication Overwhelm Problem (2 minutes)
 
-Email and messages can become major sources of procrastination—either through constant interruption or by creating overwhelming backlogs that feel impossible to tackle. Without systems, communication becomes reactive chaos.
+Personal emails, messages, and social media can become major sources of procrastination—either through constant interruption of personal goals or by creating overwhelming personal digital backlogs. Without systems, personal communication becomes reactive chaos that drains energy from personal priorities.
 
-**Today's solution:** Simple communication management that keeps you in control.
+**Today's solution:** Simple personal communication management that keeps you in control of your personal digital life.
 
 ---
 

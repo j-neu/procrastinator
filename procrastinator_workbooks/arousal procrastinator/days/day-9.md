@@ -1,144 +1,125 @@
-# Day 9: Optimizing Work Environment for Pressure
+# Day 9: Simple Personal Task Management
 
-**Today's Focus:** Design environments that enhance your pressure-driven performance
-**Time Commitment:** 20 minutes
-**Core Exercise:** Pressure Environment Optimization
+**Today's Focus:** Create an easy system for keeping track of personal tasks without overwhelm
+**Time Commitment:** 15 minutes
+**Core Exercise:** Personal Task Organization System
 
 ---
 
 ## Morning Check-in (2 minutes)
 
 **Daily Questions:**
-- What task am I putting off until pressure builds?
-- What level of pressure energizes vs. overwhelms me?
-- How can I honor my natural rhythms while meeting commitments?
+- What personal task have I been putting off?
+- When do I feel most motivated and energized?
+- What makes boring tasks feel more interesting to me?
 
-*Accountability system check:*
-**What action did you take toward building pressure-compatible accountability?** ____________________
-
----
-
-## Main Exercise: Pressure Environment Design (15 minutes)
-
-**Purpose:** Create physical and digital environments that amplify your pressure performance
-
-### Step 1: Environmental Pressure Audit (6 minutes)
-
-**Analyze your current work environments:**
-
-**High-pressure performance environment:**
-Where you do your best pressure work: ____________________
-What makes it effective:
-- Physical elements: ____________________
-- Sound/noise level: ____________________
-- Visual elements: ____________________
-- Temperature/comfort: ____________________
-- Distractions present: ____________________
-
-**Low-energy/procrastination environment:**
-Where you tend to avoid work: ____________________
-What enables avoidance:
-- Physical comfort level: ____________________
-- Distractions available: ____________________
-- Energy/stimulation level: ____________________
-- Escape routes: ____________________
-
-**Environmental factors that increase your pressure:**
-□ Time pressure visuals (clocks, timers)
-□ Stimulating music/sounds
-□ Standing/active workstation
-□ Minimalist/focused setup
-□ Competitive/energetic atmosphere
-□ Other: ____________________
-
-**Environmental factors that decrease pressure:**
-□ Too comfortable seating
-□ Too many entertainment options
-□ Quiet/unstimulating atmosphere
-□ Cluttered/overwhelming space
-□ Isolated/low-energy setting
-□ Other: ____________________
-
-### Step 2: Optimal Pressure Environment Design (6 minutes)
-
-**Design your ideal pressure work setup:**
-
-**Physical environment:**
-Location: ____________________
-Seating/standing arrangement: ____________________
-Lighting: ____________________
-Temperature: ____________________
-
-**Stimulation level:**
-Background sound: ____________________
-Visual stimulation: ____________________
-Activity level around you: ____________________
-
-**Pressure amplifiers to include:**
-□ Visible timer/countdown
-□ Productivity music playlist
-□ Stimulating visual elements
-□ Accountability visibility (camera, etc.)
-□ Consequence reminders
-□ Other: ____________________
-
-**Distraction management:**
-What to remove: ____________________
-What to block/limit: ____________________
-How to handle interruptions: ____________________
-
-### Step 3: Multiple Environment Strategy (3 minutes)
-
-**Different environments for different pressure needs:**
-
-**High-intensity pressure work:**
-Location: ____________________
-Setup: ____________________
-
-**Moderate pressure/momentum building:**
-Location: ____________________
-Setup: ____________________
-
-**Creative/planning work:**
-Location: ____________________
-Setup: ____________________
-
-**Recovery/low-pressure tasks:**
-Location: ____________________
-Setup: ____________________
+*Engagement check:*
+**How did making a boring task more engaging work for you yesterday?** ____________________
 
 ---
 
-## Environment Optimization Implementation (2 minutes)
+## Main Exercise: Simple Personal Task Organization (10 minutes)
 
-**Purpose:** Make immediate improvements to your pressure environment
+**Purpose:** Create an easy system to keep track of personal tasks without feeling overwhelmed
 
-**One environment change you'll make today:**
+### Step 1: Current Task Management Reality Check (3 minutes)
+
+**How do you currently keep track of personal tasks:**
+
+**Where you currently write down or remember personal tasks:**
+□ In your head (mental notes)
+□ Sticky notes or pieces of paper
+□ Phone notes or apps
+□ Calendar
+□ To-do list apps
+□ Other: ____________________
+
+**What happens with your current system:**
+□ I remember most things but sometimes forget
+□ I write things down but lose the notes
+□ I have too many lists in different places
+□ My system feels overwhelming
+□ I avoid writing things down because it feels like pressure
+□ Other: ____________________
+
+**What you need from a personal task system:**
+- ____________________
+- ____________________
+
+### Step 2: Simple Task Organization Design (5 minutes)
+
+**Create a personal task system that works with your energy style:**
+
+**Task categories that make sense for your life:**
+□ Quick tasks (under 15 minutes)
+□ Bigger tasks (need more time/energy)
+□ Routine tasks (weekly/monthly)
+□ Fun tasks (things you want to do)
+□ Health/self-care tasks
+□ Social tasks (people-related)
+□ Other: ____________________
+
+**Simple capture method:**
+Where I'll write down new tasks: ____________________
+How often I'll review my tasks: ____________________
+What I'll do when tasks feel overwhelming: ____________________
+
+**Energy-friendly planning:**
+When I'll look at my task list: ____________________
+How I'll choose what to do each day: *(Example: "Pick 1-2 things based on my energy level")*
 ____________________
 
-**How you'll implement it:**
+### Step 3: Weekly Task Flow (2 minutes)
+
+**Create a simple weekly rhythm:**
+
+**Sunday (or whenever works):** *(Example: "Look at my tasks for the week, pick a few priorities")*
 ____________________
 
-**What you expect this change to improve:**
+**Each day:** *(Example: "Check my energy, pick 1-2 tasks that match")*
 ____________________
 
-**How you'll test its effectiveness:**
+**When I complete a task:** *(Example: "Cross it off and celebrate!")*
+____________________
+
+**When I feel overwhelmed by my list:**
+1. ____________________
+2. ____________________
+
+---
+
+## Task System Setup (2 minutes)
+
+**Purpose:** Start using your simple task management system today
+
+**Where you'll capture personal tasks moving forward:**
+____________________
+
+**3 personal tasks you'll add to your system right now:**
+1. ____________________
+2. ____________________
+3. ____________________
+
+**Which task feels most doable today:**
+____________________
+
+**When you'll tackle it:**
 ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How does intentional environment design change your approach to pressure work?** ____________________
+**How does having a simple task system feel compared to keeping everything in your head?** ____________________
 
-**Which environmental factor has the biggest impact on your pressure performance?** ____________________
+**What part of your task organization system feels most helpful?** ____________________
 
-**What environment change are you most excited to implement?** ____________________
+**What would you adjust about your system to make it work better?** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll dive deep into understanding and managing your natural energy cycles.
+Tomorrow we'll explore how to understand and work with your natural daily energy patterns.
 
-**Environment Mastery Thought:**
-*"I can design my environment to amplify my natural pressure-driven performance and minimize elements that undermine my focus."*
+**Task Organization Wisdom:**
+*"I can keep track of personal tasks in a simple way that supports my energy style instead of overwhelming me."*
