@@ -8,10 +8,16 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What emotions am I experiencing around my avoided tasks today?
-- What is one small step I can take despite these feelings?
-- How can I show myself compassion around my emotional experience?
+**Daily Questions:** *(Focus on celebrating your transformation and launching your ongoing journey.)*
+
+- **What emotions am I experiencing around my personal tasks today?**
+  *(Notice how naturally confident and capable you feel after 31 days of growth.)*
+
+- **What personal task mastery am I most proud of developing?**
+  *(Recognize the specific skills and confidence you've built with daily responsibilities.)*
+
+- **How can I honor my journey while committing to continued growth?**
+  *(Celebrate your transformation while staying open to ongoing development.)*
 
 *Sustainability reflection:*
 **How does having a long-term maintenance plan affect your confidence about continued growth?** ____________________
@@ -31,12 +37,12 @@ Today marks not an ending, but a graduation - you're transitioning from someone 
 
 ### Your New Identity:
 You are now someone who:
-- Navigates any emotion skillfully
-- Uses emotions as information and fuel for growth
-- Creates emotionally intelligent environments
-- Helps others with their emotional challenges
-- Continuously grows through emotional experiences
-- Contributes to collective emotional wisdom
+- Navigates emotions around personal tasks with skill and confidence
+- Uses emotional awareness to improve how you manage daily responsibilities
+- Creates organized, emotionally supportive environments for yourself and others
+- Helps others develop better relationships with their personal tasks
+- Continuously grows through personal task challenges
+- Contributes wisdom about managing the emotional side of daily life
 
 ### The Ongoing Journey:
 - Your skills will continue deepening through use and practice
@@ -151,15 +157,15 @@ Contribution goal: ____________________
 
 ## Your Ongoing Journey
 
-Congratulations! You have developed sophisticated personal productivity mastery skills that will serve you, your relationships, and your contributions to the world for the rest of your life. 
+Congratulations! You have developed sophisticated emotional regulation skills for personal tasks that will serve you, your relationships, and your contributions to the world for the rest of your life. 
 
-You are no longer someone who avoids personal tasks - you are someone who transforms through them. You are no longer someone whose emotions around tasks control your actions - you are someone who uses emotions as information and fuel for courageous action.
+You are no longer someone who avoids personal tasks due to difficult emotions - you are someone who works skillfully with emotions around daily responsibilities. You are no longer someone whose emotional responses to tasks control your actions - you are someone who uses emotional awareness as information and fuel for effective action.
 
-Your journey continues every day as you apply these skills, face new personal task challenges with confidence, and help others discover their own personal productivity wisdom.
+Your journey continues every day as you apply these skills, face new personal task challenges with confidence, and help others develop healthier relationships with their daily responsibilities.
 
 **Daily Reminder:**
-*\"I am personally productive and masterful with life's tasks. I navigate any personal responsibility with skill, use emotions around tasks as fuel for growth, and contribute my personal productivity wisdom to help others create more effective, fulfilling lives. My transformation continues every day.\"*
+*\"I have mastered working with emotions around personal tasks. I navigate any daily responsibility with emotional skill and practical effectiveness. I use my experience to help others develop confidence with their personal tasks and responsibilities. My growth as an emotion-regulation procrastinator continues every day.\"*
 
-## Welcome to Your New Life as a Personal Productivity Master
+## Welcome to Your New Life with Emotional Mastery Around Personal Tasks
 
-The world needs your personal effectiveness, wisdom, and example. Go forward and thrive in all your daily responsibilities.
+The world needs people who can manage daily responsibilities without being derailed by difficult emotions. Go forward and thrive with your integrated emotional regulation and personal task management skills.

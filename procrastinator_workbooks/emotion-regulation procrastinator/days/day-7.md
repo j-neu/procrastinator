@@ -1,6 +1,10 @@
 # Day 7: Managing Perfectionist Emotions with Personal Tasks
 
 **Today's Focus:** Reduce emotional overwhelm from perfectionist standards with daily tasks
+
+**Key Terms for Today:**
+- **Perfectionism:** Setting impossibly high standards that create anxiety and paralysis around starting tasks
+- **"Good Enough" Standard:** A realistic level of task completion that meets actual needs without emotional overwhelm
 **Time Commitment:** 15 minutes
 **Core Exercise:** "Good Enough" Personal Task Practice
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on managing perfectionist emotions with your personal tasks.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice if perfectionist pressure is creating extra emotional intensity.)*
+  *(Notice if perfectionist pressure is creating extra emotional intensity. Perfectionism often shows up as anxiety, paralysis, or shame around starting tasks.)*
 
 - **What small personal task can I do "good enough" instead of perfectly?**
-  *(Choose something where perfectionist standards might be holding you back.)*
+  *(Choose something where perfectionist standards might be holding you back. "Good enough" is often actually quite good and much more emotionally manageable.)*
 
 - **How can I be gentle with myself about imperfection today?**
-  *(What would you say to a friend learning to be less perfectionistic?)*
+  *(What would you say to a friend learning to be less perfectionistic? Perfectionism is often learned - you can learn different standards that create less emotional overwhelm.)*
 
 *Daily routine reflection:*
 **How did having a daily routine help your emotional state yesterday?** ____________________
@@ -142,7 +146,7 @@ ____________________
 "The skill I most want to practice this week is ____________________."
 
 **Rate your progress in managing emotions with personal tasks (1-10):** ____
-*(1=still very overwhelming, 5=manageable, 10=calm and confident)*
+*(1=still completely overwhelmed, 3=starting to notice patterns, 5=can manage sometimes, 7=generally manageable, 10=calm and confident most of the time)*
 
 ---
 

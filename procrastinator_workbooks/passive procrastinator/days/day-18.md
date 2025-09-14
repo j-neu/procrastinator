@@ -1,49 +1,49 @@
-# Day 18: Personal Stress-Proof Systems - Maintaining Personal Productivity Under Pressure
+# Day 18: Stress-Proof Systems - Maintaining Productivity Under Pressure
 
-**Today's Focus:** Build personal productivity resilience that survives stress and difficult life periods
+**Today's Focus:** Build productivity resilience that survives stress and difficult periods
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Stress-Resilient System Design
+**Core Exercise:** Stress-Resilient System Design
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand how stress affects your personal productivity. Passive procrastination often gets worse during stressful life periods when you abandon personal systems. Remember: simple backup systems are better than no systems during stress.)*
+**Daily Questions:** *(These questions help you understand how stress affects your productivity. Passive procrastination often gets worse during stressful periods when you abandon systems. Remember: simple backup systems are better than no systems during stress.)*
 
-- **What personal goal do I abandon first when life gets stressful or overwhelming?**
-  *(Think of something in your personal life that you stop doing when you're stressed, busy, or going through difficult times, even though it would probably help you feel better.)*
+- **What goal do I abandon first when life gets stressful or overwhelming?**
+  *(Think of something you stop doing when you're stressed, busy, or going through difficult times, even though it would probably help you feel better.)*
 
-- **What is one simple personal productivity backup I can create for stressful times?**
-  *(This could be a very simplified version of your personal planning, a quick personal organizing routine, or a minimal way to maintain personal goals during busy periods.)*
+- **What is one simple productivity backup I can create for stressful times?**
+  *(This could be a very simplified version of your planning, a quick organizing routine, or a minimal way to maintain goals during busy periods.)*
 
-- **How can I approach stress-proofing my personal systems with realism rather than perfectionism?**
-  *(Instead of expecting to maintain perfect personal productivity during stress, try to design simple backup approaches that keep you connected to your personal goals even during difficult times.)*
+- **How can I approach stress-proofing my systems with realism rather than perfectionism?**
+  *(Instead of expecting to maintain perfect productivity during stress, try to design simple **backup systems** *(Simplified versions of your regular approaches for when things get overwhelming)* that keep you connected to your goals even during difficult times.)*
 
-*Personal habit stacking check-in:*
-**How many times did you use your personal habit stack yesterday?** ____
+*Habit stacking check-in:*
+**How many times did you use your habit stack yesterday?** ____
 
 ---
 
-## Today's 3-1-1 Personal Plan (2 minutes)
+## Today's 3-1-1 Plan (2 minutes)
 
-**My 3 Personal Priorities for Today:**
+**My 3 Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 1 Quick Personal Task (5-10 min):**
+**My 1 Quick Task (5-10 min):**
 ____________________
 
-**My 1 Personal Routine/Habit:**
+**My 1 Routine/Habit:**
 ____________________
 
 ---
 
-## The Personal Stress Breakdown Problem (2 minutes)
+## The Stress Breakdown Problem (2 minutes)
 
-When life stress hits, personal productivity systems are usually the first things to be abandoned, creating a cycle where stress leads to personal chaos, which creates more stress. Building personal stress-proof systems prevents this breakdown.
+When stress hits, productivity systems are usually the first things to be abandoned, creating a cycle where stress leads to chaos, which creates more stress. Building stress-proof systems prevents this breakdown.
 
-**Today's solution:** Personal productivity systems designed to function even under life pressure, with graceful degradation rather than complete failure.
+**Today's solution:** Productivity systems designed to function even under pressure, with **graceful degradation** *(Systems that become simpler rather than failing completely)* rather than complete failure.
 
 ---
 
@@ -75,6 +75,7 @@ When life stress hits, personal productivity systems are usually the first thing
 ### Step 2: Minimum Viable Organization Design (4 minutes)
 
 **Create ultra-simple backup systems for stressful periods:**
+*(Examples: planning = write 1 priority on sticky note; capture = voice memo to self; priorities = ask "what's urgent?"; organize = clear 1 surface)*
 
 **Stressed Planning System (30 seconds maximum):**
 "When stressed, I will plan by ____________________"

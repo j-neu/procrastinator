@@ -1,6 +1,11 @@
 # Day 2: Emotional Vocabulary for Personal Tasks
 
 **Today's Focus:** Develop precise language for your emotional experiences with daily tasks
+
+**Key Terms for Today:**
+- **Emotional Granularity:** The ability to identify and name emotions precisely (e.g., "frustrated" vs "angry" vs "overwhelmed")
+- **Discriminant Validity:** How well different emotion words capture distinct experiences rather than general "bad feelings"
+
 **Time Commitment:** 15 minutes
 **Core Exercise:** Personal Task Emotion Naming Practice
 
@@ -10,14 +15,14 @@
 
 **Daily Questions:** *(These questions help you understand your personal emotional patterns with daily tasks. Remember: emotions give you information, but they don't have to control your choices.)*
 
-- **What emotions am I experiencing around my personal tasks today?**  
-  *(Notice what you feel when you think about specific daily tasks - anxiety, boredom, frustration, overwhelm, fear, or irritation.)*
+- **What emotions am I experiencing around my personal tasks today?**
+  *(Notice what you feel when you think about specific daily tasks - anxiety, boredom, frustration, overwhelm, fear, or irritation. Naming emotions precisely helps you work with them more skillfully.)*
 
-- **What is one small personal task I can take despite these feelings?**  
-  *(Choose something manageable that you can do even while feeling uncomfortable - like clearing your desk or returning one call.)*
+- **What is one small personal task I can take despite these feelings?**
+  *(Choose something manageable that you can do even while feeling uncomfortable - like clearing your desk or returning one call. Small actions build confidence that emotions don't control behavior.)*
 
-- **How can I show myself compassion around my emotional experience?**  
-  *(Your feelings make sense. What would you say to a friend experiencing these same emotions about daily responsibilities?)*
+- **How can I show myself compassion around my emotional experience?**
+  *(Your feelings make sense. What would you say to a friend experiencing these same emotions about daily responsibilities? Practice that same kindness toward yourself.)*
 
 *Reflect on yesterday's personal task emotional inventory:*
 **What pattern did I notice in my emotional avoidance of personal tasks?** ____________________
@@ -104,6 +109,7 @@ Research shows that people who can name emotions precisely ("frustrated" vs "ang
 "If I honored this emotion AND took action anyway, I would ____________________"
 
 **Rate your emotional intensity now (1-10):** ____
+*(1=completely calm, 3=slight awareness, 5=moderate intensity, 7=strong but manageable, 10=overwhelming)*
 **How does this compare to when you started this exercise?** ____________________
 
 ---

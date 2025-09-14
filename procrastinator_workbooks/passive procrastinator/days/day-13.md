@@ -1,49 +1,49 @@
-# Day 13: Personal Flexibility Systems - Handling Life's Unexpected Changes
+# Day 13: Flexibility Systems - Handling Life's Unexpected Changes
 
-**Today's Focus:** Build personal systems that adapt to life changes without losing personal productivity progress
+**Today's Focus:** Build systems that adapt to life changes without losing productivity progress
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Flexible Response Protocol
+**Core Exercise:** Flexible Response Protocol
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand how unexpected changes affect your personal productivity. Passive procrastination often happens when life disruptions make you abandon your personal goals entirely. Remember: flexible personal systems are stronger than rigid ones.)*
+**Daily Questions:** *(These questions help you understand how unexpected changes affect your productivity. Passive procrastination often happens when life disruptions make you abandon your goals entirely. Remember: flexible systems are stronger than rigid ones.)*
 
-- **What personal goal am I avoiding because life keeps getting in the way?**
-  *(Think of something in your personal life you want to work on but keep putting off because unexpected things happen, your schedule changes, or life feels unpredictable.)*
+- **What goal am I avoiding because life keeps getting in the way?**
+  *(Think of something you want to work on but keep putting off because unexpected things happen, your schedule changes, or life feels unpredictable.)*
 
-- **What is one way I can make my personal productivity more flexible today?**
-  *(This could be creating backup plans for personal goals, building buffer time into personal schedules, or having simpler versions of personal routines for busy days.)*
+- **What is one way I can make my productivity more flexible today?**
+  *(This could be creating backup plans for goals, building buffer time into schedules, or having simpler versions of routines for busy days.)*
 
-- **How can I approach personal flexibility with grace rather than frustration?**
-  *(Instead of being frustrated when personal plans change, try to see flexibility as a skill that makes your personal life more resilient and sustainable.)*
+- **How can I approach flexibility with grace rather than frustration?**
+  *(Instead of being frustrated when plans change, try to see flexibility as a skill that makes your life more resilient and sustainable.)*
 
-*Personal energy management check-in:*
-**How well did you match personal tasks to energy yesterday?** ____________________
+*Energy management check-in:*
+**How well did you match tasks to energy yesterday?** ____________________
 
 ---
 
-## Today's 3-1-1 Personal Plan (2 minutes)
+## Today's 3-1-1 Plan (2 minutes)
 
-**My 3 Personal Priorities for Today:**
+**My 3 Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 1 Quick Personal Task (5-10 min):**
+**My 1 Quick Task (5-10 min):**
 ____________________
 
-**My 1 Personal Routine/Habit:**
+**My 1 Routine/Habit:**
 ____________________
 
 ---
 
-## The Personal Rigidity Problem (2 minutes)
+## The Rigidity Problem (2 minutes)
 
-Many personal productivity systems fail when unexpected life changes occur. Passive procrastinators often abandon their entire personal system when one thing goes wrong, rather than adapting flexibly to life's realities.
+Many productivity systems fail when unexpected life changes occur. Passive procrastinators often abandon their entire system when one thing goes wrong, rather than adapting flexibly to life's realities.
 
-**Today's solution:** Build flexibility into your personal systems so they bend without breaking when life happens.
+**Today's solution:** Build **flexible systems** *(Organized approaches that can adapt to changes without completely failing)* that bend without breaking when life happens.
 
 ---
 

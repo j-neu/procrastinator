@@ -1,6 +1,10 @@
 # Day 16: Advanced Personal Task Strategies
 
 **Today's Focus:** Master advanced techniques for handling challenging personal tasks
+
+**Key Terms for Today:**
+- **Advanced Strategy Combination:** Using multiple emotional regulation techniques together for complex challenges
+- **Multi-Factor Tasks:** Personal tasks involving several difficulties at once (complexity + social + high stakes)
 **Time Commitment:** 15 minutes
 **Core Exercise:** Advanced Personal Task Management Techniques
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on applying advanced strategies to challenging personal tasks.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice if you feel more capable of handling complex emotions now.)*
+  *(Notice if you feel more capable of handling complex emotions now. Advanced strategies build on this growing confidence.)*
 
 - **What personal task feels too challenging or complex for your basic strategies?**
-  *(Choose something that requires more advanced approaches.)*
+  *(Choose something that requires more advanced approaches. Complex tasks are opportunities to practice sophisticated skills.)*
 
 - **How can I apply multiple emotional regulation skills to challenging tasks?**
-  *(Consider combining techniques you've learned for maximum effectiveness.)*
+  *(Consider combining techniques you've learned for maximum effectiveness. Integration of skills creates powerful problem-solving abilities.)*
 
 *Personal systems reflection:*
 **How did creating personal systems help you feel more organized yesterday?** ____________________
@@ -117,6 +121,7 @@ Plan your support:
 5. **Timeline:** ____________________
 
 **Confidence level with this advanced approach (1-10):** ____
+*(1=not confident at all, 3=somewhat unsure, 5=moderately confident, 7=quite confident, 10=very confident and ready to tackle it)*
 
 ---
 

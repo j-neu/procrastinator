@@ -1,83 +1,84 @@
-# Day 26: Personal Support Systems - Building Your Personal Productivity Network
+# Day 26: Support Systems - Building Your Productivity Network
 
-**Today's Focus:** Develop systems for getting personal support and help that multiply your personal productivity effectiveness
+**Today's Focus:** Develop systems for getting support and help that multiply your productivity effectiveness
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Support Network Framework
+**Core Exercise:** Support Network Framework
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand how to get personal support for your productivity goals. Passive procrastination often continues when you try to do everything alone. Remember: asking for help and support is a sign of wisdom, not weakness.)*
+**Daily Questions:** *(These questions help you understand how to get support for your productivity goals. Passive procrastination often continues when you try to do everything alone. Remember: asking for help and support is a sign of wisdom, not weakness.)*
 
-- **What personal task or goal am I struggling with because I'm trying to do everything myself?**
-  *(Think of something in your personal life you keep putting off because it feels too big to handle alone, you lack certain skills or knowledge, or you could use encouragement and accountability.)*
+- **What task or goal am I struggling with because I'm trying to do everything myself?**
+  *(Think of something you keep putting off because it feels too big to handle alone, you lack certain skills or knowledge, or you could use encouragement and accountability.)*
 
-- **What is one way I can get help or support for my personal productivity goals this week?**
-  *(This could be asking a friend for accountability, getting family support for a personal routine, learning from someone who has achieved similar personal goals, or simply sharing your goals with someone who cares about you.)*
+- **What is one way I can get help or support for my productivity goals this week?**
+  *(This could be asking a friend for accountability, getting family support for a routine, learning from someone who has achieved similar goals, or simply sharing your goals with someone who cares about you.)*
 
-- **How can I approach asking for personal help with confidence rather than embarrassment?**
-  *(Instead of feeling embarrassed about needing support, try to see asking for help as a natural part of achieving meaningful personal goals and building stronger relationships.)*
+- **How can I approach asking for help with confidence rather than embarrassment?**
+  *(Instead of feeling embarrassed about needing **support systems** *(Networks of people and resources that help you achieve your goals)*, try to see asking for help as a natural part of achieving meaningful goals and building stronger relationships.)*
 
-*Personal master planning check-in:*
-**How did multi-level personal planning help with your complex personal goal yesterday?** ____________________
+*Master planning check-in:*
+**How did multi-level planning help with your complex goal yesterday?** ____________________
 
 ---
 
-## Today's 3-1-1 Personal Plan (2 minutes)
+## Today's 3-1-1 Plan (2 minutes)
 
-**My 3 Personal Priorities for Today:**
+**My 3 Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 1 Quick Personal Task (5-10 min):**
+**My 1 Quick Task (5-10 min):**
 ____________________
 
-**My 1 Personal Routine/Habit:**
+**My 1 Routine/Habit:**
 ____________________
 
 ---
 
-## The Solo Personal Productivity Limit (2 minutes)
+## The Solo Productivity Limit (2 minutes)
 
-Personal productivity systems can only take you so far when you're trying to do everything alone. True personal effectiveness often requires the ability to get support, ask for help, and create personal networks that encourage and assist your personal goals.
+Productivity systems can only take you so far when you're trying to do everything alone. True effectiveness often requires the ability to get support, ask for help, and create networks that encourage and assist your goals.
 
-**Today's solution:** Personal support network frameworks that extend your personal productivity capabilities beyond individual capacity.
+**Today's solution:** Support network frameworks that extend your productivity capabilities beyond individual capacity.
 
 ---
 
-## Main Exercise: Personal Support System Development (7 minutes)
+## Main Exercise: Support System Development (7 minutes)
 
 ### Step 1: Delegation Opportunity Analysis (3 minutes)
 
-**Where could you get personal support to multiply your personal effectiveness?**
+**Where could you get support to multiply your effectiveness?**
+*(Examples: household tasks, research help, skill learning, accountability partner, technical assistance)*
 
-**Personal tasks you're struggling with that others could help with:**
+**Tasks you're struggling with that others could help with:**
 - ____________________
-- ____________________
-- ____________________
-
-**Personal areas where you're stuck doing everything alone:**
 - ____________________
 - ____________________
 
-**Skills or knowledge others have that could help your personal goals:**
+**Areas where you're stuck doing everything alone:**
 - ____________________
 - ____________________
 
-**People who might enjoy supporting your personal growth:**
+**Skills or knowledge others have that could help your goals:**
 - ____________________
 - ____________________
 
-**My biggest personal support opportunity:** ____________________
+**People who might enjoy supporting your growth:**
+- ____________________
+- ____________________
+
+**My biggest support opportunity:** ____________________
 **Why I haven't asked for this help yet:** ____________________
 
 ### Step 2: Strategic Delegation Framework (4 minutes)
 
-**Design effective personal support systems:**
+**Design effective support systems:**
 
-**Personal Support Decision Matrix:**
+**Support Decision Matrix:**
 - **High skill required + I enjoy = Learn or get coaching**
 - **High skill required + I don't enjoy = Find someone who can help or teach me**
 - **Low skill required + I enjoy = Keep doing myself**

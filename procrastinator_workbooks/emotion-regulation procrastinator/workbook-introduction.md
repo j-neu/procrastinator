@@ -10,14 +10,14 @@ If you've identified as an **Emotion-Regulation Procrastinator**, you belong to 
 
 Most personal productivity advice treats procrastination as a logical problem with logical solutions: better planning, stronger willpower, or clearer goals. But as an emotion-regulation procrastinator, your challenges with daily tasks are fundamentally emotional. You might have excellent planning skills and clear intentions, yet still find yourself avoiding simple personal tasks when they trigger uncomfortable feelings. Standard techniques like "just push through" or "ignore your feelings" actually work against your natural emotional processing system.
 
-This workbook takes a different approach. Based on research from emotion regulation theory and mindfulness-based interventions, it teaches you to work with your emotions as valuable information rather than obstacles to overcome. In just 15 minutes a day, you'll learn to navigate emotional waves while staying engaged with your personal goals and daily responsibilities.
+This workbook takes a different approach. Based on research from **emotion regulation theory** (the study of how we can healthily manage our emotional responses) and **mindfulness-based interventions** (practices that help you stay present with experiences without being overwhelmed), it teaches you to work with your emotions as valuable information rather than obstacles to overcome. In just 15 minutes a day, you'll learn to navigate emotional waves while staying engaged with your personal goals and daily responsibilities.
 
 ## What You'll Master in These 31 Days
 
 This isn't about suppressing or eliminating difficult emotions—that's neither possible nor healthy. Instead, you'll develop emotional resilience and learn to move through challenging feelings while staying engaged with your personal responsibilities. Through daily 15-minute exercises rooted in emotion science, you'll:
 
 - **Map your personal emotional triggers** and understand the specific feelings that lead to task avoidance
-- **Build distress tolerance skills** to stay present with uncomfortable emotions in daily life
+- **Build distress tolerance skills** (your ability to stay present with uncomfortable emotions without needing them to change immediately) to stay present with uncomfortable emotions in daily life
 - **Develop simple emotional regulation strategies** that help you process feelings without avoiding responsibilities
 - **Create emotional safety practices** that make routine personal tasks feel more manageable
 - **Learn to separate emotions from actions** so feelings inform but don't control your daily choices

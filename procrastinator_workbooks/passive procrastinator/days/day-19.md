@@ -1,49 +1,49 @@
-# Day 19: Personal Decision Frameworks - Eliminating Personal Analysis Paralysis
+# Day 19: Decision Frameworks - Eliminating Analysis Paralysis
 
-**Today's Focus:** Build systematic personal decision-making processes that prevent personal procrastination
+**Today's Focus:** Build systematic decision-making processes that prevent procrastination
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Decision Framework Toolkit
+**Core Exercise:** Decision Framework Toolkit
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand how personal decision paralysis creates procrastination. Passive procrastination often happens when you can't decide what to do about personal goals or life choices. Remember: quick personal decisions are better than perfect personal decisions that never get made.)*
+**Daily Questions:** *(These questions help you understand how decision paralysis creates procrastination. Passive procrastination often happens when you can't decide what to do about goals or choices. Remember: quick decisions are better than perfect decisions that never get made.)*
 
-- **What personal decision am I avoiding that's preventing progress on personal goals?**
-  *(Think of something in your personal life you keep putting off because you can't decide which approach to take, you're overthinking the options, or you're waiting for the "perfect" choice to become clear.)*
+- **What decision am I avoiding that's preventing progress on goals?**
+  *(Think of something you keep putting off because you can't decide which approach to take, you're overthinking the options, or you're waiting for the "perfect" choice to become clear.)*
 
-- **What is one personal decision framework I can create to speed up similar choices?**
-  *(This could be a simple way to choose between personal activities, a method for prioritizing personal goals, or a quick process for making everyday personal decisions.)*
+- **What is one decision framework I can create to speed up similar choices?**
+  *(This could be a simple way to choose between activities, a method for prioritizing goals, or a quick process for making everyday decisions.)*
 
-- **How can I approach personal decision-making with confidence rather than perfectionism?**
-  *(Instead of needing the perfect personal choice, try to see most personal decisions as reversible experiments that can be adjusted as you learn more.)*
+- **How can I approach decision-making with confidence rather than perfectionism?**
+  *(Instead of needing the perfect choice, try to see most decisions as reversible experiments that can be adjusted as you learn more. **Decision frameworks** are structured approaches to making choices quickly and consistently.)*
 
-*Personal stress-proof systems check-in:*
-**How confident do you feel about maintaining personal productivity under pressure now?** ____________________
+*Stress-proof systems check-in:*
+**How confident do you feel about maintaining productivity under pressure now?** ____________________
 
 ---
 
-## Today's 3-1-1 Personal Plan (2 minutes)
+## Today's 3-1-1 Plan (2 minutes)
 
-**My 3 Personal Priorities for Today:**
+**My 3 Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 1 Quick Personal Task (5-10 min):**
+**My 1 Quick Task (5-10 min):**
 ____________________
 
-**My 1 Personal Routine/Habit:**
+**My 1 Routine/Habit:**
 ____________________
 
 ---
 
-## The Personal Decision Paralysis Problem (2 minutes)
+## The Decision Paralysis Problem (2 minutes)
 
-Personal analysis paralysis creates procrastination by making every personal choice feel overwhelming. Without personal decision frameworks, passive procrastinators can spend more time deciding than doing in their personal lives, leading to delay and stress about personal goals.
+**Analysis paralysis** *(Being unable to make decisions due to overthinking options)* creates procrastination by making every choice feel overwhelming. Without decision frameworks, passive procrastinators can spend more time deciding than doing, leading to delay and stress about goals.
 
-**Today's solution:** Simple, reliable personal decision frameworks that enable quick, confident personal choices and maintain forward momentum in your personal life.
+**Today's solution:** Simple, reliable decision frameworks that enable quick, confident choices and maintain forward momentum.
 
 ---
 
@@ -85,6 +85,7 @@ When unsure what to work on:
 1. "What's due soonest?" → Do that
 2. "What takes least time?" → Do that if energy is low
 3. "What has biggest impact?" → Do that if energy is high
+*(Examples: due soonest = deadline tomorrow; least time = 5-minute email; biggest impact = important project)*
 
 **Good Enough Decision (10-second framework):**
 When unsure if something is complete:
@@ -136,7 +137,7 @@ Time taken: ____ seconds
 
 **Decision reached:** ____________________
 
-**Confidence level (1-10):** ____
+**Confidence level (1-10):** ____ *(1=very uncertain, 5=moderately confident, 10=completely sure)*
 
 **How does having a framework change the decision experience?** ____________________
 

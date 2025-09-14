@@ -1,6 +1,10 @@
 # Day 18: Helping Others with Personal Productivity
 
 **Today's Focus:** Share your emotional regulation and personal productivity skills with others
+
+**Key Terms for Today:**
+- **Skill Reinforcement:** How teaching others strengthens your own abilities
+- **Mutual Support:** Creating relationships where people help each other with similar challenges
 **Time Commitment:** 15 minutes
 **Core Exercise:** Personal Productivity Support Practice
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on how you can support others while reinforcing your own skills.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice if helping others makes your own challenges feel more manageable.)*
+  *(Notice if helping others makes your own challenges feel more manageable. Teaching often builds confidence in your own abilities.)*
 
 - **Who in my life struggles with similar personal task or emotional challenges?**
-  *(Think about friends, family, or colleagues who might benefit from what you've learned.)*
+  *(Think about friends, family, or colleagues who might benefit from what you've learned. Many people share these struggles silently.)*
 
 - **How can I share what I've learned while continuing to practice self-compassion?**
-  *(Supporting others should feel energizing, not draining.)*
+  *(Supporting others should feel energizing, not draining. Healthy helping maintains your own emotional well-being.)*
 
 *Long-term maintenance reflection:*
 **How did planning for long-term skill maintenance help your confidence yesterday?** ____________________
@@ -53,6 +57,7 @@ When you help others with their personal productivity challenges, you reinforce 
 ☐ Keep struggles completely private ☐ Share struggles but don't offer solutions ☐ Get help but don't offer help ☐ Sometimes share techniques that work ☐ Actively help others with similar challenges
 
 **Rate your current personal productivity support skills (1-10):** ____
+*(1=never help others, 3=occasionally supportive, 5=sometimes helpful, 7=regularly supportive, 10=naturally gifted at helping others)*
 
 **Who in your life struggles with similar challenges?**
 1. ____________________

@@ -1,6 +1,10 @@
 # Day 19: Preventing Personal Productivity Burnout
 
 **Today's Focus:** Create sustainable approaches to personal tasks that prevent emotional exhaustion
+
+**Key Terms for Today:**
+- **Personal Productivity Burnout:** Emotional exhaustion from pushing too hard with daily tasks and responsibilities
+- **Sustainable Productivity:** Managing tasks in ways that maintain emotional well-being over time
 **Time Commitment:** 15 minutes
 **Core Exercise:** Personal Productivity Sustainability Plan
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on creating sustainable approaches to personal tasks.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice if you're pushing yourself too hard or being unsustainable with expectations.)*
+  *(Notice if you're pushing yourself too hard or being unsustainable with expectations. Burnout often starts with constant pressure and perfectionism.)*
 
 - **What personal productivity approach feels sustainable vs. exhausting?**
-  *(Think about the difference between forcing yourself and working with your natural rhythms.)*
+  *(Think about the difference between forcing yourself and working with your natural rhythms. Sustainable approaches energize rather than drain you.)*
 
 - **How can I take care of myself while staying productive with personal tasks?**
-  *(Balance is key - you need both productivity and emotional well-being.)*
+  *(Balance is key - you need both productivity and emotional well-being. Self-care and productivity can support each other rather than compete.)*
 
 *Personal productivity support reflection:*
 **How did helping someone else with personal productivity reinforce your own skills yesterday?** ____________________
@@ -58,7 +62,7 @@ Personal productivity sustainability means managing your daily responsibilities 
 ### Step 1: Current Personal Productivity Sustainability Assessment (3 minutes)
 
 **Rate your current personal productivity sustainability (1-10):**
-*(1=completely unsustainable/burnout, 5=somewhat sustainable, 10=very sustainable)*
+*(1=completely burned out/exhausted, 3=frequently drained, 5=sometimes sustainable, 7=generally sustainable, 10=energizing and fully sustainable)*
 
 **Energy pacing:** How well do you balance productive effort with rest? ____
 **Realistic expectations:** How reasonable are your standards for daily tasks? ____

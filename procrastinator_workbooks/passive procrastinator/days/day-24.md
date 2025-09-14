@@ -1,49 +1,49 @@
-# Day 24: Personal Anti-Fragile Productivity - Building Resilient Personal Systems
+# Day 24: Anti-Fragile Productivity - Building Resilient Systems
 
-**Today's Focus:** Create personal productivity systems that get stronger through life challenges rather than weaker
+**Today's Focus:** Create productivity systems that get stronger through life challenges rather than weaker
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Anti-Fragility System Design
+**Core Exercise:** Anti-Fragility System Design
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand how to make personal productivity systems stronger through challenges. Passive procrastination often returns after stressful periods because personal systems break down. Remember: the goal is personal systems that improve during difficult times.)*
+**Daily Questions:** *(These questions help you understand how to make productivity systems stronger through challenges. Passive procrastination often returns after stressful periods because systems break down. Remember: the goal is **anti-fragile systems** *(Systems that actually get better and stronger when stressed or challenged)* that improve during difficult times.)*
 
-- **What personal productivity habit do I abandon first when life gets stressful or challenging?**
-  *(Think of something in your personal productivity routine that you stop doing when life gets busy, stressful, or unpredictable, even though it would probably help you during those times.)*
+- **What productivity habit do I abandon first when life gets stressful or challenging?**
+  *(Think of something in your productivity routine that you stop doing when life gets busy, stressful, or unpredictable, even though it would probably help you during those times.)*
 
-- **What is one way I can make my personal productivity systems stronger by preparing for challenges?**
-  *(This could be creating backup versions of personal routines, building redundancy into personal planning, or designing personal systems that actually improve when tested by life stress.)*
+- **What is one way I can make my productivity systems stronger by preparing for challenges?**
+  *(This could be creating backup versions of routines, building redundancy into planning, or designing systems that actually improve when tested by life stress.)*
 
-- **How can I approach personal system resilience with strength rather than fear?**
-  *(Instead of fearing disruptions to your personal productivity, try to see challenges as opportunities to make your personal systems more robust and adaptable.)*
+- **How can I approach system resilience with strength rather than fear?**
+  *(Instead of fearing disruptions to your productivity, try to see challenges as opportunities to make your systems more robust and adaptable.)*
 
-*Personal system evolution check-in:*
-**How is your personal system experiment from yesterday progressing?** ____________________
+*System evolution check-in:*
+**How is your system experiment from yesterday progressing?** ____________________
 
 ---
 
-## Today's 3-1-1 Personal Plan (2 minutes)
+## Today's 3-1-1 Plan (2 minutes)
 
-**My 3 Personal Priorities for Today:**
+**My 3 Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 1 Quick Personal Task (5-10 min):**
+**My 1 Quick Task (5-10 min):**
 ____________________
 
-**My 1 Personal Routine/Habit:**
+**My 1 Routine/Habit:**
 ____________________
 
 ---
 
-## The Personal Fragility Problem (2 minutes)
+## The Fragility Problem (2 minutes)
 
-Most personal productivity systems are fragile—they break under life stress and require constant motivation to maintain. Anti-fragile personal systems actually improve under pressure, using life challenges to become stronger and more effective.
+Most productivity systems are fragile—they break under life stress and require constant motivation to maintain. Anti-fragile systems actually improve under pressure, using life challenges to become stronger and more effective.
 
-**Today's solution:** Transform your personal systems from fragile to anti-fragile, so life disruptions make them better rather than breaking them.
+**Today's solution:** Transform your systems from fragile to anti-fragile, so life disruptions make them better rather than breaking them.
 
 ---
 
@@ -52,6 +52,7 @@ Most personal productivity systems are fragile—they break under life stress an
 ### Step 1: Fragility Assessment (3 minutes)
 
 **Where are your systems currently fragile?**
+*(Examples: break under pressure = daily planning during busy weeks; require constant maintenance = complex capture system; cause failures = too many steps)*
 
 **Systems that break under pressure:**
 - ____________________
@@ -69,7 +70,7 @@ Most personal productivity systems are fragile—they break under life stress an
 - ____________________
 - ____________________
 
-**My most fragile organizational area:** ____________________
+**My most fragile area:** ____________________
 
 ### Step 2: Anti-Fragility Design Principles (4 minutes)
 

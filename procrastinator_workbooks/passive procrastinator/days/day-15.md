@@ -1,49 +1,54 @@
-# Day 15: Personal "Good Enough" Standards - Overcoming Perfectionist Paralysis
+# Day 15: "Good Enough" Standards - Overcoming Perfectionist Paralysis
 
-**Today's Focus:** Release perfectionist standards that prevent personal progress
+**Today's Focus:** Release perfectionist standards that prevent progress
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Good Enough Framework
+**Core Exercise:** Good Enough Framework
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand how perfectionism affects your personal productivity. Passive procrastination often happens when personal standards are so high that you never start or finish personal goals. Remember: done is better than perfect in your personal life.)*
+**Daily Questions:** *(These questions help you understand how perfectionism affects your productivity. Passive procrastination often happens when standards are so high that you never start or finish goals. Remember: done is better than perfect.)*
 
-- **What personal goal am I avoiding because I want to do it perfectly?**
-  *(Think of something in your personal life you keep putting off because you want to do it "right," you don't have enough time to do it perfectly, or you're waiting for the perfect moment to start.)*
+- **What goal am I avoiding because I want to do it perfectly?**
+  *(Think of something you keep putting off because you want to do it "right," you don't have enough time to do it perfectly, or you're waiting for the perfect moment to start.)*
 
-- **What is one personal task I can do at a "good enough" level today?**
-  *(This could be organizing one area imperfectly, making some progress on a personal project without finishing it, or completing a personal task quickly rather than perfectly.)*
+- **What is one task I can do at a "good enough" level today?**
+  *(This could be organizing one area imperfectly, making some progress on a project without finishing it, or completing a task quickly rather than perfectly.)*
 
-- **How can I approach "good enough" personal standards with self-compassion rather than disappointment?**
-  *(Instead of feeling disappointed about not doing things perfectly, try to see "good enough" as a strategy that allows you to make consistent progress on personal goals.)*
+- **How can I approach "good enough" standards with self-compassion rather than disappointment?**
+  *(Instead of feeling disappointed about not doing things perfectly, try to see "good enough" as a strategy that allows you to make consistent progress on goals.)*
 
-*Personal boundaries check-in:*
-**How did protecting your personal capacity help your personal goals yesterday?** ____________________
+*Boundaries check-in:*
+**How did protecting your capacity help your goals yesterday?** ____________________
 
 ---
 
-## Today's 3-1-1 Personal Plan (2 minutes)
+## Today's 3-1-1 Plan (2 minutes)
 
-**My 3 Personal Priorities for Today:**
+**My 3 Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 1 Quick Personal Task (5-10 min):**
+**My 1 Quick Task (5-10 min):**
 ____________________
 
-**My 1 Personal Routine/Habit:**
+**My 1 Routine/Habit:**
 ____________________
 
 ---
 
-## The Personal Perfectionism Problem (2 minutes)
+## The Perfectionism Problem (2 minutes)
 
-Perfectionist standards often cause passive procrastination by making personal goals feel impossible to complete "correctly." This creates analysis paralysis about personal projects, excessive time spent on minor personal details, and avoidance when perfect execution seems impossible in your personal life.
+Perfectionist standards often cause passive procrastination by making goals feel impossible to complete "correctly." This creates analysis paralysis, excessive time spent on minor details, and avoidance when perfect execution seems impossible.
 
-**Today's solution:** Personal "good enough" standards that enable personal progress and completion without sacrificing what truly matters in your personal life.
+**Today's solution:** **"Good enough" standards** *(A strategic approach where you define acceptable completion levels that enable progress without perfectionist paralysis)* that enable progress and completion without sacrificing what truly matters.
+
+**Key Terms:**
+- **Good enough**: Meeting your core requirements without endless refinement
+- **Perfectionist paralysis**: Being unable to start or finish due to impossibly high standards
+- **Minimum viable**: The absolute least you can do while still achieving your goal
 
 ---
 
@@ -146,24 +151,24 @@ Perfectionist standards often cause passive procrastination by making personal g
 
 ## Week 2+ Personal Progress Review
 
-**In the past two weeks, you've built personal productivity skills:**
-☐ Advanced personal planning and prioritization skills
-☐ Personal goal breakdown capabilities
-☐ Personal focus management protocols
-☐ Personal communication control systems
-☐ Personal momentum building practices
-☐ Personal energy-based task matching
-☐ Personal flexible response systems
-☐ Personal boundary setting skills
-☐ Personal good enough standards
+**In the past two weeks, you've built productivity skills:**
+☐ Advanced planning and prioritization skills
+☐ Goal breakdown capabilities
+☐ Focus management protocols
+☐ Communication control systems
+☐ Momentum building practices
+☐ Energy-based task matching
+☐ Flexible response systems
+☐ Boundary setting skills
+☐ Good enough standards
 
-**My biggest personal productivity transformation:** ____________________
+**My biggest productivity transformation:** ____________________
 
-**What personal skills feel most natural now:** ____________________
+**What skills feel most natural now:** ____________________
 
-**What personal areas still need practice:** ____________________
+**What areas still need practice:** ____________________
 
-**How my relationship with personal overwhelm has changed:** ____________________
+**How my relationship with overwhelm has changed:** ____________________
 
 ---
 

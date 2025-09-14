@@ -1,6 +1,10 @@
 # Day 11: Building Personal Task Momentum
 
 **Today's Focus:** Create positive momentum with your daily personal tasks
+
+**Key Terms for Today:**
+- **Personal Task Momentum:** When completing one task builds confidence and motivation to tackle others
+- **Success Cycles:** Positive feedback loops where achievement leads to more achievement
 **Time Commitment:** 15 minutes
 **Core Exercise:** Personal Momentum Building System
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on building positive momentum with personal tasks.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice if you feel more confident or capable than when you started this workbook.)*
+  *(Notice if you feel more confident or capable than when you started this workbook. Momentum often creates feelings of capability and optimism.)*
 
 - **What small personal task can I build momentum with today?**
-  *(Choose something where completing it would make other tasks feel easier.)*
+  *(Choose something where completing it would make other tasks feel easier. Momentum builders are tasks that create positive energy for other activities.)*
 
 - **How can I celebrate my growing emotional skills with personal tasks?**
-  *(What progress have you made in handling emotions around daily responsibilities?)*
+  *(What progress have you made in handling emotions around daily responsibilities? Recognizing growth reinforces positive momentum.)*
 
 *Personal regulation plan reflection:*
 **How did having a personal emotional regulation plan help you yesterday?** ____________________
@@ -55,7 +59,7 @@ Momentum with personal tasks happens when completing one task makes you feel mor
 **How did that completion affect your motivation for other tasks?** ____________________
 
 **Rate your current personal task momentum (1-10):**
-*(1=stuck/avoiding tasks, 5=some progress, 10=consistently following through)*
+*(1=completely stuck/avoiding all tasks, 3=occasional progress, 5=steady but inconsistent, 7=good momentum most days, 10=consistently following through with confidence)*
 Task completion consistency: ____
 Emotional management with tasks: ____
 Motivation for daily responsibilities: ____
@@ -101,11 +105,13 @@ How do I feel after completion? ____________________
 
 **Personal task:** ____________________
 **Current motivation level (1-10):** ____
+*(1=no motivation to start, 5=neutral willingness, 10=eager and energized)*
 **Momentum technique applied:** ____________________
 
 **Complete the task using your momentum approach:**
 **Task completed:** Yes / No
 **Motivation level after completion (1-10):** ____
+*(1=still unmotivated, 5=neutral energy, 10=energized and ready for more)*
 **How did the momentum approach change your experience?** ____________________
 
 ---

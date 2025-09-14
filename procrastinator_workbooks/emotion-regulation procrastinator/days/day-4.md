@@ -1,6 +1,10 @@
 # Day 4: Creating Emotional Safety for Personal Tasks
 
 **Today's Focus:** Make difficult personal tasks feel safer and more manageable
+
+**Key Terms for Today:**
+- **Emotional Safety:** Creating conditions that help your nervous system feel calm rather than threatened during tasks
+- **Safety Setup:** Arranging physical comfort, support, time boundaries, and mindset to reduce task anxiety
 **Time Commitment:** 15 minutes
 **Core Exercise:** Emotional Safety Setup
 
@@ -10,14 +14,14 @@
 
 **Daily Questions:** *(These questions help you understand your personal emotional patterns. Remember: you can create conditions that make difficult tasks feel safer.)*
 
-- **What emotions am I experiencing around my personal tasks today?**  
-  *(Notice what you feel when you think about specific daily tasks - anxiety, boredom, frustration, overwhelm, fear, or irritation.)*
+- **What emotions am I experiencing around my personal tasks today?**
+  *(Notice what you feel when you think about specific daily tasks - anxiety, boredom, frustration, overwhelm, fear, or irritation. Today, focus on which emotions make tasks feel unsafe or threatening.)*
 
-- **What is one small personal task I can do despite these feelings?**  
-  *(Choose something manageable - like organizing one small area or making one call.)*
+- **What is one small personal task I can do despite these feelings?**
+  *(Choose something manageable - like organizing one small area or making one call. Consider how you could make this task feel emotionally safer.)*
 
-- **How can I make this task feel safer emotionally?**  
-  *(What would help you feel more supported or comfortable while doing this task?)*
+- **How can I make this task feel safer emotionally?**
+  *(What would help you feel more supported or comfortable while doing this task? Safety can be physical comfort, time limits, support, or permission to be imperfect.)*
 
 *Breathing practice reflection:*
 **How did the 4-4-4 breathing help you yesterday?** ____________________
@@ -48,6 +52,7 @@ When your brain feels safe, emotions become more manageable. Instead of avoiding
 **Choose a personal task you've been avoiding:** ____________________
 
 **Before setup, rate your stress about this task (1-10):** ____
+*(1=completely calm, 3=slight worry, 5=moderate stress, 7=high anxiety, 10=overwhelming panic)*
 **What specific emotions does this task bring up?** ____________________
 
 ### Step 2: Design Your Safety Setup (5 minutes)
@@ -79,6 +84,7 @@ Actually create your safety setup and sit with your personal task in mind:
 
 **Now think about your personal task again:**
 **Rate your stress about this task now (1-10):** ____
+*(1=completely calm, 3=slightly tense, 5=moderate stress, 7=still anxious but manageable, 10=overwhelming)*
 **What emotions are you feeling now?** ____________________
 **What feels different?** ____________________
 
@@ -104,11 +110,11 @@ Actually create your safety setup and sit with your personal task in mind:
 
 ## Evening Reflection (1 minute)
 
-**What surprised you about the wave pattern of your emotions?** ____________________
+**How did creating emotional safety change your experience with a challenging personal task?** ____________________
 
-**How did acting while experiencing emotions feel different from waiting for emotions to go away?** ____________________
+**Which safety element (physical, emotional, time, or outcome) was most helpful for you?** ____________________
 
-**What did you learn about your capacity to handle difficult feelings?** ____________________
+**What did you learn about making difficult tasks feel more manageable?** ____________________
 
 ---
 

@@ -1,6 +1,10 @@
 # Day 9: Handling Boring Personal Task Emotions
 
 **Today's Focus:** Create interest and energy around unstimulating daily tasks
+
+**Key Terms for Today:**
+- **Task Engagement:** Adding elements of interest, challenge, or stimulation to make boring tasks more appealing
+- **Boredom Avoidance:** The tendency to procrastinate on tasks that lack immediate interest or stimulation
 **Time Commitment:** 15 minutes
 **Core Exercise:** Personal Task Engagement Techniques
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on creating engagement with unstimulating personal tasks.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice if boredom, restlessness, or disinterest is making tasks feel harder.)*
+  *(Notice if boredom, restlessness, or disinterest is making tasks feel harder. Boredom is a valid emotion that can trigger procrastination.)*
 
 - **What small personal task feels boring but necessary?**
-  *(Choose something routine that you tend to avoid because it's not stimulating.)*
+  *(Choose something routine that you tend to avoid because it's not stimulating. Boring tasks are often the most avoided but easiest to complete.)*
 
 - **How can I make boring tasks more interesting or energizing?**
-  *(What might help you feel more engaged with routine daily responsibilities?)*
+  *(What might help you feel more engaged with routine daily responsibilities? Adding engagement elements can transform your experience completely.)*
 
 *Personal reward reflection:*
 **How did planning rewards change your motivation yesterday?** ____________________
@@ -103,6 +107,7 @@ Boredom is one of the most common emotions that triggers personal task avoidance
 **How does having an engagement strategy change your feelings about boring tasks? (1-10)**
 Before strategy: ____
 After strategy: ____
+*(1=extremely resistant and avoidant, 5=neutral acceptance, 10=genuinely interested and willing)*
 
 **What else could you try next time?** ____________________
 

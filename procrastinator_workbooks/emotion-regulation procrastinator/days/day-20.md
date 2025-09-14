@@ -1,6 +1,10 @@
 # Day 20: Personal Productivity Integration - Your Complete System
 
 **Today's Focus:** Integrate all your personal productivity and emotional regulation skills
+
+**Key Terms for Today:**
+- **Skill Integration:** Combining multiple emotional regulation techniques into a unified, personal approach
+- **Personal Productivity System:** Your customized method for handling any personal task challenge with confidence
 **Time Commitment:** 15 minutes
 **Core Exercise:** Complete Personal Productivity System Creation
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on integrating all your personal productivity skills.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice how your emotional responses have evolved since starting this workbook.)*
+  *(Notice how your emotional responses have evolved since starting this workbook. Integration builds on this growing emotional intelligence.)*
 
 - **What personal productivity skills have become most natural for me?**
-  *(Recognize the integrated system you've been building over 20 days.)*
+  *(Recognize the integrated system you've been building over 20 days. Natural skills form the foundation of your personal approach.)*
 
 - **How can I bring together all my skills into one coherent personal productivity approach?**
-  *(Think about creating a unified system that works for your unique needs.)*
+  *(Think about creating a unified system that works for your unique needs. Integration creates something greater than the sum of individual techniques.)*
 
 *Sustainability reflection:*
 **How did focusing on sustainable personal productivity help you feel more balanced yesterday?** ____________________

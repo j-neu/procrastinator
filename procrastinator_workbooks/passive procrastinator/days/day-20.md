@@ -1,49 +1,49 @@
-# Day 20: Personal Strategic Goal Setting - Aligning Personal Systems with Personal Ambitions
+# Day 20: Strategic Goal Setting - Aligning Systems with Ambitions
 
-**Today's Focus:** Create sustainable personal goal-setting practices that support rather than overwhelm your personal productivity
+**Today's Focus:** Create sustainable goal-setting practices that support rather than overwhelm your productivity
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal System-Aligned Goal Framework
+**Core Exercise:** System-Aligned Goal Framework
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand how overwhelming personal goals create procrastination. Passive procrastination often happens when you have too many personal goals competing for attention. Remember: fewer personal goals pursued consistently beat many personal goals pursued sporadically.)*
+**Daily Questions:** *(These questions help you understand how overwhelming goals create procrastination. Passive procrastination often happens when you have too many goals competing for attention. Remember: fewer goals pursued consistently beat many goals pursued sporadically.)*
 
-- **What personal goal am I avoiding because I have too many other personal goals competing for my attention?**
-  *(Think of something important in your personal life you want to achieve but keep putting off because you're trying to work on too many other personal goals, projects, or improvements at the same time.)*
+- **What goal am I avoiding because I have too many other goals competing for my attention?**
+  *(Think of something important you want to achieve but keep putting off because you're trying to work on too many other goals, projects, or improvements at the same time.)*
 
-- **What is one personal goal I can focus on primarily to make real progress?**
-  *(This should be something that matters to your personal growth and that you can realistically make progress on with your current personal productivity systems and available time.)*
+- **What is one goal I can focus on primarily to make real progress?**
+  *(This should be something that matters to your growth and that you can realistically make progress on with your current productivity systems and available time.)*
 
-- **How can I approach personal goal-setting with focus rather than overwhelm?**
-  *(Instead of trying to improve everything about your personal life at once, try to see focused goal pursuit as a way to actually achieve meaningful personal change.)*
+- **How can I approach goal-setting with focus rather than overwhelm?**
+  *(Instead of trying to improve everything at once, try to see **capacity-based goal setting** *(Choosing goals that match your realistic ability to work on them)* as a way to actually achieve meaningful change.)*
 
-*Personal decision framework check-in:*
-**How did using personal decision frameworks speed up your personal choices yesterday?** ____________________
+*Decision framework check-in:*
+**How did using decision frameworks speed up your choices yesterday?** ____________________
 
 ---
 
-## Today's 3-1-1 Personal Plan (2 minutes)
+## Today's 3-1-1 Plan (2 minutes)
 
-**My 3 Personal Priorities for Today:**
+**My 3 Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 1 Quick Personal Task (5-10 min):**
+**My 1 Quick Task (5-10 min):**
 ____________________
 
-**My 1 Personal Routine/Habit:**
+**My 1 Routine/Habit:**
 ____________________
 
 ---
 
-## The Personal Goal Overwhelm Problem (2 minutes)
+## The Goal Overwhelm Problem (2 minutes)
 
-Traditional personal goal-setting often creates procrastination by overwhelming your personal productivity systems with too many competing personal priorities. Personal system-aligned goals work with your personal capacity rather than against it.
+Traditional goal-setting often creates procrastination by overwhelming your productivity systems with too many competing priorities. **System-aligned goals** *(Goals designed to work with your existing capacity and systems rather than overloading them)* work with your capacity rather than against it.
 
-**Today's solution:** Strategic personal goal-setting that enhances your personal productivity systems rather than overloading them.
+**Today's solution:** Strategic goal-setting that enhances your productivity systems rather than overloading them.
 
 ---
 
@@ -52,6 +52,7 @@ Traditional personal goal-setting often creates procrastination by overwhelming 
 ### Step 1: Current Goal Audit (3 minutes)
 
 **What goals are you currently pursuing or avoiding?**
+*(Examples: active = learn Spanish, get organized; abandoned = daily exercise; avoided = write book, start business)*
 
 **Active goals:**
 - ____________________
@@ -168,18 +169,18 @@ How it fits my systems: ____________________
 
 ## Week 3 Personal Progress Review
 
-**In the past week, you've developed personal productivity skills:**
-☐ Integrated personal productivity systems
-☐ Automatic personal productivity habits
-☐ Personal stress-proof backup systems
-☐ Quick personal decision-making frameworks
-☐ Strategic personal goal-setting approaches
+**In the past week, you've developed productivity skills:**
+☐ Integrated productivity systems
+☐ Automatic productivity habits
+☐ Stress-proof backup systems
+☐ Quick decision-making frameworks
+☐ Strategic goal-setting approaches
 
-**My biggest personal transformation this week:** ____________________
+**My biggest transformation this week:** ____________________
 
-**What personal skills feel most sustainable:** ____________________
+**What skills feel most sustainable:** ____________________
 
-**What personal habits have become automatic:** ____________________
+**What habits have become automatic:** ____________________
 
 ---
 

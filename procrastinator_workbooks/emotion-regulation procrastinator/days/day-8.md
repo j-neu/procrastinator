@@ -1,6 +1,10 @@
 # Day 8: Personal Rewards and Emotional Celebration
 
 **Today's Focus:** Create personal rewards that support your emotional well-being
+
+**Key Terms for Today:**
+- **Positive Reinforcement:** Using pleasant activities to create positive associations with previously avoided tasks
+- **Reward System:** A structured approach to celebrating task completion and emotional effort
 **Time Commitment:** 15 minutes
 **Core Exercise:** Personal Reward System Design
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on creating positive emotional experiences around personal tasks.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice if you tend to focus only on the difficulty and not celebrate progress.)*
+  *(Notice if you tend to focus only on the difficulty and not celebrate progress. Rewards help balance the emotional experience of challenging tasks.)*
 
 - **What small personal task can I complete and then reward myself for?**
-  *(Choose something manageable that deserves acknowledgment.)*
+  *(Choose something manageable that deserves acknowledgment. Any task completion deserves recognition, no matter how small.)*
 
 - **How can I celebrate my emotional growth and daily efforts?**
-  *(What would help you feel proud of your progress, even with small steps?)*
+  *(What would help you feel proud of your progress, even with small steps? Celebration creates positive associations with emotional regulation skills.)*
 
 *"Good enough" reflection:*
 **How did aiming for "good enough" change your emotional experience yesterday?** ____________________

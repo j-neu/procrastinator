@@ -1,72 +1,73 @@
-# Day 17: Personal Habit Stacking - Making Personal Productivity Automatic
+# Day 17: Habit Stacking - Making Productivity Automatic
 
-**Today's Focus:** Build automatic personal productivity behaviors through strategic habit stacking
+**Today's Focus:** Build automatic productivity behaviors through strategic habit stacking
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Productivity Habit Stack Design
+**Core Exercise:** Productivity Habit Stack Design
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand how to make personal productivity automatic. Passive procrastination often happens when you have to make too many decisions about personal tasks. Remember: habits remove the need for decisions and willpower.)*
+**Daily Questions:** *(These questions help you understand how to make productivity automatic. Passive procrastination often happens when you have to make too many decisions about tasks. Remember: habits remove the need for decisions and willpower.)*
 
-- **What personal task do I keep forgetting or avoiding because it requires too much mental energy to start?**
-  *(Think of something in your personal life you want to do regularly but keep putting off because you have to think about when to do it, how to do it, or remember to do it every time.)*
+- **What task do I keep forgetting or avoiding because it requires too much mental energy to start?**
+  *(Think of something you want to do regularly but keep putting off because you have to think about when to do it, how to do it, or remember to do it every time.)*
 
-- **What is one personal productivity behavior I can attach to an existing habit today?**
-  *(This could be adding personal planning to your morning routine, personal organizing to an evening habit, or personal goal work to an existing daily activity.)*
+- **What is one productivity behavior I can attach to an existing habit today?**
+  *(This could be adding planning to your morning routine, organizing to an evening habit, or goal work to an existing daily activity.)*
 
-- **How can I approach personal habit-building with patience rather than pressure?**
-  *(Instead of expecting immediate results, try to see habit stacking as a gradual process that makes personal productivity feel more natural and automatic over time.)*
+- **How can I approach habit-building with patience rather than pressure?**
+  *(Instead of expecting immediate results, try to see **habit stacking** *(Attaching new behaviors to existing strong habits)* as a gradual process that makes productivity feel more natural and automatic over time.)*
 
-*Personal system integration check-in:*
-**How did your integrated personal systems work together yesterday?** ____________________
+*System integration check-in:*
+**How did your integrated systems work together yesterday?** ____________________
 
 ---
 
-## Today's 3-1-1 Personal Plan (2 minutes)
+## Today's 3-1-1 Plan (2 minutes)
 
-**My 3 Personal Priorities for Today:**
+**My 3 Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 1 Quick Personal Task (5-10 min):**
+**My 1 Quick Task (5-10 min):**
 ____________________
 
-**My 1 Personal Routine/Habit:**
+**My 1 Routine/Habit:**
 ____________________
 
 ---
 
-## The Personal Habit Automation Problem (2 minutes)
+## The Habit Automation Problem (2 minutes)
 
-Personal productivity systems fail when they require too much conscious effort. Habit stacking attaches new personal productivity behaviors to existing strong habits, making them automatic over time.
+Productivity systems fail when they require too much conscious effort. Habit stacking attaches new productivity behaviors to existing strong habits, making them automatic over time.
 
-**Today's solution:** Strategic personal habit stacks that make personal productivity feel effortless and natural.
+**Today's solution:** Strategic habit stacks that make productivity feel effortless and natural.
 
 ---
 
-## Main Exercise: Personal Productivity Habit Stack Creation (7 minutes)
+## Main Exercise: Productivity Habit Stack Creation (7 minutes)
 
 ### Step 1: Existing Habit Identification (3 minutes)
 
 **What daily habits are you already consistent with?**
+*(Examples: morning coffee, checking phone, walking dog, evening meal, brushing teeth)*
 
-**Personal morning habits that never fail:**
+**Morning habits that never fail:**
 - ____________________
-- ____________________
-- ____________________
-
-**Personal daily transition habits:**
 - ____________________
 - ____________________
 
-**Personal evening habits that are automatic:**
+**Daily transition habits:**
 - ____________________
 - ____________________
 
-**Personal weekly habits that are established:**
+**Evening habits that are automatic:**
+- ____________________
+- ____________________
+
+**Weekly habits that are established:**
 - ____________________
 - ____________________
 
@@ -74,27 +75,27 @@ Personal productivity systems fail when they require too much conscious effort. 
 
 ### Step 2: Organizational Habit Stack Design (4 minutes)
 
-**Create habit stacks for key personal productivity behaviors:**
+**Create habit stacks for key productivity behaviors:**
 
-**Personal Morning Organization Stack:**
+**Morning Organization Stack:**
 "After I ____________________,
-I will review my 3-1-1 personal plan for 2 minutes,
-Then I will organize my personal space for 1 minute."
+I will review my 3-1-1 plan for 2 minutes,
+Then I will organize my workspace for 1 minute."
 
-**Personal Focus Session Stack:**
+**Focus Session Stack:**
 "After I ____________________,
-I will capture any new personal tasks in my system for 30 seconds,
-Then I will start my first personal priority immediately."
+I will capture any new tasks in my system for 30 seconds,
+Then I will start my first priority immediately."
 
-**Personal Transition Stack:**
+**Transition Stack:**
 "After I ____________________,
-I will do one quick personal organizational task for 2 minutes,
-Then I will set up for my next personal priority."
+I will do one quick organizational task for 2 minutes,
+Then I will set up for my next priority."
 
-**Personal Evening Wrap-up Stack:**
+**Evening Wrap-up Stack:**
 "After I ____________________,
-I will prepare tomorrow's personal space for 2 minutes,
-Then I will capture any personal thoughts for 1 minute."
+I will prepare tomorrow's workspace for 2 minutes,
+Then I will capture any thoughts for 1 minute."
 
 ### Step 3: Habit Stack Implementation Planning (3 minutes)
 
@@ -123,7 +124,7 @@ Then I will capture any personal thoughts for 1 minute."
 **Execute organizational behavior:** ____________________
 **Follow-up action:** ____________________
 
-**How natural did this sequence feel (1-10)?** ____
+**How natural did this sequence feel (1-10)?** ____ *(1=very awkward, 5=okay, 10=completely natural)*
 
 **What would make it smoother?** ____________________
 

@@ -1,6 +1,10 @@
 # Day 12: Handling Overwhelming Personal Tasks
 
 **Today's Focus:** Break down complicated personal tasks to reduce emotional overwhelm
+
+**Key Terms for Today:**
+- **Complex Task Overwhelm:** When tasks feel paralyzing because they involve multiple steps, decisions, or unfamiliar processes
+- **Task Simplification:** Breaking complex tasks into simple, clear first steps that feel manageable
 **Time Commitment:** 15 minutes
 **Core Exercise:** Complex Task Simplification System
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on simplifying overwhelming personal tasks.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice if certain tasks feel overwhelming because they seem too complicated.)*
+  *(Notice if certain tasks feel overwhelming because they seem too complicated. Complexity often triggers anxiety, confusion, or avoidance.)*
 
 - **What personal task feels too big or complex to start?**
-  *(Choose something that makes you feel confused or overwhelmed when you think about it.)*
+  *(Choose something that makes you feel confused or overwhelmed when you think about it. Complex tasks become manageable when broken into simple steps.)*
 
 - **How can I be patient with myself as I learn to simplify complex tasks?**
-  *(Complex tasks often require multiple steps - that's normal and manageable.)*
+  *(Complex tasks often require multiple steps - that's normal and manageable. Learning to simplify is a skill that improves with practice.)*
 
 *Personal momentum reflection:*
 **How did building momentum with personal tasks help you yesterday?** ____________________
@@ -61,7 +65,7 @@ Some personal tasks feel overwhelming not because they're difficult, but because
 ☐ Too many steps ☐ Don't know the process ☐ Multiple decisions needed ☐ No clear start ☐ Time pressure
 
 **Rate the overwhelm when you think about this task (1-10):** ____
-*(1=slightly complex, 5=moderately overwhelming, 10=completely paralyzing)*
+*(1=slightly complex but manageable, 3=somewhat daunting, 5=moderately overwhelming, 7=very overwhelming, 10=completely paralyzing and impossible-feeling)*
 
 **What would this task look like if it were simple?**
 ____________________
@@ -102,6 +106,7 @@ ____________________
 **How do you feel about the task after completing one simple step?** ____________________
 
 **Rate the overwhelm about this task now (1-10):** ____
+*(1=feels completely manageable, 3=mild complexity, 5=moderate challenge, 7=still overwhelming, 10=still paralyzing)*
 
 **What did you learn about this "complex" task?** ____________________
 

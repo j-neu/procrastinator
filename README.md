@@ -47,17 +47,28 @@ Based on research by Ferrari (1991), Chu & Choi (2005), and contemporary cogniti
 ### Quiz System Features ✅
 
 #### Advanced Scoring Algorithm
-- **35 Questions**: 5 per type for improved reliability vs. original 21 
+- **35 Questions**: 5 per type for improved reliability vs. original 21
 - **Type Correlations**: Research-based adjustments (e.g., Arousal ↔ Active: 0.6)
 - **Weighted Questions**: Based on discriminant validity from Ferrari (1991), Steel (2007)
 - **Consistency Checks**: Reverse-coded questions to detect random responses
 - **Confidence Levels**: High/Medium/Low based on score separation and consistency
+- **✨ NEW: "None of Above" Options**: Neutral responses for when provided options don't fit user experience
+- **✨ NEW: Fixed Question Ordering**: Agree/disagree questions maintain logical progression without randomization
 
 #### Enhanced Results Display
 - **Primary Type**: Main procrastination pattern with likelihood percentage
-- **Secondary Type**: Mixed patterns identification for nuanced insights  
+- **Secondary Type**: Mixed patterns identification for nuanced insights
 - **Visual Indicators**: Color-coded confidence badges and match percentages
 - **Research Transparency**: Clear methodology explanation builds credibility
+- **✨ NEW: Neutral Response Tracking**: Displays percentage of "none of above" selections
+- **✨ NEW: Uncertainty-Aware Confidence**: Confidence levels adjust when users select too many neutral responses
+
+#### User Experience Improvements
+- **Smart Option Ordering**: Regular options randomized, special options (none of above, agree/disagree) maintain fixed positions
+- **Inclusive Design**: Users who don't identify with provided options have neutral alternatives
+- **Progressive Disclosure**: Question difficulty and complexity respected through ordering
+- **Accessibility**: Clear progression from strongly agree to strongly disagree for rating scales
+- **✨ NEW: Social Sharing**: Comprehensive share functionality with modal interface and multiple platform support
 
 #### Backward Compatibility
 - **Dual System**: Supports both original 21-question and improved 35-question versions
@@ -159,7 +170,15 @@ cd procrastinator-type-website
 npm install
 npm run dev
 ```
-Visit `http://localhost:3007`
+Visit `http://localhost:3007` (or the port shown in console)
+
+### ✅ Google Sheets Email Integration
+The email signup system is fully configured and ready for production:
+1. **Local Development**: Already working with included `.env` file
+2. **Production Deployment**: Import `.env` file to Vercel environment variables
+3. **No Additional Setup**: Google Sheets integration will work immediately
+
+See `procrastinator-type-website/GOOGLE_SHEETS_SETUP.md` for detailed setup instructions.
 
 ### Production Workbook Generation
 ```bash
@@ -175,10 +194,17 @@ Generates production-ready workbooks with perfect layout and hand-drawn styling 
 
 ## Business Model
 
-1. **Free Type Assessment** - Build audience and collect emails
+1. **Free Type Assessment** - Build audience and collect emails ✅ **LIVE WITH GOOGLE SHEETS**
 2. **Educational Content** - Establish authority and trust
 3. **Targeted Workbooks** - Sell through Gumroad ($9-19 each)
-4. **Email Marketing** - Weekly tips and workbook promotions
+4. **Email Marketing** - Weekly tips and workbook promotions ✅ **EMAIL CAPTURE WORKING**
+
+### ✅ Email Signup System (Production Ready)
+- **Google Sheets Integration**: Email signups automatically saved to Google Sheets
+- **Persistent Data**: No data loss during deployments (replaces CSV approach)
+- **Form Integration**: Working signup forms on `/workbooks` page
+- **API Endpoint**: `/api/email-signup` with validation and error handling
+- **Environment Variables**: Secure configuration with `.env` file for easy Vercel deployment
 
 ## Content Strategy
 
@@ -194,6 +220,8 @@ Generates production-ready workbooks with perfect layout and hand-drawn styling 
 - **Next.js** - Modern React framework for scalability
 - **Virgil Font** - Authentic Excalidraw handwritten look
 - **Tailwind CSS** - Utility-first styling framework
+- **Google Sheets API** ✅ - Email signup persistence across deployments
+- **Environment Variables** ✅ - Secure credential management for production
 
 ### Workbook Generation (Production)
 - **HTML/CSS + Puppeteer** - Professional PDF generation with web design flexibility
@@ -204,6 +232,7 @@ Generates production-ready workbooks with perfect layout and hand-drawn styling 
 ### E-commerce & Distribution
 - **Gumroad** - E-commerce platform for digital workbook sales
 - **PDF Distribution** - High-quality, printable format for customer delivery
+- **Google Sheets** ✅ - Customer email management and marketing automation ready
 
 ## Research Foundation
 

@@ -1,93 +1,101 @@
-# Day 25: Personal Master Planning - Complex Personal Goals and Long-Term Personal Vision
+# Day 25: Master Planning - Complex Goals and Long-Term Vision
 
-**Today's Focus:** Develop advanced personal planning skills for complex, multi-phase personal goals and long-term personal vision
+**Today's Focus:** Develop advanced planning skills for complex, multi-phase goals and long-term vision
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Master Planning Framework
+**Core Exercise:** Master Planning Framework
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand how to plan complex personal goals without overwhelm. Passive procrastination often happens with big personal dreams because they feel too complex to plan. Remember: every complex personal goal is just a series of simple personal actions.)*
+**Daily Questions:** *(These questions help you understand how to plan complex goals without overwhelm. Passive procrastination often happens with big dreams because they feel too complex to plan. Remember: every complex goal is just a series of simple actions.)*
 
-- **What important personal goal am I avoiding because it feels too complex or long-term to plan?**
-  *(Think of something meaningful you want to achieve in your personal life but keep putting off because it seems too big, takes too long, or you don't know how to break it down into manageable steps.)*
+- **What important goal am I avoiding because it feels too complex or long-term to plan?**
+  *(Think of something meaningful you want to achieve but keep putting off because it seems too big, takes too long, or you don't know how to break it down into manageable steps.)*
 
-- **What is one aspect of that complex personal goal I can plan at a high level today?**
-  *(This could be identifying the major phases, clarifying the end vision, or mapping out the first few steps of a long-term personal project or life goal.)*
+- **What is one aspect of that complex goal I can plan at a high level today?**
+  *(This could be identifying the major phases, clarifying the end vision, or mapping out the first few steps of a long-term project or goal.)*
 
-- **How can I approach complex personal planning with excitement rather than overwhelm?**
-  *(Instead of being intimidated by big personal goals, try to see complex personal planning as a way to make your dreams feel more achievable and concrete.)*
+- **How can I approach complex planning with excitement rather than overwhelm?**
+  *(Instead of being intimidated by big goals, try to see complex planning as a way to make your dreams feel more achievable and concrete.)*
 
-*Personal anti-fragility check-in:*
-**How did thinking about anti-fragile personal systems change your approach yesterday?** ____________________
+*Anti-fragility check-in:*
+**How did thinking about anti-fragile systems change your approach yesterday?** ____________________
 
 ---
 
-## Today's 3-1-1 Personal Plan (2 minutes)
+## Today's 3-1-1 Plan (2 minutes)
 
-**My 3 Personal Priorities for Today:**
+**My 3 Priorities for Today:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**My 1 Quick Personal Task (5-10 min):**
+**My 1 Quick Task (5-10 min):**
 ____________________
 
-**My 1 Personal Routine/Habit:**
+**My 1 Routine/Habit:**
 ____________________
 
 ---
 
-## The Complex Personal Goal Problem (2 minutes)
+## The Complex Goal Problem (2 minutes)
 
-Simple daily personal planning works for routine personal tasks, but complex personal goals spanning months or years require advanced personal planning frameworks that prevent overwhelm while maintaining progress momentum.
+Simple daily planning works for routine tasks, but complex goals spanning months or years require advanced planning frameworks that prevent overwhelm while maintaining progress momentum.
 
-**Today's solution:** Personal master planning techniques that break personal complexity into manageable systems while maintaining long-term personal vision.
+**Today's solution:** **Master planning techniques** *(Multi-level planning systems that connect long-term vision with daily actions)* that break complexity into manageable systems while maintaining long-term vision.
+
+**Key Terms:**
+- **Master planning**: Planning approach that operates at multiple time horizons simultaneously
+- **Vision level**: The big picture "why" and ultimate outcome you want
+- **Strategic level**: Major phases and milestones that lead to your vision
+- **Tactical level**: Monthly and weekly focus areas that move you forward
+- **Execution level**: Specific daily actions you can take right now
 
 ---
 
-## Main Exercise: Personal Master Planning System (7 minutes)
+## Main Exercise: Master Planning System (7 minutes)
 
 ### Step 1: Complex Project Identification (3 minutes)
 
-**Choose one complex personal goal you've been avoiding or struggling with:**
+**Choose one complex goal you've been avoiding or struggling with:**
+*(Examples: write a book, start a business, learn a language, major career change, home renovation)*
 
-**Personal Goal:** ____________________
+**Goal:** ____________________
 **Why it's been challenging:** ____________________
 **Desired completion timeframe:** ____________________
-**Why this personal goal matters to your life:** ____________________
+**Why this goal matters to your life:** ____________________
 
-**Personal goal complexity factors:**
+**Goal complexity factors:**
 □ Multiple phases/stages
 □ Long time horizon
-□ High personal stakes/meaning
+□ High stakes/meaning
 □ New skills required
 □ Life changes needed
-□ Multiple personal areas affected
+□ Multiple areas affected
 
 ### Step 2: Multi-Level Planning Framework (4 minutes)
 
-**Personal Vision Level (10,000 foot view):**
-**Ultimate personal outcome:** ____________________
-**Personal success metrics:** ____________________
-**Key personal milestones:** ____________________
+**Vision Level (10,000 foot view):**
+**Ultimate outcome:** ____________________
+**Success metrics:** ____________________
+**Key milestones:** ____________________
 
-**Personal Strategic Level (1,000 foot view):**
-**Personal Phase 1:** ____________________
-**Personal Phase 2:** ____________________
-**Personal Phase 3:** ____________________
-**Personal critical path:** ____________________
+**Strategic Level (1,000 foot view):**
+**Phase 1:** ____________________
+**Phase 2:** ____________________
+**Phase 3:** ____________________
+**Critical path:** ____________________
 
-**Personal Tactical Level (100 foot view):**
-**This month's personal focus:** ____________________
-**Next week's personal priorities:** ____________________
-**This week's personal actions:** ____________________
+**Tactical Level (100 foot view):**
+**This month's focus:** ____________________
+**Next week's priorities:** ____________________
+**This week's actions:** ____________________
 
-**Personal Execution Level (10 foot view):**
-**Tomorrow's next personal action:** ____________________
-**Required personal time:** ____________________
-**Required personal resources:** ____________________
+**Execution Level (10 foot view):**
+**Tomorrow's next action:** ____________________
+**Required time:** ____________________
+**Required resources:** ____________________
 
 ### Step 3: Planning Integration System (3 minutes)
 

@@ -1,6 +1,10 @@
 # Day 14: When Personal Tasks Don't Go as Planned
 
 **Today's Focus:** Maintain emotional balance when personal tasks encounter setbacks
+
+**Key Terms for Today:**
+- **Setback Recovery:** The ability to bounce back emotionally when tasks don't go as planned
+- **Emotional Resilience:** Maintaining balance and continuing progress despite obstacles and complications
 **Time Commitment:** 15 minutes
 **Core Exercise:** Setback Recovery and Emotional Resilience
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on managing emotions when things don't go smoothly.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice if setbacks or complications are creating additional emotional challenges.)*
+  *(Notice if setbacks or complications are creating additional emotional challenges. Setbacks often trigger frustration, overwhelm, or feelings of defeat.)*
 
 - **What personal task recently didn't go as planned?**
-  *(Think about something that was more difficult, took longer, or had complications.)*
+  *(Think about something that was more difficult, took longer, or had complications. Setbacks are learning opportunities, not personal failures.)*
 
 - **How can I be compassionate with myself when personal tasks hit obstacles?**
-  *(Setbacks are normal parts of managing personal responsibilities.)*
+  *(Setbacks are normal parts of managing personal responsibilities. Self-compassion helps you recover faster and maintain motivation.)*
 
 *Social task reflection:*
 **How did preparing for social personal tasks help your confidence yesterday?** ____________________
@@ -58,7 +62,7 @@ Personal tasks rarely go exactly as planned. Systems fail, people don't respond,
 **How did you handle those emotions?** ____________________
 
 **Rate your emotional recovery from this setback (1-10):**
-____ *(1=got stuck/gave up, 5=eventually continued, 10=bounced back quickly)*
+____ *(1=completely gave up/got stuck, 3=struggled but eventually continued, 5=recovered with effort, 7=bounced back fairly well, 10=recovered quickly and maintained momentum)*
 
 **What would good setback recovery look like for you?**
 ____________________

@@ -1,23 +1,23 @@
-# Day 14: Personal Boundaries - Protecting Your Personal Productivity
+# Day 14: Boundaries - Protecting Your Productivity
 
-**Today's Focus:** Learn to set personal boundaries to protect your personal goals and energy
+**Today's Focus:** Learn to set boundaries to protect your goals and energy
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Boundary Setting Framework
+**Core Exercise:** Boundary Setting Framework
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:** *(These questions help you understand how poor personal boundaries affect your productivity. Passive procrastination often happens when you say yes to too many things and neglect personal goals. Remember: personal boundaries protect your capacity for what matters most to you.)*
+**Daily Questions:** *(These questions help you understand how poor boundaries affect your productivity. Passive procrastination often happens when you say yes to too many things and neglect your goals. Remember: boundaries protect your capacity for what matters most to you.)*
 
-- **What personal goal am I avoiding because I'm too busy with other people's requests?**
-  *(Think of something in your personal life you want to work on but keep putting off because you're always helping others, saying yes to social commitments, or taking on tasks that aren't really your responsibility.)*
+- **What goal am I avoiding because I'm too busy with other people's requests?**
+  *(Think of something you want to work on but keep putting off because you're always helping others, saying yes to social commitments, or taking on tasks that aren't really your responsibility.)*
 
-- **What is one personal boundary I can set to protect my time for personal goals?**
-  *(This could be saying no to a request, setting limits on help you give others, or protecting certain times for your personal priorities.)*
+- **What is one boundary I can set to protect my time for my goals?**
+  *(This could be saying no to a request, setting limits on help you give others, or protecting certain times for your priorities.)*
 
-- **How can I approach personal boundary-setting with confidence rather than guilt?**
-  *(Instead of feeling guilty about setting personal limits, try to see boundaries as necessary self-care that allows you to be more present and helpful when you do choose to engage.)*
+- **How can I approach boundary-setting with confidence rather than guilt?**
+  *(Instead of feeling guilty about setting limits, try to see **boundaries** as necessary self-care that allows you to be more present and helpful when you do choose to engage.)*
 
 *Personal flexibility check-in:*
 **How did your personal flexible response protocols help yesterday?** ____________________
@@ -78,7 +78,7 @@ Passive procrastinators often say yes to everything, overwhelming their personal
 
 **Create a simple capacity assessment:**
 
-**Current weekly commitment level (1-10 scale):** ____
+**Current weekly commitment level (1-10 scale):** ____ *(1=very manageable, 5=sustainable but full, 10=overwhelming)*
 **Ideal sustainable level:** ____
 **Buffer needed for unexpected:** ____
 

@@ -1,6 +1,10 @@
 # Day 10: Personal Emotional Regulation Plan
 
 **Today's Focus:** Put together everything you've learned into a personalized plan
+
+**Key Terms for Today:**
+- **Emotional Regulation Plan:** Your personalized system for handling different emotional challenges with tasks
+- **Skill Integration:** Combining multiple emotional regulation techniques into a coherent approach
 **Time Commitment:** 15 minutes
 **Core Exercise:** Creating Your Personal Emotional Regulation System
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on integrating all your emotional regulation skills.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice if you can identify patterns and which skills might help most.)*
+  *(Notice if you can identify patterns and which skills might help most. You now have multiple tools available for any emotional challenge.)*
 
 - **What small personal task can I practice my emotional regulation skills with?**
-  *(Choose something where you can try multiple techniques you've learned.)*
+  *(Choose something where you can try multiple techniques you've learned. Integration means combining skills naturally.)*
 
 - **How have my emotional regulation skills grown over these 10 days?**
-  *(What feels different about how you handle emotions around personal tasks?)*
+  *(What feels different about how you handle emotions around personal tasks? Celebrate the progress you've made in understanding and working with emotions.)*
 
 *Boring task engagement reflection:*
 **How did making boring tasks more engaging help your motivation yesterday?** ____________________

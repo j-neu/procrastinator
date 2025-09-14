@@ -1,6 +1,10 @@
 # Day 17: Long-term Maintenance of Personal Productivity Skills
 
 **Today's Focus:** Create sustainable practices for maintaining emotional regulation and personal productivity
+
+**Key Terms for Today:**
+- **Skill Maintenance:** Ongoing practice needed to keep emotional regulation abilities strong over time
+- **Long-term Sustainability:** Creating practices you can maintain for years, not just weeks
 **Time Commitment:** 15 minutes
 **Core Exercise:** Long-term Skill Maintenance Planning
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on sustaining your progress long-term.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice how your emotional responses have changed since starting this workbook.)*
+  *(Notice how your emotional responses have changed since starting this workbook. Recognizing progress helps motivate long-term maintenance.)*
 
 - **What personal productivity skills have become more natural for me?**
-  *(Recognize the progress you've made in handling emotions and tasks.)*
+  *(Recognize the progress you've made in handling emotions and tasks. Natural skills are easier to maintain over time.)*
 
 - **How can I ensure I continue growing in emotional regulation and personal productivity?**
-  *(Think about what will help you maintain and build on these skills.)*
+  *(Think about what will help you maintain and build on these skills. Sustainability requires intentional planning and support systems.)*
 
 *Advanced strategies reflection:*
 **How did combining multiple strategies help with challenging tasks yesterday?** ____________________
@@ -57,7 +61,7 @@ Most effective momentum building strategy: ____________________
 Strrongest setback recovery method: ____________________
 
 **Rate your current confidence with each skill (1-10):**
-*(1=still very challenging, 5=moderately confident, 10=very confident)*
+*(1=still very challenging and overwhelming, 3=difficult but manageable, 5=moderately confident, 7=quite confident most of the time, 10=very confident and automatic)*
 Emotional regulation: ____
 Task breakdown: ____
 Momentum building: ____

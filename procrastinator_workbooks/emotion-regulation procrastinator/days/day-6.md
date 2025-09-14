@@ -1,6 +1,10 @@
 # Day 6: Daily Routine for Emotional Well-being
 
 **Today's Focus:** Create personal daily routines that support emotional balance
+
+**Key Terms for Today:**
+- **Daily Emotional Routine:** Structured patterns of activities that help stabilize your emotional state throughout the day
+- **Energy Architecture:** Your personal pattern of when you feel most alert, focused, and capable
 **Time Commitment:** 15 minutes
 **Core Exercise:** Personal Routine Building
 
@@ -11,13 +15,13 @@
 **Daily Questions:** *(Focus on building daily patterns that support your emotional well-being with personal tasks.)*
 
 - **What emotions am I experiencing around my personal tasks today?**
-  *(Notice what you feel about your daily responsibilities.)*
+  *(Notice what you feel about your daily responsibilities. Today, pay attention to how your emotions change throughout the day.)*
 
 - **What small personal task can I do despite these feelings?**
-  *(Choose something manageable from your daily routine.)*
+  *(Choose something manageable from your daily routine. Consider how a supportive routine might help with this task.)*
 
 - **How can I support myself emotionally today?**
-  *(What would help you feel more stable and supported throughout your day?)*
+  *(What would help you feel more stable and supported throughout your day? This could be routine elements, self-care, or environmental changes.)*
 
 *Task breakdown reflection:*
 **How did breaking tasks into small steps help you yesterday?** ____________________

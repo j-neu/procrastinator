@@ -33,7 +33,9 @@
       "Bash(start \"\" \"C:\\Users\\jakob\\Documents\\Cursor projects\\procrastinator\\workbook-generator-method4-html-puppeteer\\active-day-1.pdf\")",
       "Bash(del generator.js generator-a5-optimized.js generator-final-clean.js generator-improved.js generator-reliable-font.js adaptive-layout-generator.js final-balanced.js optimal-two-page-generator.js smart-page-generator.js space-optimized-generator.js two-page-generator.js)",
       "Bash(touch:*)",
-      "Bash(start:*)"
+      "Bash(start:*)",
+      "Bash(curl:*)",
+      "Bash(del add-none-of-above.js)"
     ],
     "deny": [],
     "ask": []

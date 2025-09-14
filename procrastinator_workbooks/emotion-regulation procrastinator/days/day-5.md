@@ -1,6 +1,10 @@
 # Day 5: Breaking Personal Tasks into Manageable Pieces
 
 **Today's Focus:** Transform overwhelming personal tasks into emotionally manageable steps
+
+**Key Terms for Today:**
+- **Task Breakdown:** Dividing large tasks into small, specific steps that feel emotionally manageable
+- **Overwhelm:** The emotional state when a task feels too big, undefined, or complex to start
 **Time Commitment:** 15 minutes
 **Core Exercise:** Task Breakdown Practice
 
@@ -10,14 +14,14 @@
 
 **Daily Questions:** *(These questions help you understand your personal task patterns. Remember: big tasks feel overwhelming, but small steps feel manageable.)*
 
-- **What emotions am I experiencing around my personal tasks today?**  
-  *(Notice what you feel when you think about specific daily tasks - anxiety, boredom, frustration, overwhelm, fear, or irritation.)*
+- **What emotions am I experiencing around my personal tasks today?**
+  *(Notice what you feel when you think about specific daily tasks - anxiety, boredom, frustration, overwhelm, fear, or irritation. Pay attention to which tasks feel overwhelming versus manageable.)*
 
-- **What is one tiny step I can take despite these feelings?**  
-  *(Choose the smallest possible step - like gathering materials or opening one email.)*
+- **What is one tiny step I can take despite these feelings?**
+  *(Choose the smallest possible step - like gathering materials or opening one email. Breaking tasks down makes emotions more manageable.)*
 
-- **How can I be patient with myself as I learn to break tasks down?**  
-  *(Learning new habits takes time. How would you encourage a friend who's practicing this skill?)*
+- **How can I be patient with myself as I learn to break tasks down?**
+  *(Learning new habits takes time. How would you encourage a friend who's practicing this skill? Task breakdown is a learnable skill, not something you should automatically know.)*
 
 *Safety setup reflection:*
 **What safety elements helped you most yesterday?** ____________________
@@ -50,7 +54,9 @@ Often, we avoid personal tasks not because they're actually difficult, but becau
 **Think about a personal task that feels too big or overwhelming:**
 
 **Overwhelming task:** ____________________
-**What emotion does this trigger? (1-10 intensity)** ____________________
+**What emotion does this trigger?** ____________________
+**Intensity (1-10):** ____
+*(1=barely noticeable, 3=mild discomfort, 5=moderate overwhelm, 7=strong avoidance urge, 10=completely paralyzing)*
 
 **Why does this task feel overwhelming?**
 ☐ Too vague/undefined ☐ Too many steps ☐ Too big ☐ No clear start ☐ No end point
@@ -81,6 +87,7 @@ Often, we avoid personal tasks not because they're actually difficult, but becau
 **Compare this to the original overwhelming task:**
 **Original task emotion intensity:** ____
 **Step 1 emotion intensity:** ____
+*(Both rated 1-10: 1=not overwhelming at all, 5=moderately challenging, 10=completely paralyzing)*
 **What changed?** ____________________
 
 **Is Step 1 small enough that you could do it even while feeling this emotion?** Yes / No
@@ -116,11 +123,11 @@ Often, we avoid personal tasks not because they're actually difficult, but becau
 
 ## Evening Reflection (1 minute)
 
-**What story about emotions have you been carrying that no longer serves you?** ______________________
+**How did breaking a big task into small steps change your emotional response to it?** ______________________
 
-**How did changing your inner narrative affect your relationship to difficult emotions?** ______________________
+**What surprised you about how manageable the first small step felt?** ______________________
 
-**What new story do you want to practice reinforcing?** ______________________
+**How will you use task breakdown for other overwhelming personal tasks?** ______________________
 
 ---
 
