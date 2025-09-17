@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show myself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Understanding Implementation Intentions (3 minutes)
 
-Implementation intentions are "if-then" plans that create automatic responses to specific situations. Research shows they significantly increase follow-through on goals by removing the need for in-the-moment decision-making.
+**What are "Implementation Intentions"?** These are "if-then" plans that create automatic responses to specific situations. Research shows they significantly increase follow-through on goals by removing the need for in-the-moment decision-making. They're particularly effective for overcoming procrastination because they bypass the emotional resistance that stops us from taking action.
 
 **Formula:** "If [trigger situation occurs], then I will [specific action]."
 
@@ -52,6 +52,7 @@ Implementation intentions are "if-then" plans that create automatic responses to
 ### Step 1: Trigger-Response Mapping (5 minutes)
 
 **For each trigger, create a specific if-then response:**
+*(Examples: "If I feel overwhelmed by a task, then I will write down just the first step" or "If I catch myself scrolling social media, then I will close the app and do one small work action")*
 
 **Trigger 1:** ____________________
 **If** this happens, **then** I will: ____________________
@@ -88,6 +89,8 @@ Implementation intentions are "if-then" plans that create automatic responses to
 
 **Create specific action sequences for high-avoidance moments:**
 
+**What are "Emergency Courage Protocols"?** These are step-by-step action plans for your most challenging avoidance moments. Having them prepared means you don't have to think your way out of difficult emotions - you just follow your pre-planned steps.
+
 **When anxiety about a task is very high (8-10/10), I will:**
 1. ____________________
 2. ____________________
@@ -120,7 +123,7 @@ ____________________
 - Implement your if-then response
 - Notice how it feels to have an automatic plan
 
-**Confidence in this plan (1-10):** ____
+**Confidence in this plan (1-10):** ____ *(1=not confident at all, 5=moderately confident, 10=very confident)*
 
 ---
 

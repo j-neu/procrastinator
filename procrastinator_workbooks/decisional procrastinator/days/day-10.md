@@ -1,142 +1,150 @@
 # Day 10: Building Decision-Making Confidence
 
-**Today's Focus:** Develop trust in your ability to make personal choices well
+**Today's Focus:** Develop trust in your ability to make choices well
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Decision Confidence Inventory
+**Core Exercise:** Decision Confidence Inventory
 
 ---
 
 ## Morning Check-in (1 minute)
 
-**Daily Questions:**
-- What personal productivity decision am I avoiding today?
-- What is one small personal choice I can make confidently right now?
+**Daily Questions:** *(These questions help you build awareness of your decision-making abilities and practice confident choosing. Focus on recognizing your existing strengths.)*
+
+- **What decision am I avoiding today?**
+  *(Think of a choice you've been putting off, perhaps because you doubt your ability to choose well. Examples: which method to commit to, how to structure your day, what goal to pursue.)*
+
+- **What is one small choice I can make confidently right now?**
+  *(Pick something you can decide with trust in your judgment. Examples: what to have for lunch, which task to start with, when to take a break, what time to start tomorrow.)*
 
 *Second-guessing awareness:*
-**Have you caught yourself second-guessing any personal choices since yesterday?** ____________________
+**Have you caught yourself second-guessing any choices since yesterday?** ____________________
 
 ---
 
-## Your Personal Decision-Making Strengths (3 minutes)
+## Your Decision-Making Strengths (3 minutes)
 
-You often focus on your personal decision struggles and miss your genuine decision-making abilities. Building personal confidence requires recognizing what you already do well.
+**Decision Confidence:** Trust in your ability to make good choices based on evidence of your past successes and recognition of your decision-making skills.
 
-### Personal Decision Confidence Assessment
+You often focus on your decision struggles and miss your genuine decision-making abilities. Building confidence requires recognizing what you already do well.
 
-**Rate yourself on personal decisions (1-5, 5 = excellent):**
-- Gathering relevant personal information: ____
-- Considering multiple personal perspectives: ____
-- Thinking through personal consequences: ____
-- Recognizing your personal values and priorities: ____
-- Learning from past personal choices: ____
-- Adapting when personal circumstances change: ____
-- Making personal decisions under pressure when needed: ____
-- Understanding your personal needs: ____
+### Decision Confidence Assessment
 
-**Your personal decision-making strengths (scores of 4-5):**
+**Rate yourself on decisions (1-5):** *(1=poor, 3=average, 5=excellent)*
+- Gathering relevant information: ____
+- Considering multiple perspectives: ____
+- Thinking through consequences: ____
+- Recognizing your values and priorities: ____
+- Learning from past choices: ____
+- Adapting when circumstances change: ____
+- Making decisions under pressure when needed: ____
+- Understanding your needs: ____
+
+**Your decision-making strengths (scores of 4-5):**
 ____________________
 
-**The analytical skills that sometimes trap you in personal indecision are also your superpowers when channeled effectively.**
+**The analytical skills that sometimes trap you in indecision are also your superpowers when channeled effectively.**
 
-### Good Personal Decision Evidence Collection
+### Good Decision Evidence Collection
 
-**List 5 good personal decisions you've made in your life:**
+**List 5 good decisions you've made in your life:**
+
+*Examples: choosing where to live, what relationships to pursue, career decisions, health choices, learning new skills*
 1. ____________________
 2. ____________________
 3. ____________________
 4. ____________________
 5. ____________________
 
-**For each personal decision, note:**
-**What made this a good personal choice?** ____________________
-**What personal process did you use?** ____________________
-**How did you handle personal uncertainty?** ____________________
+**For each decision, note:**
+**What made this a good choice?** ____________________
+**What process did you use?** ____________________
+**How did you handle uncertainty?** ____________________
 
 ---
 
-## Main Exercise: Personal Decision Confidence Building (9 minutes)
+## Main Exercise: Decision Confidence Building (9 minutes)
 
-### Step 1: Personal Decision Success Pattern Analysis (3 minutes)
+### Step 1: Decision Success Pattern Analysis (3 minutes)
 
-**Looking at your good personal decisions, identify patterns:**
+**Looking at your good decisions, identify patterns:**
 
-**Your successful personal decisions typically involved:**
-□ Taking enough time to think it through personally
-□ Trusting your personal instincts after analysis
-□ Focusing on your personal core values
-□ Being willing to adjust your personal course later
-□ Not needing perfect personal certainty
+**Your successful decisions typically involved:**
+□ Taking enough time to think it through carefully
+□ Trusting your instincts after analysis
+□ Focusing on your core values
+□ Being willing to adjust your course later
+□ Not needing perfect certainty
 □ Other: ____________________
 
-**Your personal decision-making sweet spot:**
-**You decide personal matters best when:** ____________________
-**The conditions that support your good personal choices:** ____________________
+**Your decision-making sweet spot:**
+**You decide best when:** ____________________
+**The conditions that support your good choices:** ____________________
 
-### Step 2: Personal Confidence-Building Affirmations (2 minutes)
+### Step 2: Confidence-Building Affirmations (2 minutes)
 
-**Choose personal affirmations that feel true based on your evidence:**
+**Choose affirmations that feel true based on your evidence:**
 
-□ "I have made many good personal decisions in my life"
-□ "I can gather enough personal information to choose well"
-□ "I learn and adapt when personal outcomes aren't perfect"
-□ "My thoughtful approach to personal choices is a strength, not a weakness"
-□ "I can trust my personal judgment after reasonable analysis"
-□ "I handle personal uncertainty better than I think I do"
-□ "My personal decisions get better with practice"
+□ "I have made many good decisions in my life"
+□ "I can gather enough information to choose well"
+□ "I learn and adapt when outcomes aren't perfect"
+□ "My thoughtful approach to choices is a strength, not a weakness"
+□ "I can trust my judgment after reasonable analysis"
+□ "I handle uncertainty better than I think I do"
+□ "My decisions get better with practice"
 
-**Your top 3 personal confidence affirmations:**
+**Your top 3 confidence affirmations:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Practice: Say these personal affirmations aloud right now and notice how they feel.**
+**Practice: Say these affirmations aloud right now and notice how they feel.**
 
-### Step 3: Building Personal Decision-Making Identity (2 minutes)
+### Step 3: Building Decision-Making Identity (2 minutes)
 
-**Complete these personal statements:**
+**Complete these statements:**
 **I am someone who:** ____________________
 **I am becoming someone who:** ____________________
 **I can count on myself to:** ____________________
 
-**Your personal decision-maker identity statement:**
-"I am a ____________________[thoughtful/capable/learning] personal decision-maker who ____________________[trusts my process/makes reasonable personal choices/adapts as I learn]."
+**Your decision-maker identity statement:**
+"I am a ____________________[thoughtful/capable/learning] decision-maker who ____________________[trusts my process/makes reasonable choices/adapts as I learn]."
 
-### Step 4: Personal Confidence Practice Plan (2 minutes)
+### Step 4: Confidence Practice Plan (2 minutes)
 
-**This week, build personal confidence by:**
+**This week, build confidence by:**
 
-**Making 3 small personal decisions quickly (under 5 minutes each):**
+**Making 3 small decisions quickly (under 5 minutes each):**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Making 1 medium personal decision using your successful pattern:**
+**Making 1 medium decision using your successful pattern:**
 ____________________
 
-**Celebrating each personal decision by:** ____________________
+**Celebrating each decision by:** ____________________
 
 ---
 
-## Weekly Review - Personal Decision Foundation (2 minutes)
+## Weekly Review - Decision Foundation (2 minutes)
 
 ### Week 2 Progress Check
 
-**This week I learned about personal decisions:**
-- Day 7 (Personal Decision Frameworks): ____________________
-- Day 8 (Personal Analysis Paralysis): ____________________
-- Day 9 (Personal Second-Guessing): ____________________
-- Day 10 (Personal Confidence Building): ____________________
+**This week I learned about decisions:**
+- Day 7 (Decision Frameworks): ____________________
+- Day 8 (Analysis Paralysis): ____________________
+- Day 9 (Second-Guessing): ____________________
+- Day 10 (Confidence Building): ____________________
 
-**My biggest personal breakthrough this week:** ____________________
+**My biggest breakthrough this week:** ____________________
 
-**Personal decision-making skill I'm most proud of:** ____________________
+**Decision-making skill I'm most proud of:** ____________________
 
-**What I want to continue practicing personally:** ____________________
+**What I want to continue practicing:** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Next week we'll focus on personal implementation - turning personal decisions into action and building personal systems that prevent future decision paralysis.
+Next week we'll focus on implementation - turning decisions into action and building systems that prevent future decision paralysis.
 
-**Personal Decision Confidence Thought:**
-*"I have the skills to make good personal decisions. Every personal choice is an opportunity to practice and improve."*
+**Decision Confidence Thought:**
+*"I have the skills to make good decisions. Every choice is an opportunity to practice and improve."*

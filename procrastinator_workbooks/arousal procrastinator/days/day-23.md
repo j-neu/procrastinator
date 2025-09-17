@@ -1,26 +1,29 @@
-# Day 23: Personal Project Energy Management
+# Day 23: Crisis-Making vs. Strategic Pressure Mastery
 
-**Today's Focus:** Apply your energy awareness to personal projects and creative endeavors
+**Today's Focus:** Transform unhealthy crisis-making into strategic pressure creation
 **Time Commitment:** 15 minutes
-**Core Exercise:** Project Energy Optimization
+**Core Exercise:** Strategic vs. Crisis Pressure Analysis
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What personal task have I been putting off?
-- When do I feel most motivated and energized?
-- What makes boring tasks feel more interesting to me?
+**Daily Questions:** *(These questions help you understand your stimulation and energy patterns. As an arousal procrastinator, you likely work best with the right amount of pressure and excitement.)*
 
-*Personal balance check:*
-**How did managing multiple personal areas work yesterday? Any insights?** ____________________
+- **What task have I been avoiding because it feels boring or unstimulating?**
+- **When do I feel most energized and focused?**
+- **What makes routine tasks feel more stimulating and engaging?**
+
+*Multi-domain integration check:*
+**How did coordinating stimulation across multiple life domains work yesterday?** ____________________
 
 ---
 
-## Main Exercise: Personal Project Energy System (10 minutes)
+## Main Exercise: Strategic Pressure Mastery (10 minutes)
 
-**Purpose:** Learn to manage your energy effectively across different personal projects and interests
+**Purpose:** Learn to distinguish between and transform crisis-making into strategic pressure creation
+
+**What is "Crisis vs. Strategic Pressure"?** Crisis-making involves waiting for natural emergencies and deadlines, while strategic pressure means intentionally creating optimal urgency and stimulation before crises develop, maintaining high performance without chaos and stress.
 
 ### Step 1: Personal Project Energy Analysis (3 minutes)
 

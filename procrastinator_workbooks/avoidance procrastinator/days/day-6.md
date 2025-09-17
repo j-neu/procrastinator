@@ -20,7 +20,7 @@
 
 ## Understanding Automatic Thoughts (3 minutes)
 
-Automatic thoughts are the immediate, often unnoticed thoughts that pop up when we face feared tasks. They happen so fast we accept them as truth.
+**What are "Automatic Thoughts"?** These are the immediate, often unnoticed thoughts that pop up when we face feared tasks. They happen so fast (within milliseconds) that we usually accept them as truth without questioning. Learning to catch and examine them is a key skill for reducing avoidance.
 
 **Common avoidance thoughts:**
 - "I'll mess this up"
@@ -51,7 +51,7 @@ ____________________
 **Emotions:** What do you feel when these thoughts arise?
 ____________________
 
-**Intensity:** Rate the emotion's intensity (1-10): ____
+**Intensity:** Rate the emotion's intensity (1-10): ____ *(1=barely noticeable, 5=moderate/uncomfortable, 10=overwhelming/intense)*
 
 **Behavior:** What do you do instead of the task?
 ____________________
@@ -71,13 +71,15 @@ Pick your strongest automatic thought from above: "____________________"
 **Alternative perspective:**
 "A more balanced way to think about this would be: ____________________"
 
-**How intense is the emotion now? (1-10):** ____
+**How intense is the emotion now? (1-10):** ____ *(After challenging the thought - often decreases)*
 
 ---
 
 ## Evidence Collection Start (2 minutes)
 
 **Purpose:** Begin building a case against fear-based assumptions
+
+**What is "Evidence Collection"?** This means actively gathering real-life examples that contradict your negative automatic thoughts. It's like being a detective who collects proof that your fears are exaggerated, helping you see a more accurate picture of your capabilities.
 
 **For the thought you just challenged, what evidence from your life contradicts it?**
 

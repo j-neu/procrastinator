@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Understanding Your Anxiety Signature (3 minutes)
 
-Everyone experiences anxiety differently. To manage it effectively, you need to know your personal patterns.
+**What is an "Anxiety Toolkit"?** This is a personalized collection of techniques that work specifically for your anxiety patterns. Everyone experiences anxiety differently, so you need to know what works for YOUR body, mind, and situation. Having a prepared toolkit means you don't have to figure out what to do when you're already anxious.
 
 ### Your Anxiety Profile
 
@@ -49,13 +49,13 @@ Everyone experiences anxiety differently. To manage it effectively, you need to 
 
 ### Step 1: Breathing & Body Techniques (4 minutes)
 
-**Try each technique for 1 minute and rate effectiveness (1-10):**
+**Try each technique for 1 minute and rate effectiveness (1-10):** *(1=didn't help at all, 5=somewhat helpful, 10=very effective)*
 
 **Box Breathing (4-4-4-4 pattern):**
 *Inhale 4, hold 4, exhale 4, hold 4*
 Effectiveness rating: ____/10
 
-**5-4-3-2-1 Grounding:**
+**5-4-3-2-1 Grounding:** *(brings you back to the present moment)*
 *5 things you see, 4 you hear, 3 you touch, 2 you smell, 1 you taste*
 Effectiveness rating: ____/10
 
@@ -130,6 +130,8 @@ Effectiveness rating: ____/10
 ## Procrastination-Free Zone Setup (1 minute)
 
 **Purpose:** Establish protective boundaries against avoidance
+
+**What is a "Procrastination-Free Zone"?** This is a designated time and/or place where you commit to working without allowing avoidance behaviors. It creates structure and accountability, making it easier to take action when motivation is low.
 
 **I will designate this time/place as procrastination-free:**
 Time: ____:____ to ____:____

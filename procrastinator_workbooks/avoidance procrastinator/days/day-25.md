@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show myself compassion around this challenge?
@@ -20,11 +20,11 @@
 
 ## Your Relationship with Uncertainty (4 minutes)
 
-Avoidance procrastinators often delay starting tasks because they want all the information, the perfect plan, or guaranteed outcomes before taking action.
+**What is "Uncertainty Tolerance"?** This is the ability to be comfortable taking action despite incomplete information, unclear outcomes, or ambiguous situations. Avoidance procrastinators often delay starting tasks because they want all the information, the perfect plan, or guaranteed outcomes before taking action. Building uncertainty tolerance is crucial for overcoming procrastination.
 
 ### Uncertainty Tolerance Assessment
 
-**Rate how uncomfortable these situations make you (1-5, 5 = extremely uncomfortable):**
+**Rate how uncomfortable these situations make you (1-5):** *(1=very comfortable, 3=moderately uncomfortable, 5=extremely uncomfortable)*
 
 Starting a project without knowing all the requirements: ____
 Making a decision with incomplete information: ____
@@ -59,6 +59,7 @@ ____________________
 ### Step 1: Small Uncertainty Challenges (6 minutes)
 
 **Choose 3 small decisions/actions you can make today with incomplete information:**
+*(Examples: send a message without perfect wording, start a task without complete plan, make a choice between options, ask someone a question)*
 
 **Challenge 1:**
 - **Action:** ____________________
@@ -100,6 +101,8 @@ ____________________
 ### Step 3: Uncertainty Tolerance Building Plan (3 minutes)
 
 **This week, practice tolerating uncertainty by:**
+
+**What is an "Uncertainty Practice Plan"?** This is a structured way to gradually build your comfort with ambiguous situations by taking small, manageable actions despite incomplete information.
 
 **Monday:** Make one small decision quickly without extensive research
 **Tuesday:** Start a task with only 70% of the information you'd like

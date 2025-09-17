@@ -93,8 +93,8 @@ A productivity manifesto serves as your North Star - a clear articulation of you
 **My relationship with perfectionism:**
 "I choose ____________________"
 
-**My approach to helping others:**
-"I will ____________________"
+**My approach to personal growth:**
+"I will continuously ____________________"
 
 **My commitment to growth:**
 "I will continuously ____________________"
@@ -115,7 +115,7 @@ I commit to ____________________
 
 When challenges arise, I will ____________________
 
-I will help others by ____________________
+I will continue growing by ____________________
 
 My organization supports ____________________
 
@@ -164,8 +164,8 @@ ____________________
 1. **Review your manifesto monthly** to stay aligned with your values
 2. **Use it to make difficult decisions** about systems and priorities
 3. **Revise it as you grow** to reflect your evolving understanding
-4. **Share it with others** who might benefit from your clarity
-5. **Live it consistently** to build authentic organizational leadership
+4. **Apply it consistently** in your daily organizational decisions
+5. **Live it authentically** to build genuine personal mastery
 
 **My manifesto commitment:** "I will live by my organizational manifesto by ____________________"
 
@@ -177,4 +177,4 @@ ____________________
 Tomorrow is your final day - we'll celebrate your transformation, plan your ongoing journey, and commit to your continued organizational mastery.
 
 **Personal Philosophy Thought:**
-*"My organizational manifesto is not just words - it's my commitment to continued growth, service to others, and authentic living. It guides my decisions and reflects my transformation from chaos to clarity."*
+*"My organizational manifesto is not just words - it's my commitment to continued growth, personal excellence, and authentic living. It guides my decisions and reflects my transformation from chaos to clarity."*

@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show myself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Understanding Your Limiting Beliefs (4 minutes)
 
-Limiting beliefs are negative assumptions about ourselves that we accept as facts. They fuel avoidance by making us believe we're not capable of success or deserving of good outcomes.
+**What are "Limiting Beliefs"?** These are negative assumptions about ourselves that we accept as facts, even though they're often based on outdated or inaccurate information. They fuel avoidance by making us believe we're not capable of success or deserving of good outcomes. Unlike passing thoughts, these feel like core truths about who we are.
 
 ### Limiting Belief Detective Work
 
@@ -76,15 +76,15 @@ ____________________
 **How does this new belief feel in your body?** (Tight? Relaxed? Energizing?)
 ____________________
 
-**Rate how much you believe the new statement right now (1-10):** ____
+**Rate how much you believe the new statement right now (1-10):** ____ *(1=don't believe it at all, 5=somewhat believe it, 10=completely believe it)*
 
 ### Step 3: Reinforcement Plan (4 minutes)
 
 **To strengthen your new belief, you will:**
 
-**Daily evidence collection:** Each day, notice one small example that supports your new belief
-**Weekly review:** Look at accumulated evidence every Sunday
-**Challenge practice:** When the old belief surfaces, consciously replace it with the new one
+**Daily evidence collection:** Each day, notice one small example that supports your new belief *(what you did, thought, or accomplished)*
+**Weekly review:** Look at accumulated evidence every Sunday *(builds belief through repetition)*
+**Challenge practice:** When the old belief surfaces, consciously replace it with the new one *(retrains your automatic thinking)*
 
 **Situations where your old belief is strongest:**
 1. ____________________

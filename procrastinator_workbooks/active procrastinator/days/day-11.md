@@ -85,10 +85,10 @@ Optimal timing: ____________________
 - Information: ____________________
 - Funding: ____________________
 
-**Collaborative Timing:**
+**External Timing:**
 - Others' schedules: ____________________
-- Team energy cycles: ____________________
-- Organizational rhythms: ____________________
+- Social energy cycles: ____________________
+- Environmental rhythms: ____________________
 
 **Market/External Timing:**
 - Industry cycles: ____________________
@@ -151,7 +151,7 @@ ____________________
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll explore how to manage strategic delay when working with others.
+Tomorrow we'll explore how to calibrate your personal pressure levels for optimal performance.
 
 **Advanced Timing Thought:**
 *\"I consider multiple factors to optimize the timing of my actions, not just my personal preferences.\"*

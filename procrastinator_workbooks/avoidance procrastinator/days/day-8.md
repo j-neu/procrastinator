@@ -21,7 +21,7 @@ ____________________
 
 ## Understanding Emotional Avoidance (3 minutes)
 
-Avoidance procrastination isn't really about avoiding tasks—it's about avoiding the uncomfortable emotions the tasks trigger. When we can tolerate discomfort, we reduce the need to procrastinate.
+**What is "Emotional Avoidance"?** Avoidance procrastination isn't really about avoiding tasks—it's about avoiding the uncomfortable emotions the tasks trigger (anxiety, frustration, shame, uncertainty). When we can build tolerance for these feelings, we reduce the need to procrastinate.
 
 **Common uncomfortable emotions when facing feared tasks:**
 - Anxiety, nervousness
@@ -47,9 +47,11 @@ Think about a specific task you've been avoiding. Really focus on it - imagine s
 
 **Where do you feel it in your body?** ____________________
 
-**Rate the intensity (1-10):** ____
+**Rate the intensity (1-10):** ____ *(1=barely noticeable, 5=moderate discomfort, 10=overwhelming)*
 
 ### Step 2: Mindful Acceptance (5 minutes)
+
+**What is "Mindful Acceptance"?** This means observing your emotions with curiosity rather than immediately trying to escape them. It's like being a friendly scientist studying your own experience, which reduces the emotion's power over you.
 
 Instead of pushing the feeling away or acting on it, practice sitting with it:
 
@@ -66,7 +68,7 @@ Instead of pushing the feeling away or acting on it, practice sitting with it:
 - Physical sensations: ____________________
 - Any urges to escape: ____________________
 
-**Rate the intensity now (1-10):** ____
+**Rate the intensity now (1-10):** ____ *(Usually decreases after observation)*
 
 ### Step 3: Reflection and Learning (5 minutes)
 

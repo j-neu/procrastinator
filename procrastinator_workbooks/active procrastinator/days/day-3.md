@@ -43,7 +43,7 @@ Why it's hard to start now: ____________________
 □ Other people waiting for your work
 □ Public commitments or announcements
 □ Money/rewards at stake
-□ Competition with others
+□ Personal performance goals
 □ Limited time windows
 □ Reputation consequences
 □ Other: ____________________
@@ -68,12 +68,12 @@ Why it's hard to start now: ____________________
 **Technique 1: Social Pressure**
 How to implement: ____________________
 Best for tasks: ____________________
-Example: "I will announce to my boss/team that I'll have the report done by Friday" or "I'll promise my friend I'll finish my presentation by Thursday and ask them to check in"
+Example: "I will set a personal deadline and write it on my calendar" or "I'll create a public commitment by posting my goal and timeline on social media"
 
 **Technique 2: Reward/Stake System**
 How to implement: ____________________
 Best for tasks: ____________________
-Example: "If I don't finish this by Tuesday, I donate $50 to a cause I dislike" or "I get to buy that item I want only after completing this project"
+Example: "If I don't finish this by Tuesday, I donate $50 to a cause I dislike" or "I get to buy that book/coffee/treat I want only after completing this project" or "I'll reward myself with my favorite dinner once I submit this proposal"
 
 **Technique 3: Time Boxing**
 How to implement: ____________________
@@ -88,7 +88,7 @@ Example: "I'll challenge my colleague to see who finishes their report first" or
 **Technique 5: Environmental Pressure**
 How to implement: ____________________
 Best for tasks: ____________________
-Example: "I will work in a coffee shop where people can see my screen" or "I'll book a meeting room so I have to use that time productively"
+Example: "I will work in a coffee shop where people can see my screen" or "I'll book a meeting room so I have to use that time productively" or "I'll work at the library where the quiet atmosphere makes me more focused"
 
 ### Step 3: Custom Pressure System Design (3 minutes)
 

@@ -50,16 +50,16 @@
 *(You use just the right amount of effort and the right techniques)*
 - You maintain effectiveness under any task pressure
 *(Stress doesn't derail your skills - they actually get stronger)*
-- Your productivity skills serve both your life and others
-*(Your mastery benefits everyone around you)*
+- Your productivity skills serve all aspects of your life
+*(Your mastery benefits every area of your personal development)*
 
 ### Master-Level Productivity Indicators:
 *(How you know you've reached advanced integration)*
-- Others come to you for advice about managing tasks
+- You naturally seek out challenging tasks to continue growing
 - You create helpful, organized environments wherever you go
 - Difficult emotions around tasks no longer derail your daily responsibilities
 - You see challenging tasks as opportunities for growth
-- Your productivity skills contribute meaningfully to your life and others' lives
+- Your productivity skills contribute meaningfully to all areas of your life
 
 ---
 
@@ -73,7 +73,7 @@
 **Automatic skill access:** Do productivity skills come naturally without thinking? ____
 **Task flexibility:** Do you adapt your approach based on different types of tasks? ____
 **Sustained effectiveness:** Do you maintain skills under task pressure? ____
-**Service orientation:** Do you use skills to help others with their tasks? ____
+**Personal Application:** Do you apply skills consistently across all life areas? ____
 **Continuous growth:** Do you keep developing and innovating with productivity? ____
 
 **Your strongest productivity integration area:** ____________________
@@ -84,8 +84,8 @@ What tasks can you handle now that would have overwhelmed you four weeks ago? __
 *(Be specific - what concrete examples show your growth?)*
 How do others respond to your approach to responsibilities differently? ____________________
 *(Do people comment on your calmness, organization, effectiveness?)*
-What productivity guidance do you naturally provide to others? ____________________
-*(What advice or help do you find yourself offering?)*
+What productivity insights do you naturally apply to new challenges? ____________________
+*(How do you automatically adapt your skills to new situations?)*
 
 ### Step 2: Master Productivity System Design (4 minutes)
 
@@ -114,7 +114,7 @@ I maintain effectiveness with tasks by: ____________________
 **For moderately challenging tasks:** ____________________
 **For overwhelming or complex tasks:** ____________________
 **For tasks involving multiple people:** ____________________
-**For situations where you're helping others:** ____________________
+**For personal growth and development tasks:** ____________________
 
 ### Step 3: Master Productivity System Testing (3 minutes)
 
@@ -133,7 +133,7 @@ I maintain effectiveness with tasks by: ____________________
 
 **Action taken:** ____________________
 **Skills seamlessly integrated:** ____________________
-**Help provided to others (if applicable):** ____________________
+**Personal learning experienced:** ____________________
 **Growth experienced:** ____________________
 
 **System effectiveness evaluation:**
@@ -148,10 +148,10 @@ How did mastery feel different from earlier skill usage? ____________________
 **Articulate your productivity mastery identity:**
 
 **Master Integration Statement:**
-"I am someone who navigates any task challenge with ______. My skills have become ______ and serve both ______ and ______. When others face productivity difficulties, they can count on me to ______. My productivity mastery contributes to ______ by ______."
+"I am someone who navigates any task challenge with ______. My skills have become ______ and serve all aspects of ______. When I face productivity difficulties, I can count on myself to ______. My productivity mastery contributes to ______ by ______."
 
 **Your mastery commitment:**
-"I commit to maintaining and developing my productivity mastery through ______ and using it to serve ______."  
+"I commit to maintaining and developing my productivity mastery through ______ and applying it across all areas of ______."  
 
 ---
 
@@ -169,4 +169,4 @@ How did mastery feel different from earlier skill usage? ____________________
 Tomorrow we'll create your "future vision" - designing how you want to apply your productivity mastery in the coming months and years.
 
 **Daily Reminder:**
-*"I have developed sophisticated productivity mastery that serves my life, others, and my community. My skills flow naturally and adapt to any task situation I encounter."*
+*"I have developed sophisticated productivity mastery that serves all aspects of my life and personal development. My skills flow naturally and adapt to any task situation I encounter."*

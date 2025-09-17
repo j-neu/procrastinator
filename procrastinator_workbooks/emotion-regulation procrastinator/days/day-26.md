@@ -155,7 +155,7 @@ Take action while staying aware of all components
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll explore "productivity contribution and service" - using your advanced productivity skills to help others and create positive change.
+Tomorrow we'll explore "advanced personal productivity application" - using your advanced productivity skills to create positive change in all areas of your life.
 
 **Daily Reminder:**
 *"I am comfortable with task complexity. I can manage multiple priorities and mixed emotions while still taking effective action."*

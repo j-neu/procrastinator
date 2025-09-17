@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Identifying Your Core Limiting Beliefs (5 minutes)
 
-Limiting beliefs are the deep stories we tell ourselves about our capabilities, worth, and potential. They're often so familiar we don't question them.
+**What are "Limiting Beliefs"?** These are the deep, often unconscious stories we tell ourselves about our capabilities, worth, and potential. They're different from passing thoughts - they feel like fundamental truths about who we are. They're often so familiar we don't question them, but they powerfully shape what we avoid and what we attempt.
 
 ### Common Avoidance-Related Limiting Beliefs:
 - "I'm not capable enough"
@@ -52,6 +52,7 @@ Limiting beliefs are the deep stories we tell ourselves about our capabilities, 
 **Your limiting belief:** "____________________"
 
 **Where did this belief come from?**
+*(Examples: critical parent/teacher, early failure that stuck, peer comparison, perfectionist family culture)*
 - Childhood experience?
 - Repeated feedback?
 - One significant event?
@@ -103,6 +104,8 @@ ____________________
 ## Courage Journal Start (2 minutes)
 
 **Purpose:** Build identity as someone who faces fears
+
+**What is a "Courage Journal"?** This is a daily practice of recognizing and recording small acts of bravery. By noticing these moments, you begin to see yourself as courageous rather than avoidant. Courage isn't the absence of fear - it's taking action despite feeling afraid.
 
 Starting today, you'll document daily acts of courage, no matter how small.
 

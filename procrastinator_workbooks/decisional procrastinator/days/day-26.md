@@ -1,6 +1,6 @@
 # Day 26: Decision Systems for Life Domains
 
-**Today's Focus:** Create specialized personal decision frameworks for different personal life areas
+**Today's Focus:** Create specialized decision frameworks for different life areas
 **Time Commitment:** 15 minutes
 **Core Exercise:** Domain-Specific Decision Systems
 
@@ -8,75 +8,79 @@
 
 ## Morning Check-in (1 minute)
 
-**Daily Questions:**
-- What personal productivity decision am I avoiding today?
-- What is one small personal choice I can make confidently right now?
+**Daily Questions:** *(These questions help you identify domain-specific decision patterns and opportunities for specialized frameworks.)*
 
-*Personal automation progress:*
-**Have you implemented any personal decision automation systems?** ____________________
+- **What productivity decision am I avoiding today?**
+  *(Think of a choice that belongs to a specific life domain. Examples: career decisions, relationship choices, health decisions, financial planning decisions.)*
+
+- **What is one small choice I can make confidently right now?**
+  *(Pick something within a life domain where you could practice or develop a specialized decision approach. Examples: a work decision using career criteria, a health choice using wellness values.)*
+
+*Automation progress:*
+**Have you implemented any decision automation systems?** ____________________
 
 ---
 
-## Personal Domain-Specific Decision-Making (2 minutes)
+## Domain-Specific Decision-Making (2 minutes)
 
-Different personal life domains require different personal decision approaches. Personal career decisions need different frameworks than personal relationship choices, which differ from personal financial decisions.
+Different life domains require different decision approaches. Career decisions need different frameworks than relationship choices, which differ from financial decisions. *(Domain-Specific Decision Systems help you avoid one-size-fits-all approaches that may not serve all areas of your life.)*
 
-**Your key personal life domains:**
-□ Personal career/professional development
-□ Personal relationships/family
-□ Personal health/wellness
-□ Personal finances/investments  
-□ Personal living situation/location
-□ Personal growth/learning
-□ Personal recreation/leisure
+**Your key life domains:** *(Check the areas that are most active in your life)*
+□ Career/professional development
+□ Relationships/family
+□ Health/wellness
+□ Finances/investments
+□ Living situation/location
+□ Growth/learning
+□ Recreation/leisure
 □ Other: ____________________
 
-**Personal domain where you struggle most with decisions:** ____________________
-**Personal domain where you decide most confidently:** ____________________
+**Domain where you struggle most with decisions:** ____________________
+**Domain where you decide most confidently:** ____________________
 
 ---
 
-## Main Exercise: Personal Domain Decision Systems (10 minutes)
+## Main Exercise: Domain Decision Systems (10 minutes)
 
 ### Step 1: Personal Career/Professional Decision System (2 minutes)
 
-**Your personal career decision framework:**
+**Your  career decision framework:**
 
-**Key criteria for personal career choices:**
+**Key criteria for  career choices:**
 1. ____________________
 2. ____________________
 3. ____________________
 
 **Personal career decision process:**
 - **Personal information gathering:** ____________________
-- **Timeline for major personal career decisions:** ______ weeks/months
-- **Who you personally consult:** ____________________
-- **How you personally handle career uncertainty:** ____________________
+- **Timeline for major  career decisions:** ______ weeks/months
+- **Who you ly consult:** ____________________
+- **How you ly handle career uncertainty:** ____________________
 
 **Personal career decision-making rule:**
-"For personal career choices, I will always ____________________"
+"For  career choices, I will always ____________________"
 
 ### Step 2: Personal Relationship Decision System (2 minutes)
 
-**Your personal relationship decision framework:**
+**Your  relationship decision framework:**
 
-**Key personal values for relationship choices:**
+**Key  values for relationship choices:**
 1. ____________________
 2. ____________________
 3. ____________________
 
 **Personal relationship decision process:**
-- **How you personally evaluate relationship compatibility:** ____________________
-- **Timeline for personal relationship decisions:** ____________________
-- **How you personally balance individual vs. relationship needs:** ____________________
-- **When you personally seek outside input:** ____________________
+- **How you ly evaluate relationship compatibility:** ____________________
+- **Timeline for  relationship decisions:** ____________________
+- **How you ly balance individual vs. relationship needs:** ____________________
+- **When you ly seek outside input:** ____________________
 
 **Personal relationship decision-making rule:**
-"For personal relationship choices, I will always ____________________"
+"For  relationship choices, I will always ____________________"
 
 ### Step 3: Personal Financial Decision System (2 minutes)
 
-**Your personal financial decision framework:**
+**Your  financial decision framework:**
 
 **Personal financial priorities:**
 1. ____________________
@@ -90,11 +94,11 @@ Different personal life domains require different personal decision approaches. 
 - **Personal financial advice sources:** ____________________
 
 **Personal financial decision-making rule:**
-"For personal financial choices, I will always ____________________"
+"For  financial choices, I will always ____________________"
 
 ### Step 4: Personal Health/Wellness Decision System (2 minutes)
 
-**Your personal health decision framework:**
+**Your  health decision framework:**
 
 **Personal health priorities:**
 1. ____________________
@@ -102,36 +106,36 @@ Different personal life domains require different personal decision approaches. 
 3. ____________________
 
 **Personal health decision process:**
-- **How you personally research health choices:** ____________________
-- **When you personally consult professionals:** ____________________
-- **How you personally balance expert advice vs. personal experience:** ____________________
-- **Timeline for personal lifestyle changes:** ____________________
+- **How you ly research health choices:** ____________________
+- **When you ly consult professionals:** ____________________
+- **How you ly balance expert advice vs.  experience:** ____________________
+- **Timeline for  lifestyle changes:** ____________________
 
 **Personal health decision-making rule:**
-"For personal health choices, I will always ____________________"
+"For  health choices, I will always ____________________"
 
 ### Step 5: Personal Decision System Integration (2 minutes)
 
-**Cross-domain personal decision principles:**
+**Cross-domain  decision principles:**
 
-**Personal values that apply across all personal domains:**
+**Personal values that apply across all  domains:**
 1. ____________________
 2. ____________________
 
-**Universal personal decision-making standards:**
-- **Minimum personal time for reflection:** ______ minutes/hours
-- **Maximum personal time before paralysis:** ______ days/weeks  
+**Universal  decision-making standards:**
+- **Minimum  time for reflection:** ______ minutes/hours
+- **Maximum  time before paralysis:** ______ days/weeks  
 - **Personal information sufficiency threshold:** _____%
-- **When to personally seek input from others:** ____________________
+- **When to ly seek input from others:** ____________________
 
 **Personal integration approach:**
-"Regardless of personal domain, I always ____________________"
+"Regardless of  domain, I always ____________________"
 
 ---
 
 ## Personal Domain System Testing (1 minute)
 
-**Apply one personal domain system to a current personal decision:**
+**Apply one  domain system to a current  decision:**
 
 **Personal Decision:** ____________________
 **Personal Domain:** ____________________
@@ -142,19 +146,19 @@ Different personal life domains require different personal decision approaches. 
 
 ## Evening Reflection (1 minute)
 
-**How does having personal domain-specific systems change your approach to different types of personal decisions?**
+**How does having  domain-specific systems change your approach to different types of  decisions?**
 ____________________
 
-**Which personal domain system will be most helpful for your current personal challenges?**
+**Which  domain system will be most helpful for your current  challenges?**
 ____________________
 
-**How do your personal values show up consistently across personal domains?**
+**How do your  values show up consistently across  domains?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll work on personal decision-making under extreme uncertainty.
+Tomorrow we'll work on  decision-making under extreme uncertainty.
 
 **Personal Domain System Thought:**
-*"Different personal life domains require different personal decision approaches, but my core personal values guide me consistently across all personal areas."*
+*"Different  life domains require different  decision approaches, but my core  values guide me consistently across all  areas."*

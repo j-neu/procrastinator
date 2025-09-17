@@ -28,7 +28,7 @@ Even skilled active procrastinators sometimes face situations where their approa
 □ Energy/health issues during crunch time
 □ Multiple deadlines converged unexpectedly
 □ Quality suffered due to insufficient time
-□ Collaborative relationships strained
+□ Professional relationships strained
 □ Other: ____________________
 
 **Your most recent strategic delay setback:**

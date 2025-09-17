@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show myself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Understanding Fear Visualization (3 minutes)
 
-Mental rehearsal of feared situations can reduce their emotional impact when they occur in reality. This technique combines exposure therapy with mindfulness acceptance.
+**What is "Fear Visualization"?** This is a controlled mental rehearsal of feared situations that can reduce their emotional impact when they occur in reality. It's like practicing for difficult moments in a safe space. This technique combines exposure therapy with mindfulness acceptance, allowing you to build tolerance for discomfort gradually.
 
 ### Your Current Fear Avoidance Strategy
 
@@ -39,7 +39,7 @@ Mental rehearsal of feared situations can reduce their emotional impact when the
 **Choose a task you're currently avoiding due to fear:**
 ____________________
 
-**Rate your fear level about this task (1-10):** ____
+**Rate your fear level about this task (1-10):** ____ *(1=not scary at all, 5=moderately frightening, 10=terrifying)*
 
 **Specific aspects that scare you most:**
 1. ____________________
@@ -65,6 +65,8 @@ ____________________
 ### Step 2: Gentle Fear Exposure Visualization (7 minutes)
 
 **Close your eyes and slowly imagine approaching your feared task:**
+
+**What is "Mindful Fear Exposure"?** This means deliberately experiencing fear while staying present and compassionate with yourself. Instead of trying to eliminate the fear, you practice being with it without being overwhelmed by it.
 
 **Step-by-step visualization:**
 1. **See yourself preparing to start the task**
@@ -104,7 +106,7 @@ ____________________
 
 "I can thank my fear for trying to help and still choose to ____________________"
 
-**How has your fear level about the task changed? (1-10)** ____
+**How has your fear level about the task changed? (1-10)** ____ *(Often decreases after mindful exposure)*
 
 ---
 

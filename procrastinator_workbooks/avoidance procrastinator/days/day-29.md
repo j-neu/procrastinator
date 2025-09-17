@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show myself compassion around this challenge?
@@ -20,11 +20,11 @@
 
 ## Fixed vs. Growth Mindset Assessment (4 minutes)
 
-Your mindset about abilities and challenges directly impacts your tendency toward avoidance.
+**What is "Growth Mindset"?** This is the belief that abilities, intelligence, and talents can be developed through effort, learning, and persistence. It contrasts with "fixed mindset" - the belief that these qualities are unchangeable traits. Your mindset about abilities and challenges directly impacts your tendency toward avoidance.
 
 ### Mindset Self-Assessment
 
-**Rate how much you agree with these statements (1-5, 5 = strongly agree):**
+**Rate how much you agree with these statements (1-5):** *(1=strongly disagree, 3=neutral, 5=strongly agree)*
 
 **Fixed Mindset Indicators:**
 - I avoid challenges where I might not succeed immediately: ____
@@ -62,6 +62,7 @@ Your mindset about abilities and challenges directly impacts your tendency towar
 ### Step 1: Recent Struggle Analysis (4 minutes)
 
 **Think of a recent time you avoided a task or gave up quickly:**
+*(Examples: work project you delayed, skill you stopped trying to learn, conversation you avoided, goal you abandoned)*
 
 **The situation:** ____________________
 
@@ -79,10 +80,10 @@ Your mindset about abilities and challenges directly impacts your tendency towar
 **Now reframe the same situation with growth mindset thinking:**
 
 **Growth mindset thoughts about the situation:**
-- "This challenge means I'm ____________________"
-- "My struggle shows me ____________________"
-- "I can develop ____________________"
-- "What I learned from this is ____________________"
+- "This challenge means I'm ____________________" *(growing, learning, pushing boundaries)*
+- "My struggle shows me ____________________" *(where to focus effort, what to practice)*
+- "I can develop ____________________" *(specific skills, better strategies)*
+- "What I learned from this is ____________________" *(insights gained from the experience)*
 
 **How do these thoughts make you feel?** ____________________
 
@@ -113,6 +114,8 @@ Your mindset about abilities and challenges directly impacts your tendency towar
 ## Growth Mindset Mantra Development (1 minute)
 
 **Create your personal growth mindset statement:**
+
+**What is a "Growth Mindset Mantra"?** This is a personal phrase that reminds you of your ability to learn and grow when facing challenges. It helps counter fixed mindset thoughts that fuel avoidance.
 
 **Complete this phrase:** "When I face challenges, I remember that ____________________"
 

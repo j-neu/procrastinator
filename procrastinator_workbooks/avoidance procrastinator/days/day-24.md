@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show myself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Understanding Feedback Fear (4 minutes)
 
-Many avoidance procrastinators delay starting or completing tasks because they fear receiving criticism or feedback.
+**What is "Feedback Processing"?** This is the skill of receiving criticism and feedback without being devastated by it. You learn to separate useful information from emotional delivery and personal attacks. Many avoidance procrastinators delay starting or completing tasks because they fear receiving criticism or feedback.
 
 ### Your Feedback Patterns
 
@@ -36,7 +36,7 @@ Many avoidance procrastinators delay starting or completing tasks because they f
 
 ### Feedback Fear Scale
 
-**Rate your fear level (1-10) for these feedback scenarios:**
+**Rate your fear level (1-10) for these feedback scenarios:** *(1=not scary at all, 5=moderately anxious, 10=terrifying)*
 
 Performance review at work: ____
 Friend commenting on your appearance: ____
@@ -55,6 +55,7 @@ Medical professional discussing health concerns: ____
 ### Step 1: Feedback Archaeology (4 minutes)
 
 **Think of recent feedback you've received (last 3 months). Pick one example that felt difficult:**
+*(Examples: work criticism, relationship feedback, social media comments, teacher/mentor suggestions, friend advice)*
 
 **The feedback:** ____________________
 
@@ -84,6 +85,8 @@ ____________________
 ### Step 2: Feedback Processing Framework (4 minutes)
 
 **For any feedback you receive, use this framework:**
+
+**What is a "Feedback Processing Framework"?** This is a systematic way to analyze criticism objectively rather than just reacting emotionally. It helps you extract useful information while protecting your self-worth.
 
 **SEPARATE:**
 - Content (what was said) from delivery (how it was said)

@@ -42,9 +42,9 @@ Set up a simple chart in your phone or notebook with these columns:
 ### Step 2: Take Your First Measurements (3 minutes)
 
 **Right now, rate yourself:**
-- **Current mood (1=terrible, 10=great):** ____
-- **Current energy (1=exhausted, 10=energized):** ____
-- **Procrastination level (1=focused, 10=completely avoiding):** ____
+- **Current mood (1=terrible/depressed, 5=neutral/okay, 10=great/joyful):** ____
+- **Current energy (1=exhausted/drained, 5=normal/adequate, 10=energized/vibrant):** ____
+- **Procrastination level (1=focused/engaged, 5=somewhat distracted, 10=completely avoiding):** ____
 - **What you're avoiding right now:** ____________________
 - **How you're avoiding it:** ____________________
 
@@ -65,7 +65,7 @@ ____________________
 ____________________
 
 **AVOIDANCE BEHAVIOR** (What did you do instead?)
-*Example: Checked social media for 2 hours*
+*Examples: Checked social media for 2 hours, cleaned house, watched TV, organized files, took a nap, did busy work*
 ____________________
 
 **CONSEQUENCE** (What happened as a result?)
@@ -97,7 +97,7 @@ ____________________
 - Alarm 2 time: ____:____
 - Alarm 3 time: ____:____
 
-*Just rate: Mood / Energy / Procrastination Level on 1-10 scales*
+*Just rate: Mood (1=terrible, 10=great) / Energy (1=exhausted, 10=energized) / Procrastination Level (1=focused, 10=avoiding) on 1-10 scales*
 
 ---
 

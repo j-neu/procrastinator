@@ -73,8 +73,8 @@ Emails, messages, and social media can become major sources of procrastinationâ€
 **DELETE:** Not important, not actionable *(Examples: newsletters you don't read, spam, old notifications)*
 - Count deleted: ____
 
-**DELEGATE:** Important but someone else should handle *(Examples: forward to colleague, ask family member to handle)*
-- Count delegated: ____
+**DECIDE:** Important but needs planning or scheduling *(Examples: add to calendar, research first, discuss options)*
+- Count scheduled/planned: ____
 
 **DO:** Takes less than 2 minutes to complete *(Examples: quick replies, simple confirmations)*
 - Count completed: ____
@@ -139,7 +139,7 @@ Emails, messages, and social media can become major sources of procrastinationâ€
 
 **To stay in control of communications:**
 
-1. **Process, don't just check** - always take action *(Example: decide DELETE/DELEGATE/DO/DEFER for each email)*
+1. **Process, don't just check** - always take action *(Example: decide DELETE/DECIDE/DO/DEFER for each email)*
 2. **Batch communication tasks** instead of scattered throughout day *(Example: 3 scheduled times vs. 20 random checks)*
 3. **Set specific times** for email and messages *(Example: 9am, 1pm, 5pm only)*
 4. **Use the 4 D's** for every communication *(Example: never leave emails "unread" without deciding)*

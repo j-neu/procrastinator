@@ -20,15 +20,15 @@
 
 ## Common Cognitive Distortions in Avoidance (5 minutes)
 
-These thinking patterns make tasks seem more dangerous than they actually are:
+**What are "Cognitive Distortions"?** These are automatic thinking patterns that exaggerate threats and minimize your ability to cope. They're like funhouse mirrors that distort reality, making tasks seem more dangerous than they actually are. Learning to spot them reduces their power over you.
 
-**Catastrophizing:** "If I mess this up, it will be a complete disaster"
-**Mind Reading:** "Everyone will think I'm incompetent"  
-**All-or-Nothing:** "It has to be perfect or it's worthless"
-**Fortune Telling:** "I know I'll fail, so why try?"
-**Personalization:** "If this goes wrong, it's all my fault"
-**Mental Filter:** "They only noticed the one mistake I made"
-**Should Statements:** "I should be able to do this easily"
+**Catastrophizing:** "If I mess this up, it will be a complete disaster" *(magnifying worst outcomes)*
+**Mind Reading:** "Everyone will think I'm incompetent" *(assuming you know others' thoughts)*
+**All-or-Nothing:** "It has to be perfect or it's worthless" *(black and white thinking)*
+**Fortune Telling:** "I know I'll fail, so why try?" *(predicting negative futures)*
+**Personalization:** "If this goes wrong, it's all my fault" *(taking excessive responsibility)*
+**Mental Filter:** "They only noticed the one mistake I made" *(focusing only on negatives)*
+**Should Statements:** "I should be able to do this easily" *(unrealistic expectations)*
 
 **Which of these sound most familiar to your thinking?**
 Circle: Catastrophizing / Mind Reading / All-or-Nothing / Fortune Telling / Personalization / Mental Filter / Should Statements
@@ -84,7 +84,7 @@ For each thought above, identify which distortion it represents:
 
 **Worst possible realistic outcome:** ____________________
 
-**How likely is this? (1-10):** ____
+**How likely is this? (1-10):** ____ *(1=very unlikely, 5=50/50 chance, 10=almost certain)*
 
 **If this worst case happened, how would I cope?**
 ____________________

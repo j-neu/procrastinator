@@ -69,7 +69,7 @@ ____________________
 - Decision criteria: ____________________
 - Strategic timing optimization: ____________________
 - Pressure management during delay: ____________________
-- Stakeholder communication: ____________________
+- Personal commitment tracking: ____________________
 
 **Extended Strategic Planning (days/weeks):**
 - Decision criteria: ____________________
@@ -84,7 +84,7 @@ ____________________
 **Crisis Pressure Optimization:**
 - How I maintain strategic thinking in crisis: ____________________
 - Pressure level management for optimal performance: ____________________
-- Team pressure coordination during crisis: ____________________
+- Personal pressure management during crisis: ____________________
 - Stress vs. productive pressure distinction: ____________________
 
 **Information Processing Under Pressure:**
@@ -94,10 +94,10 @@ ____________________
 - Decision confidence calibration: ____________________
 
 **Communication During High-Stakes Timing:**
-- How I communicate strategic delay in crisis: ____________________
-- Managing stakeholder anxiety during strategic thinking: ____________________
+- How I communicate about strategic delay in crisis: ____________________
+- Managing others' concerns during strategic thinking: ____________________
 - Progress updates during strategic delay: ____________________
-- Authority and credibility maintenance: ____________________
+- Personal credibility maintenance: ____________________
 
 ### Step 3: Advanced Crisis Integration (3 minutes)
 
@@ -106,8 +106,8 @@ ____________________
 **Crisis Recovery and Learning:**
 - Post-crisis timing analysis: ____________________
 - Strategic delay effectiveness assessment: ____________________
-- System improvement integration: ____________________
-- Team learning and capability building: ____________________
+- Personal system improvement integration: ____________________
+- Personal learning and capability building: ____________________
 
 **Preventive Strategic Timing:**
 - How I use strategic timing to prevent crises: ____________________
@@ -115,14 +115,14 @@ ____________________
 - Preemptive strategic delay applications: ____________________
 - Risk management through timing: ____________________
 
-**Crisis Leadership Through Strategic Timing:**
-- Leading others through crisis with strategic timing: ____________________
-- Building organizational crisis timing capabilities: ____________________
-- Cultural integration of strategic delay principles: ____________________
+**Personal Crisis Management Through Strategic Timing:**
+- Managing your own performance through crisis with strategic timing: ____________________
+- Building personal crisis timing capabilities: ____________________
+- Integrating strategic delay principles into your crisis management approach: ____________________
 
 **High-Stakes Success Measures:**
 - Decision quality under pressure: ____________________
-- Team and organizational outcomes: ____________________
+- Personal and professional outcomes: ____________________
 - Personal performance and stress management: ____________________
 
 ---

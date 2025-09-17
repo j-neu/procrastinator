@@ -8,19 +8,22 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What personal task have I been putting off?
-- When do I feel most motivated and energized?
-- What makes boring tasks feel more interesting to me?
+**Daily Questions:** *(These questions help you understand your stimulation and energy patterns. As an arousal procrastinator, you likely work best with the right amount of pressure and excitement.)*
+
+- **What task have I been avoiding because it feels boring or unstimulating?**
+- **When do I feel most energized and focused?**
+- **What makes routine tasks feel more stimulating and engaging?**
 
 *3-week progress check:*
-**What's the biggest positive change you've noticed in your personal productivity?** ____________________
+**What's the biggest positive change you've noticed in your stimulation and pressure creation abilities?** ____________________
 
 ---
 
-## Main Exercise: Building Sustainable Personal Habits (10 minutes)
+## Main Exercise: Integrated Stimulation Habit Systems (10 minutes)
 
-**Purpose:** Create simple habits that work with your energy patterns for long-term success
+**Purpose:** Create sustainable habits that naturally incorporate optimal stimulation and pressure for long-term success
+
+**What are "Integrated Stimulation Habits"?** These are routine practices that seamlessly combine stimulation creation, pressure optimization, and energy management into automatic behaviors that sustain your productivity without conscious effort.
 
 ### Step 1: Habit Assessment - What's Working (3 minutes)
 

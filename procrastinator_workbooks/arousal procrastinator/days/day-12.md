@@ -1,33 +1,48 @@
-# Day 12: Staying Motivated on Longer-Term Goals
+# Day 12: Advanced Artificial Urgency Techniques
 
-**Today's Focus:** Keep momentum on personal goals that take weeks or months to achieve
+**Today's Focus:** Master sophisticated pressure creation for complex and long-term goals
 **Time Commitment:** 15 minutes
-**Core Exercise:** Long-Term Personal Goal Motivation System
+**Core Exercise:** Multi-Layered Urgency Architecture
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What personal task have I been putting off?
-- When do I feel most motivated and energized?
-- What makes boring tasks feel more interesting to me?
+**Daily Questions:** *(These questions help you understand your stimulation and energy patterns. As an arousal procrastinator, you likely work best with the right amount of pressure and excitement.)*
 
-*Sustainable momentum check:*
-**How are you doing with building momentum without overwhelming yourself?** ____________________
+- **What task have I been avoiding because it feels boring or unstimulating?**
+- **When do I feel most energized and focused?**
+- **What makes routine tasks feel more stimulating and engaging?**
+
+*Energy-pressure coordination check:*
+**How well did you coordinate energy and pressure levels yesterday?** ____________________
 
 ---
 
-## Main Exercise: Long-Term Personal Goal Motivation (10 minutes)
+## Main Exercise: Advanced Artificial Urgency Systems (10 minutes)
 
-**Purpose:** Create systems to stay motivated on personal goals that take time to achieve
+**Purpose:** Develop sophisticated techniques to create optimal pressure for complex tasks and long-term goals
 
-### Step 1: Your Long-Term Goal Challenges (3 minutes)
+**What are "Advanced Artificial Urgency Techniques"?** These are multi-layered systems that create compelling pressure and stimulation for tasks that naturally lack urgency, such as long-term projects, personal development, and routine maintenance.
 
-**Think about personal goals you've struggled to stick with:**
+### Step 1: Complex Urgency Situations Assessment (3 minutes)
 
-**Goals that felt too far away to motivate you:**
-*(Examples: learning a skill, health goals, organizing projects, creative projects)*
+**Identify situations where basic urgency techniques aren't enough:**
+
+**Long-term goals that lack natural urgency:**
+*(Examples: learning skills, health improvements, personal projects, relationship building)*
+1. ____________________
+2. ____________________
+
+**Complex tasks requiring sustained stimulation:**
+*(Examples: multi-step projects, habit formation, creative endeavors)*
+1. ____________________
+2. ____________________
+
+**Current urgency gaps:**
+- Tasks that feel too distant: ____________________
+- Tasks with unclear benefits: ____________________
+- Tasks requiring multiple sessions: ____________________
 - ____________________
 - ____________________
 

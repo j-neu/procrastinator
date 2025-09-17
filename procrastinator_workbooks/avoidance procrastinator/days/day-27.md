@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show myself compassion around this challenge?
@@ -20,11 +20,11 @@
 
 ## Understanding Self-Efficacy (3 minutes)
 
-Self-efficacy is your belief in your ability to succeed at specific tasks. Low self-efficacy fuels avoidance because you doubt your capabilities before even trying.
+**What is "Self-Efficacy"?** This is your belief in your ability to succeed at specific tasks and handle challenges. It's different from general self-esteem - it's about confidence in your competence. Low self-efficacy fuels avoidance because you doubt your capabilities before even trying. Building self-efficacy through evidence collection reduces this doubt.
 
 ### Current Self-Efficacy Assessment
 
-**Rate your confidence (1-10) in your ability to:**
+**Rate your confidence (1-10) in your ability to:** *(1=no confidence at all, 5=moderate confidence, 10=very confident)*
 
 Handle difficult conversations: ____
 Learn new skills: ____
@@ -57,27 +57,29 @@ Persist through boring tasks: ____
 
 **Document evidence of your capabilities across different life areas:**
 
-**Professional/Academic Accomplishments:**
+**What is an "Evidence File"?** This is a collection of factual examples that prove your competence and resilience. When self-doubt arises, you can refer to this concrete evidence rather than relying on feelings or fears.
+
+**Professional/Academic Accomplishments:** *(projects completed, goals reached, recognition received)*
 - ____________________
 - ____________________
 - ____________________
 
-**Personal Challenges You've Overcome:**
+**Personal Challenges You've Overcome:** *(difficult times, losses, changes, conflicts)*
 - ____________________
 - ____________________
 - ____________________
 
-**Skills You've Successfully Learned:**
+**Skills You've Successfully Learned:** *(abilities you developed, knowledge gained)*
 - ____________________
 - ____________________
 - ____________________
 
-**Times You Helped Others:**
+**Times You Showed Personal Resilience:** *(when you persisted, recovered, or adapted)*
 - ____________________
 - ____________________
 - ____________________
 
-**Difficult Situations You've Navigated:**
+**Difficult Situations You've Navigated:** *(crises handled, tough decisions made)*
 - ____________________
 - ____________________
 - ____________________
@@ -101,6 +103,9 @@ Persist through boring tasks: ____
 ### Step 3: Transferable Strength Analysis (4 minutes)
 
 **Choose one area where you feel very capable:**
+
+**What is "Transferable Strength Analysis"?** This means identifying abilities you have in one area and recognizing how they apply to areas where you feel less confident. Often, we have more relevant skills than we realize.
+
 ____________________
 
 **What specific abilities make you successful in this area?**

@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show myself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Perfectionism Deep Dive (4 minutes)
 
-Perfectionism often masquerades as "high standards" but actually prevents progress by making tasks feel impossible to start or complete.
+**What is "Strategic Imperfection"?** This is the deliberate practice of doing things "good enough" rather than perfect. Perfectionism often masquerades as "high standards" but actually prevents progress by making tasks feel impossible to start or complete. Strategic imperfection helps you take action and make progress.
 
 ### Your Perfectionism Profile
 
@@ -65,11 +65,13 @@ ____________________
 
 **What would "perfect" look like?** ____________________
 
-**What would "good enough" look like?** ____________________
+**What would "good enough" look like?** *(functional, serves its purpose, acceptable quality)*
+____________________
 
-**What would "minimum viable" look like?** ____________________
+**What would "minimum viable" look like?** *(barely adequate but complete, basic version)*
+____________________
 
-**Rate your anxiety about doing it imperfectly (1-10):** ____
+**Rate your anxiety about doing it imperfectly (1-10):** ____ *(1=no anxiety, 5=moderate anxiety, 10=terrifying)*
 
 ### Step 2: Deliberate "Good Enough" Execution (7 minutes)
 
@@ -90,7 +92,7 @@ ____________________
 
 **What you learned about perfectionism vs progress:** ____________________
 
-**Rate your anxiety now (1-10):** ____
+**Rate your anxiety now (1-10):** ____ *(Often decreases after taking action)*
 
 ### Step 3: Imperfection Integration (2 minutes)
 
@@ -109,6 +111,8 @@ ____________________
 ## Anti-Perfectionism Strategies (1 minute)
 
 **Choose your anti-perfectionism tools:**
+
+**What are "Anti-Perfectionism Strategies"?** These are specific techniques to interrupt perfectionist thinking and behavior. They help you take action despite imperfect conditions or outcomes.
 
 □ Set time limits and stop when they're reached
 □ Aim for B+ work instead of A+ 

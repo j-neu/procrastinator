@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show myself compassion around this challenge?
@@ -21,7 +21,7 @@
 
 ## Your Current Relationship with Failure (4 minutes)
 
-Understanding your fear of failure is crucial for overcoming avoidance patterns.
+**What is "Failure Normalization"?** This is the process of changing your relationship with failure from seeing it as catastrophic to understanding it as a normal, valuable part of learning and growth. Understanding your fear of failure is crucial for overcoming avoidance patterns because this fear is often what drives procrastination.
 
 ### Failure Feelings Inventory
 
@@ -34,7 +34,7 @@ Understanding your fear of failure is crucial for overcoming avoidance patterns.
 
 ### Failure Beliefs Assessment
 
-**Rate how strongly you agree (1-5, 5 = strongly agree):**
+**Rate how strongly you agree (1-5):** *(1=strongly disagree, 3=neutral, 5=strongly agree)*
 
 Failure means I'm not good enough: ____
 Failure is embarrassing and should be hidden: ____
@@ -54,6 +54,7 @@ Failure means I'm weak or flawed: ____
 ### Step 1: Failure Hall of Fame (6 minutes)
 
 **Research and document examples of successful people who failed significantly:**
+*(Examples: entrepreneurs who lost first businesses, athletes who missed teams/lost championships, inventors whose early attempts failed, artists who were rejected repeatedly)*
 
 **Example 1:**
 - **Person:** ____________________
@@ -76,6 +77,7 @@ Failure means I'm weak or flawed: ____
 ### Step 2: Your Personal Failure Success Story (4 minutes)
 
 **Think of a time when you failed at something but eventually learned or benefited from it:**
+*(Examples: job rejection that led to better opportunity, relationship that ended but taught you about yourself, project that failed but developed your skills)*
 
 **The failure:** ____________________
 

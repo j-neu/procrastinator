@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Redefining What Deserves Celebration (4 minutes)
 
-Most people only celebrate outcomes - completed projects, perfect performance, external recognition. But for someone overcoming avoidance, the act of courage itself is what needs reinforcement.
+**What is "Courage-Based Celebration"?** This means celebrating the act of facing fear rather than waiting for perfect outcomes. Most people only celebrate outcomes - completed projects, perfect performance, external recognition. But for someone overcoming avoidance, the act of courage itself is what needs reinforcement. This builds a positive feedback loop that encourages more brave actions.
 
 ### Current Celebration Patterns
 
@@ -62,19 +62,19 @@ Circle all that apply:
 
 **Create different celebrations for different levels of courage:**
 
-**Micro-celebrations (daily courage moments):**
+**Micro-celebrations (daily courage moments):** *(small, immediate acknowledgments)*
 *Examples: Fist pump, "Yes!", call a friend, treat myself to good coffee*
 - ____________________
 - ____________________
 - ____________________
 
-**Mini-celebrations (weekly breakthroughs):**
+**Mini-celebrations (weekly breakthroughs):** *(meaningful rewards for consistent progress)*
 *Examples: Special meal, movie, favorite activity, share victory*
 - ____________________
 - ____________________
 - ____________________
 
-**Major celebrations (significant fear-facing):**
+**Major celebrations (significant fear-facing):** *(special recognition for major breakthroughs)*
 *Examples: Day off, experience gift, celebration dinner*
 - ____________________
 - ____________________
@@ -96,6 +96,8 @@ Circle all that apply:
 ### Step 3: Identity Statement Creation (3 minutes)
 
 **Purpose:** Redefine self-concept beyond "procrastinator"
+
+**What are "Identity Statements"?** These are empowering phrases that describe who you're becoming rather than who you've been. They help shift your self-concept from "someone who avoids" to "someone who faces challenges with courage." The more you identify with these positive traits, the more you naturally act in ways that align with them.
 
 **Complete these empowering identity statements:**
 
@@ -126,6 +128,8 @@ ____________________
 ## Future Self Visualization (2 minutes)
 
 **Purpose:** Connect with long-term benefits of facing fears
+
+**What is "Future Self Visualization"?** This is a technique where you imagine yourself after consistently practicing courage, helping you see the long-term benefits of facing fears. It provides motivation by showing you where these small daily acts of bravery are leading.
 
 **Close your eyes and imagine your future self who has consistently faced fears for 6 months:**
 

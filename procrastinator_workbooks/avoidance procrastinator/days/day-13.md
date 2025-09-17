@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Understanding Uncertainty Paralysis (3 minutes)
 
-Many avoidance procrastinators wait for certainty before acting. But certainty is often impossible, and waiting for it becomes another form of avoidance.
+**What is "Uncertainty Tolerance"?** This is the ability to be comfortable with incomplete information and ambiguous situations. Many avoidance procrastinators wait for certainty before acting, but certainty is often impossible, and waiting for it becomes another form of avoidance. Building uncertainty tolerance is crucial for reducing procrastination.
 
 ### Uncertainty Inventory
 
@@ -52,9 +52,9 @@ Circle: Research endlessly / Ask for more input / Delay starting / Seek guarante
 2. ____________________
 3. ____________________
 
-**What level of certainty am I waiting for? (1-100%)** ____%
+**What level of certainty am I waiting for? (1-100%)** ____% *(100% = complete certainty/guarantee)*
 
-**Realistically, what level of certainty is possible? (1-100%)** ____%
+**Realistically, what level of certainty is possible? (1-100%)** ____% *(Most decisions require 60-80% certainty)*
 
 ### Step 2: Make a Decision with Incomplete Information (4 minutes)
 
@@ -78,6 +78,8 @@ Circle: Research endlessly / Ask for more input / Delay starting / Seek guarante
 
 **Purpose:** Create automatic responses to avoidance triggers
 
+**What are "Implementation Intentions"?** These are pre-planned "if-then" responses that help you act automatically when facing triggers. Research shows they're highly effective for overcoming procrastination because they reduce the need for willpower in the moment.
+
 **Complete these if-then plans:**
 
 "If I feel the urge to seek more information instead of acting, then I will ____________________."
@@ -94,6 +96,8 @@ Circle: Research endlessly / Ask for more input / Delay starting / Seek guarante
 ## Self-Efficacy Evidence Log (2 minutes)
 
 **Purpose:** Build confidence in your capabilities
+
+**What is "Self-Efficacy"?** This is your belief in your ability to handle challenges and achieve goals. Building evidence of your past successes and capabilities helps you face uncertainty with more confidence, reducing the need to avoid difficult situations.
 
 **Recent evidence of my capabilities:**
 

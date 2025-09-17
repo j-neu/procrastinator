@@ -16,8 +16,8 @@
 - **What systems can I create to maintain my productivity skills long-term?**
   *(Think about daily habits, weekly practices, monthly reviews - sustainable routines that keep you growing.)*
 
-- **How can I balance growth with helping others in sustainable ways?**
-  *(How can you develop yourself AND share your skills without burning out?)*
+- **How can I balance growth with my other life responsibilities?**
+  *(How can you continue developing your skills while managing all your personal commitments?)*
 
 *Productivity vision reflection:*
 **How has having a future vision affected your approach to tasks over the past day?** ____________________
@@ -41,10 +41,10 @@
 *(Daily/weekly habits that keep your skills sharp)*
 **Challenge Integration:** Systematically engaging with new types of tasks and responsibilities
 *(Seeking appropriate challenges to prevent skill decay)*
-**Support Networks:** Ongoing connections with others who value effective life management
+**Personal Networks:** Ongoing connections with resources and people who value effective life management
 *(Community that supports your continued growth)*
-**Service Balance:** Helping others with productivity while maintaining your own growth
-*(Sharing your skills without depleting yourself)*
+**Balance Maintenance:** Sustaining your own productivity growth while managing life responsibilities
+*(Maintaining your skills without depleting yourself)*
 **Continuous Learning:** Staying open to new approaches and tools for managing life's tasks
 *(Remaining curious and adaptable)*
 
@@ -53,7 +53,7 @@
 - Skills becoming rusty without regular practice with challenging tasks
 - Taking current capabilities for granted and becoming complacent
 - Isolation from others who understand the productivity journey
-- Overwhelm from taking on too much responsibility for others' task management
+- Overwhelm from taking on too many personal responsibilities without adequate support
 - Stagnation from avoiding new types of challenging responsibilities
 - Loss of growth motivation after initial transformation success
 
@@ -74,8 +74,8 @@ What prevents you from maintaining consistent personal productivity development?
 □ Weekly skill development with challenging tasks
 □ Monthly progress assessment
 □ Ongoing challenge seeking with new types of tasks
-□ Community connection with others focused on effectiveness
-□ Regular opportunities to help others with productivity
+□ Personal connection with effectiveness-focused resources
+□ Regular opportunities to practice advanced productivity skills
 
 **Biggest productivity maintenance challenge:** ____________________
 **Most important maintenance need:** ____________________
@@ -101,8 +101,8 @@ Vision alignment check: ____________________
 **Quarterly Innovation (1-2 hours):**
 New productivity skill exploration: ____________________
 *(What new areas will you explore each quarter?)*
-Service/helping others project planning: ____________________
-Community connection building: ____________________
+Personal development project planning: ____________________
+Life balance and well-being assessment: ____________________
 
 **Annual Evolution (half day):**
 Major productivity growth planning: ____________________
@@ -123,10 +123,10 @@ What books, tools, or resources will support continued productivity learning? __
 *(Resources to keep learning and growing)*
 Who are the mentors/examples you want to learn from regarding life management? ____________________
 
-**Service Integration:**
-How will you regularly use your productivity skills to help others? ____________________
-*(Ways to share your skills that energize rather than drain you)*
-What service commitment will keep your skills sharp and meaningful? ____________________
+**Skill Integration:**
+How will you regularly use your productivity skills in new areas of your life? ____________________
+*(Ways to apply your skills that energize rather than drain you)*
+What personal commitment will keep your skills sharp and meaningful? ____________________
 
 **Challenge Pipeline:**
 How will you systematically seek appropriate productivity growth challenges? ____________________

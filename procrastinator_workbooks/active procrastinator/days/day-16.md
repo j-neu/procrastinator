@@ -30,7 +30,7 @@ Your environment significantly impacts your ability to execute strategic delay e
 □ Quick information access
 □ Minimal distractions during crunch time
 □ Energy management and comfort
-□ Collaboration when needed
+□ Communication when needed
 
 **Environmental challenges I face:**
 - ____________________

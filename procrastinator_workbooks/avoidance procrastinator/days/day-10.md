@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Why Big Tasks Feel Impossible (2 minutes)
 
-Your avoidant brain sees complex projects as single, monolithic threats. When we break them into tiny steps, each step becomes less intimidating and the project feels manageable.
+**Why Do Big Tasks Feel Impossible?** Your avoidant brain sees complex projects as single, monolithic threats. When we break them into tiny steps, each step becomes less intimidating and the project feels manageable. This technique is called "task decomposition" and it's one of the most effective tools for overcoming avoidance.
 
 **Think of a task you've been avoiding because it feels too big/complex:**
 ____________________
@@ -42,6 +42,7 @@ Circle what applies: Too many parts / Don't know where to start / Afraid of doin
 **Your overwhelming task:** ____________________
 
 **List EVERY single step you can think of, no matter how small:**
+*(Examples: open document, create outline, research one topic, write first paragraph, find contact info, draft email, review draft)*
 1. ____________________
 2. ____________________
 3. ____________________

@@ -29,7 +29,7 @@ Creative work often benefits uniquely from strategic delay, as incubation period
 □ After a period of incubation/thinking
 □ When I have complete freedom and no pressure
 □ In cycles of pressure and release
-□ When collaborating with others under time constraints
+□ When coordinating with others under time constraints
 □ Other: ____________________
 
 **Creative projects I'm currently working on:**
@@ -51,7 +51,7 @@ ____________________
 **Optimize timing for different creative phases:**
 
 **Ideation Phase:**
-- Optimal pressure level (1-10): ____
+- Optimal pressure level (1-10): ____ *(1=no pressure, 5=moderate urgency, 10=extreme deadline pressure)*
 - Best timing conditions: ____________________
 - Strategic delay benefits: ____________________
 - Environmental needs: ____________________
@@ -91,10 +91,10 @@ ____________________
 - Pressure level that kills creativity: ____________________
 - How I maintain creative pressure sustainably: ____________________
 
-**Collaborative Creative Timing:**
-- How I time creative collaboration: ____________________
+**Social Creative Timing:**
+- How I time creative coordination: ____________________
 - How I manage different creative timing preferences: ____________________
-- How I use group pressure for creative enhancement: ____________________
+- How I use social pressure for creative enhancement: ____________________
 
 **Creative Risk and Timing:**
 - When I take creative risks: ____________________

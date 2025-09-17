@@ -1,26 +1,29 @@
-# Day 25: Learning New Skills with Your Energy Style
+# Day 25: Anti-Fragile Stimulation Systems
 
-**Today's Focus:** Use your energy awareness for more effective learning and skill development
+**Today's Focus:** Build stimulation systems that get stronger under stress and disruption
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Learning Energy Optimization
+**Core Exercise:** Resilient Stimulation Architecture
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What personal task have I been putting off?
-- When do I feel most motivated and energized?
-- What makes boring tasks feel more interesting to me?
+**Daily Questions:** *(These questions help you understand your stimulation and energy patterns. As an arousal procrastinator, you likely work best with the right amount of pressure and excitement.)*
 
-*Creative energy experiment check:*
-**How did your creative energy experiment work? What did you discover?** ____________________
+- **What task have I been avoiding because it feels boring or unstimulating?**
+- **When do I feel most energized and focused?**
+- **What makes routine tasks feel more stimulating and engaging?**
+
+*Strategic pressure mastery check:*
+**How did transforming crisis-making into strategic pressure work for you?** ____________________
 
 ---
 
-## Main Exercise: Learning with Your Energy Style (10 minutes)
+## Main Exercise: Anti-Fragile Stimulation Design (10 minutes)
 
-**Purpose:** Use your energy awareness to make learning new skills more effective and enjoyable
+**Purpose:** Create stimulation systems that become stronger and more effective when faced with challenges and disruptions
+
+**What are "Anti-Fragile Stimulation Systems"?** These are pressure and energy creation methods that don't just survive disruption, stress, and challenges—they actually use those disruptions to become more effective and create better stimulation.
 
 ### Step 1: Personal Learning Energy Assessment (3 minutes)
 

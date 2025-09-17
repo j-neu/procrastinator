@@ -89,7 +89,7 @@ Chu & Choi (2005) distinguished passive procrastination as dysfunctional, with r
 
 ### 13. Accountability System Creation
 **Purpose:** Build external support for maintaining new habits
-**Instructions:** Establish accountability relationships with friends, colleagues, or family members. Create regular check-ins and shared tracking of important goals.
+**Instructions:** Establish accountability relationships with friends, colleagues, or family members. Create regular check-ins and mutual tracking of your important goals.
 
 ### 14. Energy Management
 **Purpose:** Align your most challenging work with your peak energy times
@@ -163,9 +163,9 @@ Chu & Choi (2005) distinguished passive procrastination as dysfunctional, with r
 
 ## Third Month Exercises
 
-### 31. Leadership and Influence
-**Purpose:** Use your productivity skills to help and inspire others
-**Instructions:** Share your transformation with others who struggle with procrastination. Practice teaching and mentoring others in the systems that have worked for you.
+### 31. Personal Mastery and Excellence
+**Purpose:** Achieve the highest level of personal productivity mastery
+**Instructions:** Refine and perfect your systems through advanced practice. Focus on achieving personal excellence and maintaining the highest standards in your productivity practices.
 
 ### 32. Creative and Strategic Thinking
 **Purpose:** Apply your improved focus to higher-level thinking tasks
@@ -183,9 +183,9 @@ Chu & Choi (2005) distinguished passive procrastination as dysfunctional, with r
 **Purpose:** Apply productivity improvements to advance your career and life goals
 **Instructions:** Use your enhanced capabilities to pursue career advancement, personal projects, or life goals that were previously derailed by procrastination.
 
-### 36. Teaching and Mentoring
-**Purpose:** Solidify your learning by helping others
-**Instructions:** Formally or informally teach others about overcoming procrastination. Helping others reinforces your own learning and prevents regression.
+### 36. Continuous Improvement and Growth
+**Purpose:** Solidify your learning through ongoing personal development
+**Instructions:** Establish systems for continuous learning and improvement. Create practices that reinforce your growth and prevent regression through ongoing self-development.
 
 ### 37. Continuous Improvement Systems
 **Purpose:** Create systems for ongoing productivity enhancement
@@ -240,5 +240,5 @@ You've successfully completed this program when you can:
 - Maintain organized systems for managing tasks, priorities, and deadlines
 - Handle setbacks and busy periods without completely derailing your productivity
 - Feel generally in control of your responsibilities rather than overwhelmed by them
-- Help others develop better organizational and productivity systems
+- Achieve personal mastery in organizational and productivity systems
 - Sustain your improvements over time without constant external support

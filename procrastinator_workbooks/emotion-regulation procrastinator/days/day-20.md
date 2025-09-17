@@ -37,7 +37,7 @@ Integration means weaving together all the personal productivity and emotional r
 **Foundation (Days 1-5):** Emotional triggers, precise naming, breathing, safety, task breakdown
 **Daily Application (Days 6-10):** Routines, "good enough" standards, rewards, boring task engagement, personal regulation plan
 **Advanced Skills (Days 11-15):** Momentum building, overwhelming tasks, social tasks, setbacks, personal systems
-**Mastery (Days 16-20):** Advanced strategies, maintenance, helping others, sustainability, integration
+**Mastery (Days 16-20):** Advanced strategies, maintenance, personal application, sustainability, integration
 
 ### Integration Principles:
 **Personalization:** Your system reflects your unique personal productivity needs
@@ -55,7 +55,7 @@ Integration means weaving together all the personal productivity and emotional r
 **From all the skills you've learned, which 5 feel most essential for your personal productivity?**
 
 **Review and choose your top 5:**
-☐ Emotional trigger mapping ☐ Precise emotion naming ☐ 4-4-4 breathing technique ☐ Creating emotional safety ☐ Breaking tasks into small steps ☐ Daily emotional routines ☐ "Good enough" standards ☐ Personal reward systems ☐ Making boring tasks engaging ☐ Personal regulation plan ☐ Building task momentum ☐ Handling overwhelming tasks ☐ Managing social task anxiety ☐ Setback recovery strategies ☐ Personal system creation ☐ Advanced strategy combination ☐ Long-term skill maintenance ☐ Helping others with productivity ☐ Sustainable productivity approaches
+☐ Emotional trigger mapping ☐ Precise emotion naming ☐ 4-4-4 breathing technique ☐ Creating emotional safety ☐ Breaking tasks into small steps ☐ Daily emotional routines ☐ "Good enough" standards ☐ Personal reward systems ☐ Making boring tasks engaging ☐ Personal regulation plan ☐ Building task momentum ☐ Handling overwhelming tasks ☐ Managing social task anxiety ☐ Setback recovery strategies ☐ Personal system creation ☐ Advanced strategy combination ☐ Long-term skill maintenance ☐ Personal skill application ☐ Sustainable productivity approaches
 
 **Your essential 5:**
 1. ____________________

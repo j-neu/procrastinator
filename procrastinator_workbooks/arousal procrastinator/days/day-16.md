@@ -1,26 +1,29 @@
-# Day 16: Staying Motivated When Tasks Feel Boring
+# Day 16: Low-Energy Stimulation Techniques
 
-**Today's Focus:** Keep going on personal tasks even when they don't feel interesting
+**Today's Focus:** Create stimulation and motivation even when your natural energy is low
 **Time Commitment:** 15 minutes
-**Core Exercise:** Low-Interest Task Motivation Strategies
+**Core Exercise:** Low-Energy Stimulation Toolkit
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What personal task have I been putting off?
-- When do I feel most motivated and energized?
-- What makes boring tasks feel more interesting to me?
+**Daily Questions:** *(These questions help you understand your stimulation and energy patterns. As an arousal procrastinator, you likely work best with the right amount of pressure and excitement.)*
+
+- **What task have I been avoiding because it feels boring or unstimulating?**
+- **When do I feel most energized and focused?**
+- **What makes routine tasks feel more stimulating and engaging?**
 
 *Task-energy matching check:*
-**How did matching your energy to different task types work for you yesterday?** ____________________
+**How did matching stimulation to different task types work for you yesterday?** ____________________
 
 ---
 
-## Main Exercise: Motivation for Boring Personal Tasks (10 minutes)
+## Main Exercise: Low-Energy Stimulation Creation (10 minutes)
 
-**Purpose:** Develop strategies for staying motivated on personal tasks that don't naturally interest you
+**Purpose:** Develop techniques to create optimal stimulation when your natural energy is low
+
+**What are "Low-Energy Stimulation Techniques"?** These are gentle but effective ways to create the pressure and energy you need to focus when you're tired, stressed, or naturally low-energy, without overwhelming yourself.
 
 ### Step 1: Understanding Your Boring Task Patterns (3 minutes)
 
@@ -65,7 +68,7 @@ ____________________
 **Social motivation:**
 Doing it with someone: ____________________
 Telling someone about progress: ____________________
-Making it help others: ____________________
+Making it personally meaningful: ____________________
 
 **Change the approach:**
 Different environment: ____________________

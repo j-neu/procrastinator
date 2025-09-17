@@ -35,7 +35,8 @@
       "Bash(touch:*)",
       "Bash(start:*)",
       "Bash(curl:*)",
-      "Bash(del add-none-of-above.js)"
+      "Bash(del add-none-of-above.js)",
+      "Bash(find:*)"
     ],
     "deny": [],
     "ask": []

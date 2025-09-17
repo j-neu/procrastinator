@@ -22,9 +22,15 @@
 
 Not all pressure is created equal. Active procrastinators need to distinguish between:
 
-**Productive Pressure:** Enhances focus, creativity, and performance. You feel energized and sharp. Example: Having 2 hours to write a proposal you've been thinking about, with all your materials ready.
+**Productive Pressure:** Enhances focus, creativity, and performance. You feel energized, sharp, and in control.
+- Example: Having 2 hours to write a proposal you've been thinking about, with all your materials ready
+- How it feels: Excited, focused, "in the zone"
+- Typical outcome: High-quality work that meets or exceeds expectations
 
-**Destructive Chaos:** Creates anxiety, poor decisions, and diminished quality. You feel overwhelmed and scattered. Example: Realizing at 11 PM that you have 3 different projects due tomorrow that you haven't started.
+**Destructive Chaos:** Creates anxiety, poor decisions, and diminished quality. You feel overwhelmed, scattered, and out of control.
+- Example: Realizing at 11 PM that you have 3 different projects due tomorrow that you haven't started
+- How it feels: Panicked, scattered, unable to think clearly
+- Typical outcome: Rushed work, mistakes, or missed deadlines
 
 **Think of a time when pressure served you well:**
 Situation: ____________________
@@ -88,14 +94,17 @@ What went wrong: ____________________
 **Create your personal pressure guidelines:**
 
 **Green Light (Full strategic delay okay - conditions are ideal):**
+*(You can confidently use strategic delay)*
 - ____________________
 - ____________________
 
 **Yellow Light (Proceed with caution/backup plans - some risk factors present):**
+*(Strategic delay is possible but needs safeguards)*
 - ____________________
 - ____________________
 
 **Red Light (Start early or get help - too many risk factors):**
+*(Abandon strategic delay and start immediately)*
 - ____________________
 - ____________________
 

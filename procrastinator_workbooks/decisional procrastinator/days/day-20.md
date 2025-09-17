@@ -1,164 +1,160 @@
-# Day 20: Foundation Review - Decision Mastery Assessment
+# Day 20: Week 3 Review - Decision-Making Progress Assessment
 
-**Today's Focus:** Consolidate your personal decision-making transformation and prepare for advanced personal work
+**Today's Focus:** Assess your decision-making progress and identify areas for continued growth
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Decision-Making Mastery Assessment
+**Core Exercise:** Decision-Making Progress Assessment
 
 ---
 
 ## Morning Check-in (1 minute)
 
-**Daily Questions:**
-- What personal productivity decision am I avoiding today?
-- What is one small personal choice I can make confidently right now?
+**Daily Questions:** *(These questions help you assess your decision-making progress and remaining challenges.)*
+
+- **What productivity decision am I avoiding today?**
+  *(Think of a choice that still challenges you. Examples: a decision with multiple good options, a choice where others have strong opinions, something with time pressure.)*
+
+- **What is one small choice I can make confidently right now?**
+  *(Pick something that shows your progress. Examples: using the 80% satisfaction test, setting a decision deadline, choosing without seeking multiple opinions.)*
 
 *Irreversibility practice:*
-**Have you made progress on any personal decision that previously felt too permanent?** ____________________
+**Have you made progress on any decision that previously felt too permanent?** ____________________
 
 ---
 
-## Personal Foundation Phase Progress Review (8 minutes)
+## Week 3 Progress Review (8 minutes)
 
-### Week 1: Understanding Personal Decision Paralysis
-**Day 1 - Personal Decision Patterns:** ____________________
-**Day 2 - Personal Information Trap:** ____________________
-**Day 3 - Time-Bound Personal Decisions:** ____________________
-**Day 4 - Good Enough Personal Choices:** ____________________
-**Day 5 - Personal Uncertainty Tolerance:** ____________________
-**Day 6 - Personal Weekly Review:** ____________________
+**Decision Progress Assessment:** A systematic review of your decision-making improvement over the past three weeks to identify strengths, remaining challenges, and next steps for continued growth.
 
-### Week 2: Building Personal Decision Skills
-**Day 7 - Personal Decision Frameworks:** ____________________
-**Day 8 - Personal Analysis Paralysis:** ____________________
-**Day 9 - Personal Second-Guessing:** ____________________
-**Day 10 - Personal Decision Confidence:** ____________________
-**Day 11 - Personal Implementation:** ____________________
-**Day 12 - Personal Decision Systems:** ____________________
+### Week 1: Understanding Decision Paralysis *(Days 1-7)*
+**Most helpful technique from Week 1:** ____________________
+**Biggest insight about your decision patterns:** ____________________
+**Week 1 confidence improvement (1-10):** ____
 
-### Week 3: Advanced Personal Decision Challenges
-**Day 13 - Personal Perfectionist Patterns:** ____________________
-**Day 14 - Personal Missing Information:** ____________________
-**Day 15 - Multiple Good Personal Options:** ____________________
-**Day 16 - Others' Personal Opinions:** ____________________
-**Day 17 - Personal Pressure Decisions:** ____________________
-**Day 18 - Learning from Personal History:** ____________________
-**Day 19 - Irreversible Personal Choices:** ____________________
+### Week 2: Building Decision Skills *(Days 8-13)*
+**Most useful framework from Week 2:** ____________________
+**Decision you stopped second-guessing:** ____________________
+**Week 2 confidence improvement (1-10):** ____
 
-**My three biggest personal decision-making breakthroughs:**
+### Week 3: Advanced Decision Challenges *(Days 14-20)*
+**Most challenging scenario you tackled:** ____________________
+**Technique that surprised you with its effectiveness:** ____________________
+**Week 3 confidence improvement (1-10):** ____
+
+**My three biggest decision-making breakthroughs:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Personal skills I've developed:**
-□ Recognize personal decision paralysis patterns
-□ Set appropriate time limits for personal choices
-□ Accept "good enough" personal decisions
-□ Handle uncertainty in personal outcomes
-□ Use personal decision frameworks systematically
-□ Stop second-guessing good personal choices
-□ Integrate others' opinions without losing personal agency
-□ Make personal decisions under pressure
-□ Learn from past personal decision patterns
-□ Handle seemingly irreversible personal choices
+**Skills I've developed:** *(Check all that apply)*
+□ Recognize decision paralysis patterns
+□ Set appropriate time limits for choices
+□ Accept "good enough" decisions
+□ Handle uncertainty in outcomes
+□ Use decision frameworks systematically
+□ Stop second-guessing good choices
+□ Integrate others' opinions without losing agency
+□ Make decisions under pressure
+□ Learn from past decision patterns
+□ Handle seemingly irreversible choices
 
 ---
 
-## Personal Decision-Making Mastery Assessment (4 minutes)
+## Decision-Making Progress Assessment (4 minutes)
 
 ### Before vs. After Comparison
 
-**Three weeks ago, my personal decision-making was:**
-- Personal Speed: ____________________
-- Personal Confidence: ____________________
-- Personal Second-guessing frequency: ____________________
-- Personal Perfectionism level: ____________________
-- Personal Procrastination patterns: ____________________
+**Three weeks ago, my decision-making was:**
+- **Speed:** ____________________ *(How quickly I made decisions)*
+- **Confidence:** ____________________ *(How sure I felt about choices)*
+- **Second-guessing frequency:** ____________________ *(How often I questioned decisions)*
+- **Perfectionism level:** ____________________ *(Need for optimal choices)*
+- **Procrastination patterns:** ____________________ *(How I avoided decisions)*
 
-**Now, my personal decision-making is:**
-- Personal Speed: ____________________
-- Personal Confidence: ____________________
-- Personal Second-guessing frequency: ____________________
-- Personal Perfectionism level: ____________________
-- Personal Progress on avoided decisions: ____________________
+**Now, my decision-making is:**
+- **Speed:** ____________________
+- **Confidence:** ____________________
+- **Second-guessing frequency:** ____________________
+- **Perfectionism level:** ____________________
+- **Progress on avoided decisions:** ____________________
 
 ### Current Decision Application
 
-**Major personal decision I was avoiding 3 weeks ago:** ____________________
+**Major decision I was avoiding 3 weeks ago:** ____________________
 
-**Where I am with this personal decision now:**
-□ Made the personal choice and implemented it
-□ Made the personal choice and planning implementation
-□ Narrowed to final personal options with clear timeline
-□ Applied new personal frameworks and making progress
-□ Still working on it but with better personal tools
-□ Realized it wasn't personally important and let it go
+**Where I am with this decision now:**
+□ Made the choice and implemented it
+□ Made the choice and planning implementation
+□ Narrowed to final options with clear timeline
+□ Applied new frameworks and making progress
+□ Still working on it but with better tools
+□ Realized it wasn't important and let it go
 
-**How my approach to this personal decision changed:**
+**How my approach to this decision changed:**
 ____________________
 
-### Personal Decision Confidence Assessment
+### Decision Confidence Assessment
 
-**Rate your current personal confidence (1-10):**
-- Making quick personal decisions on small matters: ____
-- Choosing between good personal options: ____
-- Deciding personally with incomplete information: ____
-- Handling others' disagreement with your personal choices: ____
-- Making personal choices under time pressure: ____
-- Committing to personal decisions without second-guessing: ____
+**Rate your current confidence (1-10):** *(1=no confidence, 5=moderate confidence, 10=complete confidence)*
+- Making quick decisions on small matters: ____
+- Choosing between good options: ____
+- Deciding with incomplete information: ____
+- Handling others' disagreement with your choices: ____
+- Making choices under time pressure: ____
+- Committing to decisions without second-guessing: ____
 
-**Total personal confidence score: ____/60**
+**Total confidence score: ____/60**
 
-**Compared to 3 weeks ago, this personal progress represents:**
-□ Significant personal improvement (gained 15+ points)
-□ Moderate personal improvement (gained 8-14 points)
-□ Some personal improvement (gained 3-7 points)
-□ Maintaining steady personal skills (gained 0-2 points)
+**Compared to 3 weeks ago, this progress represents:**
+□ Significant improvement (gained 15+ points)
+□ Moderate improvement (gained 8-14 points)
+□ Some improvement (gained 3-7 points)
+□ Maintaining steady skills (gained 0-2 points)
 
 ---
 
-## Preparing for Advanced Personal Work (1 minute)
+## Areas for Continued Growth (1 minute)
 
-**Personal areas I want to develop further in the advanced phase:**
-□ Building decisive personal leadership skills
-□ Creating personal decision-making systems for complex life choices
-□ Developing intuitive personal decision-making abilities
-□ Handling high-stakes irreversible personal decisions
-□ Helping others with their personal choices
-□ Integrating personal decision skills into daily routines
+**Areas where I want to continue growing:** *(Check your priorities for ongoing development)*
+□ Building decisive leadership skills
+□ Creating decision-making systems for complex life choices
+□ Developing intuitive decision-making abilities
+□ Handling high-stakes irreversible decisions
+□ Applying decision skills to all areas of life
+□ Integrating decision skills into daily routines
 □ Other: ____________________
 
-**My biggest remaining personal decision-making challenge:**
+**My biggest remaining decision-making challenge:**
 ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How has your relationship with personal decision-making transformed?**
+**How has your relationship with decision-making transformed?**
 ____________________
 
-**What personal decision-making strength are you most proud of developing?**
+**What decision-making strength are you most proud of developing?**
 ____________________
 
-**What would you tell someone starting this personal journey?**
+**What would you tell someone starting this journey?**
 ____________________
 
-**What personal decisions are you now ready to tackle that you were avoiding before?**
+**What decisions are you now ready to tackle that you were avoiding before?**
 ____________________
 
 ---
 
-## Foundation Completion Celebration
+## Week 3 Completion & Next Steps
 
-**Acknowledge your personal progress:**
-□ I understand my personal decision paralysis patterns
-□ I can set appropriate time boundaries for personal choices  
-□ I've learned to accept "good enough" personal decisions
-□ I can handle personal uncertainty and missing information
-□ I have frameworks for different types of personal decisions
-□ I can integrate others' input without losing my personal agency
-□ I've developed post-decision personal confidence
-□ I'm ready for advanced personal decision-making challenges
+**Acknowledge your progress:** *(Check the areas where you've grown)*
+□ I understand my decision paralysis patterns
+□ I can set appropriate time boundaries for choices
+□ I've learned to accept "good enough" decisions
+□ I can handle uncertainty and missing information
+□ I have frameworks for different types of decisions
+□ I can integrate others' input without losing my agency
+□ I've developed post-decision confidence
+□ I'm ready to continue building decision-making skills
 
-**Personal Foundation Mastery Thought:**
-*"I have built a solid foundation for confident personal decision-making. I can choose personal paths well, commit fully to my choices, and learn continuously from my experiences. I'm ready for the next level of personal growth."*
+**Week 3 Completion Reflection:**
+*"I have made meaningful progress in my decision-making journey. I understand my patterns better, have practical tools to use, and feel more confident in my choices. I'm ready to continue growing these skills in the advanced phase."*

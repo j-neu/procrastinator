@@ -1,154 +1,160 @@
 # Day 17: Decision-Making Under Pressure
 
-**Today's Focus:** Choose personal approaches effectively when time is limited
+**Today's Focus:** Choose approaches effectively when time is limited
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Pressure Decision Protocol
+**Core Exercise:** Pressure Decision Protocol
 
 ---
 
 ## Morning Check-in (1 minute)
 
-**Daily Questions:**
-- What personal productivity decision am I avoiding today?
-- What is one small personal choice I can make confidently right now?
+**Daily Questions:** *(These questions help you practice maintaining decision-making clarity when time pressure increases urgency.)*
+
+- **What productivity decision am I avoiding today?**
+  *(Think of a choice that feels urgent or has time constraints. Examples: selecting a project approach with a tight deadline, choosing how to spend limited time available.)*
+
+- **What is one small choice I can make confidently right now?**
+  *(Pick something with a short timeframe where you can practice pressure decision-making. Examples: what to prioritize in the next hour, which task to complete first.)*
 
 *Opinion independence:*
-**Did you make any personal decisions without seeking others' opinions first?** ____________________
+**Did you make any decisions without seeking others' opinions first?** ____________________
 
 ---
 
-## Pressure and Personal Decision-Making (1 minute)
+## Pressure and Decision-Making (1 minute)
 
-Time pressure can either clarify your personal priorities and force good personal decisions, or create panic that leads to poor personal choices. The key is having a reliable personal process for pressure situations.
+**Pressure Decision Protocol:** A systematic approach for making good choices when time is limited. This involves quickly identifying core criteria, eliminating clearly poor options, and choosing from remaining alternatives without extensive analysis. *(Decisional procrastinators often panic under pressure - this protocol helps maintain clarity.)*
 
-**Under personal time pressure, you tend to:**
-□ Panic and freeze up about personal choices
-□ Make impulsive personal choices you regret
-□ Ask everyone for quick personal opinions
-□ Default to the safest/easiest personal option
-□ Procrastinate personal decisions until the last possible moment
-□ Feel angry about being rushed on personal choices
+Time pressure can either clarify your priorities and force good decisions, or create panic that leads to poor choices. The key is having a reliable process for pressure situations. *(For decisional procrastinators, pressure often triggers analysis paralysis or hasty regrettable choices.)*
 
-**Recent personal decision you had to make under pressure:** ____________________
-**How did you handle it personally?** ____________________
-**What would you do differently for personal choices?** ____________________
+**Under time pressure, you tend to:** *(Check the patterns that apply to you)*
+□ Panic and freeze up about choices
+□ Make impulsive choices you regret
+□ Ask everyone for quick opinions
+□ Default to the safest/easiest option
+□ Procrastinate decisions until the last possible moment
+□ Feel angry about being rushed on choices
+
+**Recent decision you had to make under pressure:** ____________________
+**How did you handle it?** ____________________
+**What would you do differently for future choices?** ____________________
 
 ---
 
-## Main Exercise: Personal Pressure Decision Protocol (11 minutes)
+## Main Exercise: Pressure Decision Protocol (11 minutes)
 
-### Step 1: Personal Pressure Triage System (3 minutes)
+### Step 1: Pressure Triage System (3 minutes)
 
-**When facing a pressured personal decision:**
+**When facing a pressured decision:** *(Match your response to the urgency level)*
 
-**Level 1 - Personal Emergency (decide in minutes):**
-- **Focus on:** Personal safety, preventing personal harm, basic personal function
-- **Ask:** "What's the minimum I need to handle this personal situation?"
-- **Choose:** First personal option that prevents disaster
+**Level 1 - Emergency (decide in minutes):**
+- **Focus on:** Safety, preventing harm, basic function
+- **Ask:** "What's the minimum I need to handle this situation?"
+- **Choose:** First option that prevents disaster
 
-**Level 2 - Personal Urgent (decide in hours):**
-- **Focus on:** Core personal requirements only
-- **Ask:** "What are the 2-3 most important personal criteria?"
-- **Choose:** Personal option that best meets core needs
+**Level 2 - Urgent (decide in hours):**
+- **Focus on:** Core requirements only
+- **Ask:** "What are the 2-3 most important criteria?"
+- **Choose:** Option that best meets core needs
 
-**Level 3 - Personal Time-Limited (decide in 1-2 days):**
-- **Focus on:** Your main personal decision framework
-- **Ask:** "What would I choose personally with more time?"
-- **Choose:** Using your normal personal process, just faster
+**Level 3 - Time-Limited (decide in 1-2 days):**
+- **Focus on:** Your main decision framework
+- **Ask:** "What would I choose with more time?"
+- **Choose:** Using your normal process, just faster
 
-**Current pressured personal decision:** ____________________
-**Personal pressure level:** 1, 2, or 3
-**Personal time available:** ____________________
+**Current pressured decision:** ____________________
+**Pressure level:** ____ *(1, 2, or 3)*
+**Time available:** ____________________
 
-### Step 2: Personal Pressure Decision Framework (4 minutes)
+### Step 2: Pressure Decision Framework (4 minutes)
 
-**For your current pressured personal decision:**
+**For your current pressured decision:** *(Work through each step quickly)*
 
-**Step 1: Clarify the Real Personal Deadline (1 minute)**
-**Must decide personally by:** ____________________
-**Personal consequences of missing deadline:** ____________________
-**Is this personal deadline negotiable?** Yes/No
+**Step 1: Clarify the Real Deadline (1 minute)**
+**Must decide by:** ____________________
+**Consequences of missing deadline:** ____________________
+**Is this deadline negotiable?** Yes/No
 
-**Step 2: Identify Personal Core Criteria (1.5 minutes)**
-**With limited personal time, what matters most personally?**
+**Step 2: Identify Core Criteria (1.5 minutes)**
+**With limited time, what matters most?** *(Maximum 3 criteria)*
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Step 3: Quick Personal Option Generation (1 minute)**
-**What are your main personal options?**
+**Step 3: Quick Option Generation (1 minute)**
+**What are your main options?** *(Brainstorm quickly, don't over-analyze)*
 1. ____________________
 2. ____________________
 3. ____________________
 
-**Step 4: Rapid Personal Evaluation (0.5 minutes)**
-**Which personal option best meets your core personal criteria?**
+**Step 4: Rapid Evaluation (0.5 minutes)**
+**Which option best meets your core criteria?**
 ____________________
-**Personal good enough confidence level (1-10)?** ____
+**Good enough confidence level (1-10)?** ____ *(6+ is sufficient under pressure)*
 
-### Step 3: Personal Pressure Decision Practice (2 minutes)
+### Step 3: Pressure Decision Practice (2 minutes)
 
-**Practice making pressured personal decisions with artificial time limits:**
+**Practice making pressured decisions with artificial time limits:** *(This builds comfort with speed)*
 
-**2-Minute Personal Decision Challenge:**
-**Scenario:** Choose what personal task to work on next
-**Set timer for 2 minutes - go through the personal pressure framework**
-**Your personal choice:** ____________________
-**How did the time pressure affect your personal process?** ____________________
+**2-Minute Decision Challenge:**
+**Scenario:** Choose what task to work on next
+**Set timer for 2 minutes - go through the pressure framework**
+**Your choice:** ____________________
+**How did the time pressure affect your process?** ____________________
 
-**1-Minute Personal Decision Challenge:**
-**Scenario:** Pick a personal routine to start tomorrow
+**1-Minute Decision Challenge:**
+**Scenario:** Pick a routine to start tomorrow
 **Set timer for 1 minute**
-**Your personal choice:** ____________________
-**What did you focus on personally with only 1 minute?** ____________________
+**Your choice:** ____________________
+**What did you focus on with only 1 minute?** ____________________
 
-### Step 4: Personal Post-Pressure Protocol (2 minutes)
+### Step 4: Post-Pressure Protocol (2 minutes)
 
-**After making pressured personal decisions:**
+**After making pressured decisions:** *(These questions prevent regret spirals)*
 
-**Personal quality check questions:**
-- Did I meet the core personal criteria?
-- Is this personal choice good enough for the situation?
-- What can I adjust personally as I learn more?
+**Quality check questions:**
+- Did I meet the core criteria?
+- Is this choice good enough for the situation?
+- What can I adjust as I learn more?
 
-**Personal learning questions:**
-- What worked well in my personal pressure process?
-- What would I do differently next time for personal choices?
-- How can I prepare better for similar personal situations?
+**Learning questions:**
+- What worked well in my pressure process?
+- What would I do differently next time for choices?
+- How can I prepare better for similar situations?
 
-**Your personal post-pressure routine:**
+**Your post-pressure routine:** *(Write a 2-sentence summary)*
 ____________________
 
 ---
 
-## Personal Pressure Resilience Building (1 minute)
+## Pressure Resilience Building (1 minute)
 
-**Build comfort with personal pressure decisions:**
+**Build comfort with pressure decisions:** *(Regular practice reduces pressure paralysis)*
 
-**This week, practice making faster personal decisions on:**
-- Which personal task to prioritize (5 minutes max)
-- What personal goal to focus on today (3 minutes max)
-- Which personal routine to follow (2 minutes max)
+**This week, practice making faster decisions on:**
+- Which task to prioritize (5 minutes max)
+- What goal to focus on today (3 minutes max)
+- Which routine to follow (2 minutes max)
 
-**Your personal pressure practice plan:** ____________________
+**Your pressure practice plan:** ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How does having a personal pressure protocol change your relationship to urgent personal decisions?**
+**How does having a pressure protocol change your relationship to urgent decisions?**
 ____________________
 
-**What's the difference between personal good enough under pressure vs. good enough with time?**
+**What's the difference between good enough under pressure vs. good enough with time?**
 ____________________
 
-**How might you prepare for future personal pressure situations?**
+**How might you prepare for future pressure situations?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll work on learning from past personal decisions to improve future ones.
+Tomorrow we'll work on learning from past decisions to improve future ones.
 
-**Personal Pressure Decision Thought:**
-*"Personal time pressure clarifies what really matters to me. I can make good enough personal decisions quickly when I focus on core personal criteria."*
+**Pressure Decision Wisdom:**
+*"Time pressure clarifies what really matters to me. I can make good enough decisions quickly when I focus on core criteria."*

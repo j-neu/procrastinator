@@ -14,10 +14,10 @@
   *(Notice how capable and confident you feel - this is the foundation for your future vision.)*
 
 - **What kind of productivity master do I want to become?**
-  *(Think about specific examples: the organized person others turn to? The calm problem-solver? The one who helps others?)*
+  *(Think about specific examples: the consistently organized person? The calm problem-solver? The one who maintains excellence under pressure?)*
 
 - **How can I use my current skills to create the life I want?**
-  *(Consider how your productivity mastery can serve your bigger life goals, relationships, and contributions.)*
+  *(Consider how your productivity mastery can serve your bigger life goals, personal relationships, and personal achievements.)*
 
 *Productivity integration reflection:*
 **How did creating your master productivity system affect you yesterday?** ____________________
@@ -36,14 +36,14 @@
 ### Components of Productivity Future Vision:
 *(Different areas where your mastery can create positive impact)*
 **Personal Evolution:** How you want to continue growing in managing life's responsibilities
-**Relationship Impact:** How your productivity skills will improve your connections with others
-*(Being the calm, organized person in your family/friend group)*
+**Personal Relationship Quality:** How your productivity skills will improve your personal connections
+*(Being calm and organized in your personal relationships)*
 **Work/Career Contribution:** How productivity mastery serves your professional life
 *(Being known as reliable, effective, able to handle complex projects)*
 **Life Organization:** How your skills will create the life structure and flow you want
 *(Creating systems that support the lifestyle you desire)*
-**Service Contribution:** How you'll use your skills to help others manage their daily lives better
-*(Teaching, mentoring, or supporting others with task management)*
+**Personal Excellence:** How you'll use your skills to achieve exceptional personal results
+*(Mastering advanced productivity techniques and complex personal projects)*
 **Legacy Building:** What you want to be known for regarding effectiveness and life management
 *(How you want to be remembered for your approach to life's challenges)*
 
@@ -51,7 +51,7 @@
 - **Inspiring:** Your vision pulls you forward with excitement about your potential
 - **Specific:** Clear enough to guide concrete actions in daily life
 - **Values-Aligned:** Reflects what matters most deeply to you in how you live
-- **Service-Oriented:** Benefits both your life and others' lives
+- **Excellence-Oriented:** Benefits your life and personal achievements
 - **Growth-Focused:** Includes continuous learning and development of life management skills
 
 ---
@@ -66,20 +66,20 @@ ____________________
 *(Examples: completely natural and effortless, a source of confidence, something you enjoy)*
 What new productivity capacities do you want to develop?
 ____________________
-*(Examples: leadership skills, teaching abilities, handling even more complex challenges)*
+*(Examples: advanced planning skills, mastery of complex systems, handling even more challenging personal projects)*
 
-**Relationships (1 minute):**
-How do you want your productivity skills to improve your relationships?
+**Personal Relationships (1 minute):**
+How do you want your productivity skills to improve your personal relationships?
 ____________________
-*(Examples: being more present, creating organized shared spaces, supporting others' growth)*
-What kind of organized, supportive environment do you want to create for your loved ones?
+*(Examples: being more present, creating organized personal spaces, maintaining better work-life balance)*
+What kind of organized, peaceful environment do you want to create in your personal life?
 ____________________
 
 **Work/Career (1 minute):**
 How will productivity mastery serve your professional goals?
 ____________________
-*(Examples: leadership opportunities, reputation for reliability, ability to handle complex projects)*
-What kind of effective, reliable colleague do you want to be?
+*(Examples: personal advancement opportunities, reputation for reliability, ability to handle complex projects)*
+What kind of effective, reliable professional do you want to be?
 ____________________
 
 **Life Organization and Flow (1 minute):**
@@ -88,19 +88,19 @@ ____________________
 What kind of life structure and rhythm do you want to create?
 ____________________
 
-**Service and Legacy (1 minute):**
-How do you want to use your productivity skills to help others?
+**Personal Excellence and Legacy (1 minute):**
+How do you want to use your productivity skills to achieve personal excellence?
 ____________________
-*(Examples: mentoring, teaching workshops, creating helpful resources, being a supportive friend)*
+*(Examples: mastering challenging personal projects, creating innovative personal systems, achieving ambitious personal goals)*
 What do you want to be known for regarding effectiveness and life management?
 ____________________
-*(Examples: the person who stays calm under pressure, the one who helps others get organized, the reliable problem-solver)*
+*(Examples: the person who stays calm under pressure, the exceptionally organized individual, the reliable personal achiever)*
 
 ### Step 2: Integrated Productivity Future Vision Statement (2 minutes)
 
 **Combine your domain visions into one compelling statement:**
 
-"In the coming years, I envision myself as someone who _______ with tasks and daily responsibilities. My relationships are characterized by _______. In my work, I contribute _______. My daily life flows with _______. I serve others by _______. My productivity legacy is _______."
+"In the coming years, I envision myself as someone who _______ with tasks and daily responsibilities. My relationships are characterized by _______. In my work, I contribute _______. My daily life flows with _______. I achieve personal excellence by _______. My productivity legacy is _______."
 
 **Your core vision statement (one powerful sentence):**
 ____________________
@@ -119,25 +119,25 @@ Productivity skill to develop further: ____________________
 *(What aspect of your mastery could grow even stronger?)*
 Life area to organize/improve: ____________________
 Work/career contribution to make: ____________________
-Person to help with productivity: ____________________
-*(Who in your life could benefit from your skills?)*
+Personal productivity project to complete: ____________________
+*(What challenging personal project could showcase your skills?)*
 
 **1-Year Goals:**
 Major life management improvement: ____________________
-Leadership role to take in effectiveness: ____________________
-*(How could you lead others in this area?)*
+Personal mastery level to achieve: ____________________
+*(What advanced personal capabilities do you want to develop?)*
 Life project to complete using your skills: ____________________
-Impact to create in others' daily lives: ____________________
-*(How do you want to influence others' relationship with tasks and responsibilities?)*
+Personal impact to create in your daily life: ____________________
+*(How do you want to transform your own relationship with tasks and responsibilities?)*
 
 **3-Year Goals:**
 Productivity mastery level to achieve: ____________________
 *(What advanced capabilities do you want to develop?)*
-Legacy project to establish around life management: ____________________
-*(What lasting contribution do you want to make?)*
-Community to build/serve around effectiveness: ____________________
-*(How could you create or contribute to a community of people focused on effective living?)*
-Wisdom to share about managing life's responsibilities: ____________________
+Legacy project to establish around personal life management: ____________________
+*(What lasting personal system or achievement do you want to create?)*
+Personal excellence standard to maintain: ____________________
+*(What level of consistent personal effectiveness do you want to achieve?)*
+Personal wisdom to develop about managing life's responsibilities: ____________________
 
 ---
 
@@ -151,7 +151,7 @@ Wisdom to share about managing life's responsibilities: ____________________
 **As you take this action:**
 How does it feel to act from your future vision? ____________________
 What emotions arise when you align with your highest personal productivity possibility? ____________________
-How does this action serve both your life goals and others' well-being? ____________________
+How does this action serve your life goals and personal excellence? ____________________
 
 **Vision reminder practice:**
 "I will remind myself of this productivity vision by ______ (daily/weekly practice) ______"
@@ -172,4 +172,4 @@ How does this action serve both your life goals and others' well-being? ________
 Tomorrow we'll create your "sustainability and maintenance plan" - ensuring your productivity mastery continues to grow over time.
 
 **Daily Reminder:**
-*"I have a compelling vision for my productive, masterful future. This vision guides my daily actions and inspires my continued growth and service to others."*
+*"I have a compelling vision for my productive, masterful future. This vision guides my daily actions and inspires my continued growth and personal excellence."*

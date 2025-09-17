@@ -142,7 +142,7 @@ What I'll do if I slip back into old patterns: ____________________
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll learn about helping others with emotional regulation and personal productivity challenges.
+Tomorrow we'll focus on advanced personal productivity strategies and building unshakeable confidence.
 
 **Daily Reminder:**
 *"I am committed to maintaining and growing my emotional regulation and personal productivity skills. These abilities will serve me throughout my life."*

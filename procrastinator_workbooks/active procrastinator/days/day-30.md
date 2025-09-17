@@ -13,8 +13,8 @@
 - What's my current energy/pressure level for peak performance?
 - How can I honor my natural work style today?
 
-*Teaching development check:*
-**What teaching opportunity did I identify or begin yesterday?** ____________________
+*Personal mastery development check:*
+**What personal mastery practice did I identify or begin yesterday?** ____________________
 
 ---
 
@@ -28,7 +28,7 @@ True mastery is a lifelong journey of continuous development, application, and c
 - Foundation skills: Solid / Developing / Needs work
 - Application consistency: Excellent / Good / Variable
 - Advanced integration: Leading / Developing / Beginning
-- Teaching and sharing: Active / Starting / Planned
+- Personal mastery development: Active / Starting / Planned
 
 **Areas of strongest mastery:**
 1. ____________________
@@ -66,19 +66,19 @@ ____________________
 **Mastery Domain Focus Areas:**
 
 **Professional Mastery:**
-- Leadership through strategic timing: ____________________
-- Innovation and competitive advantage: ____________________
-- Organizational timing culture development: ____________________
+- Excellence through strategic timing: ____________________
+- Innovation and strategic advantage: ____________________
+- Professional timing culture contribution: ____________________
 
 **Personal Mastery:**
 - Life integration and balance: ____________________
 - Relationship and family timing optimization: ____________________
 - Personal goal achievement through strategic timing: ____________________
 
-**Contribution Mastery:**
-- Teaching and mentoring impact: ____________________
-- Knowledge creation and sharing: ____________________
-- Community and cultural influence: ____________________
+**Personal Excellence Mastery:**
+- Personal achievement and success: ____________________
+- Individual growth and development: ____________________
+- Personal contribution through excellence: ____________________
 
 **Mastery Integration Vision:**
 \"My strategic delay mastery will be most meaningful when: ____________________\"
@@ -105,11 +105,11 @@ ____________________
 - Research questions I want to investigate: ____________________
 - Innovations I want to contribute: ____________________
 
-**Contribution and Impact Goals:**
-- People I want to influence and help: ____________________
-- Organizations I want to impact: ____________________
-- Knowledge I want to create and share: ____________________
-- Cultural changes I want to support: ____________________
+**Personal Achievement and Impact Goals:**
+- Personal goals I want to achieve: ____________________
+- Professional environments where I want to excel: ____________________
+- Personal knowledge and skills I want to develop: ____________________
+- Personal changes and improvements I want to make: ____________________
 
 ### Step 3: Mastery Maintenance and Evolution (3 minutes)
 

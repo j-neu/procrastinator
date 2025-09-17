@@ -1,125 +1,147 @@
-# Day 10: Understanding Your Daily Energy Patterns
+# Day 10: Advanced Stimulation Planning Systems
 
-**Today's Focus:** Learn to work with your natural energy rhythms throughout the day
-**Time Commitment:** 15 minutes  
-**Core Exercise:** Daily Energy Pattern Mapping
+**Today's Focus:** Develop comprehensive planning that incorporates stimulation and pressure needs
+**Time Commitment:** 15 minutes
+**Core Exercise:** Stimulation-Integrated Planning Framework
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What personal task have I been putting off?
-- When do I feel most motivated and energized?
-- What makes boring tasks feel more interesting to me?
+**Daily Questions:** *(These questions help you understand your stimulation and energy patterns. As an arousal procrastinator, you likely work best with the right amount of pressure and excitement.)*
 
-*Task system check:*
-**How is your simple task management system working so far?** ____________________
+- **What task have I been avoiding because it feels boring or unstimulating?**
+- **When do I feel most energized and focused?**
+- **What makes routine tasks feel more stimulating and engaging?**
+
+*Multi-task flow check:*
+**How did managing multiple tasks with stimulation in mind work yesterday?** ____________________
 
 ---
 
-## Main Exercise: Your Personal Daily Energy Map (10 minutes)
+## Main Exercise: Stimulation-Integrated Planning (10 minutes)
 
-**Purpose:** Understand when you naturally have energy for different types of personal tasks
+**Purpose:** Create planning systems that proactively build in optimal stimulation and pressure
 
-### Step 1: Daily Energy Pattern Discovery (5 minutes)
+**What is "Stimulation-Integrated Planning"?** This means designing your schedule, deadlines, and task approach to naturally create the stimulation, urgency, and energy you need, rather than hoping motivation will appear spontaneously.
 
-Think about your typical energy throughout a normal day:
+### Step 1: Stimulation Planning Assessment (5 minutes)
 
-**Early Morning (6-9 AM):**
-My energy is usually: Low / Medium / High
-I'm most motivated to do: ____________________
-I tend to avoid: ____________________
+**Evaluate how well your current planning creates optimal stimulation:**
 
-**Mid-Morning (9 AM-12 PM):**
-My energy is usually: Low / Medium / High
-I'm most motivated to do: ____________________
-I tend to avoid: ____________________
+**Current planning approach:**
+□ Plan everything in advance with specific deadlines ____
+□ Keep things flexible and decide day-of ____
+□ Mix of planned and spontaneous approaches ____
+□ Rarely plan, mostly react to urgency ____
+□ Over-plan everything then feel overwhelmed ____
 
-**Afternoon (12-4 PM):**
-My energy is usually: Low / Medium / High
-I'm most motivated to do: ____________________
-I tend to avoid: ____________________
+**How well your current planning creates stimulation:**
+□ Creates good pressure and urgency ____
+□ Creates overwhelming pressure ____
+□ Doesn't create enough stimulation ____
+□ Creates unpredictable energy levels ____
+□ Works sometimes but not consistently ____
 
-**Late Afternoon (4-7 PM):**
-My energy is usually: Low / Medium / High
-I'm most motivated to do: ____________________
-I tend to avoid: ____________________
+**What you need from planning to support your stimulation:**
+□ Built-in deadlines and urgency ____
+□ Variety and rotation to prevent boredom ____
+□ Flexibility for when energy changes ____
+□ Social accountability and pressure ____
+□ Regular challenges and competitions ____
+□ Recovery time between high-stimulation periods ____
 
-**Evening (7 PM-bedtime):**
-My energy is usually: Low / Medium / High
-I'm most motivated to do: ____________________
-I tend to avoid: ____________________
-
-### Step 2: Personal Task Timing Strategy (3 minutes)
-
-**Based on your energy patterns:**
-
-**My highest energy time is usually:**
-____________________
-
-**Best time for tasks that need focus:** *(Examples: organizing, planning, difficult phone calls)*
-____________________
-
-**Best time for routine tasks:** *(Examples: cleaning, laundry, errands)*
-____________________
-
-**Best time for fun/creative tasks:** *(Examples: hobbies, exercise, social activities)*
-____________________
-
-**Times when I should go easy on myself:**
-____________________
-
-### Step 3: Energy-Smart Daily Planning (2 minutes)
-
-**Create simple guidelines for yourself:**
-
-**When my energy is high, I'll focus on:** ____________________
-
-**When my energy is medium, I'll do:** ____________________
-
-**When my energy is low, I'll do:** ____________________
-
-**Signs I need to rest instead of pushing through:**
+**Current planning gaps:**
 1. ____________________
 2. ____________________
 
-**How I'll give myself energy breaks:**
+### Step 2: Stimulation-Integrated Planning Framework (3 minutes)
+
+**Design planning systems that build in optimal stimulation:**
+
+**Daily stimulation planning:**
+How I'll build urgency into each day: *(Example: "Set 3-hour deadlines for tasks, use timers, schedule before fun activities")*
 ____________________
+
+How I'll ensure variety and novelty: *(Example: "Rotate locations, mix task types, change environments")*
+____________________
+
+How I'll create social pressure: *(Example: "Text friend my daily goals, work in coffee shops, announce deadlines")*
+____________________
+
+**Weekly stimulation cycles:**
+High-pressure days: *(Example: "Monday & Wednesday - tight deadlines, multiple tasks")*
+____________________
+
+Medium-pressure days: *(Example: "Tuesday & Thursday - moderate goals, some flexibility")*
+____________________
+
+Recovery/variety days: *(Example: "Friday - creative tasks, social activities, planning next week")*
+____________________
+
+**Monthly stimulation architecture:**
+How I'll maintain novelty: ____________________
+How I'll plan challenging projects: ____________________
+How I'll prevent boredom and routine: ____________________
+
+### Step 3: Planning Implementation Strategy (2 minutes)
+
+**Create your stimulation-integrated planning approach:**
+
+**My weekly planning ritual:**
+When: ____________________
+What I'll plan: *(Example: "Stimulation levels for each day, deadlines, social accountability, variety elements")*
+____________________
+
+**My daily planning check:**
+When: ____________________
+What I'll assess: *(Example: "Current energy, optimal pressure level for today, task sequencing")*
+____________________
+
+**When planning isn't creating enough stimulation:**
+1. Add artificial urgency or deadlines
+2. ____________________
+3. ____________________
+
+**When planning creates overwhelm:**
+1. Reduce number of planned items
+2. ____________________
+3. ____________________
 
 ---
 
-## Energy-Task Matching Practice (2 minutes)
+## Stimulation Planning Practice (2 minutes)
 
-**Purpose:** Practice matching tasks to your current energy level
+**Purpose:** Apply stimulation-integrated planning to tomorrow
 
-**Right now, my energy level feels:** Low / Medium / High
-**Personal task I could do today:** ____________________
+**Tomorrow's stimulation goal:** Low / Medium / High pressure day
 
-**Is this task a good match for my current energy?** Yes / No
+**Tasks you want to accomplish tomorrow:**
+1. ____________________
+2. ____________________
 
-**If not, what would work better right now:**
-□ Wait until my energy is higher
-□ Choose an easier task  
-□ Do just part of the task
-□ Change how I approach it (add music, timer, etc.)
+**Stimulation elements you'll build in:**
+Urgency/deadlines: ____________________
+Variety/novelty: ____________________
+Social pressure: ____________________
 
-**What I'll actually do:** ____________________
+**How you'll adjust if energy is different than expected:**
+____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How well did you match tasks to your energy today?** ____________________
+**How does planning with stimulation in mind feel different from regular planning?** ____________________
 
-**What did you learn about your daily energy patterns?** ____________________
+**What part of stimulation-integrated planning excites you most?** ____________________
 
-**How will understanding your energy help with personal tasks?** ____________________
+**What challenge do you anticipate with this planning approach?** ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll explore how to build momentum on personal goals without burning out.
+Tomorrow we'll learn to coordinate your energy and pressure levels throughout the day.
 
-**Energy Awareness Wisdom:**
-*"I can work with my natural energy patterns instead of fighting against them."*
+**Stimulation Planning Wisdom:**
+*"I can design my schedule to naturally create the optimal stimulation and pressure I need to thrive."*

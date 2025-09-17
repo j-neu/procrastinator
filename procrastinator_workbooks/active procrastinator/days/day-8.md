@@ -47,7 +47,7 @@ ____________________
 **Essential Information (must-haves):**
 - What could go seriously wrong?
 - What are the success requirements?
-- Who are the key stakeholders?
+- What are the key dependencies?
 - What resources are needed?
 - What's the real deadline?
 

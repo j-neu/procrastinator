@@ -41,6 +41,7 @@ ____________________
 ### Step 1: Technique Effectiveness Assessment (5 minutes)
 
 **Rate each technique's usefulness for your situation (1-5):**
+*(1=not helpful, 3=somewhat useful, 5=extremely valuable)*
 
 **Day 1 - Strategic Delay Assessment:** ____
 **Most useful insight:** ____________________
@@ -152,7 +153,7 @@ ____________________
 ---
 
 ## Tomorrow's Preparation
-Next week we'll dive deeper into advanced strategic timing and collaborative pressure management.
+Next week we'll dive deeper into advanced strategic timing and managing complex personal projects while maintaining your strategic approach.
 
 **System Optimization Thought:**
 *\"I have developed a personalized system that works with my strengths while addressing potential weaknesses.\"*

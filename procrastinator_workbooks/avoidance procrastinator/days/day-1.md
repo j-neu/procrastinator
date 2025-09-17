@@ -34,7 +34,7 @@ One small step: ____________________
 
 **Purpose:** Map the specific fears that fuel your procrastination patterns
 
-**What is a "Fear Inventory"?** A fear inventory is simply a list of the specific worries, concerns, and "what if" thoughts that make you want to avoid certain tasks. Once you name these fears clearly, they often feel less overwhelming and you can address them more logically.
+**What is a "Fear Inventory"?** A fear inventory is simply a list of the specific worries, concerns, and "what if" thoughts that make you want to avoid certain tasks. Once you name these fears clearly, they often feel less overwhelming and you can address them more logically. Think of it as taking your invisible anxieties and making them visible on paper.
 
 ### Step 1: Identify Your Current Avoidance (5 minutes)
 Think about tasks you've been putting off. List 3-5 specific items:
@@ -56,7 +56,7 @@ For each avoided task, complete this framework:
 **What would this mean about me if it happened?**
 - ____________________
 
-**How likely is this fear to actually occur? (1-10 scale)** ____ *(1=almost impossible, 5=might happen, 10=definitely will happen)*
+**How likely is this fear to actually occur? (1-10 scale)** ____ *(1=almost impossible, 3=unlikely, 5=might happen, 7=likely, 10=definitely will happen)*
 
 **Task:** ____________________
 **What specifically am I afraid might happen?**
@@ -66,7 +66,7 @@ For each avoided task, complete this framework:
 **What would this mean about me if it happened?**
 - ____________________
 
-**How likely is this fear to actually occur? (1-10 scale)** ____ *(1=almost impossible, 5=might happen, 10=definitely will happen)*
+**How likely is this fear to actually occur? (1-10 scale)** ____ *(1=almost impossible, 3=unlikely, 5=might happen, 7=likely, 10=definitely will happen)*
 
 ---
 

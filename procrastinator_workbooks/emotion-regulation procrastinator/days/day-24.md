@@ -19,11 +19,11 @@
 - **How can I approach challenging tasks as opportunities rather than obstacles?**
   *(Shift from "this is hard, so I should avoid it" to "this is hard, so it will help me develop new skills.")*
 
-*Productivity legacy reflection:*
-**How did focusing on your productivity legacy impact your actions yesterday?** ____________________
-*(Did thinking about helping others motivate you differently?)*
-**What legacy action did you take to help others?** ____________________
-*(How did you share skills, model confidence, or support someone else?)*
+*Productivity confidence reflection:*
+**How did building your productivity confidence impact your actions yesterday?** ____________________
+*(Did feeling more capable motivate you differently?)*
+**What confidence-building action did you take?** ____________________
+*(How did you challenge yourself or apply your growing skills?)*
 
 ---
 
@@ -162,7 +162,7 @@ How has your confidence with challenging tasks changed? ____________________
 
 **Impact evidence:**
 How does successfully tackling challenging tasks improve your daily life? ____________________
-What example are you setting for others who struggle with similar tasks? ____________________
+How are you becoming a role model for your own continued growth? ____________________
 
 **Your next task challenge level:**
 Based on today's growth, what type of challenging task are you now ready for? ____________________

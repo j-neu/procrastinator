@@ -81,8 +81,8 @@ How I align energy levels with pressure needs: ____________________
 **Quality-Timing Integration:**
 How I ensure quality standards across different pressure levels: ____________________
 
-**Collaboration-Strategy Integration:**
-How I manage strategic delay in collaborative environments: ____________________
+**Environment-Strategy Integration:**
+How I manage strategic delay across different environments: ____________________
 
 **Planning-Flexibility Integration:**
 How I plan strategically while maintaining timing flexibility: ____________________
@@ -112,7 +112,7 @@ How I balance self-reliance with strategic support utilization: ________________
 **System Evolution Triggers:**
 - When life circumstances change: ____________________
 - When work demands shift: ____________________
-- When relationships or teams change: ____________________
+- When personal priorities shift: ____________________
 - When stress levels become unsustainable: ____________________
 
 **Your system improvement protocol:**

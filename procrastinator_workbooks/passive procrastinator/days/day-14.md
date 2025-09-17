@@ -11,10 +11,10 @@
 **Daily Questions:** *(These questions help you understand how poor boundaries affect your productivity. Passive procrastination often happens when you say yes to too many things and neglect your goals. Remember: boundaries protect your capacity for what matters most to you.)*
 
 - **What goal am I avoiding because I'm too busy with other people's requests?**
-  *(Think of something you want to work on but keep putting off because you're always helping others, saying yes to social commitments, or taking on tasks that aren't really your responsibility.)*
+  *(Think of something you want to work on but keep putting off because you're overcommitted, saying yes to too many things, or taking on tasks that aren't aligned with your priorities.)*
 
 - **What is one boundary I can set to protect my time for my goals?**
-  *(This could be saying no to a request, setting limits on help you give others, or protecting certain times for your priorities.)*
+  *(This could be saying no to a request, setting limits on your availability, or protecting certain times for your priorities.)*
 
 - **How can I approach boundary-setting with confidence rather than guilt?**
   *(Instead of feeling guilty about setting limits, try to see **boundaries** as necessary self-care that allows you to be more present and helpful when you do choose to engage.)*
@@ -62,7 +62,7 @@ Passive procrastinators often say yes to everything, overwhelming their personal
 **With personal life:**
 □ Social commitments when already busy
 □ Family requests during work time
-□ Helping others with their projects
+□ Personal projects when energy is low
 □ Community or volunteer obligations
 
 **With yourself:**
@@ -99,13 +99,13 @@ Passive procrastinators often say yes to everything, overwhelming their personal
 **Develop specific responses for common situations:**
 
 **For work requests beyond capacity:**
-"I'd like to help with this. Let me check my current commitments and get back to you by ____________________"
+"I need to check my current commitments and get back to you by ____________________"
 
 **For social invitations when overloaded:**
 "Thanks for thinking of me. I'm not available that day, but I'd love to ____________________"
 
 **For family requests during focused work:**
-"I can help with this after ____________________. Would that work?"
+"I'm available for this after ____________________. Would that work?"
 
 **For perfectionist self-demands:**
 "Good enough for this task means ____________________"

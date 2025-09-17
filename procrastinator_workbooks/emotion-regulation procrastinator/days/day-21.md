@@ -40,18 +40,18 @@
 *(Signs you've developed true mastery)*
 - Feeling confident about handling any type of task (emails, organizing, planning, difficult conversations)
 - Using emotional awareness to improve your daily systems
-- Helping others with their task management challenges
+- Applying your skills to increasingly challenging personal tasks
 - Creating environments that support your ongoing success
 - Viewing challenging tasks as opportunities to practice your skills
 
 ### This Week's Focus Areas:
 **Day 21:** Assessing your productivity transformation
 **Day 22:** Building long-term confidence with challenging tasks
-**Day 23:** Creating your productivity legacy for others
+**Day 23:** Creating your productivity foundation for long-term success
 **Day 24:** Seeking growth opportunities in daily life
 **Day 25:** Innovative approaches to responsibilities
 **Day 26:** Mastery with complex life situations
-**Day 27:** Contributing your skills to help others
+**Day 27:** Applying your skills to complex life challenges
 
 ---
 
@@ -82,7 +82,7 @@ ____________________
 - Taking action despite difficult emotions: Before ____ → After ____
 - Managing setbacks and complications: Before ____ → After ____
 - Maintaining sustainable productivity: Before ____ → After ____
-- Helping others with similar challenges: Before ____ → After ____
+- Applying skills to new challenges: Before ____ → After ____
 
 ### Step 2: Current Task Challenge Assessment (3 minutes)
 
@@ -120,8 +120,8 @@ ____________________
 *(Examples: resilience, confidence, self-trust, persistence)*
 - What insight about yourself might this challenge reveal? ____________________
 *(What might you learn about your capabilities, values, or patterns?)*
-- How could mastering this challenge help you support others? ____________________
-*(How could your experience help family, friends, or colleagues with similar challenges?)*
+- How could mastering this challenge strengthen your overall life management? ____________________
+*(How could developing this skill benefit other areas of your life?)*
 
 **Take one advanced action that approaches this challenge as a growth opportunity:**
 **Action taken:** ____________________
@@ -139,7 +139,7 @@ ____________________
 **Your productivity innovation:** ____________________
 *(Example: a unique way to break down tasks, an emotional regulation trick, a system that works for your lifestyle)*
 
-**How could this help others who struggle with similar task challenges?** ____________________
+**How could this approach enhance your overall life management?** ____________________
 
 ---
 

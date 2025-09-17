@@ -1,26 +1,29 @@
-# Day 17: Building Consistent Personal Productivity Habits
+# Day 17: Long-Term Stimulation System Maintenance
 
-**Today's Focus:** Make personal productivity practices automatic and sustainable
+**Today's Focus:** Keep your stimulation techniques effective over weeks and months
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Productivity Habit System
+**Core Exercise:** Stimulation System Sustainability Architecture
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What personal task have I been putting off?
-- When do I feel most motivated and energized?
-- What makes boring tasks feel more interesting to me?
+**Daily Questions:** *(These questions help you understand your stimulation and energy patterns. As an arousal procrastinator, you likely work best with the right amount of pressure and excitement.)*
 
-*Boring task motivation check:*
-**Did you try making a boring task more engaging yesterday? How did it work?** ____________________
+- **What task have I been avoiding because it feels boring or unstimulating?**
+- **When do I feel most energized and focused?**
+- **What makes routine tasks feel more stimulating and engaging?**
+
+*Low-energy stimulation check:*
+**How did creating stimulation during low-energy periods work yesterday?** ____________________
 
 ---
 
-## Main Exercise: Personal Productivity Habit Building (10 minutes)
+## Main Exercise: Sustained Stimulation Architecture (10 minutes)
 
-**Purpose:** Build automatic, consistent personal productivity practices that feel sustainable
+**Purpose:** Build systems that keep your stimulation techniques fresh and effective over time
+
+**What is "Long-Term Stimulation Maintenance"?** This means creating systems to prevent your pressure and energy techniques from becoming routine, stale, or ineffective through strategic variety and renewal.
 
 ### Step 1: Current Personal Productivity Assessment (3 minutes)
 

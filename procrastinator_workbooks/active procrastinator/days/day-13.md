@@ -13,8 +13,8 @@
 - What's my current energy/pressure level for peak performance?
 - How can I honor my natural work style today?
 
-*Collaborative check:*
-**How did collaborative pressure management serve me yesterday?** ____________________
+*System check:*
+**How did personal pressure calibration serve me yesterday?** ____________________
 
 ---
 
@@ -69,6 +69,7 @@ ____________________
 - Time required: ____________________
 
 **Your quality calibration by pressure level:**
+*(1=no pressure/urgency, 5=moderate urgency, 10=extreme deadline pressure)*
 - Low pressure (1-3): ____________________
 - Medium pressure (4-6): ____________________
 - High pressure (7-10): ____________________

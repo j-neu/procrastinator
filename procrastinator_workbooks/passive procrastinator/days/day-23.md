@@ -19,8 +19,8 @@
 - **How can I approach system evolution with curiosity rather than pressure?**
   *(Instead of feeling pressure to constantly optimize, try to see **continuous improvement** *(Regular small adjustments to keep systems effective as life changes)* as fun experiments that help you learn what works best for your changing life.)*
 
-*Knowledge sharing check-in:*
-**How did sharing productivity knowledge impact your confidence yesterday?** ____________________
+*Knowledge application check-in:*
+**How did applying productivity knowledge impact your confidence yesterday?** ____________________
 
 ---
 

@@ -10,13 +10,13 @@
 
 **Daily Questions:** *(These questions help you tune into your natural patterns. Don't worry if they feel unclear at first - they'll make more sense as you progress.)*
 
-- **What task am I strategically delaying and why might this be optimal timing?**  
+- **What task am I strategically delaying and why might this be optimal timing?**
   *(Think of something you need to do but haven't started yet. "Optimal timing" means waiting until conditions feel right for your best work - maybe you need more information, better energy, or closer deadline pressure.)*
 
-- **What's my current energy/pressure level for peak performance?**  
-  *(How alert do you feel right now? How much urgency do you sense? Active procrastinators often perform best when these align with their task needs.)*
+- **What's my current energy/pressure level for peak performance?**
+  *(How alert do you feel right now on a scale of 1-10? How much urgency do you sense? Active procrastinators often perform best when energy and pressure align with their task needs.)*
 
-- **How can I honor my natural work style today?**  
+- **How can I honor my natural work style today?**
   *(Instead of forcing yourself to work like others, how can you work in a way that feels natural to you - whether that's waiting for pressure, working in bursts, or timing tasks with your energy?)*
 
 
@@ -68,10 +68,10 @@ Think of 3 recent tasks where you delayed and achieved good results:
 
 **When does your strategic delay work BEST?**
 □ Complex creative projects
-□ Analytical/problem-solving tasks  
+□ Analytical/problem-solving tasks
 □ Routine but important work
 □ High-stakes presentations
-□ Collaborative projects
+□ Projects with flexible deadlines
 □ Other: ____________________
 
 ### Step 3: Challenge Area Identification (3 minutes)

@@ -21,7 +21,9 @@
 
 ## Understanding Your Energy-Pressure Connection (3 minutes)
 
-**What is "energy architecture"?** Your energy architecture is your personal pattern of when you feel most alert, focused, and capable throughout the day. Active procrastinators often have sophisticated internal timing systems that align pressure with natural energy peaks. Most people don't understand this connection.
+**What is "energy architecture"?** Your energy architecture is your personal pattern of when you feel most alert, focused, and capable throughout the day. Think of it like your body's natural schedule - some people are morning people, others are night owls, and many have specific times when they're most mentally sharp.
+
+Active procrastinators often have sophisticated internal timing systems that naturally align pressure with their energy peaks. For example, you might delay starting a presentation until the evening because that's when you feel most creative and focused, and the approaching deadline gives you the energy boost you need. Most people don't understand this connection between timing, energy, and pressure.
 
 **Reflect on yesterday's pressure assessment:**
 What pressure level did you identify as optimal? ____

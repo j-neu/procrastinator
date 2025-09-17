@@ -13,8 +13,8 @@
 - What's my current energy/pressure level for peak performance?
 - How can I honor my natural work style today?
 
-*Leadership development check:*
-**What strategic leadership skill did I practice yesterday?** ____________________
+*Advanced application check:*
+**What advanced strategic skill did I practice yesterday?** ____________________
 
 ---
 
@@ -125,7 +125,7 @@ ____________________
 **Complex Project Success Metrics:**
 - Timing effectiveness measures: ____________________
 - Quality achievement indicators: ____________________
-- Team and stakeholder satisfaction: ____________________
+- Personal and project satisfaction: ____________________
 
 ---
 

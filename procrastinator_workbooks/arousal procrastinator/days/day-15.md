@@ -8,71 +8,74 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What personal task have I been putting off?
-- When do I feel most motivated and energized?
-- What makes boring tasks feel more interesting to me?
+**Daily Questions:** *(These questions help you understand your stimulation and energy patterns. As an arousal procrastinator, you likely work best with the right amount of pressure and excitement.)*
+
+- **What task have I been avoiding because it feels boring or unstimulating?**
+- **When do I feel most energized and focused?**
+- **What makes routine tasks feel more stimulating and engaging?**
 
 *Progress check:*
-**What motivation strategy from this week worked best for you?** ____________________
+**What stimulation strategy from this week worked best for you?** ____________________
 
 ---
 
 ## Main Exercise: Personal Task-Energy Matching (10 minutes)
 
-**Purpose:** Learn which motivation approaches work best for different types of personal tasks
+**Purpose:** Learn which stimulation approaches work best for different types of tasks
+
+**What is "Task-Stimulation Matching"?** This means recognizing that different types of tasks need different approaches to create optimal pressure and energy, rather than using the same stimulation technique for everything.
 
 ### Step 1: Your Personal Task Categories (4 minutes)
 
 **Think about the different types of personal tasks you do. For each category, note what works:**
 
-**Fun/Creative Personal Tasks:**
-Examples: *(hobbies, creative projects, learning new things)* ____________________
-When I'm most motivated: ____________________
-What helps me start: ____________________
-What helps me keep going: ____________________
+**High-Stimulation Required Tasks:**
+Examples: *(boring admin, routine maintenance, repetitive tasks)* ____________________
+Optimal pressure level (1-10): ____
+Best stimulation techniques: ____________________
+Optimal timing: ____________________
 
-**Routine Personal Tasks:**
-Examples: *(cleaning, organizing, personal admin, bills)* ____________________
-When I'm most motivated: ____________________
-What helps me start: ____________________
-What helps me keep going: ____________________
+**Medium-Stimulation Tasks:**
+Examples: *(planning, organizing, moderate challenges)* ____________________
+Optimal pressure level (1-10): ____
+Best stimulation techniques: ____________________
+Optimal timing: ____________________
 
-**Health/Self-Care Tasks:**
-Examples: *(exercise, meal prep, medical appointments)* ____________________
-When I'm most motivated: ____________________
-What helps me start: ____________________
-What helps me keep going: ____________________
+**Natural-Energy Tasks:**
+Examples: *(creative projects, interesting learning, engaging hobbies)* ____________________
+Optimal pressure level (1-10): ____
+Best stimulation techniques: ____________________
+Optimal timing: ____________________
 
-**Social/Relationship Tasks:**
-Examples: *(calling friends, planning events, gifts, thank you notes)* ____________________
-When I'm most motivated: ____________________
-What helps me start: ____________________
-What helps me keep going: ____________________
+**Social-Stimulation Tasks:**
+Examples: *(social projects, accountable activities, public goals)* ____________________
+Optimal pressure level (1-10): ____
+Best stimulation techniques: ____________________
+Optimal timing: ____________________
 
-### Step 2: Energy Strategy Matching (4 minutes)
+### Step 2: Stimulation-Task Optimization Matrix (4 minutes)
 
-**For each task type, what motivation approach works best:**
+**Create your matching system for optimal performance:**
 
-**Fun/Creative Tasks:**
-Best motivation strategy: ____________________
-Best time of day: ____________________
-Best environment: ____________________
+**High-Stimulation Tasks:**
+Required elements: ____________________
+Environment setup: ____________________
+Warning signs of insufficient stimulation: ____________________
 
-**Routine Tasks:**
-Best motivation strategy: ____________________
-Best time of day: ____________________
-Best environment: ____________________
+**Medium-Stimulation Tasks:**
+Required elements: ____________________
+Environment setup: ____________________
+How to boost when needed: ____________________
 
-**Health/Self-Care Tasks:**
-Best motivation strategy: ____________________
-Best time of day: ____________________
-Best environment: ____________________
+**Natural-Energy Tasks:**
+Required elements: ____________________
+Environment setup: ____________________
+How to maintain flow: ____________________
 
-**Social/Relationship Tasks:**
-Best motivation strategy: ____________________
-Best time of day: ____________________
-Best environment: ____________________
+**Social-Stimulation Tasks:**
+Required elements: ____________________
+Environment setup: ____________________
+Best accountability methods: ____________________
 
 ### Step 3: Your Personal Decision Guide (2 minutes)
 

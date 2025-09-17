@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Understanding Fear Visualization (3 minutes)
 
-When we repeatedly avoid thinking about feared scenarios, they grow larger in our minds. Deliberately visualizing them - while staying grounded - can reduce their emotional power.
+**What is "Fear Visualization"?** This is a therapeutic technique where you deliberately imagine feared scenarios in a controlled, safe way. When we repeatedly avoid thinking about fears, they grow larger in our minds. Deliberately visualizing them - while staying grounded - can reduce their emotional power and help you realize you can handle more than you think.
 
 **Warning:** This exercise might feel uncomfortable. That's normal and expected.
 
@@ -29,7 +29,7 @@ When we repeatedly avoid thinking about feared scenarios, they grow larger in ou
 
 **The task:** ____________________
 **My specific fear about it:** ____________________
-**Intensity of this fear (1-10):** ____
+**Intensity of this fear (1-10):** ____ *(1=mild concern, 5=moderate anxiety, 10=overwhelming terror)*
 
 **Physical sensations when I think about this fear:**
 ____________________
@@ -56,7 +56,7 @@ Before we visualize the fear, establish a mental "safe space" you can return to.
 Imagine preparing to do your feared task. Don't actually imagine doing it yet - just getting ready.
 - What are you thinking?
 - What do you feel in your body?
-- Rate anxiety (1-10): ____
+- Rate anxiety (1-10): ____ *(Notice how it feels in your body)*
 
 **Phase 2 - Beginning the Task (2 minutes):**
 Now imagine actually starting the task. Visualize the first few minutes.
@@ -92,6 +92,8 @@ Imagine your feared outcome actually happening. Stay with it.
 ## Growth Mindset Cultivation (2 minutes)
 
 **Purpose:** Transform how you view challenges and setbacks
+
+**What is "Growth Mindset"?** This is the belief that abilities and intelligence can be developed through effort and learning. People with growth mindset see challenges as opportunities to improve rather than threats to their self-worth, which reduces avoidance and increases resilience.
 
 **Recent struggle with procrastination:** ____________________
 

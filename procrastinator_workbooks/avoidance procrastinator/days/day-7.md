@@ -23,6 +23,8 @@
 
 **Purpose:** Create a strong foundation of evidence that contradicts your fear-based beliefs
 
+**What is an "Evidence Collection System"?** This is a structured way of gathering real examples from your life that prove your negative beliefs about yourself are inaccurate or exaggerated. It's like building a case in court - but instead of proving guilt, you're proving your own competence and worth.
+
 ### Step 1: Identify Your Core Fear-Based Beliefs (5 minutes)
 
 *Look back at your fear inventory from Day 1 and thought records from Day 6*
@@ -38,19 +40,19 @@
 
 **Evidence that contradicts this belief:**
 
-*Past achievements:*
+*Past achievements:* *(completed projects, goals reached, things you're proud of)*
 - ____________________
 - ____________________
 
-*Skills and strengths:*
+*Skills and strengths:* *(what you're naturally good at, learned abilities, talents)*
 - ____________________
 - ____________________
 
-*Times I've overcome challenges:*
+*Times I've overcome challenges:* *(difficulties you've survived, problems you've solved)*
 - ____________________
 - ____________________
 
-*Positive feedback I've received:*
+*Positive feedback I've received:* *(compliments, recognition, praise from others)*
 - ____________________
 - ____________________
 
@@ -77,6 +79,8 @@
 ## Self-Sabotage Awareness (2 minutes)
 
 **Purpose:** Recognize the hidden costs of avoidance
+
+**What is "Self-Sabotage Awareness"?** This means recognizing how avoidance, which feels protective in the moment, actually creates the very outcomes we're trying to prevent. For example, avoiding a task to prevent failure often leads to rushed work or missed deadlines - creating actual failure.
 
 **Think about your procrastination patterns. Complete these sentences:**
 

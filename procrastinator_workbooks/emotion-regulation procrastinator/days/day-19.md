@@ -23,9 +23,9 @@
 - **How can I take care of myself while staying productive with personal tasks?**
   *(Balance is key - you need both productivity and emotional well-being. Self-care and productivity can support each other rather than compete.)*
 
-*Personal productivity support reflection:*
-**How did helping someone else with personal productivity reinforce your own skills yesterday?** ____________________
-**What did you learn about your abilities by teaching others?** ____________________
+*Personal productivity confidence reflection:*
+**How did applying advanced personal productivity strategies reinforce your own skills yesterday?** ____________________
+**What did you learn about your abilities by tackling challenging tasks?** ____________________
 
 ---
 

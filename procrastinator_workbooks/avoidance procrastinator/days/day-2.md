@@ -28,7 +28,7 @@
 
 **Purpose:** Replace self-criticism with understanding and encouragement
 
-**What is a "Self-Compassion Letter"?** This is a written message to yourself using the same kind, understanding tone you'd use with a close friend facing difficulties. Research shows that self-compassion (being kind to yourself during struggles) is more motivating than self-criticism for making positive changes.
+**What is a "Self-Compassion Letter"?** This is a written message to yourself using the same kind, understanding tone you'd use with a close friend facing difficulties. Research shows that self-compassion (being kind to yourself during struggles) is more motivating than self-criticism for making positive changes. Think of it as becoming your own best friend and supportive coach.
 
 ### Your Letter Framework:
 
@@ -76,9 +76,11 @@ ____________________
 
 **Quick Values Check:**
 What matters most to you in life? Circle 3:
-- Creativity - Family - Growth - Adventure - Security 
+- Creativity - Family - Growth - Adventure - Security
 - Freedom - Connection - Achievement - Health - Contribution
 - Justice - Authenticity - Peace - Recognition - Fun
+
+*(Values are what give your life meaning and direction. When avoidance keeps you from living according to your values, it creates internal conflict and motivation for change.)*
 
 **How does avoiding fears disconnect you from these values?**
 ____________________

@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show myself compassion around this challenge?
@@ -20,13 +20,15 @@
 
 ## Understanding Courage vs. Fearlessness (3 minutes)
 
+**What is "Courage Identity"?** This means seeing yourself as someone who regularly faces fears rather than someone who avoids them. It's built through consistent recognition of brave acts, no matter how small.
+
 **Important Distinction:**
 - **Fearlessness** = Not feeling afraid (rare and not the goal)
 - **Courage** = Feeling afraid AND taking action anyway (achievable and powerful)
 
 ### Courage Self-Assessment
 
-**Think about yesterday. Rate yourself on these courage indicators (1-5):**
+**Think about yesterday. Rate yourself on these courage indicators (1-5):** *(1=not at all, 3=somewhat, 5=definitely)*
 
 Did something despite feeling anxious: ____
 Spoke up when it felt uncomfortable: ____
@@ -46,6 +48,7 @@ Challenged a negative thought pattern: ____
 ### Step 1: Past Courage Inventory (5 minutes)
 
 **List acts of courage you've taken in the past month** (no matter how small):
+*(Examples: started a conversation, submitted work, asked for help, tried something new, set a boundary)*
 
 **Week 1 (Days 1-7):**
 - ____________________
@@ -96,6 +99,8 @@ Challenged a negative thought pattern: ____
 ## Daily Courage Recognition Ritual (1 minute)
 
 **Create a simple daily practice to acknowledge your courage:**
+
+**What is a "Courage Recognition Ritual"?** This is a brief daily practice where you acknowledge at least one brave thing you did, no matter how small. It reinforces your courage identity and trains your brain to notice brave moments rather than only focusing on fears and failures.
 
 **When will you do this?** (End of day recommended)
 ____________________

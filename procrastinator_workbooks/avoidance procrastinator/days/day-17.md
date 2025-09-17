@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -21,7 +21,7 @@
 
 ## Understanding Fear as a Protector (3 minutes)
 
-Your avoidance isn't trying to sabotage you - it's trying to protect you from perceived danger. When we understand what our fear is trying to protect us from, we can negotiate with it more effectively.
+**What is a "Fear Dialogue"?** This is a therapeutic technique where you have a conversation with your fear as if it were a separate person trying to help you. Your avoidance isn't trying to sabotage you - it's trying to protect you from perceived danger. When we understand what our fear is trying to protect us from, we can negotiate with it more effectively rather than fighting against it.
 
 ### Your Fear's Protective Role
 
@@ -46,7 +46,7 @@ Circle all that apply:
 
 ### Step 1: Set Up the Conversation (2 minutes)
 
-Imagine your fear/avoidance as a separate entity - perhaps a worried parent, an overprotective friend, or a security guard. Give it a name or image.
+Imagine your fear/avoidance as a separate entity - perhaps a worried parent, an overprotective friend, or a security guard. Give it a name or image. This helps you relate to it as something trying to help rather than something to fight against.
 
 **My fear's name/image:** ____________________
 
@@ -84,11 +84,11 @@ Imagine your fear/avoidance as a separate entity - perhaps a worried parent, an 
 
 **Based on your dialogue, what agreement can you make with your fear?**
 
-**I will honor my fear by:**
+**I will honor my fear by:** *(what you'll do to address its concerns)*
 (Examples: Going slowly, preparing well, getting support, having backup plans)
 ____________________
 
-**My fear will support me by:**
+**My fear will support me by:** *(what you need from it)*
 (Examples: Sending warnings instead of panic, allowing small experiments, trusting my judgment)
 ____________________
 
@@ -100,6 +100,8 @@ ____________________
 ## Value-Based Motivation Connection (2 minutes)
 
 **Purpose:** Connect feared tasks to meaningful values
+
+**What is "Value-Based Motivation"?** This means linking your actions to what matters most to you in life (your core values) rather than relying on willpower or fear. When you connect a scary task to something you deeply care about, it becomes easier to move through the fear.
 
 **Choose a current avoided task:** ____________________
 

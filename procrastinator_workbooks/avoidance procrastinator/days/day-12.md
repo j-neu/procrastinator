@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Reframing Your Relationship with Failure (4 minutes)
 
-Fear of failure is often at the heart of avoidance procrastination. But what if failure wasn't a threat to avoid, but information to gather?
+**What is "Failure Normalization"?** This means changing your relationship with failure from seeing it as a catastrophic threat to understanding it as normal, useful information. Fear of failure is often at the heart of avoidance procrastination. When failure becomes acceptable (not preferred, but survivable), avoidance loses its power.
 
 ### Current Failure Mindset Assessment
 
@@ -50,6 +50,7 @@ Circle: Terrified / Anxious / Ashamed / Angry / Sad / Defeated / Curious / Neutr
 **Research/recall examples of successful people who experienced significant setbacks:**
 
 *Choose someone you admire (can be famous, personal connection, historical figure):*
+*(Examples: entrepreneurs who failed businesses first, actors rejected hundreds of times, athletes who lost before winning, inventors whose early attempts failed)*
 
 **Person 1:** ____________________
 **Their major failure/setback:** ____________________
@@ -94,6 +95,8 @@ Circle: Terrified / Anxious / Ashamed / Angry / Sad / Defeated / Curious / Neutr
 ## Feedback Processing Practice (3 minutes)
 
 **Purpose:** Reduce fear of criticism by changing your relationship to feedback
+
+**What is "Feedback Processing"?** This is the skill of separating useful information from emotional delivery, helping you learn from criticism without being devastated by it. When you can process feedback effectively, you fear it less and avoid situations less often.
 
 **Think of recent feedback/criticism you received (or feared receiving):**
 

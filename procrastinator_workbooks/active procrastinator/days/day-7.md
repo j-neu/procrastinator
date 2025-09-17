@@ -91,7 +91,7 @@ Time pressure + ____________________ = optimal decisions
 □ Relationship/interpersonal conflicts
 □ Career-changing moves
 □ Health-related choices
-□ Commitments affecting others
+□ Personal integrity commitments
 □ When I'm angry or upset
 □ Other: ____________________
 

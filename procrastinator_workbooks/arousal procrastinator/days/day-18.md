@@ -1,26 +1,29 @@
-# Day 18: Using Your Energy Style for Bigger Personal Goals
+# Day 18: Advanced Pressure Calibration for Complex Goals
 
-**Today's Focus:** Apply your personal productivity skills to significant challenges and longer-term goals
+**Today's Focus:** Fine-tune pressure levels for multi-faceted and long-term objectives
 **Time Commitment:** 15 minutes
-**Core Exercise:** Big Goal Energy Strategy Design
+**Core Exercise:** Complex Goal Pressure Architecture
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What personal task have I been putting off?
-- When do I feel most motivated and energized?
-- What makes boring tasks feel more interesting to me?
+**Daily Questions:** *(These questions help you understand your stimulation and energy patterns. As an arousal procrastinator, you likely work best with the right amount of pressure and excitement.)*
 
-*Habit building check:*
-**How is building your personal productivity habit going? Any adjustments needed?** ____________________
+- **What task have I been avoiding because it feels boring or unstimulating?**
+- **When do I feel most energized and focused?**
+- **What makes routine tasks feel more stimulating and engaging?**
+
+*Stimulation maintenance check:*
+**How is maintaining your stimulation systems over time working?** ____________________
 
 ---
 
-## Main Exercise: Personal Goal Energy Strategy (10 minutes)
+## Main Exercise: Complex Goal Pressure Systems (10 minutes)
 
-**Purpose:** Use your energy and motivation skills to tackle bigger personal goals and challenges
+**Purpose:** Design sophisticated pressure and stimulation strategies for challenging, multi-step goals
+
+**What is "Advanced Pressure Calibration"?** This means creating layered, adaptive pressure systems that can sustain motivation across the different phases and challenges of complex, long-term goals.
 
 ### Step 1: Big Personal Goal Analysis (3 minutes)
 

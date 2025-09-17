@@ -98,9 +98,9 @@ Ferrari's Trinity Model (1992) identified decisional procrastination as distinct
 **Purpose:** Focus on execution rather than finding perfect choices
 **Instructions:** Choose "good enough" options quickly and invest saved time in excellent implementation. Track outcomes to build confidence in this approach.
 
-### 16. Stakeholder Impact Assessment
-**Purpose:** Make decisions considering effects on others without paralysis
-**Instructions:** For decisions affecting others, identify key stakeholders, assess impact levels, and gather input efficiently without endless consultation or consensus-seeking.
+### 16. Life Impact Assessment
+**Purpose:** Make decisions considering effects on different areas of your life without paralysis
+**Instructions:** For decisions affecting other areas of your life, identify key impacts, assess priority levels, and gather necessary information efficiently without endless analysis or second-guessing.
 
 ### 17. Opportunity Cost Awareness
 **Purpose:** Recognize the cost of delayed decisions
@@ -240,4 +240,4 @@ You've successfully completed this program when you can:
 - Accept uncertainty and move forward with "good enough" information
 - Trust your judgment and values-based decision-making process
 - Distinguish between decisions worth optimizing and those worth satisficing
-- Help others make decisions without falling into your own indecision patterns
+- Make decisions confidently without falling into your own indecision patterns

@@ -40,7 +40,7 @@ What you learned: ____________________
 
 **What could go wrong with your strategic delay approach?**
 
-**What is a "vulnerability"?** A vulnerability is any factor that could disrupt your normal ability to perform well under pressure. Think of these as potential weak points in your system.
+**What is a "vulnerability"?** A vulnerability is any factor that could disrupt your normal ability to perform well under pressure. Think of these as potential weak points in your strategic delay system. For example, if you usually work best under deadline pressure but tend to get sick when stressed, illness is a vulnerability that could derail your approach when you need it most.
 
 **Personal vulnerabilities:**
 □ Health/energy unpredictability
@@ -87,7 +87,7 @@ What you learned: ____________________
 
 **Design a system for when you need to override your natural delay:**
 
-**What is a "quick-start protocol"?** This is your step-by-step plan for when you need to begin work immediately, even though it doesn't feel like the right time. Think of it as your emergency procedure.
+**What is a "quick-start protocol"?** This is your step-by-step plan for when you need to begin work immediately, even though it doesn't feel like the right time. Think of it as your emergency procedure - like a fire drill for your work routine. For example: "Step 1: Set a 25-minute timer, Step 2: Clear my desk completely, Step 3: Open only the documents I need, Step 4: Start with the easiest part to build momentum."
 
 **Emergency Start Procedure:**
 1. ____________________

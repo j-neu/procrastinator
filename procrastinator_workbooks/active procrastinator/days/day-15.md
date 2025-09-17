@@ -31,7 +31,7 @@ Active procrastinators need sustainable motivation systems that work across diff
 □ Results and achievement
 □ Recognition and approval
 □ Personal growth
-□ Helping others
+□ Personal growth projects
 □ Other: ____________________
 
 **My motivation tends to drop when:**
@@ -95,10 +95,10 @@ ____________________
 - How to add challenge: ____________________
 - How to maintain interest: ____________________
 
-**Social Motivation Systems:**
-- Accountability partners: ____________________
-- Progress sharing: ____________________
-- Collaborative elements: ____________________
+**Social Support Systems:**
+- Accountability check-ins: ____________________
+- Progress sharing methods: ____________________
+- Support network activation: ____________________
 
 ### Step 3: Motivation Recovery Protocols (3 minutes)
 

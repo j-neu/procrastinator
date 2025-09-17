@@ -39,7 +39,7 @@ Pick ONE specific task you've been avoiding (not the biggest, scariest one - sta
 ____________________
 ____________________
 
-**How confident am I this will happen? (1-10):** ____
+**How confident am I this will happen? (1-10):** ____ *(1=very unlikely, 5=50/50 chance, 10=absolutely certain)*
 
 **What's the worst realistic outcome?**
 ____________________
@@ -97,7 +97,7 @@ ____________________
 **Purpose:** Gradually expand what feels safe
 
 **One small way I'll stretch my comfort zone today:**
-(Examples: Make that phone call, ask a question, speak up in a meeting, try something new)
+*(Examples: Make that phone call, ask a question, speak up in a meeting, try something new, send that email, apply for something, give honest feedback)*
 
 ____________________
 

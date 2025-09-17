@@ -172,7 +172,7 @@ This transformation shows that I am ____________________."
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll work on creating organizational leadership by helping others and sharing your knowledge.
+Tomorrow we'll work on strengthening your productive identity through self-recognition and personal mastery.
 
 **Identity Power Thought:**
 *"I am not someone trying to be organized - I am an organized person who continues to grow and improve. My actions prove my identity every day."*

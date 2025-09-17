@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## 20-Day Progress Assessment (5 minutes)
 
-You've completed nearly three weeks of consistent fear-facing work. Take a moment to recognize your growth.
+**What is a "Maintenance Plan"?** This is your strategy for continuing growth beyond this workbook. You've completed nearly three weeks of consistent fear-facing work. Take a moment to recognize your growth and create a sustainable plan for continued progress.
 
 ### Transformation Inventory
 
@@ -55,21 +55,21 @@ ____________________
 
 **From the past 20 days, identify what you MUST keep doing:**
 
-**Daily non-negotiables:**
+**Daily non-negotiables:** *(practices you'll do every day no matter what)*
 □ Morning check-in questions
 □ 5-minute fear-facing timer
 □ Self-compassion practice
 □ Courage recognition
 □ Other: ____________________
 
-**Weekly essentials:**
+**Weekly essentials:** *(practices you'll do consistently each week)*
 □ Fear ladder progression
 □ Thought challenging practice
 □ Evidence collection updates
 □ Celebration of progress
 □ Other: ____________________
 
-**Monthly reviews:**
+**Monthly reviews:** *(deeper assessments for ongoing growth)*
 □ Overall pattern assessment
 □ Goal adjustment
 □ Support system check
@@ -111,6 +111,8 @@ ____________________
 ## Resilience Building for Setbacks (2 minutes)
 
 **Purpose:** Prepare for inevitable temporary returns to avoidance
+
+**What is "Setback Recovery"?** This acknowledges that progress isn't linear - you'll have days or periods where old patterns return. Having a planned response reduces shame and gets you back on track faster than perfectionist thinking that treats any slip as total failure.
 
 **Complete this setback recovery plan:**
 

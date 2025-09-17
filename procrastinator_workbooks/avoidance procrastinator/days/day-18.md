@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -20,25 +20,25 @@
 
 ## Identifying Your Success Stories (4 minutes)
 
-You've faced many challenges successfully - even if they don't feel "big enough" to count. These experiences contain valuable data about your capabilities.
+**What is "Success Analysis"?** This is the practice of studying your past successes to identify patterns, strategies, and capabilities you can apply to future challenges. You've faced many challenges successfully - even if they don't feel "big enough" to count. These experiences contain valuable data about your capabilities that can boost confidence and provide practical guidance.
 
 ### Success Inventory
 
 **Over the past year, list challenges you've faced (even imperfectly):**
 
-*Work/career challenges:*
+*Work/career challenges:* *(projects completed, conflicts handled, skills learned)*
 1. ____________________
 2. ____________________
 
-*Personal/relationship challenges:*
+*Personal/relationship challenges:* *(difficult conversations, boundary setting, problem solving)*
 1. ____________________
 2. ____________________
 
-*Learning/growth challenges:*
+*Learning/growth challenges:* *(new skills, changed habits, overcome fears)*
 1. ____________________
 2. ____________________
 
-*Recent avoidance victories (from this workbook):*
+*Recent avoidance victories (from this workbook):* *(tasks started, fears faced, patterns changed)*
 1. ____________________
 2. ____________________
 
@@ -54,10 +54,10 @@ ____________________
 **Your chosen success:** ____________________
 
 **What made this challenging initially?**
-- Fear involved: ____________________
-- Uncertainty: ____________________
-- Skills needed: ____________________
-- Emotional difficulty: ____________________
+- Fear involved: ____________________ *(what you were afraid might happen)*
+- Uncertainty: ____________________ *(what you didn't know or weren't sure about)*
+- Skills needed: ____________________ *(abilities you had to learn or use)*
+- Emotional difficulty: ____________________ *(what it felt like emotionally)*
 
 **How you felt before starting:**
 ____________________
@@ -127,6 +127,8 @@ ____________________
 ## Success Template Creation (1 minute)
 
 **Based on your analysis, create a template for future challenges:**
+
+**What is a "Success Template"?** This is a personalized formula based on what has actually worked for you in the past. It gives you a concrete plan to follow when facing new challenges, reducing uncertainty and increasing confidence.
 
 **When facing a new fear, I will:**
 1. ______ (preparation)

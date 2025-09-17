@@ -1,20 +1,21 @@
-# Day 7: Helpful Waiting vs. Avoiding Tasks
+# Day 7: Strategic Timing vs. Avoidance Patterns
 
-**Today's Focus:** Learn when waiting helps you vs. when it creates problems
-**Time Commitment:** 15 minutes  
-**Core Exercise:** Personal Task Timing Awareness
+**Today's Focus:** Distinguish between strategic delay and unproductive avoidance
+**Time Commitment:** 15 minutes
+**Core Exercise:** Strategic vs. Avoidance Decision Making
 
 ---
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
-- What personal task have I been putting off?
-- When do I feel most motivated and energized?
-- What makes boring tasks feel more interesting to me?
+**Daily Questions:** *(These questions help you understand your stimulation and energy patterns. As an arousal procrastinator, you likely work best with the right amount of pressure and excitement.)*
+
+- **What task have I been avoiding because it feels boring or unstimulating?**
+- **When do I feel most energized and focused?**
+- **What makes routine tasks feel more stimulating and engaging?**
 
 *Week 1 reflection:*
-**What energy strategy from this week worked best for you?** ____________________
+**What stimulation or pressure technique from this week worked best for you?** ____________________
 
 ---
 

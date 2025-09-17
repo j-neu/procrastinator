@@ -67,18 +67,20 @@ ____________________
 
 **Purpose:** Create a systematic approach to facing fears
 
+**What is a "Fear Exposure Ladder"?** This is a therapeutic technique where you list feared situations from least to most anxiety-provoking, then gradually work your way up. By starting with easier challenges, you build confidence and prove to yourself that you can handle discomfort.
+
 ### Step 1: List Your Avoided Tasks (3 minutes)
 Write 5-8 tasks you avoid, from easiest to hardest:
 
-**Anxiety Level 1-3 (Mild):**
+**Anxiety Level 1-3 (Mild):** *(slightly uncomfortable but manageable)*
 1. ____________________
 2. ____________________
 
-**Anxiety Level 4-6 (Moderate):**
+**Anxiety Level 4-6 (Moderate):** *(noticeable anxiety but doable with effort)*
 3. ____________________
 4. ____________________
 
-**Anxiety Level 7-10 (High):**
+**Anxiety Level 7-10 (High):** *(significant anxiety, feels scary or overwhelming)*
 5. ____________________
 6. ____________________
 
@@ -99,12 +101,12 @@ Write 5-8 tasks you avoid, from easiest to hardest:
 
 ## Accountability Setup (1 minute)
 
-**Who can I share my progress with?**
-Name: ____________________
+**How can I track my own progress?**
+Method: ____________________
 
-**When I'll check in with them:** ____________________
+**When I'll check in with myself:** ____________________
 
-**What I'll share:** ____________________
+**What I'll track:** ____________________
 
 ---
 

@@ -1,149 +1,157 @@
 # Day 11: From Decisions to Action
 
-**Today's Focus:** Bridge the gap between personal choosing and implementing
+**Today's Focus:** Bridge the gap between choosing and implementing
 **Time Commitment:** 15 minutes
-**Core Exercise:** Personal Implementation Intention Setting
+**Core Exercise:** Implementation Intention Setting
 
 ---
 
 ## Morning Check-in (1 minute)
 
-**Daily Questions:**
-- What personal productivity decision am I avoiding today?
-- What is one small personal choice I can make confidently right now?
+**Daily Questions:** *(These questions help you connect decision-making to action-taking for better follow-through. Focus on decisions you can both make AND implement.)*
+
+- **What decision am I avoiding today?**
+  *(Think of a choice you need to make and then implement. Examples: choosing and starting a new routine, selecting and setting up an organization system, deciding on a project and taking first steps.)*
+
+- **What is one small choice I can make confidently right now?**
+  *(Pick something you can both decide and act on today. Examples: choosing what to work on first and starting immediately, picking a lunch option and preparing it, deciding when to take a break and setting a timer.)*
 
 *Confidence building check:*
-**Did you practice any quick personal decisions this weekend?** ____________________
+**Did you practice any quick decisions this weekend?** ____________________
 
 ---
 
-## The Personal Decision-Action Gap (2 minutes)
+## The Decision-Action Gap (2 minutes)
 
-Making a personal decision is only half the battle. You can finally choose personal approaches but then struggle with implementation, leading to personal decisions that sit unused and confidence that erodes over time.
+**Implementation Intentions:** Specific "if-then" plans that bridge the gap between deciding what to do and actually doing it. For example: "If it's 9 AM, then I will start my chosen morning routine."
 
-**Your personal implementation patterns:**
-□ I make personal decisions but delay acting on them
-□ I second-guess during personal implementation
-□ I need perfect personal conditions to start
-□ I get overwhelmed by all the personal steps required
-□ I lose motivation between personal deciding and doing
+Making a decision is only half the battle. You can finally choose approaches but then struggle with implementation, leading to decisions that sit unused and confidence that erodes over time.
+
+**Your implementation patterns:**
+□ I make decisions but delay acting on them
+□ I second-guess during implementation
+□ I need perfect conditions to start
+□ I get overwhelmed by all the steps required
+□ I lose motivation between deciding and doing
 □ Other: ____________________
 
-**Recent personal decision you made but haven't implemented:**
+**Recent decision you made but haven't implemented:**
 ____________________
 
-**What's preventing personal implementation?**
+**What's preventing implementation?**
 ____________________
 
-**How long between your personal decision and taking first action?** ______ days
+**How long between your decision and taking first action?** ______ days
 
 ---
 
-## Main Exercise: Personal Decision Implementation System (10 minutes)
+## Main Exercise: Decision Implementation System (10 minutes)
 
-### Step 1: Personal Implementation Intentions (3 minutes)
+### Step 1: Implementation Intentions (3 minutes)
 
-Research shows that "implementation intentions" dramatically increase personal follow-through. Format: "When X happens, I will do Y."
+Research shows that "implementation intentions" dramatically increase follow-through. Format: "When X happens, I will do Y."
 
-**Your pending personal decision:** ____________________
+**Your pending decision:** ____________________
 
-**Break personal implementation into specific if-then statements:**
+**Break implementation into specific if-then statements:**
 
-**When** ____________________[personal trigger/time], **I will** ____________________[specific personal action].
+**When** ____________________[trigger/time], **I will** ____________________[specific action].
 
-**When** ____________________[personal obstacle occurs], **I will** ____________________[personal backup plan].
+**When** ____________________[obstacle occurs], **I will** ____________________[backup plan].
 
-**When** ____________________[I feel personal resistance], **I will** ____________________[personal motivation strategy].
+**When** ____________________[I feel resistance], **I will** ____________________[motivation strategy].
 
-**Personal Example:**
-- When it's 9 AM tomorrow, I will start the personal routine I decided to implement
-- When I feel resistance about the change, I will remind myself why this personal decision was right
+**Example:**
+- When it's 9 AM tomorrow, I will start the routine I decided to implement
+- When I feel resistance about the change, I will remind myself why this decision was right
 - When I want to delay, I will do just the first 5 minutes
 
-**Your personal implementation intentions:**
+**Your implementation intentions:**
 1. **When** ____________________, **I will** ____________________
 2. **When** ____________________, **I will** ____________________
 3. **When** ____________________, **I will** ____________________
 
-### Step 2: The Personal First Hour Plan (2 minutes)
+### Step 2: The First Hour Plan (2 minutes)
 
-**For your pending personal decision implementation:**
+**The First Hour:** Breaking implementation into a manageable first hour makes any decision feel less overwhelming and creates momentum for continued action.
 
-**First personal action (5 minutes):** ____________________
-**Second personal action (15 minutes):** ____________________
-**Third personal action (remaining 40 minutes):** ____________________
+**For your pending decision implementation:**
 
-**When will you dedicate this first personal hour?**
+**First action (5 minutes):** ____________________
+**Second action (15 minutes):** ____________________
+**Third action (remaining 40 minutes):** ____________________
+
+**When will you dedicate this first hour?**
 **Date:** ____________________
 **Time:** ____________________
 **Location:** ____________________
 
-**What will you do to prepare for this personal hour?**
+**What will you do to prepare for this hour?**
 ____________________
 
-### Step 3: Personal Implementation Obstacle Planning (2 minutes)
+### Step 3: Implementation Obstacle Planning (2 minutes)
 
-**Likely personal obstacles to implementation:**
+**Likely obstacles to implementation:**
 1. ____________________
 2. ____________________
 3. ____________________
 
-**For each personal obstacle, create a plan:**
+**For each obstacle, create a plan:**
 
-**Personal Obstacle 1:** ____________________
+**Obstacle 1:** ____________________
 **If this happens, I will:** ____________________
 
-**Personal Obstacle 2:** ____________________
+**Obstacle 2:** ____________________
 **If this happens, I will:** ____________________
 
-**Personal Obstacle 3:** ____________________
+**Obstacle 3:** ____________________
 **If this happens, I will:** ____________________
 
-### Step 4: Personal Implementation Accountability (3 minutes)
+### Step 4: Implementation Accountability (3 minutes)
 
-**Choose your personal accountability method:**
-□ Tell someone about your personal implementation plan
-□ Schedule personal check-ins with yourself
-□ Create visible personal reminders
-□ Set up personal deadlines
-□ Track personal progress daily
+**Choose your accountability method:**
+□ Tell someone about your implementation plan
+□ Schedule check-ins with yourself
+□ Create visible reminders
+□ Set up deadlines
+□ Track progress daily
 □ Other: ____________________
 
-**Your specific personal accountability plan:**
+**Your specific accountability plan:**
 ____________________
 
-**Person/method you'll use for personal accountability:** ____________________
-**When you'll report personal progress:** ____________________
+**Person/method you'll use for accountability:** ____________________
+**When you'll report progress:** ______ *(specific day/time)*
 
 ---
 
-## Quick Personal Win Implementation (1 minute)
+## Quick Win Implementation (1 minute)
 
-**Do one 5-minute personal implementation action right now:**
+**Do one 5-minute implementation action right now:**
 
-**Set a timer for 5 minutes and take the smallest step toward implementing your personal decision.**
+**Set a timer for 5 minutes and take the smallest step toward implementing your decision.**
 
-**What you personally accomplished:** ____________________
+**What you accomplished:** ____________________
 **How it felt:** ____________________
-**What you'll do next personally:** ____________________
+**What you'll do next:** ____________________
 
 ---
 
 ## Evening Reflection (1 minute)
 
-**How does having a personal implementation plan change your relationship to your decision?**
+**How does having an implementation plan change your relationship to your decision?**
 ____________________
 
-**What's the difference between personal deciding and committing to personal implementation?**
+**What's the difference between deciding and committing to implementation?**
 ____________________
 
-**What personal implementation habit do you want to build?**
+**What implementation habit do you want to build?**
 ____________________
 
 ---
 
 ## Tomorrow's Preparation
-Tomorrow we'll work on personal decision-making systems that prevent paralysis before it starts.
+Tomorrow we'll work on decision-making systems that prevent paralysis before it starts.
 
-**Personal Implementation Thought:**
-*"Personal decisions without implementation are just wishes. I commit to making my personal choices real through action."*
+**Implementation Thought:**
+*"Decisions without implementation are just wishes. I commit to making my choices real through action."*

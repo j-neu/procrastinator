@@ -18,7 +18,7 @@ By the end of this workbook, you will have:
 
 ## Why Generic Productivity Advice Falls Short
 
-Most productivity systems assume you already have basic organizational habits in place, or they offer complex systems designed for managing teams and projects. As a passive procrastinator, you need something different: **simple systems** that acknowledge your tendency to feel overwhelmed and focus on individual productivity rather than external complexities.
+Most productivity systems assume you already have basic organizational habits in place, or they offer complex systems designed for advanced users. As a passive procrastinator, you need something different: **simple systems** that acknowledge your tendency to feel overwhelmed and focus on individual productivity rather than external complexities.
 
 This workbook is different. Based on research from habit formation science and productivity psychology, it addresses the **how** of getting organized in a way that sticks. You'll build simple habits gradually, focusing on reducing overwhelm and creating sustainable routines that prevent procrastination before it starts.
 
@@ -42,10 +42,10 @@ This workbook is different. Based on research from habit formation science and p
 - Decision-making frameworks that speed choices
 - Goal-setting that enhances rather than overwhelms
 
-**Week 4+ (Days 22-31): Mastery & Leadership**
+**Week 4+ (Days 22-31): Advanced Personal Mastery**
 - Long-term vision and strategic planning
 - Anti-fragile systems that improve under pressure
-- Leadership skills to help others transform
+- Advanced mastery skills for continued personal growth
 - Sustainable practices for lifelong success
 
 ## Your Transformation Promise

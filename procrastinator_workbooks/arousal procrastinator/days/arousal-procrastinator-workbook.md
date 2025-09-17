@@ -80,7 +80,7 @@ Research by Ferrari (1992) identified arousal procrastination as one of three co
 
 ### 11. Excitement Without Crisis
 **Purpose:** Find stimulating elements in work that don't require last-minute pressure
-**Instructions:** Experiment with competition (with others or yourself), creative challenges, learning new skills during projects, or collaborative elements that provide natural stimulation.
+**Instructions:** Experiment with competition (with yourself), creative challenges, learning new skills during projects, or social elements that provide natural stimulation.
 
 ### 12. Advanced Time Estimation
 **Purpose:** Develop accurate time prediction skills to prevent accidental crises
@@ -90,9 +90,9 @@ Research by Ferrari (1992) identified arousal procrastination as one of three co
 **Purpose:** Maintain your high-energy approach while protecting well-being
 **Instructions:** Design work sprints with planned recovery periods. Practice intense focus sessions followed by restorative breaks, mimicking healthy athletic training cycles.
 
-### 14. Stakeholder Communication
-**Purpose:** Manage others' stress while maintaining your preferred work style
-**Instructions:** Develop communication strategies that keep colleagues informed of your process without creating anxiety. Create systems that protect your style while respecting others' needs.
+### 14. Personal Communication Planning
+**Purpose:** Manage personal commitments while maintaining your preferred work style
+**Instructions:** Develop communication strategies that keep you accountable to deadlines without creating anxiety. Create systems that protect your style while meeting your responsibilities.
 
 ### 15. Crisis Prevention Protocols
 **Purpose:** Maintain stimulation while avoiding genuine emergencies
@@ -110,7 +110,7 @@ Research by Ferrari (1992) identified arousal procrastination as one of three co
 **Purpose:** Structure your environment and schedule to maintain engagement
 **Instructions:** Design physical and digital environments that naturally promote focus and energy. Use color, movement, music, and variety to maintain stimulation levels.
 
-### 19. Collaborative Accountability
+### 19. Social Accountability
 **Purpose:** Use social elements to create healthy pressure
 **Instructions:** Establish work partnerships where others depend on your timely delivery, creating external motivation that doesn't rely on self-imposed crisis.
 
@@ -138,7 +138,7 @@ Research by Ferrari (1992) identified arousal procrastination as one of three co
 
 ### 25. Stimulation Portfolio
 **Purpose:** Diversify your sources of engagement and excitement
-**Instructions:** Build a variety of stimulation sources beyond time pressure: learning challenges, creative experiments, social collaboration, competitive elements, and skill development.
+**Instructions:** Build a variety of stimulation sources beyond time pressure: learning challenges, creative experiments, social interaction, competitive elements, and skill development.
 
 ### 26. Advanced Planning Integration
 **Purpose:** Make planning exciting rather than restrictive
@@ -150,7 +150,7 @@ Research by Ferrari (1992) identified arousal procrastination as one of three co
 
 ### 28. Crisis Recovery Protocols
 **Purpose:** Bounce back quickly when you do slip into crisis mode
-**Instructions:** Develop rapid recovery strategies for when genuine crises occur, including stress management, stakeholder communication, and quality protection measures.
+**Instructions:** Develop rapid recovery strategies for when genuine crises occur, including stress management, personal communication planning, and quality protection measures.
 
 ### 29. Legacy Thinking
 **Purpose:** Connect immediate tasks to long-term reputation and impact
@@ -170,9 +170,9 @@ Research by Ferrari (1992) identified arousal procrastination as one of three co
 **Purpose:** Optimize your energy allocation across all life areas
 **Instructions:** Develop sophisticated awareness of energy sources and drains, creating systems that maximize your natural high-energy periods while protecting recovery time.
 
-### 33. Teaching and Mentoring
-**Purpose:** Use your high-energy style to benefit others
-**Instructions:** Share your intensity and drive by teaching or mentoring others, finding fulfillment in helping others achieve high performance in sustainable ways.
+### 33. Personal Excellence Mastery
+**Purpose:** Use your high-energy style to achieve personal excellence
+**Instructions:** Channel your intensity and drive into pursuing personal excellence across all areas of your life, finding fulfillment in continuously improving your own performance in sustainable ways.
 
 ### 34. Creative Challenge Integration
 **Purpose:** Build creativity and innovation into routine work
@@ -186,17 +186,17 @@ Research by Ferrari (1992) identified arousal procrastination as one of three co
 **Purpose:** Apply your intensity to extended timelines without burning out
 **Instructions:** Develop strategies for maintaining engagement and energy across long-term projects, using your natural intensity in sustainable bursts rather than constant crisis.
 
-### 37. Relationship Integration
-**Purpose:** Honor your work style while supporting others
-**Instructions:** Develop skills for collaborating with different personality types, using your energy to lift others while respecting their need for different work rhythms.
+### 37. Personal Integration
+**Purpose:** Honor your work style while maintaining personal balance
+**Instructions:** Develop skills for managing your high-energy approach across all life areas, using your intensity to enhance your own life while respecting your need for sustainable rhythms.
 
 ### 38. Expertise Development
 **Purpose:** Channel your intensity toward deep skill building
 **Instructions:** Choose areas for developing genuine expertise, using your ability to focus intensely to accelerate skill acquisition and professional growth.
 
-### 39. Leadership Adaptation
-**Purpose:** Use your high-energy style in leadership roles
-**Instructions:** Practice leading others in ways that honor your intensity while creating psychological safety and sustainable performance for team members.
+### 39. Self-Leadership Mastery
+**Purpose:** Use your high-energy style in leading your own life
+**Instructions:** Practice leading yourself in ways that honor your intensity while creating personal sustainability and consistent high performance in all areas of your life.
 
 ### 40. Lifestyle Integration
 **Purpose:** Extend your optimal performance patterns to all life areas
@@ -230,14 +230,14 @@ Record which types of healthy pressure and engagement strategies work best for d
 Distinguish between energizing pressure and harmful stress, optimizing for positive challenge while protecting well-being
 
 ### Relationship Impact Assessment
-Track how your evolving work style affects collaboration and others' stress levels
+Track how your evolving work style affects your productivity and personal stress levels
 
 ## Graduation Criteria
 
 You've successfully completed this program when you can:
 - Create stimulating work experiences without manufactured crisis
 - Maintain high performance while protecting and enhancing work quality  
-- Collaborate effectively without creating stress for others
+- Work effectively without creating unnecessary stress for yourself
 - Use your natural intensity as an asset rather than a liability
 - Sustain high energy over long periods without burning out
 - Find genuine satisfaction in both the process and outcomes of your work

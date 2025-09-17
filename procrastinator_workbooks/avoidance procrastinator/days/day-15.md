@@ -8,7 +8,7 @@
 
 ## Morning Check-in (2 minutes)
 
-**Daily Questions:**
+**Daily Questions:** *(These questions help you understand your avoidance patterns. Don't worry if the fears feel overwhelming at first - naming them is the first step to reducing their power.)*
 - What am I avoiding today and what fear is driving it?
 - What is one small step I can take toward a feared task?
 - How can I show yourself compassion around this challenge?
@@ -20,7 +20,7 @@
 
 ## Identifying Your Perfectionism Patterns (4 minutes)
 
-Perfectionism often masquerades as "high standards," but it actually prevents progress by making tasks feel impossible to start or complete.
+**What is "Perfectionism" vs. "High Standards"?** Perfectionism often masquerades as "high standards," but they're different. High standards motivate progress; perfectionism paralyzes it by making tasks feel impossible to start or complete. Perfectionism is really a form of fear - fear that anything less than perfect will be unacceptable or prove your inadequacy.
 
 ### Perfectionism Self-Assessment
 
@@ -56,10 +56,10 @@ ____________________
 **What "perfect" outcome are you imagining?**
 ____________________
 
-**What would "good enough" look like?**
+**What would "good enough" look like?** *(functional, acceptable, serves its purpose)*
 ____________________
 
-**What would "minimum viable" look like?**
+**What would "minimum viable" look like?** *(barely adequate but complete)*
 ____________________
 
 ### Step 2: Redefine Success (3 minutes)
@@ -73,7 +73,7 @@ ____________________
 - ____________________
 - ____________________
 
-**Rate how scary it feels to aim for "good enough" (1-10):** ____
+**Rate how scary it feels to aim for "good enough" (1-10):** ____ *(1=no fear, 5=moderate anxiety, 10=terrifying)*
 
 ### Step 3: Execute the Challenge (6 minutes)
 
