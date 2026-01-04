@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>FocusType - Procrastination Quiz</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&amp;family=Space+Grotesk:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "osmo-bg": "#0a0a0a",
+                        "osmo-surface": "#141414",
+                        "osmo-border": "#262626",
+                        "osmo-text": "#ededed",
+                        "osmo-muted": "#888888",
+                        "primary": "#ffffff",
+                        "accent": "#cccccc", 
+                    },
+                    fontFamily: {
+                        "sans": ["Inter", "sans-serif"],
+                        "display": ["Space Grotesk", "sans-serif"]
+                    },
+                    backgroundImage: {
+                        'grid-pattern': 'linear-gradient(to right, #262626 1px, transparent 1px), linear-gradient(to bottom, #262626 1px, transparent 1px)',
+                    },
+                    backgroundSize: {
+                        'grid': '40px 40px',
+                    }
+                },
+            },
+        }
+    </script>
+<style type="text/tailwindcss">
+        @layer utilities {
+            .text-balance {
+                text-wrap: balance;
+            }
+            .osmo-border-t {
+                @apply border-t border-osmo-border;
+            }
+            .osmo-border-b {
+                @apply border-b border-osmo-border;
+            }
+            .osmo-container {
+                @apply container mx-auto px-6 max-w-[1400px];
+            }
+        }
+    </style>
+</head>
+<body class="bg-osmo-bg text-osmo-text font-sans antialiased selection:bg-white selection:text-black">
+<div class="relative min-h-screen w-full flex flex-col">
+<header class="fixed top-0 z-50 w-full mix-blend-difference text-white">
+<div class="osmo-container flex items-center justify-between py-6">
+<a class="group flex items-center gap-3" href="#">
+<div class="size-3 bg-white rounded-full group-hover:scale-75 transition-transform duration-500"></div>
+<span class="font-display font-medium tracking-wide text-sm uppercase">FocusType</span>
+</a>
+<nav class="hidden md:flex items-center gap-12">
+<a class="text-xs font-medium uppercase tracking-widest text-neutral-400 hover:text-white transition-colors duration-300" href="#methodology">Methodology</a>
+<a class="text-xs font-medium uppercase tracking-widest text-neutral-400 hover:text-white transition-colors duration-300" href="#types">Archetypes</a>
+<a class="text-xs font-medium uppercase tracking-widest text-neutral-400 hover:text-white transition-colors duration-300" href="#workbooks">Workbooks</a>
+</nav>
+<button class="hidden md:flex items-center gap-2 group">
+<span class="text-xs font-medium uppercase tracking-widest group-hover:mr-2 transition-all duration-300">Start Assessment</span>
+<span class="material-symbols-outlined text-[16px] group-hover:translate-x-1 transition-transform">arrow_forward</span>
+</button>
+<button class="md:hidden text-white">
+<span class="material-symbols-outlined">menu</span>
+</button>
+</div>
+</header>
+<main class="flex-1 pt-32">
+<section class="relative min-h-[85vh] flex flex-col justify-center">
+<div class="absolute inset-0 z-0 opacity-20 pointer-events-none">
+<div class="absolute inset-0 bg-grid-pattern bg-grid [mask-image:linear-gradient(to_bottom,white,transparent)]"></div>
+</div>
+<div class="osmo-container relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-12 items-end pb-24">
+<div class="col-span-1 lg:col-span-8">
+<div class="inline-flex items-center gap-3 mb-8 opacity-0 animate-[fadeIn_0.8s_ease-out_forwards]">
+<span class="size-1.5 bg-green-500 rounded-full animate-pulse"></span>
+<span class="text-xs uppercase tracking-widest text-osmo-muted font-display">Behavioral Analysis</span>
+</div>
+<h1 class="text-6xl md:text-8xl lg:text-[7rem] font-display font-light leading-[0.9] tracking-tight mb-12 opacity-0 animate-[slideUp_0.8s_ease-out_0.2s_forwards]">
+                        Decode your <br/>
+<span class="italic font-normal text-white/50">procrastination.</span>
+</h1>
+<div class="flex flex-col md:flex-row gap-8 items-start opacity-0 animate-[fadeIn_0.8s_ease-out_0.6s_forwards]">
+<p class="text-lg md:text-xl text-osmo-muted max-w-md font-light leading-relaxed">
+                            It's not laziness. It's a pattern. Understanding your type is the first step to mastering your time.
+                        </p>
+<div class="flex gap-6 mt-4 md:mt-0">
+<button class="group relative px-8 py-4 bg-white text-black rounded-full overflow-hidden hover:scale-[1.02] transition-transform duration-300">
+<span class="relative z-10 text-sm font-medium uppercase tracking-wider flex items-center gap-2">
+                                    Analyze Pattern
+                                    <span class="material-symbols-outlined text-[18px]">north_east</span>
+</span>
+</button>
+<button class="group flex items-center gap-3 px-6 py-4 rounded-full border border-white/20 hover:border-white/50 transition-colors">
+<span class="material-symbols-outlined text-[20px]">play_circle</span>
+<span class="text-sm font-medium uppercase tracking-wider">How it works</span>
+</button>
+</div>
+</div>
+</div>
+<div class="col-span-1 lg:col-span-4 relative h-full flex items-end justify-end opacity-0 animate-[fadeIn_1s_ease-out_1s_forwards]">
+<div class="relative w-full aspect-square max-w-[400px]">
+<div class="absolute inset-0 border border-white/10 rounded-full animate-[spin_20s_linear_infinite]"></div>
+<div class="absolute inset-[15%] border border-white/5 rounded-full animate-[spin_15s_linear_infinite_reverse]"></div>
+<div class="absolute inset-0 flex items-center justify-center">
+<div class="w-[80%] h-[80%] rounded-full overflow-hidden relative grayscale hover:grayscale-0 transition-all duration-700">
+<div class="absolute inset-0 bg-cover bg-center scale-110 hover:scale-100 transition-transform duration-1000" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDQwNs-vEUiKu2uKhlAikI9slMzQDr-_nYR_77BfapODWW_2ITec5jBNqiIsFB4tPw6un2YGpR5M9gsjCHvxGjp3JJjELpQ91o2xf0YTxwiCZpJfLyY62ZWKpWdK6o23rz7cIip_O9vUUrUa2rP0sU7MLO7-qLzxzoE3fd_5xxa2Dg031rt_KKEOGis0XEDVBUvCy3PPAKieOZ06iSc2vtuM1fVFC2TLule83A6IZu5jYDyz_mi5oDKTmJriT__Y8mWcI-CjZXyBDjf');"></div>
+</div>
+</div>
+<div class="absolute top-0 right-0 bg-osmo-surface border border-osmo-border p-4 backdrop-blur-md max-w-[150px]">
+<div class="text-[10px] uppercase tracking-widest text-osmo-muted mb-1">Data Points</div>
+<div class="text-2xl font-display font-medium">10k+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="w-full border-t border-white/10"></div>
+<section class="py-32 bg-osmo-bg" id="types">
+<div class="osmo-container">
+<div class="flex flex-col md:flex-row justify-between items-end mb-24">
+<h2 class="text-4xl md:text-5xl font-display font-light">The Four <span class="text-osmo-muted italic">Archetypes</span></h2>
+<p class="text-osmo-muted text-sm max-w-xs mt-6 md:mt-0 leading-relaxed text-right md:text-left">
+                        We've identified four distinct behavioral patterns. Which one resonates with your workflow?
+                    </p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 border-t border-l border-white/10">
+<div class="group relative p-10 border-r border-b border-white/10 hover:bg-white/5 transition-colors duration-500 min-h-[400px] flex flex-col justify-between">
+<div>
+<div class="text-xs font-mono text-osmo-muted mb-8">01</div>
+<h3 class="text-2xl font-display font-medium mb-4">The Perfectionist</h3>
+<p class="text-sm text-osmo-muted leading-relaxed mb-8">
+                                Fear of failure paralyzes action. "If it can't be perfect, I won't start."
+                            </p>
+</div>
+<div class="flex justify-end opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+<span class="material-symbols-outlined text-3xl font-light">auto_awesome</span>
+</div>
+</div>
+<div class="group relative p-10 border-r border-b border-white/10 hover:bg-white/5 transition-colors duration-500 min-h-[400px] flex flex-col justify-between">
+<div>
+<div class="text-xs font-mono text-osmo-muted mb-8">02</div>
+<h3 class="text-2xl font-display font-medium mb-4">The Avoider</h3>
+<p class="text-sm text-osmo-muted leading-relaxed mb-8">
+                                Anxiety triggers delay. Subconscious avoidance of uncomfortable emotions.
+                            </p>
+</div>
+<div class="flex justify-end opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+<span class="material-symbols-outlined text-3xl font-light">shield</span>
+</div>
+</div>
+<div class="group relative p-10 border-r border-b border-white/10 hover:bg-white/5 transition-colors duration-500 min-h-[400px] flex flex-col justify-between">
+<div>
+<div class="text-xs font-mono text-osmo-muted mb-8">03</div>
+<h3 class="text-2xl font-display font-medium mb-4">The Dreamer</h3>
+<p class="text-sm text-osmo-muted leading-relaxed mb-8">
+                                High on ideas, low on execution. Struggles to break visions into steps.
+                            </p>
+</div>
+<div class="flex justify-end opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+<span class="material-symbols-outlined text-3xl font-light">cloud</span>
+</div>
+</div>
+<div class="group relative p-10 border-r border-b border-white/10 hover:bg-white/5 transition-colors duration-500 min-h-[400px] flex flex-col justify-between">
+<div>
+<div class="text-xs font-mono text-osmo-muted mb-8">04</div>
+<h3 class="text-2xl font-display font-medium mb-4">The Crisis-Maker</h3>
+<p class="text-sm text-osmo-muted leading-relaxed mb-8">
+                                Addicted to the adrenaline of the deadline. Burnout is a constant threat.
+                            </p>
+</div>
+<div class="flex justify-end opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+<span class="material-symbols-outlined text-3xl font-light">timer</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="py-32 bg-osmo-surface" id="methodology">
+<div class="osmo-container">
+<div class="grid lg:grid-cols-2 gap-24 items-center">
+<div>
+<span class="text-xs font-mono text-osmo-muted uppercase tracking-widest block mb-8">Methodology</span>
+<h2 class="text-5xl font-display font-light mb-12 leading-tight">
+                            Precision rooted in <br/>
+<span class="text-white/40">behavioral science.</span>
+</h2>
+<div class="space-y-16 pl-4 border-l border-white/10">
+<div class="group relative pl-8">
+<span class="absolute -left-[5px] top-2 size-2.5 bg-osmo-bg border border-white rounded-full group-hover:bg-white transition-colors duration-300"></span>
+<h3 class="text-xl font-display font-medium text-white mb-2">Scientific Assessment</h3>
+<p class="text-osmo-muted text-sm font-light leading-relaxed max-w-sm">20 questions designed by behavioral psychologists to identify your unique triggers.</p>
+</div>
+<div class="group relative pl-8">
+<span class="absolute -left-[5px] top-2 size-2.5 bg-osmo-bg border border-white rounded-full group-hover:bg-white transition-colors duration-300"></span>
+<h3 class="text-xl font-display font-medium text-white mb-2">Instant Profiling</h3>
+<p class="text-osmo-muted text-sm font-light leading-relaxed max-w-sm">Receive a detailed breakdown of your procrastination style, not just generic advice.</p>
+</div>
+<div class="group relative pl-8">
+<span class="absolute -left-[5px] top-2 size-2.5 bg-osmo-bg border border-white rounded-full group-hover:bg-white transition-colors duration-300"></span>
+<h3 class="text-xl font-display font-medium text-white mb-2">Actionable Workbook</h3>
+<p class="text-osmo-muted text-sm font-light leading-relaxed max-w-sm">Get your tailored PDF guide with exercises that directly counteract your specific blockers.</p>
+</div>
+</div>
+</div>
+<div class="relative order-first lg:order-last group">
+<div class="absolute -inset-4 bg-gradient-to-r from-white/5 to-transparent rounded-3xl blur-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-700"></div>
+<div class="relative overflow-hidden rounded-sm bg-[#1a1a1a] aspect-[4/3] flex items-center justify-center p-12">
+<div class="w-full h-full border border-white/10 flex flex-col p-6 bg-osmo-bg/50 backdrop-blur-sm relative z-10 transition-transform duration-700 group-hover:scale-[1.02]">
+<div class="flex justify-between items-center mb-12">
+<div class="size-2 bg-white/20 rounded-full"></div>
+<div class="font-mono text-[10px] text-osmo-muted">ANALYSIS_V1.0</div>
+</div>
+<div class="flex-1 flex items-center justify-center">
+<span class="material-symbols-outlined text-[80px] text-white/10 font-thin group-hover:text-white/20 transition-colors">analytics</span>
+</div>
+<div class="mt-auto pt-6 border-t border-white/5 flex justify-between items-end">
+<div class="h-16 w-4 bg-white/10 rounded-sm"></div>
+<div class="h-24 w-4 bg-white/20 rounded-sm"></div>
+<div class="h-12 w-4 bg-white/10 rounded-sm"></div>
+<div class="h-32 w-4 bg-white/80 rounded-sm shadow-[0_0_15px_rgba(255,255,255,0.3)]"></div>
+<div class="h-20 w-4 bg-white/10 rounded-sm"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="py-32 bg-osmo-bg relative overflow-hidden" id="workbooks">
+<div class="osmo-container relative z-10">
+<div class="flex flex-col lg:flex-row gap-20">
+<div class="lg:w-5/12 pt-12">
+<h2 class="text-5xl lg:text-7xl font-display font-light mb-12 leading-none">
+                            Tailored<br/>
+<span class="italic font-normal text-white/50">Solutions</span>
+</h2>
+<p class="text-osmo-muted text-lg font-light leading-relaxed mb-12">
+                            Generic advice fails. Our workbooks provide specific cognitive behavioral exercises tailored to your unique procrastination DNA.
+                        </p>
+<div class="grid grid-cols-2 gap-y-8 gap-x-4 mb-16">
+<div class="flex items-start gap-4">
+<span class="material-symbols-outlined text-white text-sm mt-1">check_circle</span>
+<span class="text-sm text-neutral-300">Planner Templates</span>
+</div>
+<div class="flex items-start gap-4">
+<span class="material-symbols-outlined text-white text-sm mt-1">check_circle</span>
+<span class="text-sm text-neutral-300">Trigger ID</span>
+</div>
+<div class="flex items-start gap-4">
+<span class="material-symbols-outlined text-white text-sm mt-1">check_circle</span>
+<span class="text-sm text-neutral-300">Cognitive Reframing</span>
+</div>
+<div class="flex items-start gap-4">
+<span class="material-symbols-outlined text-white text-sm mt-1">check_circle</span>
+<span class="text-sm text-neutral-300">Progress Dashboard</span>
+</div>
+</div>
+<button class="text-white border-b border-white/30 hover:border-white pb-1 transition-colors uppercase tracking-widest text-xs font-medium">
+                            Preview Workbook Content
+                        </button>
+</div>
+<div class="lg:w-7/12 relative">
+<div class="relative w-full aspect-[4/3] bg-osmo-surface p-12 lg:p-20 overflow-hidden group">
+<div class="absolute top-0 right-0 p-8">
+<span class="material-symbols-outlined text-white/10 text-6xl group-hover:rotate-12 transition-transform duration-700">menu_book</span>
+</div>
+<div class="w-full h-full relative z-10 shadow-2xl transition-transform duration-700 group-hover:-translate-y-4">
+<div class="absolute inset-0 bg-cover bg-center grayscale group-hover:grayscale-0 transition-all duration-700 ease-out" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuA9C6Lk0sgaYsS5DyD1L8tPT0bEjjnkbpRUCFSxA2hxoew3AwMCirC-yQWV56E0wiR7pVoTh9tPR-SXGkWhv1LowkdCT3ISLZUXaC_A5iy2cLR-cLEJfH6mGVoZEzWgJEcAaFVeSTAMEWdDoeNbPQ4WJ5II8o8d9gvoxEXJKG9TZ9Z9oWsFaYSkpvOieXAtEQGwzzOkPE-pn3WNHlpl1bvit1eT6gEeZqsgVkzJoN2gt1A3fWm1xkFYxze-BrXulmd5pNpH4ubDXkTq');"></div>
+<div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
+<div class="absolute bottom-8 left-8 text-white">
+<div class="text-[10px] font-mono mb-2 bg-white/20 backdrop-blur-md px-2 py-1 inline-block rounded">PDF / 50+ Pages</div>
+<div class="text-xl font-display">Personalized Action Plan</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="py-32 bg-osmo-surface border-t border-white/5">
+<div class="osmo-container">
+<div class="flex items-center gap-4 mb-16">
+<span class="h-px flex-1 bg-white/10"></span>
+<span class="text-xs font-mono uppercase text-osmo-muted">Success Stories</span>
+<span class="h-px flex-1 bg-white/10"></span>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+<div class="p-8 bg-osmo-bg border border-white/5 hover:border-white/20 transition-colors duration-300 group">
+<div class="flex gap-1 mb-8 opacity-30 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+</div>
+<p class="text-lg text-white font-light leading-relaxed mb-8">"I realized I wasn't lazy, I was a Perfectionist. The workbook exercises helped me lower the stakes."</p>
+<div class="flex items-center gap-4">
+<div class="size-8 rounded-full bg-cover bg-center grayscale" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDoAIDAkqQB_kOfXSKPumLth0v3bFHY7STW9hzZde9UpDyn5kfQHsDqO10AlSodgQuVHZvoSKQ5SplZbX2A3H9xu4gsazD-dusPOb9QV6SWgcXiH_wVjMHHgFlvD6pd5CoK6c0q6OsiMVMyIiXIxQ_vGelL6oZihndNawXtQJ_RbaxrKg-X9lcGNCfYFnXmfj65tCCfUaSFCFr90AzB-Ax3gEZbYfuGc1Mhf3AIy5LZjsI0OKc31qbdabYlCWg6Ne2iJ5uvrTqSApAC')"></div>
+<div>
+<div class="text-sm font-medium">Sarah J.</div>
+<div class="text-[10px] text-osmo-muted uppercase tracking-wider">Perfectionist</div>
+</div>
+</div>
+</div>
+<div class="p-8 bg-osmo-bg border border-white/5 hover:border-white/20 transition-colors duration-300 group relative overflow-hidden">
+<div class="absolute top-0 right-0 p-4 opacity-10">
+<span class="material-symbols-outlined text-4xl">format_quote</span>
+</div>
+<div class="flex gap-1 mb-8 opacity-30 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+</div>
+<p class="text-lg text-white font-light leading-relaxed mb-8">"The 'Breaking the Barrier' technique is a game changer. Finally found something that works."</p>
+<div class="flex items-center gap-4">
+<div class="size-8 rounded-full bg-cover bg-center grayscale" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuB22NIKqcJ0thufnXcn8LcuWuqEz9U3G1iQUDBqHBv2sb86aqO9ergVlhgrRuZHWdrdznntHaY4xQpN1t4nPr2r0ZpCQ03CG8aoZzSTALJOv1WCBcLVHf7jxj7_pxyeNHiquGmzDL2170Y8F906SMyQzfTjJaG8qJSDmx_OTc-lOtEmTouydrXKW0pb2TvV_YCzl6KhvBoBD1YQv1G6dkrQ1o1U5WztIJ7sHGg8M-dGH2tKdsQpTWD6daG1ILC0EeA0P4fOtm4xCte7')"></div>
+<div>
+<div class="text-sm font-medium">Mark T.</div>
+<div class="text-[10px] text-osmo-muted uppercase tracking-wider">Avoider</div>
+</div>
+</div>
+</div>
+<div class="p-8 bg-osmo-bg border border-white/5 hover:border-white/20 transition-colors duration-300 group">
+<div class="flex gap-1 mb-8 opacity-30 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star</span>
+<span class="material-symbols-outlined text-[16px] fill-current">star_half</span>
+</div>
+<p class="text-lg text-white font-light leading-relaxed mb-8">"Finally, advice that understands the Crisis-Maker mindset. I'm learning to create artificial urgency."</p>
+<div class="flex items-center gap-4">
+<div class="size-8 rounded-full bg-cover bg-center grayscale" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuCj6jYqyuXS98lBhDE_zXuyhHSfTB62xZK_REoVpVyAJy2OOAjKB2ItgiMKrqI3NJWEEOBKXY2c7Ij-WexE1h-2kfm-JzoNp2cV9BDDrx1Q_c_CefqaDuOmfs1ndj-rbdPtheGPe3TlcGWW8SXHklD302NgE25Tj30ifosJ0LO726GxFNIMw3oIiVeGWcB4SAE2jLDzoUGGXVFSiNO8w0gYPeR0RR0ySRsCyTg5LXDlnFH828f8oiaLPdwCYJDr08Wzfu6LmnjxKD_5')"></div>
+<div>
+<div class="text-sm font-medium">Elena R.</div>
+<div class="text-[10px] text-osmo-muted uppercase tracking-wider">Crisis-Maker</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="py-40 relative flex items-center justify-center overflow-hidden bg-osmo-bg">
+<div class="absolute inset-0 pointer-events-none">
+<div class="absolute inset-0 bg-grid-pattern bg-grid [mask-image:radial-gradient(ellipse_at_center,white_10%,transparent_70%)] opacity-30"></div>
+</div>
+<div class="relative z-10 text-center max-w-2xl px-6">
+<h2 class="text-5xl md:text-7xl font-display font-light text-white mb-8 tracking-tighter">Ready to <span class="italic text-white/50">begin?</span></h2>
+<p class="text-xl text-osmo-muted mb-12 font-light">Join thousands of others mastering their focus.</p>
+<button class="group relative inline-flex items-center justify-center overflow-hidden bg-white text-black px-12 py-5 rounded-full font-medium transition-all duration-300 hover:scale-105">
+<span class="mr-2 text-sm uppercase tracking-widest font-bold">Start Free Quiz</span>
+<span class="material-symbols-outlined transition-transform duration-300 group-hover:translate-x-1 text-sm">arrow_forward</span>
+</button>
+<div class="mt-8 flex justify-center gap-8 text-[10px] uppercase tracking-widest text-osmo-muted">
+<span>No credit card required</span>
+<span>5 minutes</span>
+</div>
+</div>
+</section>
+</main>
+<footer class="border-t border-white/10 bg-osmo-surface py-20">
+<div class="osmo-container flex flex-col md:flex-row justify-between items-start md:items-center gap-12">
+<div>
+<div class="flex items-center gap-3 mb-4">
+<div class="size-4 bg-white rounded-full"></div>
+<span class="font-display font-medium tracking-wide text-lg uppercase">FocusType</span>
+</div>
+<div class="text-xs text-osmo-muted">
+                    © 2023 FocusType Inc. All rights reserved.
+                </div>
+</div>
+<div class="flex gap-12 text-xs font-medium uppercase tracking-widest text-osmo-muted">
+<a class="hover:text-white transition-colors" href="#">Privacy</a>
+<a class="hover:text-white transition-colors" href="#">Terms</a>
+<a class="hover:text-white transition-colors" href="#">Support</a>
+<a class="hover:text-white transition-colors" href="#">Twitter</a>
+</div>
+</div>
+</footer>
+</div>
+
+</body></html>

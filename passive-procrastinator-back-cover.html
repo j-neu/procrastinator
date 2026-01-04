@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passive Procrastinator Workbook Back Cover</title>
+    <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Kalam', cursive;
+            background: #faf9f6;
+            padding: 0;
+            margin: 0;
+            overflow-x: hidden;
+        }
+
+        /* Back cover dimensions */
+        .back-cover {
+            width: 8.5in;
+            height: 11in;
+            margin: 0 auto;
+            background: linear-gradient(225deg, #f5f7f0 0%, #faf9f6 100%);
+            position: relative;
+            overflow: hidden;
+            border: 3px solid #9cae9c;
+            border-radius: 15px;
+            transform: rotate(0.5deg);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            padding: 40px;
+        }
+
+        /* Hand-drawn border decoration */
+        .back-cover::before {
+            content: '';
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            right: 20px;
+            bottom: 20px;
+            border: 2px dotted #d4a574;
+            border-radius: 10px;
+            transform: rotate(-0.3deg);
+        }
+
+        /* Main headline */
+        .headline {
+            font-size: 36px;
+            font-weight: 700;
+            color: #c77d5c;
+            line-height: 1.1;
+            margin-bottom: 30px;
+            transform: rotate(-0.8deg);
+            position: relative;
+            max-width: 500px;
+        }
+
+        .headline::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            width: 200px;
+            height: 3px;
+            background: #9cae9c;
+            transform: skew(-3deg);
+        }
+
+        /* Problem statement */
+        .problem-section {
+            background: #fdf8f0;
+            border: 2px solid #d4a574;
+            border-radius: 15px;
+            padding: 25px;
+            margin: 30px 0;
+            transform: rotate(0.5deg);
+            position: relative;
+        }
+
+        .problem-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #4a5568;
+            margin-bottom: 15px;
+            transform: rotate(-0.3deg);
+        }
+
+        .problem-text {
+            font-size: 16px;
+            color: #4a5568;
+            line-height: 1.4;
+            margin-bottom: 10px;
+        }
+
+        /* Solution section */
+        .solution-section {
+            margin: 40px 0;
+        }
+
+        .solution-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #c77d5c;
+            margin-bottom: 20px;
+            transform: rotate(0.7deg);
+            position: relative;
+        }
+
+        .solution-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin: 20px 0;
+        }
+
+        .solution-item {
+            background: #f0f4f0;
+            border: 2px solid #9cae9c;
+            border-radius: 12px;
+            padding: 20px;
+            transform: rotate(-0.4deg);
+            position: relative;
+        }
+
+        .solution-item:nth-child(even) {
+            transform: rotate(0.6deg);
+        }
+
+        .solution-item h4 {
+            font-size: 16px;
+            font-weight: 700;
+            color: #4a5568;
+            margin-bottom: 8px;
+        }
+
+        .solution-item p {
+            font-size: 14px;
+            color: #7a8a7a;
+            line-height: 1.3;
+        }
+
+        /* Testimonial section */
+        .testimonial-section {
+            background: #f5f7f0;
+            border: 3px dashed #9cae9c;
+            border-radius: 20px;
+            padding: 30px;
+            margin: 30px 0;
+            transform: rotate(-0.5deg);
+            position: relative;
+        }
+
+        .testimonial-quote {
+            font-size: 18px;
+            color: #4a5568;
+            font-style: italic;
+            line-height: 1.4;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+        .testimonial-quote::before {
+            content: '"';
+            font-size: 48px;
+            color: #c77d5c;
+            position: absolute;
+            top: 10px;
+            left: 20px;
+        }
+
+        .testimonial-quote::after {
+            content: '"';
+            font-size: 48px;
+            color: #c77d5c;
+            position: absolute;
+            bottom: 10px;
+            right: 20px;
+        }
+
+        .testimonial-author {
+            font-size: 14px;
+            color: #7a8a7a;
+            text-align: center;
+            font-weight: 400;
+        }
+
+        /* Call to action */
+        .cta-section {
+            text-align: center;
+            margin: 40px 0 20px 0;
+        }
+
+        .cta-text {
+            font-size: 22px;
+            font-weight: 700;
+            color: #c77d5c;
+            margin-bottom: 15px;
+            transform: rotate(-0.3deg);
+        }
+
+        .cta-subtext {
+            font-size: 16px;
+            color: #7a8a7a;
+            transform: rotate(0.4deg);
+        }
+
+        /* Bottom branding */
+        .branding-section {
+            position: absolute;
+            bottom: 30px;
+            left: 40px;
+            right: 40px;
+            text-align: center;
+            border-top: 2px solid #b8c5b8;
+            padding-top: 15px;
+        }
+
+        .website {
+            font-size: 14px;
+            color: #718096;
+            font-weight: 400;
+        }
+
+        /* Decorative elements */
+        .decoration {
+            position: absolute;
+            color: #d4a574;
+            font-size: 24px;
+        }
+
+        .decoration:nth-child(1) {
+            top: 100px;
+            right: 60px;
+            transform: rotate(25deg);
+        }
+
+        .decoration:nth-child(2) {
+            top: 300px;
+            left: 30px;
+            transform: rotate(-15deg);
+        }
+
+        .decoration:nth-child(3) {
+            bottom: 200px;
+            right: 40px;
+            transform: rotate(10deg);
+        }
+
+        /* Progress indicator doodle */
+        .progress-doodle {
+            position: absolute;
+            top: 250px;
+            right: 50px;
+            width: 80px;
+            height: 100px;
+        }
+
+        .progress-bar {
+            width: 20px;
+            height: 60px;
+            background: #f0f4f0;
+            border: 2px solid #9cae9c;
+            border-radius: 10px;
+            position: relative;
+            transform: rotate(3deg);
+        }
+
+        .progress-fill {
+            width: 100%;
+            height: 40%;
+            background: #c77d5c;
+            border-radius: 8px;
+            position: absolute;
+            bottom: 2px;
+        }
+
+        .progress-label {
+            font-size: 12px;
+            color: #7a8a7a;
+            transform: rotate(-2deg);
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        /* Scattered sticky notes */
+        .sticky-note {
+            position: absolute;
+            background: #fdf8f0;
+            border: 1px solid #d4a574;
+            border-radius: 5px;
+            padding: 8px 10px;
+            font-size: 11px;
+            color: #4a5568;
+            transform-origin: center;
+            box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+        }
+
+        .sticky-note:nth-child(1) {
+            top: 180px;
+            left: 20px;
+            transform: rotate(-12deg);
+        }
+
+        .sticky-note:nth-child(2) {
+            bottom: 150px;
+            left: 50px;
+            transform: rotate(8deg);
+        }
+    </style>
+</head>
+<body>
+    <div class="back-cover">
+        <!-- Decorative sticky notes -->
+        <div class="sticky-note">Day 1 ✓</div>
+        <div class="sticky-note">Progress!</div>
+
+        <!-- Main headline -->
+        <div class="headline">
+            Stop Feeling Overwhelmed by Your Never-Ending To-Do List
+        </div>
+
+        <!-- Problem statement -->
+        <div class="problem-section">
+            <div class="problem-title">Sound Familiar?</div>
+            <div class="problem-text">• You have great intentions but can't seem to follow through</div>
+            <div class="problem-text">• Your desk is buried under papers and your mind feels the same way</div>
+            <div class="problem-text">• You start projects with enthusiasm but abandon them halfway</div>
+            <div class="problem-text">• Time seems to slip away and deadlines sneak up on you</div>
+        </div>
+
+        <!-- Solution section -->
+        <div class="solution-section">
+            <div class="solution-title">This Workbook Changes Everything</div>
+
+            <div class="solution-grid">
+                <div class="solution-item">
+                    <h4>Simple Daily Structure</h4>
+                    <p>Just 20 minutes a day to build systems that actually work for your brain</p>
+                </div>
+
+                <div class="solution-item">
+                    <h4>Energy-Based Planning</h4>
+                    <p>Match your tasks to your natural rhythms instead of fighting them</p>
+                </div>
+
+                <div class="solution-item">
+                    <h4>Gentle Accountability</h4>
+                    <p>Self-compassionate progress tracking that motivates instead of shames</p>
+                </div>
+
+                <div class="solution-item">
+                    <h4>Real-World Tested</h4>
+                    <p>Based on psychology research and refined with actual passive procrastinators</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Progress indicator -->
+        <div class="progress-doodle">
+            <div class="progress-bar">
+                <div class="progress-fill"></div>
+            </div>
+            <div class="progress-label">Your Journey</div>
+        </div>
+
+        <!-- Testimonial -->
+        <div class="testimonial-section">
+            <div class="testimonial-quote">
+                I finally have a system that works with my scattered brain instead of against it. For the first time in years, I feel in control of my time.
+            </div>
+            <div class="testimonial-author">— Sarah M., Marketing Manager</div>
+        </div>
+
+        <!-- Call to action -->
+        <div class="cta-section">
+            <div class="cta-text">Your Organized Life is Just 31 Days Away</div>
+            <div class="cta-subtext">Start your transformation today</div>
+        </div>
+
+        <!-- Branding -->
+        <div class="branding-section">
+            <div class="website">ProcrastinationTypes.com</div>
+        </div>
+
+        <!-- Decorative elements -->
+        <div class="decoration">📝</div>
+        <div class="decoration">⚡</div>
+        <div class="decoration">🎯</div>
+    </div>
+</body>
+</html>

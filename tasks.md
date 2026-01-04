@@ -175,6 +175,7 @@
 - [x] ✅ **COMPLETED**: Create 31-day structured program for Active Procrastinators
 - [x] ✅ **COMPLETED**: Write introductory guide for Active workbook
 - [x] 🚨 **HIGH PRIORITY**: Apply clarity improvements to the first 5 days of all workbooks (daily questions, terminology, examples)
+- [ ] 🚨 **HIGH PRIORITY**: Integrate "ADHD Lens" callouts into Arousal and Passive workbooks (explaining neurochemical basis without creating separate type)
 - [x] ✅ **COMPLETED**: Create 31-day structured program for Passive Procrastinators
 - [x] ✅ **COMPLETED**: Write introductory guide for Passive workbook
 - [x] ✍️ Create 30-day structured programs for remaining 5 types

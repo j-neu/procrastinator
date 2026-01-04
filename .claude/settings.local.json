@@ -36,7 +36,8 @@
       "Bash(start:*)",
       "Bash(curl:*)",
       "Bash(del add-none-of-above.js)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(pdflatex:*)"
     ],
     "deny": [],
     "ask": []
