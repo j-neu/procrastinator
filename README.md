@@ -1,4 +1,4 @@
-# Procrastination Types Explorer
+# Procrastitype Explorer
 
 A science-backed platform to help people understand their procrastination patterns and overcome them through targeted workbooks and exercises.
 
@@ -7,21 +7,24 @@ A science-backed platform to help people understand their procrastination patter
 This project creates a complete ecosystem for procrastination help:
 
 1. **Landing Page + Quiz** - Interactive assessment to identify procrastination type
-2. **Type Explorer** - Educational content about the 6 types of procrastinators  
+2. **Type Explorer** - Educational content about the 7 types of procrastinators  
 3. **Workbook Sales** - Integration with Gumroad for selling targeted workbooks
 4. **Low-Content Workbooks** - Daily exercises tailored to each procrastination type
 
-## The 6 Procrastination Types
+## The 7 Procrastination Types
 
 Based on research by Ferrari (1991), Chu & Choi (2005), and contemporary cognitive psychology:
 
-1. **Arousal Procrastinators** ("Thrill Seekers") - Perform better under pressure
+1. **Arousal Procrastinators** ("Thrill Seekers") - Perform better under pressure (often linked to neurochemical activation needs)
 2. **Avoidant Procrastinators** - Avoid negative emotions like fear of failure
 3. **Decisional Procrastinators** - Struggle with making choices and decisions
 4. **Perfectionist Procrastinators** - Paralyzed by impossibly high standards
 5. **Passive Procrastinators** - Traditional "bad" procrastination from disorganization
 6. **Active Procrastinators** - Strategic delay that maintains performance quality
 7. **Emotion-Regulation Procrastinators** - Delay to avoid unpleasant emotions
+
+### 🧠 ADHD Lens Integration
+While ADHD is not a separate procrastination type, it often acts as the "engine" behind patterns like Arousal (dopamine seeking) and Passive (executive dysfunction) procrastination. Procrastitype workbooks include specific ADHD-friendly callouts to address these neurobiological factors.
 
 ## Technical Implementation
 
@@ -48,11 +51,12 @@ Based on research by Ferrari (1991), Chu & Choi (2005), and contemporary cogniti
 
 #### Advanced Scoring Algorithm
 - **35 Questions**: 5 per type for improved reliability vs. original 21
+- **✨ NEW: Multi-Select Support**: Users can select all options that apply for more nuanced profiling
 - **Type Correlations**: Research-based adjustments (e.g., Arousal ↔ Active: 0.6)
 - **Weighted Questions**: Based on discriminant validity from Ferrari (1991), Steel (2007)
 - **Consistency Checks**: Reverse-coded questions to detect random responses
 - **Confidence Levels**: High/Medium/Low based on score separation and consistency
-- **✨ NEW: "None of Above" Options**: Neutral responses for when provided options don't fit user experience
+- **✨ NEW: "None of Above" Options**: Neutral responses for when provided options don't fit user experience (included in all 35 questions)
 - **✨ NEW: Fixed Question Ordering**: Agree/disagree questions maintain logical progression without randomization
 
 #### Enhanced Results Display
@@ -64,6 +68,7 @@ Based on research by Ferrari (1991), Chu & Choi (2005), and contemporary cogniti
 - **✨ NEW: Uncertainty-Aware Confidence**: Confidence levels adjust when users select too many neutral responses
 
 #### User Experience Improvements
+- **Multi-Select Interface**: Smart toggling with mutual exclusivity for "None of the above"
 - **Smart Option Ordering**: Regular options randomized, special options (none of above, agree/disagree) maintain fixed positions
 - **Inclusive Design**: Users who don't identify with provided options have neutral alternatives
 - **Progressive Disclosure**: Question difficulty and complexity respected through ordering

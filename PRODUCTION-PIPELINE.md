@@ -233,3 +233,60 @@ final-workbooks/
 - [ ] Launch first workbook sales
 
 This production pipeline transforms our research-backed content into professional, printable workbooks that maintain the authentic hand-drawn aesthetic while ensuring commercial-quality output suitable for paying customers.
+
+---
+
+# Production Pipeline: Cognitive Dismantling Books (Ebook Series)
+
+**Distinct from the Workbooks above.** These are reading-focused ebooks (Kindle/ePub) using the Cognitive Dismantling method (adapted from Allen Carr).
+
+## 1. Core Parameters
+
+-   **Target Audience:** Each book targets a specific procrastinator type (Avoidance, Arousal, Active, etc.).
+-   **Format:** Ebook/Kindle. No write-in sections (unlike the Workbooks).
+-   **Length:** 15,000 - 20,000 words per book.
+-   **Structure:** ~44 Chapters + Finale (See `structure.md`).
+-   **Methodology:** Cognitive Dismantling (adapting Allen Carr's "Easyway").
+    -   *Logic:* It's not a habit/personality trait; it's an addiction to safety/relief.
+    -   *Mechanism:* Fear -> Avoidance -> Relief -> Addiction.
+    -   *Goal:* Remove the fear/brainwashing so the user *wants* to work.
+
+## 2. Style Guidelines
+
+-   **Tone:** Informal, authoritative, empathetic, direct.
+-   **Voice:** "I have been there." (Author as a recovered addict, not a distant professor).
+-   **Reference Policy:** **NEVER** mention "Allen Carr" or "Easyway" directly. Adapt the *principles*, do not copy the *brand*.
+-   **Exercise Format:** Exercises are mental or require external paper.
+    -   *Wrong:* "Write in the box below."
+    -   *Right:* "Put this book down and write on a piece of paper."
+
+## 3. Production Process
+
+1.  **Select Type:** Pick one of the 7 Procrastinator Types.
+2.  **Create Directory:** `cognitive_dismantling_books/[type]/`
+3.  **Create Structure:** Copy `structure.md` from `avoidance procrastinator` to the new directory.
+4.  **Generate Chapters:**
+    -   Create one Markdown file per chapter (`chapter_01.md`, `chapter_02.md`, etc.).
+    -   Use `@smoking.txt` and `@caffeine.txt` as "tonal templates" but map them to the specific procrastination type.
+    -   *Example:* "Nicotine Withdrawal" -> "Distraction Withdrawal". "Just one cigarette" -> "Just one email check".
+5.  **Review:** Ensure flow is logical and tone is consistent.
+
+## 4. Current Status
+
+| Book Type | Status | Path |
+| :--- | :--- | :--- |
+| **Avoidance Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/avoidance procrastinator/` |
+| **Arousal Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/arousal procrastinator/` |
+| **Active Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/active procrastinator/` |
+| **Decisional Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/decisional procrastinator/` |
+| **Emotion-Regulation** | ✅ **COMPLETE** | `cognitive_dismantling_books/emotion-regulation procrastinator/` |
+| **Passive Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/passive procrastinator/` |
+| **Perfectionist** | ⬜ Pending | |
+
+## 5. Next Session Instructions
+
+To start the next book:
+1.  Choose a type (e.g., **Perfectionist Procrastinator**).
+2.  Create folder `cognitive_dismantling_books/perfectionist procrastinator/`.
+3.  Copy `structure.md` from `avoidance procrastinator`.
+4.  Instruct agent: *"Create Chapter 1 for the Perfectionist Procrastinator book using the Cognitive Dismantling parameters defined in PRODUCTION-PIPELINE.md."*

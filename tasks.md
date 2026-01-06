@@ -130,31 +130,46 @@
 - [x] ✅ **ZERO PROBLEMATIC CONTENT**: No teaching/mentoring/helping others content found
 - [x] ✅ **PRODUCTION READY**: All 6 workbooks 100% clean and approved for immediate PDF generation
 
-## Phase 2: Workbook Creation 📓
+## Phase 2 (Revised): Cognitive Dismantling Ebooks (Pivot) 📚
 
-### Workbook Generation Methods Testing 🧪 NEW
-- [x] 🔬 **Method 1: Node.js + Rough.js + Puppeteer**
-  - [x] Set up Node.js project with Rough.js and Puppeteer dependencies
-  - [x] Create HTML template with hand-drawn styling using Rough.js
-  - [x] Generate test pages from Avoidance Procrastinator workbook content
-  - [x] Test PDF export quality and authenticity of Excalidraw look
-  - [x] Evaluate: visual quality, generation speed, file sizes, maintenance complexity
+### Strategy Change
+- **Goal**: Create 6 comprehensive ebooks (one for each procrastinator type) applying "Cognitive Dismantling" techniques.
+- **Format**: Kindle-ready ebooks (no fill-in-the-blanks), approx. 15,000 - 20,000 words each.
+- **Tone**: Informal, direct, authoritative but empathetic (similar to "Easyway" style but **without** referencing Allen Carr or Easyway).
+- **Structure**: Adapted from the chapter structure of *The Easy Way to Stop Smoking*, tailored to the psychology of each procrastination type.
 
-- [x] 🔬 **Method 2: ReportLab (Python) + SVG imports** ✅ COMPLETED
-  - [x] Set up Python environment with ReportLab and svglib
-  - [x] Create page layouts and text formatting systems  
-  - [x] Import hand-drawn SVG elements from Excalidraw for decorative borders
-  - [x] Generate test pages with programmatic content placement
-  - [x] Evaluate: print quality, Python scripting flexibility, SVG integration effectiveness
+### Book Structure & Development
+- [ ] 📂 Create `cognitive_dismantling_books` directory
+- [ ] 📂 Create sub-folders for each type:
+    - [ ] Active Procrastinator
+    - [ ] Arousal Procrastinator
+    - [ ] Avoidance Procrastinator
+    - [ ] Decisional Procrastinator
+    - [ ] Emotion-Regulation Procrastinator
+    - [ ] Passive Procrastinator
 
-- [x] 🔬 **Method 3: HTML Canvas + jsPDF**
-  - [x] Set up HTML Canvas with custom hand-drawn line algorithms
-  - [x] Implement "wobbly" drawing functions for borders and decorative elements
-  - [x] Create page templates with Canvas-based layouts
-  - [x] Export to PDF using jsPDF with quality optimization
-  - [x] Evaluate: drawing algorithm authenticity, layout control, performance, file quality
+### ✍️ Avoidance Procrastinator Book (Prototype)
+- [ ] **Outline**: Adapt 40+ chapters from the reference text to Avoidance Procrastination.
+- [ ] **Drafting**:
+    - [ ] Chapters 1-5 (The Trap, The Method, Why it's Difficult)
+    - [ ] Chapters 6-10 (Fear Addiction, Brainwashing)
+    - [ ] Chapters 11-15 (Illusions of Relief, Stress/Boredom)
+    - [ ] Chapters 16-20 (Health/Energy/Confidence)
+    - [ ] Chapters 21-30 (The "Advantages", Cutting Down, Just One Delay)
+    - [ ] Chapters 31-44 (The Final Decision, The Withdrawal, Freedom)
+- [ ] **Review**: Ensure tone is consistent and "cognitive dismantling" logic holds.
 
+### ✍️ Other Types (To Follow)
+- [ ] Passive Procrastinator Book
+- [ ] Decisional Procrastinator Book
+- [ ] Arousal Procrastinator Book
+- [ ] Active Procrastinator Book
+- [ ] Emotion-Regulation Procrastinator Book
+
+### Phase 2: Workbook Creation (Legacy/Completed) 📓
+*(Previous workbook tasks retained for reference)*
 - [x] 🔬 **Method 4: HTML/CSS + Puppeteer** ⭐ FINAL CHOICE
+...
   - [x] Set up HTML template with hand-drawn CSS styling (Kalam font, rotations, borders)
   - [x] Implement Puppeteer PDF generation with high-quality settings
   - [x] Create template system with dynamic content insertion (`{{variables}}`)
