@@ -69,26 +69,26 @@ function WorkbooksPageContent() {
 
   if (submitted) {
     return (
-      <div className="min-h-screen bg-warm-white py-8">
+      <div className="min-h-screen bg-osmo-bg py-8">
         <div className="container mx-auto px-4 max-w-3xl">
           <div className="text-center">
             <div className="mb-8">
-              <HandDrawnIcon name="sparkles" size={80} className="mx-auto mb-4 text-terracotta" />
+              <HandDrawnIcon name="sparkles" size={80} className="mx-auto mb-4" />
             </div>
             
-            <h1 className="text-4xl font-bold text-charcoal mb-6">
+            <h1 className="text-4xl font-display font-bold text-osmo-text mb-6">
               Thanks for signing up!
             </h1>
             
-            <div className="p-8 bg-white rounded-lg border-sketch mb-8">
-              <p className="text-lg text-slate mb-4">
+            <div className="p-8 bg-osmo-surface rounded-lg border border-osmo-border mb-8">
+              <p className="text-lg text-osmo-muted mb-4">
                 {fromQuiz ? (
-                  <>We'll notify you as soon as the <strong>{typeInfo?.title}</strong> workbook is ready.</>
+                  <>We'll notify you as soon as the <strong className="text-osmo-text">{typeInfo?.title}</strong> workbook is ready.</>
                 ) : (
                   <>We'll notify you when our workbooks are available.</>
                 )}
               </p>
-              <p className="text-slate">
+              <p className="text-osmo-muted">
                 No spam, just updates when your personalized content is ready.
               </p>
             </div>
@@ -96,14 +96,14 @@ function WorkbooksPageContent() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link 
                 href="/"
-                className="px-6 py-3 border-2 border-charcoal rounded-full font-semibold text-charcoal transition-all duration-300 hover:bg-sage/10 hover-lift cursor-sketch"
+                className="px-6 py-3 border border-osmo-text rounded-full font-semibold text-osmo-text transition-all duration-300 hover:bg-osmo-text hover:text-osmo-bg"
               >
                 Back to Home
               </Link>
               {!fromQuiz && (
                 <Link 
                   href="/quiz"
-                  className="px-6 py-3 border-2 border-charcoal rounded-full font-semibold text-charcoal transition-all duration-300 hover:bg-terracotta/10 hover-lift cursor-sketch"
+                  className="px-6 py-3 bg-osmo-neon-green border border-osmo-neon-green rounded-full font-semibold text-black transition-all duration-300 hover:opacity-90"
                 >
                   Take Quiz
                 </Link>
@@ -116,62 +116,62 @@ function WorkbooksPageContent() {
   }
 
   return (
-    <div className="min-h-screen bg-warm-white py-8">
+    <div className="min-h-screen bg-osmo-bg py-8">
       <div className="container mx-auto px-4 max-w-3xl">
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold text-charcoal mb-6">
+          <h1 className="text-4xl md:text-5xl font-display font-bold text-osmo-text mb-6">
             Workbooks
-            <span className="block text-terracotta underline-sketch">
+            <span className="block text-osmo-neon-green">
               Coming Soon
             </span>
           </h1>
         </div>
 
-        <div className="p-8 bg-white rounded-lg border-sketch mb-8">
+        <div className="p-8 bg-osmo-surface rounded-lg border border-osmo-border mb-8">
           {fromQuiz && typeInfo ? (
             // User came from quiz results
             <div className="text-center">
               <div className="mb-6">
                 <HandDrawnIcon name={typeInfo.icon} size={64} className="mx-auto mb-4" />
-                <h2 className="text-2xl font-bold text-charcoal mb-4">
-                  You're an <span className="text-terracotta">{typeInfo.title}</span>
+                <h2 className="text-2xl font-display font-bold text-osmo-text mb-4">
+                  You're an <span className="text-osmo-neon-green">{typeInfo.title}</span>
                 </h2>
               </div>
               
-              <p className="text-lg text-slate mb-6">
+              <p className="text-lg text-osmo-muted mb-6">
                 Your personalized workbook is currently in development. 
                 Sign up to get notified when it's ready!
               </p>
               
-              <p className="text-sm text-slate mb-8">
+              <p className="text-sm text-osmo-muted mb-8">
                 No spam – we'll only email you when your specific workbook is available.
               </p>
             </div>
           ) : (
             // User came from landing page
             <div className="text-center">
-              <h2 className="text-2xl font-bold text-charcoal mb-4">
+              <h2 className="text-2xl font-display font-bold text-osmo-text mb-4">
                 Personalized Workbooks in Development
               </h2>
               
-              <p className="text-lg text-slate mb-6">
+              <p className="text-lg text-osmo-muted mb-6">
                 We're creating comprehensive 31-day workbooks for each procrastination type, 
                 with targeted exercises and evidence-based strategies.
               </p>
               
-              <div className="mb-6 p-4 bg-ochre/10 rounded-lg border border-ochre/20">
-                <p className="text-slate">
-                  <strong>Want the most relevant workbook?</strong> Take our assessment first to identify your specific procrastination type.
+              <div className="mb-6 p-4 bg-osmo-bg/50 rounded-lg border border-osmo-border">
+                <p className="text-osmo-muted">
+                  <strong className="text-osmo-text">Want the most relevant workbook?</strong> Take our assessment first to identify your specific procrastination type.
                 </p>
                 <Link 
                   href="/quiz"
-                  className="inline-block mt-3 px-4 py-2 border-2 border-ochre rounded-full font-semibold text-ochre transition-all duration-300 hover:bg-ochre/10"
+                  className="inline-block mt-3 px-4 py-2 border border-osmo-neon-green rounded-full font-semibold text-osmo-neon-green transition-all duration-300 hover:bg-osmo-neon-green hover:text-black"
                 >
                   Take the Quiz First
                 </Link>
               </div>
               
-              <p className="text-sm text-slate mb-8">
+              <p className="text-sm text-osmo-muted mb-8">
                 Or sign up below for general updates on all workbooks.
               </p>
             </div>
@@ -185,18 +185,18 @@ function WorkbooksPageContent() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="Enter your email address"
-                className="px-4 py-3 border-2 border-slate/30 rounded-lg font-readable text-charcoal placeholder-slate focus:border-terracotta focus:outline-none transition-colors"
+                className="px-4 py-3 bg-transparent border border-osmo-border rounded-lg text-osmo-text placeholder-osmo-muted focus:border-osmo-neon-green focus:outline-none transition-colors"
                 required
               />
               
               {error && (
-                <p className="text-sm text-terracotta">{error}</p>
+                <p className="text-sm text-red-500">{error}</p>
               )}
               
               <button
                 type="submit"
                 disabled={isSubmitting}
-                className="px-8 py-3 border-2 border-charcoal rounded-full font-semibold text-charcoal transition-all duration-300 hover:bg-terracotta/10 hover-lift cursor-sketch disabled:opacity-50 disabled:cursor-not-allowed"
+                className="px-8 py-3 bg-osmo-text border border-osmo-text rounded-full font-semibold text-osmo-bg transition-all duration-300 hover:bg-transparent hover:text-osmo-text disabled:opacity-50 disabled:cursor-not-allowed"
               >
                 {isSubmitting ? 'Signing up...' : 'Notify Me'}
               </button>
@@ -208,7 +208,7 @@ function WorkbooksPageContent() {
         <div className="text-center">
           <Link 
             href="/"
-            className="px-6 py-3 border-2 border-sage rounded-full font-semibold text-charcoal transition-all duration-300 hover:bg-sage/10 hover-lift cursor-sketch"
+            className="px-6 py-3 border border-osmo-border rounded-full font-semibold text-osmo-text transition-all duration-300 hover:bg-osmo-surface"
           >
             ← Back to Home
           </Link>
@@ -221,10 +221,10 @@ function WorkbooksPageContent() {
 export default function WorkbooksPage() {
   return (
     <Suspense fallback={
-      <div className="min-h-screen bg-warm-white py-8 flex items-center justify-center">
+      <div className="min-h-screen bg-osmo-bg py-8 flex items-center justify-center">
         <div className="text-center">
-          <div className="animate-spin w-8 h-8 border-2 border-terracotta border-t-transparent rounded-full mx-auto mb-4"></div>
-          <p className="text-slate">Loading...</p>
+          <div className="animate-spin w-8 h-8 border-2 border-osmo-neon-green border-t-transparent rounded-full mx-auto mb-4"></div>
+          <p className="text-osmo-muted">Loading...</p>
         </div>
       </div>
     }>
