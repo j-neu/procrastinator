@@ -88,7 +88,7 @@ function WorkbooksPageContent() {
                   <>We'll notify you when our workbooks are available.</>
                 )}
               </p>
-              <p className="text-slate-light">
+              <p className="text-slate">
                 No spam, just updates when your personalized content is ready.
               </p>
             </div>
@@ -143,7 +143,7 @@ function WorkbooksPageContent() {
                 Sign up to get notified when it's ready!
               </p>
               
-              <p className="text-sm text-slate-light mb-8">
+              <p className="text-sm text-slate mb-8">
                 No spam – we'll only email you when your specific workbook is available.
               </p>
             </div>
@@ -171,7 +171,7 @@ function WorkbooksPageContent() {
                 </Link>
               </div>
               
-              <p className="text-sm text-slate-light mb-8">
+              <p className="text-sm text-slate mb-8">
                 Or sign up below for general updates on all workbooks.
               </p>
             </div>
@@ -185,7 +185,7 @@ function WorkbooksPageContent() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="Enter your email address"
-                className="px-4 py-3 border-2 border-slate/30 rounded-lg font-readable text-charcoal placeholder-slate-light focus:border-terracotta focus:outline-none transition-colors"
+                className="px-4 py-3 border-2 border-slate/30 rounded-lg font-readable text-charcoal placeholder-slate focus:border-terracotta focus:outline-none transition-colors"
                 required
               />
               
