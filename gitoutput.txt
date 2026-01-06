@@ -1,0 +1,35 @@
+PS C:\Users\jakob\Documents\Cursor projects\procrastinator> git push origin main --force
+Enumerating objects: 138, done.
+Counting objects: 100% (138/138), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (120/120), done.
+Writing objects: 100% (137/137), 909.57 KiB | 8.27 MiB/s, done.
+Total 137 (delta 9), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (9/9), completed with 1 local object.
+remote: error: GH013: Repository rule violations found for refs/heads/main.
+remote:
+remote: - GITHUB PUSH PROTECTION
+remote:   —————————————————————————————————————————
+remote:     Resolve the following violations before pushing again
+remote:
+remote:     - Push cannot contain secrets
+remote:
+remote:
+remote:      (?) Learn how to resolve a blocked push
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push
+remote:
+remote:
+remote:       —— Google Cloud Service Account Credentials ——————————
+remote:        locations:
+remote:          - commit: 71ea56f913b446da1980b8aaa67073835815fbaa
+remote:            path: procrastinator-type-website/procrastitype-304b4a908dcc.json:1
+remote:
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.
+remote:        https://github.com/j-neu/procrastinator/security/secret-scanning/unblock-secret/37sq6w2dANiBNynQC9DZnt1lGpN
+remote:
+remote:
+remote:
+To https://github.com/j-neu/procrastinator.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/j-neu/procrastinator.git'
+PS C:\Users\jakob\Documents\Cursor projects\procrastinator> 
