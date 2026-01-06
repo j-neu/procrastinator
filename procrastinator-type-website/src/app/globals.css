@@ -1,0 +1,130 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-space-grotesk), ui-sans-serif, system-ui, sans-serif;
+  
+  /* Theme Colors - utilizing CSS variables defined in :root */
+  --color-osmo-bg: var(--bg-primary);
+  --color-osmo-surface: var(--bg-surface);
+  --color-osmo-border: var(--border-color);
+  --color-osmo-text: var(--text-primary);
+  --color-osmo-muted: var(--text-muted);
+  
+  --color-primary: var(--text-primary);
+  --color-accent: var(--accent-color);
+  
+  --color-osmo-neon-green: #CCFF00;
+  --color-osmo-electric-purple: #6633FF;
+  
+  --background-image-grid-pattern: var(--grid-pattern);
+}
+
+:root {
+  /* Dark Mode (Default) */
+  --bg-primary: #0a0a0a;
+  --bg-surface: #141414;
+  --border-color: #262626;
+  --text-primary: #ededed;
+  --text-muted: #888888;
+  --accent-color: #cccccc;
+  --grid-pattern: linear-gradient(to right, #262626 1px, transparent 1px), linear-gradient(to bottom, #262626 1px, transparent 1px);
+}
+
+[data-theme='light'],
+.light {
+  /* Light Mode - "Osmo Dev Toolkit" Style */
+  --bg-primary: #F3F3F3; /* Light gray background */
+  --bg-surface: #ffffff; /* White surface */
+  --border-color: #e5e5e5;
+  --text-primary: #111111; /* Almost black text */
+  --text-muted: #666666;
+  --accent-color: #111111;
+  --grid-pattern: linear-gradient(to right, #e5e5e5 1px, transparent 1px), linear-gradient(to bottom, #e5e5e5 1px, transparent 1px);
+}
+
+[data-theme='dark'],
+.dark {
+  --bg-primary: #0a0a0a;
+  --bg-surface: #141414;
+  --border-color: #262626;
+  --text-primary: #ededed;
+  --text-muted: #888888;
+  --accent-color: #cccccc;
+  --grid-pattern: linear-gradient(to right, #262626 1px, transparent 1px), linear-gradient(to bottom, #262626 1px, transparent 1px);
+}
+
+/* Utilities */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .osmo-border-t {
+    @apply border-t border-osmo-border;
+  }
+  .osmo-border-b {
+    @apply border-b border-osmo-border;
+  }
+  .osmo-container {
+    @apply container mx-auto px-6 max-w-[1400px];
+  }
+  .bg-grid {
+    background-size: 40px 40px;
+  }
+}
+
+/* Base Styles */
+body {
+  @apply bg-osmo-bg text-osmo-text font-sans antialiased selection:bg-osmo-electric-purple selection:text-white transition-colors duration-300;
+}
+
+/* Material Symbols */
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+  
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.8s ease-out forwards;
+}
+
+.animate-slideUp {
+  animation: slideUp 0.8s ease-out forwards;
+}
