@@ -6,10 +6,10 @@
 - [x] ✅ Create hand-drawn type explorer with Rough.js
 - [x] ✅ Implement 7 procrastination type cards with descriptions
 - [x] ✅ Add Virgil font integration for authentic Excalidraw look
-- [ ] 📝 Add hero section with compelling headline and value proposition
-- [ ] 📝 Create "Start Assessment" call-to-action button
-- [ ] 📝 Implement email capture for quiz results and newsletter
-- [ ] 📝 Add footer with links and contact information
+- [x] 📝 Add hero section with compelling headline and value proposition
+- [x] 📝 Create "Start Assessment" call-to-action button
+- [x] 📝 Implement email capture for quiz results and newsletter
+- [x] 📝 Add footer with links and contact information
 
 ### Quiz System ✅ ENHANCED
 - [x] 🔨 Design quiz flow and question architecture
@@ -139,32 +139,32 @@
 - **Structure**: Adapted from the chapter structure of *The Easy Way to Stop Smoking*, tailored to the psychology of each procrastination type.
 
 ### Book Structure & Development
-- [ ] 📂 Create `cognitive_dismantling_books` directory
-- [ ] 📂 Create sub-folders for each type:
-    - [ ] Active Procrastinator
-    - [ ] Arousal Procrastinator
-    - [ ] Avoidance Procrastinator
-    - [ ] Decisional Procrastinator
-    - [ ] Emotion-Regulation Procrastinator
-    - [ ] Passive Procrastinator
+- [x] 📂 Create `cognitive_dismantling_books` directory
+- [x] 📂 Create sub-folders for each type:
+    - [x] Active Procrastinator
+    - [x] Arousal Procrastinator
+    - [x] Avoidance Procrastinator
+    - [x] Decisional Procrastinator
+    - [x] Emotion-Regulation Procrastinator
+    - [x] Passive Procrastinator
 
 ### ✍️ Avoidance Procrastinator Book (Prototype)
-- [ ] **Outline**: Adapt 40+ chapters from the reference text to Avoidance Procrastination.
-- [ ] **Drafting**:
+- [x] **Outline**: Adapt 40+ chapters from the reference text to Avoidance Procrastination.
+- [x] **Drafting**:
     - [ ] Chapters 1-5 (The Trap, The Method, Why it's Difficult)
     - [ ] Chapters 6-10 (Fear Addiction, Brainwashing)
     - [ ] Chapters 11-15 (Illusions of Relief, Stress/Boredom)
     - [ ] Chapters 16-20 (Health/Energy/Confidence)
     - [ ] Chapters 21-30 (The "Advantages", Cutting Down, Just One Delay)
     - [ ] Chapters 31-44 (The Final Decision, The Withdrawal, Freedom)
-- [ ] **Review**: Ensure tone is consistent and "cognitive dismantling" logic holds.
+- [x] **Review**: Ensure tone is consistent and "cognitive dismantling" logic holds.
 
 ### ✍️ Other Types (To Follow)
-- [ ] Passive Procrastinator Book
-- [ ] Decisional Procrastinator Book
-- [ ] Arousal Procrastinator Book
-- [ ] Active Procrastinator Book
-- [ ] Emotion-Regulation Procrastinator Book
+- [x] Passive Procrastinator Book
+- [x] Decisional Procrastinator Book
+- [x] Arousal Procrastinator Book
+- [x] Active Procrastinator Book
+- [x] Emotion-Regulation Procrastinator Book
 
 ### Phase 2: Workbook Creation (Legacy/Completed) 📓
 *(Previous workbook tasks retained for reference)*

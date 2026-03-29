@@ -37,7 +37,8 @@
       "Bash(curl:*)",
       "Bash(del add-none-of-above.js)",
       "Bash(find:*)",
-      "Bash(pdflatex:*)"
+      "Bash(pdflatex:*)",
+      "Bash(git -C \"c:\\\\Users\\\\jakob\\\\Documents\\\\Cursor projects\\\\procrastinator\" log --oneline -- procrastinator-type-website/quiz_analytics.db)"
     ],
     "deny": [],
     "ask": []

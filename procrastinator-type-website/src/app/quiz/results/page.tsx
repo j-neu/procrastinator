@@ -153,7 +153,7 @@ export default function ResultsPage() {
               {result.typeDetails.description}
             </p>
 
-            <div className="flex justify-center">
+            <div className="flex flex-col items-center gap-4">
               <ShareButton
                 resultData={{
                   primaryType: result.primaryType,
@@ -164,6 +164,13 @@ export default function ResultsPage() {
                 }}
                 className="bg-osmo-text/5 border border-osmo-border hover:bg-osmo-text/10 text-osmo-text px-6 py-2 rounded-full text-xs uppercase tracking-widest transition-colors"
               />
+              
+              <Link 
+                href={`/workbooks?type=${result.primaryType}`}
+                className="bg-osmo-text text-osmo-bg px-6 py-2 rounded-full text-xs uppercase tracking-widest font-bold hover:scale-105 transition-transform"
+              >
+                Get the Workbook
+              </Link>
             </div>
           </div>
         </div>
@@ -255,7 +262,7 @@ export default function ResultsPage() {
               Break the Cycle
             </h3>
             <p className="opacity-60 mb-8 max-w-xl mx-auto font-light leading-relaxed">
-              Download the 31-day workbook specifically engineered for the {result.typeDetails.title} pattern.
+              Download the workbook specifically engineered for the {result.typeDetails.title} pattern.
             </p>
             <Link 
               href={`/workbooks?type=${result.primaryType}`}

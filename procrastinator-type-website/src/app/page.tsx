@@ -138,6 +138,11 @@ export default function Home() {
                       <span className="material-symbols-outlined text-[18px]">north_east</span>
                     </span>
                   </Link>
+                  <Link href="/workbooks" className="group relative px-8 py-4 border border-osmo-text text-osmo-text rounded-full overflow-hidden hover:bg-osmo-text hover:text-osmo-bg transition-all duration-300">
+                    <span className="relative z-10 text-sm font-bold uppercase tracking-wider flex items-center gap-2">
+                      Get Workbook
+                    </span>
+                  </Link>
                 </div>
               </div>
             </div>

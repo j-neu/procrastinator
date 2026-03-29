@@ -185,6 +185,11 @@ export default function WhyYouProcrastinate() {
                 <span className="mr-2 text-sm uppercase tracking-widest">Start The Assessment</span>
                 <span className="material-symbols-outlined transition-transform duration-300 group-hover:translate-x-2">arrow_forward</span>
               </Link>
+              <div className="mt-6">
+                <Link href="/workbooks" className="text-sm uppercase tracking-widest text-osmo-muted hover:text-osmo-text transition-colors border-b border-transparent hover:border-osmo-text pb-1">
+                  Or Get The Workbook Directly
+                </Link>
+              </div>
             </div>
 
           </div>
