@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>AVOIDANCE — Book Cover</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    /* Dusty sage palette */
+    --sage:        #8a9a82;   /* primary background */
+    --sage-deep:   #6f8169;   /* shadow / depth */
+    --sage-shade:  #7d8d75;   /* subtle gradient stop */
+    --bone:        #f1ece1;   /* off-white type */
+    --bone-soft:   rgba(241, 236, 225, 0.62);
+    --bone-faint:  rgba(241, 236, 225, 0.34);
+    --bone-rule:   rgba(241, 236, 225, 0.55);
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #2a2a28;
+    font-family: "Space Grotesk", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: geometricPrecision;
+  }
+
+  /* Full-viewport stage that letterboxes the 6×9 cover */
+  .stage {
+    position: fixed;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    padding: 32px;
+    box-sizing: border-box;
+  }
+
+  /* Cover is 1200×1800 (6×9 at 200dpi); scaled to fit viewport. */
+  .cover {
+    width: 1200px;
+    height: 1800px;
+    position: relative;
+    transform-origin: center center;
+    background:
+      radial-gradient(120% 80% at 50% 18%, var(--sage-shade) 0%, var(--sage) 55%, var(--sage-deep) 100%);
+    color: var(--bone);
+    box-shadow:
+      0 40px 80px -20px rgba(0,0,0,0.55),
+      0 8px 22px -4px rgba(0,0,0,0.35),
+      inset 0 0 0 1px rgba(255,255,255,0.04);
+    overflow: hidden;
+    isolation: isolate;
+  }
+
+  /* Subtle paper grain */
+  .cover::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+      radial-gradient(rgba(255,255,255,0.05) 1px, transparent 1px),
+      radial-gradient(rgba(0,0,0,0.05) 1px, transparent 1px);
+    background-size: 3px 3px, 5px 5px;
+    background-position: 0 0, 1px 2px;
+    mix-blend-mode: overlay;
+    opacity: 0.45;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  /* Soft vignette */
+  .cover::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(110% 70% at 50% 50%, transparent 55%, rgba(0,0,0,0.18) 100%);
+    pointer-events: none;
+    z-index: 2;
+  }
+
+  /* Interior margin frame */
+  .frame {
+    position: absolute;
+    inset: 90px 90px 90px 90px;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    z-index: 3;
+  }
+
+  /* ----- Top zone: series mark ----- */
+  .series {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 8px;
+  }
+
+  .series-name {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 18px;
+    letter-spacing: 0.42em;
+    text-transform: uppercase;
+    color: var(--bone-soft);
+    font-weight: 400;
+  }
+
+  .series-vol {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 18px;
+    letter-spacing: 0.30em;
+    color: var(--bone-soft);
+    font-weight: 400;
+  }
+
+  .top-rule {
+    position: absolute;
+    left: 90px;
+    right: 90px;
+    top: 152px;
+    height: 1px;
+    background: var(--bone-rule);
+    z-index: 3;
+  }
+
+  /* ----- Center zone: title + subtitle ----- */
+  .center {
+    align-self: center;
+    text-align: center;
+    padding: 0 4px;
+    transform: translateY(-30px);
+  }
+
+  .eyebrow {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 16px;
+    letter-spacing: 0.36em;
+    text-transform: uppercase;
+    color: var(--bone-faint);
+    margin-bottom: 56px;
+  }
+
+  .eyebrow .dot {
+    display: inline-block;
+    width: 4px;
+    height: 4px;
+    background: var(--bone-faint);
+    border-radius: 50%;
+    transform: translateY(-4px);
+    margin: 0 14px;
+  }
+
+  .title {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 156px;
+    line-height: 0.92;
+    letter-spacing: 0.10em;
+    /* compensate for tracking pulling text right */
+    text-indent: 0.10em;
+    color: var(--bone);
+    margin: 0;
+    text-transform: uppercase;
+  }
+
+  .subtitle {
+    margin-top: 72px;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.35;
+    letter-spacing: 0.02em;
+    color: var(--bone-soft);
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+    text-wrap: balance;
+  }
+
+  .subtitle em {
+    font-style: italic;
+    font-weight: 400;
+    color: var(--bone);
+  }
+
+  .subtitle-rule {
+    width: 64px;
+    height: 1px;
+    background: var(--bone-rule);
+    margin: 44px auto 0 auto;
+  }
+
+  /* ----- Bottom zone: author ----- */
+  .bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+    padding-bottom: 4px;
+  }
+
+  .author-label {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 14px;
+    letter-spacing: 0.46em;
+    text-transform: uppercase;
+    color: var(--bone-faint);
+  }
+
+  .author {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 34px;
+    letter-spacing: 0.34em;
+    text-transform: uppercase;
+    color: var(--bone);
+    text-indent: 0.34em;
+  }
+
+  .bottom-rule {
+    position: absolute;
+    left: 90px;
+    right: 90px;
+    bottom: 220px;
+    height: 1px;
+    background: var(--bone-rule);
+    z-index: 3;
+  }
+
+  /* corner ticks */
+  .tick {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border: 1px solid var(--bone-faint);
+    z-index: 3;
+  }
+  .tick.tl { top: 60px; left: 60px; border-right: 0; border-bottom: 0; }
+  .tick.tr { top: 60px; right: 60px; border-left: 0; border-bottom: 0; }
+  .tick.bl { bottom: 60px; left: 60px; border-right: 0; border-top: 0; }
+  .tick.br { bottom: 60px; right: 60px; border-left: 0; border-top: 0; }
+</style>
+</head>
+<body>
+
+<div class="stage" id="stage">
+  <article class="cover" id="cover" data-screen-label="01 Avoidance Cover">
+
+    <!-- registration ticks -->
+    <span class="tick tl"></span>
+    <span class="tick tr"></span>
+    <span class="tick bl"></span>
+    <span class="tick br"></span>
+
+    <div class="frame">
+
+      <!-- TOP: series identity -->
+      <header class="series">
+        <span class="series-name">P&nbsp;R&nbsp;O&nbsp;C&nbsp;R&nbsp;A&nbsp;S&nbsp;T&nbsp;I&nbsp;T&nbsp;Y&nbsp;P&nbsp;E</span>
+        <span class="series-vol">N&deg;&nbsp;01</span>
+      </header>
+
+      <!-- CENTER: title block -->
+      <section class="center">
+        <div class="eyebrow">A Field Guide<span class="dot"></span>For the Stuck</div>
+        <h1 class="title">Avoidance</h1>
+        <p class="subtitle">
+          The Complete Guide to Breaking<br />
+          Your Avoidance Procrastination Pattern
+        </p>
+        <div class="subtitle-rule"></div>
+      </section>
+
+      <!-- BOTTOM: author -->
+      <footer class="bottom">
+        <span class="author-label">Written by</span>
+        <span class="author">Jonathan&nbsp;Northwood</span>
+      </footer>
+
+    </div>
+
+    <span class="top-rule"></span>
+    <span class="bottom-rule"></span>
+
+  </article>
+</div>
+
+<script>
+  // Scale the 1200×1800 cover to fit the viewport with padding.
+  (function () {
+    const stage = document.getElementById('stage');
+    const cover = document.getElementById('cover');
+    const COVER_W = 1200;
+    const COVER_H = 1800;
+    const PAD = 64;
+
+    function fit() {
+      const availW = window.innerWidth - PAD;
+      const availH = window.innerHeight - PAD;
+      const scale = Math.min(availW / COVER_W, availH / COVER_H);
+      cover.style.transform = 'scale(' + scale + ')';
+    }
+    window.addEventListener('resize', fit);
+    fit();
+  })();
+</script>
+
+</body>
+</html>

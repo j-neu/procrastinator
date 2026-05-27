@@ -38,7 +38,13 @@
       "Bash(del add-none-of-above.js)",
       "Bash(find:*)",
       "Bash(pdflatex:*)",
-      "Bash(git -C \"c:\\\\Users\\\\jakob\\\\Documents\\\\Cursor projects\\\\procrastinator\" log --oneline -- procrastinator-type-website/quiz_analytics.db)"
+      "Bash(git -C \"c:\\\\Users\\\\jakob\\\\Documents\\\\Cursor projects\\\\procrastinator\" log --oneline -- procrastinator-type-website/quiz_analytics.db)",
+      "WebFetch(domain:api.anthropic.com)",
+      "Bash(cp \"/home/jakob/.claude/projects/-home-jakob-Documents-coding-projects-procrastitype-procrastinator/f52d100d-3899-4583-a262-8edd72b4f36e/tool-results/webfetch-1779888291592-zcjbdp.bin\" /tmp/design.gz)",
+      "Bash(gunzip -f /tmp/design.gz)",
+      "Read(//tmp/**)",
+      "Bash(mkdir -p /tmp/design_bundle)",
+      "Bash(tar -xf /tmp/design -C /tmp/design_bundle)"
     ],
     "deny": [],
     "ask": []
