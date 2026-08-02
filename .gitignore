@@ -92,3 +92,7 @@ temp/
 
 # Turbo
 .turbo
+# Python
+__pycache__/
+*.py[cod]
+
