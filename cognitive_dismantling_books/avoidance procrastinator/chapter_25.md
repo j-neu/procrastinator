@@ -40,7 +40,7 @@ Join them. The water is warm.
 
 **Objective:** To see productivity as a path to happiness, not boring conformity.
 
-1.  Think of someone you know who is very productive (gets things done early).
+1.  Think of someone you know who is productive (gets things done early).
 2.  Look past their output. Look at their **state of mind**.
     *   Do they seem constantly panicked?
     *   Do they seem ridden with guilt?

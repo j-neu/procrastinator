@@ -21,7 +21,7 @@ The shame of the Secret Procrastinator is toxic.
 It isolates you. You can't ask for help, because that would reveal you haven't started.
 So you suffer alone.
 
-The moment you stop hiding, the power of the shame breaks.
+The moment you stop hiding, the shame loses its grip.
 Admitting "I haven't started yet" is terrifying, but it is also liberating.
 It resets the clock. It stops the lie.
 
@@ -43,7 +43,7 @@ It's heavy, and it doesn't even look like you.
     *   *9:00 - 9:30: Stared at email, felt scared.*
     *   *9:30 - 10:30: Twitter.*
     *   *10:30 - 11:00: Fake work (formatting the document).*
-3.  Look at the log at the end of the day.
+3.  Look at the log in the evening.
 4.  **Do not judge it.** Do not beat yourself up.
 5.  Just say: **"This is what happened. I spent 4 hours hiding."**
 6.  Realize that the world didn't end because you admitted it.

@@ -37,7 +37,7 @@ Work is not the enemy. Worry is the enemy.
 **Instructions:**
 1.  Rate your current exhaustion level (1-10).
 2.  How much "real work" did you do today? (Be honest).
-3.  If you did very little work but feel very exhausted, where did the energy go?
+3.  If you did little work but feel exhausted, where did the energy go?
 4.  It went to the Monster. It went to the resistance.
 5.  Imagine if you had spent that energy on the task instead. You would be finished by now.
 6.  The path to rest is through the work.

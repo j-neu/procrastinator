@@ -17,7 +17,7 @@ There is a huge difference between Resting and Numbing.
 
 The drifter numbs themselves with distractions to drown out the noise of the "open loops." They watch 6 hours of YouTube not because they are fascinated by cat videos, but because if they turn it off, they will hear the silence. And in the silence, the guilt screams.
 
-This is why drifters are often exhausted, even though they do very little. Numbing is hard work. It takes a lot of energy to suppress anxiety.
+This is why drifters are often exhausted, even though they do little. Numbing is hard work. It takes a lot of energy to suppress anxiety.
 
 The most relaxed people on this planet aren't the ones who "go with the flow" and ignore their problems. They are the ones who handled their problems at 9 AM so they could be truly free at 5 PM.
 

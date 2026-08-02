@@ -22,7 +22,7 @@ If one person tries to climb out—if one person says, "I'm actually going to fi
 
 Don't be the crab.
 Don't be the person who brags about how little sleep they got.
-Don't be the person who wears their stress like a badge of honor.
+Don't be the person who wears their stress like a medal.
 
 There is nothing cool about being a mess.
 There is nothing cool about letting people down.

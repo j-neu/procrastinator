@@ -10,7 +10,7 @@ Doing things *generates* energy.
 Doing nothing *drains* energy.
 
 Think about a day where you sat around in your pajamas, watching TV, avoiding your life.
-Did you feel energized at the end of the day?
+Did you feel energized in the evening?
 No. You felt lethargic. Groggy. Gross.
 
 Now think about a day where you got up, cleaned the house, went for a run, and finished a project.

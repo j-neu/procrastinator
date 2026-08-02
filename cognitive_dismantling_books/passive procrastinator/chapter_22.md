@@ -1,6 +1,6 @@
 # Chapter 22: The Willpower Method of Stopping
 
-It is an accepted fact in our society that it is very difficult to "get your act together." Even books advising you how to do so usually start off by telling you how hard it is. "It takes 66 days to form a habit," they say. "You must have grit."
+It is an accepted fact in our society that it is difficult to "get your act together." Even books advising you how to do so usually start off by telling you how hard it is. "It takes 66 days to form a habit," they say. "You must have grit."
 
 The truth is that it is ridiculously easy. Yes, I can understand you questioning that statement, but just consider it.
 

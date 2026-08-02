@@ -6,7 +6,7 @@ All procrastinators know they are mugs and close their minds to the ill-effects 
 
 There is the shadow of **Unreliability**. You know that you might miss the deadline. You know you are gambling with your reputation. You know that one day, the luck will run out, the computer will crash, or you will get sick, and you won't be able to pull the all-nighter. And then everyone will know.
 
-There is the shadow of **Imposter Syndrome**. You feel like a fraud. Everyone else seems to work like an adult. You feel like a child pretending to be an adult, barely holding it together. You wonder when you will be "found out."
+There is the shadow of **Impostor Syndrome**. You feel like a fraud. Everyone else seems to work like an adult. You feel like a child pretending to be an adult, barely holding it together. You wonder when you will be "found out."
 
 There is the shadow of **Regret**. The regret of the projects you never started because you couldn't guarantee the "perfect" conditions. The regret of the hobbies you dropped because they didn't have a deadline. The regret of the time you spent worrying instead of living.
 

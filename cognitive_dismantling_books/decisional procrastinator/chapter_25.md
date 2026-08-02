@@ -24,7 +24,7 @@ The Ditherer trusts the *Decision* to save them.
 The Casual Decider trusts *Themselves* to handle whatever happens.
 
 Teenagers are often great examples of this (sometimes to a fault, sure). They act. They try. They fail. They bounce back. They learn faster than adults because they have a higher "failure rate."
-The Ditherer has a very low failure rate because they have a very low *attempt* rate. They don't learn. They stagnate.
+The Ditherer has a low failure rate because they have a low *attempt* rate. They don't learn. They stagnate.
 
 Don't envy the Casual Decider. Emulate them.
 Adopt their philosophy: **"It's not that deep."**

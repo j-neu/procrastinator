@@ -49,5 +49,5 @@ You are removing a cancer. You don't replace a cancer with a cold. You just get 
 3.  Your rule: **You can do the task, or you can do nothing.**
 4.  You cannot check your phone. You cannot clean. You cannot "plan."
 5.  You will find that doing *nothing* is incredibly boring.
-6.  The task will suddenly look very appealing by comparison.
+6.  The task will suddenly look appealing by comparison.
 7.  Start.

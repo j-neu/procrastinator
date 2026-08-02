@@ -12,7 +12,7 @@ It seems so harmless. Diligence is a virtue, right? Being informed is good, righ
 
 But in the context of the trap, this is fatal. It is not diligence; it is avoidance wearing a mask of responsibility.
 
-That "one more search" is not about finding data. It is about delaying the pain of commitment. It is a hit of the drug. It gives you a temporary reprieve from the guillotine of choice. You get to say, "I'm working on it!" while actually doing nothing.
+That "one more search" is not about finding data. It is about delaying the pain of commitment. It is a hit of the drug. It gives you a reprieve from the guillotine of choice. You get to say, "I'm working on it!" while actually doing nothing.
 
 The problem is that information is infinite. You can *always* find one more review. You can *always* find one more counter-argument. If you look hard enough, you will find a forum post from 2012 where someone says the product you want to buy exploded and burned down their house.
 

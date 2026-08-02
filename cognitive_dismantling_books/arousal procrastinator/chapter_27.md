@@ -13,7 +13,7 @@ In university, the library at 2:00 AM during finals week is a social club. There
 
 So we procrastinate to belong. We procrastinate to have something to complain about. We procrastinate to prove how "hardcore" we are.
 
-But is it really a badge of honor?
+But is it really something to be proud of?
 Is it really impressive to be unable to manage your time?
 Is it really "cool" to be exhausted and stressed?
 

@@ -3,7 +3,7 @@
 You have escaped the maze. You have unlocked the door. You are a decisive person now.
 But before you rush off to conquer the world, I must give you a final warning.
 
-The decisional procrastinator’s trap is insidious because it is built on a very natural human instinct: the desire to be safe.
+The decisional procrastinator’s trap is insidious because it is built on a natural human instinct: the desire to be safe.
 For the rest of your life, that instinct will still be there. You will still encounter high-stakes choices. You will still feel the flutter of fear.
 
 The danger is not in the fear. The danger is in the complacency of the "cured" addict.

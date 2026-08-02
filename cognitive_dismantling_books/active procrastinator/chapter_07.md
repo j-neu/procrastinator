@@ -8,7 +8,7 @@ We never see a movie about the guy who defused the bomb three weeks ago and then
 
 Society worships the "Clutch Player." The person who saves the day.
 
-If you are an Active Procrastinator, you have internalized this myth. You believe that "Crunch Time" is where the magic happens. You wear your procrastination like a badge of honor.
+If you are an Active Procrastinator, you have internalized this myth. You believe that "Crunch Time" is where the magic happens. You wear your procrastination like a medal.
 
 "I work best under pressure," you say. "I need the fear to unlock my genius."
 

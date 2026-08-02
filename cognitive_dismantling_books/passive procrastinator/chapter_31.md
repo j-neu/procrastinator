@@ -22,7 +22,7 @@ When you rely on false incentives, you are constantly negotiating with yourself.
 
 This is exhausting.
 
-The organized person doesn't pay their bills because they want a treat. They pay their bills because they want to be the kind of person who isn't afraid of the mailman.
+The organized person doesn't pay their bills because they want a treat. They pay their bills because they want to be the kind of person who isn't afraid of the mail.
 
 **The relief of the unburdened mind is the only reward you need.**
 

@@ -40,4 +40,4 @@ You can use that energy to build a life.
 4.  Now, imagine doing just **5 minutes** of that task.
 5.  Visualize that as loosening the kink just a fraction. The water starts to trickle. The pressure drops.
 
-Do you feel a tiny bit of relief? That is the energy returning.
+Do you feel a bit of relief? That is the energy returning.

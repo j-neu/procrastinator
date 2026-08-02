@@ -29,7 +29,7 @@ You think you are "working hard and playing hard." In reality, you are "working 
 **Objective:** To experience the difference between "avoidance" and "true leisure."
 
 **Instructions:**
-1.  Choose a very small task (e.g., reply to one email, wash the dishes).
+1.  Choose a small task (e.g., reply to one email, wash the dishes).
 2.  Do it immediately. Do not wait.
 3.  As soon as it is done, sit down for 10 minutes and do absolutely nothing. Or do something you enjoy.
 4.  Notice the quality of that 10 minutes.

@@ -2,7 +2,7 @@
 
 When is the best time to stop being an Active Procrastinator?
 
-The natural instinct is to say: "After this big project."
+The instinct is to say: "After this big project."
 
 "I can't change my method now," you think. "The stakes are too high. I need my adrenaline crutch for this one. But *after* this is done, when things are quiet, then I'll learn to work steadily."
 

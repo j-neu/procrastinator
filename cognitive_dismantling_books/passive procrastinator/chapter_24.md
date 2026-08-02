@@ -27,7 +27,7 @@ It is a pity that we can't just take a "day off" from adulthood. But the truth i
 
 If you stay on top of the wave, you surf.
 If you fall behind the wave, you get crushed.
-It takes a huge amount of energy to get back on the board. It takes very little energy to stay on it.
+It takes a huge amount of energy to get back on the board. It takes little energy to stay on it.
 
 Don't fall off the board for "just one later."
 

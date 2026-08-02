@@ -8,7 +8,7 @@ You hide your procrastination. You lie about how long things take.
 "I'm still polishing the draft," you say (when you haven't started).
 "I'm waiting on some data," you lie (when you are just scared).
 
-This secrecy multiplies the anxiety. Now you are not just afraid of the task; you are afraid of being found out. You are suffering from Imposter Syndrome, self-inflicted.
+This secrecy multiplies the anxiety. Now you are not just afraid of the task; you are afraid of being found out. You are suffering from Impostor Syndrome, self-inflicted.
 
 The secret life is exhausting. You are constantly maintaining a facade of control while your internal world is on fire.
 

@@ -14,7 +14,7 @@ Offering yourself a cookie or a movie is like offering a heroin addict a stick o
 The "reward" you are subconsciously seeking is the relief from panic. That massive dopamine hit when you survive the impossible.
 No external reward can match the intensity of that internal chemical dump.
 
-Furthermore, bribery reinforces the idea that the work is "bad."
+Bribery reinforces the idea that the work is "bad."
 If you have to be bribed to do it, it must be torture.
 "I will suffer through this awful task, and then I will get a treat."
 

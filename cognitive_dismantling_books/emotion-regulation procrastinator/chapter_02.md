@@ -6,7 +6,7 @@ Provided that you are not a non-procrastinator, it is essential to keep procrast
 
 Basically, my method is the complete opposite of the normal method of trying to stop. The normal method is to list the considerable disadvantages of procrastination (stress, lost money, guilt) and say, "If only I can force myself to work long enough, eventually the desire to avoid will go. I can then enjoy life again, free of this guilt."
 
-This is the logical way to go about it, and thousands of procrastinators are trying it every day. However, it is very difficult to succeed using this method for the following reasons:
+This is the logical way to go about it, and thousands of procrastinators are trying it every day. However, it is difficult to succeed using this method for the following reasons:
 
 1.  **Stopping isn't the problem.** Every time you finish a task, you stop procrastinating. You may have powerful reasons on day one to say, "I will not put things off anymore." The real problem is day two, or day ten, when you wake up feeling "off," or anxious, or just plain flat. In a weak moment, you decide to "just check email first" to feel a bit more engaged, and suddenly you are procrastinating again.
 2.  **The shame makes it harder.** Our rational minds say, "Stop doing it. You are lazy." But this actually makes it harder. We procrastinate because we feel bad. Tell a procrastinator that they are failing, and they feel *worse*. What do they do when they feel bad? They avoid.

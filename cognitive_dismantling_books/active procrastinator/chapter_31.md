@@ -13,7 +13,7 @@ If you tell a heroin addict, "If you don't shoot up today, I'll give you a nice 
 
 For you, the "reward" of the adrenaline rush (or the relief of avoiding boredom) is chemically more potent than a cookie or a new pair of shoes.
 
-Furthermore, you are the one setting the rules. And you know you are a pushover.
+You are the one setting the rules. And you know you are a pushover.
 
 You will eat the cookie anyway. You will watch the show anyway. You will tell yourself, "I had a hard day, I deserve it," even if you did nothing.
 

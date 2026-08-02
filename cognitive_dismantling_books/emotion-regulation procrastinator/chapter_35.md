@@ -14,7 +14,7 @@ You can't. It is ruining your life. You have hit rock bottom.
 
 And rock bottom is a great foundation to build on.
 
-You are also likely very introspective. You understand your feelings. You just need to change your relationship with them.
+You are also likely introspective. You understand your feelings. You just need to change your relationship with them.
 
 Instead of being the victim of your feelings, you can be the observer of them.
 

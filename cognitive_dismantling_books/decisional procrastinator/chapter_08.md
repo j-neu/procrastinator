@@ -15,14 +15,14 @@ This is the relief mechanism.
 **Decision = Anxiety.**
 **Delay = Relief.**
 
-Your brain learns this pattern very quickly.
+Your brain learns this pattern quickly.
 "Oh, thinking about choosing hurts? Okay, let's stop thinking about choosing and start thinking about *learning*. Learning feels safe."
 
 So you become a professional student of the decision, rather than the decider.
 
 But here is the trick: **Research does not cure Doubt.**
 
-Research suppresses Doubt temporarily, but it feeds it in the long run.
+Research suppresses Doubt temporarily, but it feeds it over time.
 
 Imagine the Doubt is a monster.
 When you feed it Data, it eats the Data. It grows bigger.

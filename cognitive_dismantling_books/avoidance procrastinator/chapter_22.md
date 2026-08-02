@@ -1,7 +1,7 @@
 # CHAPTER 22
 # THE WILLPOWER METHOD OF STOPPING
 
-It is an accepted fact in our society that it is very difficult to stop procrastinating.
+It is an accepted fact in our society that it is difficult to stop procrastinating.
 We are told we need "grit." We need "discipline." We need to "hustle."
 
 This is the Willpower Method.

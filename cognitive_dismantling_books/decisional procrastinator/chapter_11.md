@@ -2,7 +2,7 @@
 
 You think you are procrastinating on a decision because you can't concentrate on it. "I need to really sit down and focus on this, but I'm too distracted right now."
 
-The truth is the exact opposite: **You can't concentrate on anything else *because* you haven't made the decision.**
+The truth is the opposite: **You can't concentrate on anything else *because* you haven't made the decision.**
 
 An unmade decision is a background process running on your mental computer. You might be trying to watch a movie, playing with your kids, or working on a different project. But in the back of your mind, the fan is whirring. The "Should I / Shouldn't I" algorithm is running loops.
 

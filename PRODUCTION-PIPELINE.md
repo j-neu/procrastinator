@@ -269,21 +269,82 @@ This production pipeline transforms our research-backed content into professiona
     -   Create one Markdown file per chapter (`chapter_01.md`, `chapter_02.md`, etc.).
     -   Use `@smoking.txt` and `@caffeine.txt` as "tonal templates" but map them to the specific procrastination type.
     -   *Example:* "Nicotine Withdrawal" -> "Distraction Withdrawal". "Just one cigarette" -> "Just one email check".
-5.  **Review:** Ensure flow is logical and tone is consistent.
+5.  **Add the AI-Style Note:** Every book must include `note-to-readers.md` as front matter. The Easyway voice deliberately repeats itself, uses ALL CAPS, asks rhetorical questions, and builds on parallel constructions ("It is not X; it is Y") — all of which are also styles some AI writing tools imitate. The note tells readers the repetition is intentional, so the book is not mistaken for machine-written.
+6.  **Prose Lint:** Run `python tools/prose_lint.py --dir "cognitive_dismantling_books/[type]/"` and review the report (see Section 6). Fix genuine hits. Keep deliberate style choices. Write the triage verdict into the report.
+7.  **Review:** Ensure flow is logical and tone is consistent.
 
 ## 4. Current Status
 
-| Book Type | Status | Path |
-| :--- | :--- | :--- |
-| **Avoidance Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/avoidance procrastinator/` |
-| **Arousal Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/arousal procrastinator/` |
-| **Active Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/active procrastinator/` |
-| **Decisional Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/decisional procrastinator/` |
-| **Emotion-Regulation** | ✅ **COMPLETE** | `cognitive_dismantling_books/emotion-regulation procrastinator/` |
-| **Passive Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/passive procrastinator/` |
-| **Perfectionist** | ⬜ Pending | |
+| Book Type | Status | Path | Prose Lint |
+| :--- | :--- | :--- | :--- |
+| **Avoidance Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/avoidance procrastinator/` | ✅ **DONE** |
+| **Arousal Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/arousal procrastinator/` | ✅ **DONE** |
+| **Active Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/active procrastinator/` | ✅ **DONE** |
+| **Decisional Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/decisional procrastinator/` | ✅ **DONE** |
+| **Emotion-Regulation** | ✅ **COMPLETE** | `cognitive_dismantling_books/emotion-regulation procrastinator/` | ✅ **DONE** |
+| **Passive Procrastinator** | ✅ **COMPLETE** | `cognitive_dismantling_books/passive procrastinator/` | ✅ **DONE** |
+| **Perfectionist** | ✅ **COMPLETE** | `cognitive_dismantling_books/perfectionist procrastinator/` | ✅ **DONE** (long-form test) |
 
-## 5. Next Session Instructions
+## 5. Prose Lint & AI-Style Workflow (ROLLED OUT — all 7 books complete)
+
+**Status:** Trialed on the **Perfectionist** book, then rolled out to all 6 remaining books.
+All 7 books now pass with zero banned vocabulary, and each has a `note-to-readers.md` and a
+per-book lint report (`PROSE-LINT-REPORT-<book>.md`). The Perfectionist book is also the
+length A/B test (~37k words vs ~17-23k for the series) — the lint result applies to both
+choices.
+
+### Purpose
+
+Two goals: (1) catch banned vocabulary and AI-typical phrasing per `writing_style.md`, and (2) verify the prose rhythm is human-like, not uniformly mechanical. We deliberately do **not** use GPTZero-style AI detectors — they are unreliable and would flag the intentional Easyway repetition.
+
+### The three passes
+
+| Pass | Tool | What it catches |
+|------|------|-----------------|
+| 1. Style conformance | `tools/prose_lint.py` | Banned words/patterns from `writing_style.md` (delve, tapestry, moreover, "in conclusion", etc.) + AI-tell phrases ("not only ... but also", "at the end of the day", "importantly") |
+| 2. Prose quality | proselint (v0.16, bundled in the script) | Clichés, weasel words, redundancy, corporate-speak, paragraph-starting "But" |
+| 3. Rhythm & readability | textstat (bundled) | Flesch Reading Ease, grade level, sentence-length coefficient of variation (AI text runs uniform, CV < ~0.5) |
+
+### Running it
+
+```bash
+pip install proselint textstat
+python tools/prose_lint.py --dir "cognitive_dismantling_books/perfectionist procrastinator/"   # writes PROSE-LINT-REPORT.md
+```
+
+### The triage rule
+
+Not every hit is a fix. The Easyway voice is *supposed* to repeat, emphasize, and use parallel construction. The rule is:
+
+- **Fix:** banned `writing_style.md` words, clichés, redundancy, weasel "very", corporate catchphrases.
+- **Keep:** idiomatic "not only ... but also", "very + noun" set phrases, paragraph-starting "But", the "not honest" / "dishonest" choice when it is doing parallel work, straight quotes (handled at conversion).
+- **Document:** every kept item goes in the report's triage table so the decision is reviewable.
+
+### Baseline results (all 7 books, 2026-08-02)
+
+- Banned vocabulary: **0 across all 7 books** (3 "Furthermore" instances found and removed in the rollout).
+- Readability: Flesch 62-92, F-K grade 3-8 across books (plain, accessible).
+- Sentence-length CV: 0.42-1.20 across books (healthy human variance; AI text is typically < 0.5).
+- Fixed in rollout: ~70 genuine hits — banned transitions, clichés ("badge of honor",
+  "in the long run", "perfect storm", "under the gun", "at the end of the day"),
+  redundancy ("exact same", "exact opposite", "temporary reprieve", "natural instinct",
+  "tiny bit"), weasel "very" intensifiers (~25), spelling/preferred forms ("Impostor",
+  "matrices"), gender-neutral wording ("mail carrier").
+- Left deliberately (documented per report): idiomatic "not only ... but also",
+  "very + noun" set phrases, authorial "very successful"/"very lucky man",
+  paragraph-starting "But", "suddenly" in dramatic beats, "1-10" scales (false-positive
+  date-range flag), straight quotes (conversion-stage).
+- Content note flagged in the passive book report: fillable underscore lines in ch10/ch30
+  exercises conflict with the "no write-in sections" ebook rule — pending a decision.
+
+### Rollout decision
+
+**Done.** The workflow trialed cleanly on the Perfectionist book and was rolled out to the
+remaining 6 books. All 7 books have: `note-to-readers.md`, a passing lint run, and a
+per-book report (`PROSE-LINT-REPORT-<book>.md`). Future books follow Section 3 steps 5-6
+(Add the AI-Style Note, then Prose Lint) before being marked complete.
+
+## 6. Next Session Instructions
 
 To start the next book:
 1.  Choose a type (e.g., **Perfectionist Procrastinator**).

@@ -12,7 +12,7 @@ If you identify as a "hot mess," then getting organized feels like a betrayal of
 
 I used to be the guy who was always late. It was my "thing." People expected it. "Oh, that's just him," they'd say. "He operates on his own time."
 
-I wore it like a badge of honor. It made me feel special, unbound by the rules of society.
+I wore it like a medal. It made me feel special, unbound by the rules of society.
 
 But deep down? It felt terrible. It felt disrespectful to my friends waiting in the rain. It felt chaotic. It felt like I wasn't in control of my own life.
 

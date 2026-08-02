@@ -22,7 +22,7 @@ You aren't procrastinating because you are lazy. You are procrastinating because
 
 You are sabotaging your own timeline just to feel something.
 
-This is a crucial realization. You aren't avoiding the work; you are avoiding the *safety*.
+This is the realization. You aren't avoiding the work; you are avoiding the *safety*.
 
 Safety feels boring to an adrenaline addict. Safety feels dead.
 

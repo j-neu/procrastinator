@@ -7,7 +7,7 @@ We bond over our misery. We share war stories about the 4 AM finishes. We compet
 "I haven't slept in two days," one says.
 "That's nothing, I haven't seen my family in a week," says the other.
 
-We treat abuse (self-abuse) as a badge of honor.
+We treat abuse (self-abuse) as something to be proud of.
 
 If you stop procrastinating, you might feel like you are losing this connection. You can't join in the "complaint choir" anymore.
 

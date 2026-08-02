@@ -44,7 +44,7 @@ That is what waits for you when you quit the rush.
 1.  For one day, keep a log of what you *actually* do every hour.
 2.  If you spent an hour on YouTube, write "YouTube." Do not write "Research."
 3.  If you spent an hour staring at the wall, write "Staring."
-4.  At the end of the day, look at the log.
+4.  In the evening, look at the log.
 5.  Calculate the ratio of "Fake Work" to "Real Work."
 6.  Acknowledge the lie.
 7.  Forgive yourself. The lying stops today.

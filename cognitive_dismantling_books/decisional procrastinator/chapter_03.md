@@ -10,7 +10,7 @@ We have all sorts of excuses. We say:
 "I take my responsibilities seriously."
 "I don't want to waste money/time/effort."
 
-These sound like virtues. They sound like good things. And that is why the trap is so sticky. We think our indecision is a sign of our high standards. We think it's a badge of honor.
+These sound like virtues. They sound like good things. And that is why the trap is so sticky. We think our indecision is a sign of our high standards. We think it's proof of our dedication.
 
 But let's look closer. Is it really thoroughness?
 

@@ -18,7 +18,7 @@ It might be harder for you to initiate tasks. That is true. But the *relief* you
 
 You don't need to be neurotypical to stop being a panic-junkie. You just need to stop believing that the panic is helping you.
 
-The panic is not a treatment for ADHD. It is a maladaptive coping strategy that makes the symptoms worse in the long run.
+The panic is not a treatment for ADHD. It is a maladaptive coping strategy that makes the symptoms worse over time.
 
 ---
 

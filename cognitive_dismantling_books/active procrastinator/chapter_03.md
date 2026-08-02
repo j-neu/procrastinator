@@ -1,6 +1,6 @@
 # Chapter 3: Why is it Difficult to Start Early?
 
-If you ask an Active Procrastinator why they don't start a project three weeks in advance, they will usually give you a very logical answer.
+If you ask an Active Procrastinator why they don't start a project three weeks in advance, they will usually give you a logical answer.
 
 "It's inefficient," they say. "If I start now, I'll just dilly-dally. I'll overthink it. I'll spend hours tweaking things that don't matter. But if I wait until the night before, I have to be ruthless. I cut the fat. I get straight to the point."
 

@@ -25,7 +25,7 @@ The normal method (The Willpower Method) is to list the considerable disadvantag
 
 Then you say, "If only I can force myself to work long enough, eventually the desire to run away will go. I can then enjoy life again."
 
-This is the logical way to go about it, and thousands of people try this every January 1st. And it is very difficult to succeed using this method for the following reasons:
+This is the logical way to go about it, and thousands of people try this every January 1st. And it is difficult to succeed using this method for the following reasons:
 
 1.  **Stopping isn't the problem.** You can start a task any time. You've done it before. The problem is staying in the flow without the constant urge to flee.
 2.  **The scare tactics make it harder.** Telling an Avoidance Procrastinator that "time is running out" or "you're failing" just increases the Fear. And what do we do when we feel Fear? We avoid. So the reasons for stopping actually make you want to procrastinate *more*.

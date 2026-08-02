@@ -1,6 +1,6 @@
 # Chapter 22: The Willpower Method of Stopping
 
-It is an accepted fact in our society that it is very difficult to stop procrastinating. Even productivity gurus usually start off by telling you how hard it is to "eat the frog" or "manage your time." The truth is that it is ridiculously easy. Yes, I can understand you questioning that statement, but just consider it.
+It is an accepted fact in our society that it is difficult to stop procrastinating. Even productivity gurus usually start off by telling you how hard it is to "eat the frog" or "manage your time." The truth is that it is ridiculously easy. Yes, I can understand you questioning that statement, but just consider it.
 
 If your aim is to run a marathon, that's difficult. You may have to undergo months of hard training.
 

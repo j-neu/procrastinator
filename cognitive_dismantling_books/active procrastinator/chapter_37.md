@@ -9,7 +9,7 @@ You might start binge-drinking.
 
 Your brain is looking for its cortisol hit.
 
-Be very careful of **Substitutes**.
+Be careful of **Substitutes**.
 
 If you replace work-stress with life-stress, you haven't cured the addiction; you've just moved it.
 

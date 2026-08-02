@@ -30,6 +30,6 @@ Refuse to carry their rocks. But cheer loudly when they pick one up.
 
 1.  Identify one area where you consistently "rescue" the procrastinator by deciding for them. (e.g., Choosing what to watch on TV).
 2.  Tell them calmly: "Tonight, I'd love for you to pick the movie. I'm happy to watch whatever you choose. I won't complain."
-3.  **Crucial Step:** When they pick a terrible movie, **DO NOT COMPLAIN.**
+3.  **The Key Step:** When they pick a terrible movie, **DO NOT COMPLAIN.**
 4.  Laugh about it. Enjoy it. Show them that a "bad choice" doesn't result in punishment.
 5.  You are retraining their brain to see that decisions are safe.

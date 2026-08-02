@@ -50,7 +50,7 @@ But the moment you understand that the fear is a smoke screen—an illusion crea
 
 **Objective:** To test the reality of the fear versus the catastrophic prediction.
 
-1.  Identify one very small task you have been avoiding (e.g., sending a text, opening a letter).
+1.  Identify one small task you have been avoiding (e.g., sending a text, opening a letter).
 2.  Write down your **Prediction**: "If I do this, I will feel..." (e.g., overwhelmed, stupid, exhausted). Rate the expected intensity of that bad feeling from 1-10.
 3.  **The Experiment**: Do the task immediately. Do not think, just act.
 4.  Immediately after, write down the **Result**: "I actually felt..." Rate the actual intensity of the bad feeling from 1-10.

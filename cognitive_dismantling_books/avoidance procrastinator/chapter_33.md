@@ -16,7 +16,7 @@ Instinctively, your hand will twitch towards the "New Tab" button. Your eyes wil
 **This is the withdrawal.**
 It is the Little Monster screaming, "I feel unsure! Give me the pacifier! Give me the distraction!"
 
-It is crucial that you recognize this feeling.
+You must recognize this feeling.
 It is not "ADD." It is not "lack of focus."
 It is simply a habit loop dying.
 

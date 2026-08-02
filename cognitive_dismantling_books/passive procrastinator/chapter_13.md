@@ -11,7 +11,7 @@ Examples:
 *   Dealing with insurance claims.
 *   Updating a resume.
 
-These tasks are the perfect storm.
+These tasks are the perfect trap.
 
 Because they are boring, your brain says: "I don't have the dopamine for this. Let's do it later when I have more energy."
 

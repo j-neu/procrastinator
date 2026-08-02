@@ -14,7 +14,7 @@ Do you put off painting? Writing that novel? Learning that instrument? Planning 
 
 Yes. You do.
 
-If procrastination was just about boredom, we would never put off our hobbies. But we do. We stare at the blank canvas and feel the exact same resistance we feel looking at the tax forms.
+If procrastination was just about boredom, we would never put off our hobbies. But we do. We stare at the blank canvas and feel the same resistance we feel looking at the tax forms.
 
 Why?
 
@@ -37,7 +37,7 @@ This inability to sit with boredom is exactly what kills our ability to do deep 
 
 If you run from boredom, you run from greatness.
 
-Furthermore, procrastination itself is incredibly boring.
+Procrastination itself is incredibly boring.
 What is more boring:
 A) Spending 30 minutes filing papers?
 or

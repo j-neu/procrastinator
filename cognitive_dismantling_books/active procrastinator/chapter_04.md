@@ -37,7 +37,7 @@ You are like a gambler who loses money all month but hits one jackpot at the end
 
 The trap relies on you believing that Phase 4 (The Rush) is the *only* way to work. It relies on you believing that without the threat of disaster, you are incapable of greatness.
 
-This is a lie. The "Rush" is not the source of your greatness. Your skills, your intelligence, your talent—those are the source. The Rush is just the tax you pay to access them because you've forgotten how to access them for free.
+This is a lie. The "Rush" is not the source of your greatness. Your skills, your intelligence, your talent—those are the source. The Rush is just the tax you pay to access them because you've forgotten that they're already yours.
 
 ---
 

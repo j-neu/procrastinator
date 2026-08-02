@@ -14,7 +14,7 @@ They are comfortable lies. They make us feel like strategic planners instead of 
 If Dave gave you the clarification today, would you start? Probably not.
 If you had a free afternoon today, would you do it? No, you'd find something else to do.
 
-The real reason you are waiting is very simple: **The Fear isn't strong enough yet.**
+The real reason you are waiting is simple: **The Fear isn't strong enough yet.**
 
 You are waiting for the scales to tip.
 
