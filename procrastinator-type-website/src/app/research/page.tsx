@@ -1,5 +1,10 @@
 import Link from 'next/link'
 
+export const metadata = {
+  title: 'Research & Scientific Foundation',
+  description: 'The Procrastitype assessment is built on Ferrari (1991), Chu & Choi (2005), Steel (2007) and Sirois & Pychyl (2013): the peer-reviewed science behind the 7 procrastination types.',
+}
+
 export default function Research() {
   return (
     <div className="min-h-screen bg-osmo-bg text-osmo-text pt-32 pb-20">

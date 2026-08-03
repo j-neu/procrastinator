@@ -8,6 +8,25 @@ import { quizQuestions, Question } from '../../lib/quiz-data';
 import { improvedQuizQuestions } from '../../lib/improved-quiz-data';
 import { calculateQuizResult, UserAnswer, calculateImprovedQuizResultWrapper, convertImprovedToLegacyResult } from '../../lib/quiz-utils';
 import { ImprovedQuestion } from '../../lib/improved-quiz-scoring';
+import { track } from '../../lib/analytics';
+
+const siteUrl = 'https://procrastitype.jnprojects.me';
+
+const quizJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Quiz',
+  name: 'Procrastination Type Assessment',
+  description:
+    'A 35-question, research-backed assessment that identifies your primary and secondary procrastination types with confidence levels.',
+  url: `${siteUrl}/quiz`,
+  about: 'Procrastination',
+  isAccessibleForFree: true,
+  educationalAlignment: {
+    '@type': 'AlignmentObject',
+    alignmentType: 'educationalSubject',
+    targetName: 'Psychology of procrastination',
+  },
+};
 
 // Shuffle function using Fisher-Yates algorithm
 function shuffleArray<T>(array: T[]): T[] {
@@ -73,6 +92,8 @@ export default function QuizPage() {
   useEffect(() => {
     const questionsToUse = useImprovedVersion ? improvedQuizQuestions : quizQuestions;
     setRandomizedQuestions(createRandomizedQuestions(questionsToUse));
+    track('quiz_start');
+    document.title = 'Procrastination Quiz: Discover Your Procrastination Type | Procrastitype';
   }, [useImprovedVersion]);
 
   // Don't render until questions are randomized
@@ -248,6 +269,11 @@ export default function QuizPage() {
           </p>
         </div>
       </div>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(quizJsonLd) }}
+      />
     </div>
   );
 }

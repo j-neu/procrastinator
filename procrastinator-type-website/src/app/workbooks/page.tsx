@@ -5,6 +5,40 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import HandDrawnIcon from '../../components/HandDrawnIcon';
 import { getPayhipBook } from '../../lib/payhip-links';
+import { track } from '../../lib/analytics';
+
+const siteUrl = 'https://procrastitype.jnprojects.me';
+
+const faqJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Which procrastination workbook should I get?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Take the free procrastination assessment first. It identifies your primary procrastination type (arousal, avoidance, decisional, passive, active, emotion-regulation or perfectionist) so you get the workbook built for your specific pattern.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Are the procrastination books available now?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Yes. All 7 cognitive dismantling books are live on Payhip and linked directly from your quiz results page.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'What is the 31-day procrastination workbook?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'A structured 31-day program of 20-minute daily exercises, grounded in CBT and ACT principles, tailored to each procrastination type. Workbooks are in development; sign up with your email to get notified when yours launches.',
+      },
+    },
+  ],
+};
 
 const procrastinationTypes = {
   'arousal': { title: 'Arousal Procrastinator', icon: 'lightning' },
@@ -24,6 +58,10 @@ function WorkbooksPageContent() {
   
   const searchParams = useSearchParams();
   const router = useRouter();
+
+  useEffect(() => {
+    document.title = 'Procrastination Workbooks & Books | Procrastitype';
+  }, []);
   
   // Check if user came from quiz results
   const userType = searchParams.get('type') as keyof typeof procrastinationTypes;
@@ -58,6 +96,7 @@ function WorkbooksPageContent() {
 
       if (response.ok) {
         setSubmitted(true);
+        track('email_signup', { type: userType || 'general', source: fromQuiz ? 'quiz' : 'landing' });
       } else {
         const data = await response.json();
         setError(data.error || 'Something went wrong. Please try again.');
@@ -155,6 +194,7 @@ function WorkbooksPageContent() {
                     href={book.url}
                     target="_blank"
                     rel="noopener noreferrer"
+                    onClick={() => track('workbook_click', { type: userType || 'general', title: book.title })}
                     className="inline-block mb-4 px-8 py-3 bg-osmo-neon-green border border-osmo-neon-green rounded-full font-semibold text-black transition-all duration-300 hover:opacity-90"
                   >
                     Get the Book on Payhip
@@ -235,6 +275,11 @@ function WorkbooksPageContent() {
           </Link>
         </div>
       </div>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
     </div>
   );
 }

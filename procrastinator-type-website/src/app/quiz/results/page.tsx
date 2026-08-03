@@ -8,13 +8,22 @@ import { QuizResult } from '../../../lib/quiz-data';
 import { ImprovedQuizResult } from '../../../lib/improved-quiz-scoring';
 import { getTypeColor, getTypeIcon } from '../../../lib/quiz-utils';
 import { getPayhipBook } from '../../../lib/payhip-links';
+import { track } from '../../../lib/analytics';
 
 export default function ResultsPage() {
   const [result, setResult] = useState<QuizResult | null>(null);
   const [improvedResult, setImprovedResult] = useState<ImprovedQuizResult | null>(null);
   const [useImprovedVersion, setUseImprovedVersion] = useState(false);
   const [loading, setLoading] = useState(true);
+  const [email, setEmail] = useState('');
+  const [isEmailSubmitting, setIsEmailSubmitting] = useState(false);
+  const [emailSubmitted, setEmailSubmitted] = useState(false);
+  const [emailError, setEmailError] = useState('');
   const router = useRouter();
+
+  useEffect(() => {
+    document.title = 'Your Procrastination Profile | Procrastitype';
+  }, []);
 
   useEffect(() => {
     // Check which version was used
@@ -76,9 +85,54 @@ export default function ResultsPage() {
 
       // Mark as tracked to avoid duplicate tracking
       localStorage.setItem('quizCompletionTracked', 'true');
+
+      track('quiz_complete', {
+        primaryType,
+        secondaryType: secondaryType ?? 'none',
+        confidence: confidence ?? 'unknown',
+      });
     } catch (error) {
       console.log('Could not track quiz completion:', error);
     }
+  };
+
+  const handleEmailSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!result) return;
+
+    if (!email || !email.includes('@')) {
+      setEmailError('Please enter a valid email address');
+      return;
+    }
+
+    setIsEmailSubmitting(true);
+    setEmailError('');
+
+    try {
+      const response = await fetch('/api/email-signup', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          email,
+          type: result.primaryType,
+          source: 'quiz-results',
+        }),
+      });
+
+      if (response.ok) {
+        setEmailSubmitted(true);
+        track('email_signup', { type: result.primaryType, source: 'quiz-results' });
+      } else {
+        const data = await response.json();
+        setEmailError(data.error || 'Something went wrong. Please try again.');
+      }
+    } catch (error) {
+      setEmailError('Something went wrong. Please try again.');
+    }
+
+    setIsEmailSubmitting(false);
   };
 
   const handleRetakeQuiz = () => {
@@ -175,6 +229,7 @@ export default function ResultsPage() {
                       href={book.url}
                       target="_blank"
                       rel="noopener noreferrer"
+                      onClick={() => track('workbook_click', { type: result.primaryType, placement: 'results-card' })}
                       className="bg-osmo-text text-osmo-bg px-6 py-2 rounded-full text-xs uppercase tracking-widest font-bold hover:scale-105 transition-transform"
                     >
                       Get the Book
@@ -258,6 +313,51 @@ export default function ResultsPage() {
           </div>
         </div>
 
+        {/* Workbook Launch Notification */}
+        <div className="p-6 sm:p-8 border border-osmo-border mb-12 bg-osmo-surface/50">
+          {emailSubmitted ? (
+            <div className="text-center py-4">
+              <h3 className="text-xl font-display font-light text-osmo-text mb-3">
+                You're on the list
+              </h3>
+              <p className="text-sm text-osmo-muted font-light leading-relaxed max-w-md mx-auto">
+                We'll email you as soon as the {result.typeDetails.title} workbook is ready. No spam, just your personal toolkit.
+              </p>
+            </div>
+          ) : (
+            <>
+              <h3 className="text-xl font-display font-light text-osmo-text mb-2">
+                The {result.typeDetails.title} Workbook Is Coming
+              </h3>
+              <p className="text-sm text-osmo-muted font-light leading-relaxed mb-6 max-w-lg">
+                A 31-day, research-backed workbook built specifically for your pattern. Be the first to know when it launches.
+              </p>
+              <form onSubmit={handleEmailSubmit} className="max-w-md">
+                <div className="flex flex-col gap-4">
+                  <input
+                    type="email"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    placeholder="Enter your email address"
+                    className="px-4 py-3 bg-transparent border border-osmo-border rounded-lg text-osmo-text placeholder-osmo-muted focus:border-osmo-neon-green focus:outline-none transition-colors"
+                    required
+                  />
+                  {emailError && (
+                    <p className="text-sm text-red-500">{emailError}</p>
+                  )}
+                  <button
+                    type="submit"
+                    disabled={isEmailSubmitting}
+                    className="px-8 py-3 bg-osmo-text border border-osmo-text rounded-full font-semibold text-osmo-bg transition-all duration-300 hover:bg-transparent hover:text-osmo-text disabled:opacity-50 disabled:cursor-not-allowed"
+                  >
+                    {isEmailSubmitting ? 'Signing up...' : 'Notify Me When It Launches'}
+                  </button>
+                </div>
+              </form>
+            </>
+          )}
+        </div>
+
         {/* Action Buttons */}
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-20">
           <button
@@ -292,6 +392,7 @@ export default function ResultsPage() {
                   href={book.url}
                   target="_blank"
                   rel="noopener noreferrer"
+                  onClick={() => track('workbook_click', { type: result.primaryType, placement: 'results-cta' })}
                   className="inline-flex items-center gap-2 px-8 py-3 bg-osmo-bg text-osmo-text rounded-full font-medium hover:scale-105 transition-transform"
                 >
                   <span className="text-xs uppercase tracking-widest font-bold">Get the Book</span>

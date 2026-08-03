@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { track } from '../lib/analytics';
 
 interface ShareButtonProps {
   resultData: {
@@ -66,6 +67,7 @@ Discover your procrastination type: ${window.location.origin}/quiz`;
     try {
       await navigator.clipboard.writeText(generateShareText());
       setCopied(true);
+      track('share_click', { platform: 'copy', type: resultData.primaryType });
       setTimeout(() => setCopied(false), 2000);
     } catch (err) {
       console.error('Failed to copy text: ', err);
@@ -73,8 +75,9 @@ Discover your procrastination type: ${window.location.origin}/quiz`;
   };
 
   // Open share in new window
-  const openShare = (url: string) => {
+  const openShare = (url: string, platform: string) => {
     window.open(url, '_blank', 'width=600,height=400,scrollbars=yes,resizable=yes');
+    track('share_click', { platform, type: resultData.primaryType });
   };
 
   // Native share (for mobile)
@@ -86,6 +89,7 @@ Discover your procrastination type: ${window.location.origin}/quiz`;
           text: generateShareText(),
           url: `${window.location.origin}/quiz`,
         });
+        track('share_click', { platform: 'native', type: resultData.primaryType });
       } catch (err) {
         console.error('Error sharing:', err);
       }
@@ -130,35 +134,35 @@ Discover your procrastination type: ${window.location.origin}/quiz`;
             {/* Social Media Buttons */}
             <div className="grid grid-cols-2 gap-3 mb-6">
               <button
-                onClick={() => openShare(shareUrls.twitter())}
+                onClick={() => openShare(shareUrls.twitter(), "twitter")}
                 className="p-3 bg-osmo-text/5 hover:bg-osmo-text/10 border border-osmo-border text-osmo-text rounded-lg transition-colors flex items-center justify-center font-medium"
               >
                 <span className="mr-2 opacity-70">🐦</span> Twitter
               </button>
 
               <button
-                onClick={() => openShare(shareUrls.facebook())}
+                onClick={() => openShare(shareUrls.facebook(), "facebook")}
                 className="p-3 bg-osmo-text/5 hover:bg-osmo-text/10 border border-osmo-border text-osmo-text rounded-lg transition-colors flex items-center justify-center font-medium"
               >
                 <span className="mr-2 opacity-70">📘</span> Facebook
               </button>
 
               <button
-                onClick={() => openShare(shareUrls.linkedin())}
+                onClick={() => openShare(shareUrls.linkedin(), "linkedin")}
                 className="p-3 bg-osmo-text/5 hover:bg-osmo-text/10 border border-osmo-border text-osmo-text rounded-lg transition-colors flex items-center justify-center font-medium"
               >
                 <span className="mr-2 opacity-70">💼</span> LinkedIn
               </button>
 
               <button
-                onClick={() => openShare(shareUrls.whatsapp())}
+                onClick={() => openShare(shareUrls.whatsapp(), "whatsapp")}
                 className="p-3 bg-osmo-text/5 hover:bg-osmo-text/10 border border-osmo-border text-osmo-text rounded-lg transition-colors flex items-center justify-center font-medium"
               >
                 <span className="mr-2 opacity-70">💬</span> WhatsApp
               </button>
 
               <button
-                onClick={() => openShare(shareUrls.reddit())}
+                onClick={() => openShare(shareUrls.reddit(), "reddit")}
                 className="p-3 bg-osmo-text/5 hover:bg-osmo-text/10 border border-osmo-border text-osmo-text rounded-lg transition-colors flex items-center justify-center font-medium"
               >
                 <span className="mr-2 opacity-70">🔗</span> Reddit

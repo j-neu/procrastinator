@@ -7,9 +7,13 @@ A science-backed platform to help people understand their procrastination patter
 - **Interactive Quiz System**: 35 research-backed questions with advanced scoring
 - **Hand-drawn Design**: Rough.js integration with Virgil font for authentic sketchy look
 - **Type Assessment**: Identifies primary + secondary procrastination types with confidence levels
-- **Email Signup Integration**: ✅ **WORKING** - Google Sheets API for persistent email collection
+- **Email Signup Integration**: ✅ **WORKING** - Google Sheets API for persistent email collection (on `/workbooks` and the quiz results page)
 - **Live Book Sales**: ✅ Quiz results link straight to the Payhip store for the matched type
 - **Share Cards**: ✅ Square "I'm a [type] procrastinator!" images (book-cover style) for download/share
+- **SEO Foundation**: ✅ sitemap.xml, robots.txt, per-page metadata, canonical URLs, schema.org JSON-LD (Organization, WebSite, Quiz, Article, FAQPage, ItemList)
+- **Content Hub**: ✅ Pillar page `/types` + 7 type guides with Article/FAQ schema (prose-lint clean, `writing_style.md` compliant)
+- **Analytics**: ✅ Vercel Web Analytics (free, cookie-less) with 5 custom events (quiz_start, quiz_complete, share_click, email_signup, workbook_click)
+- **Google Search Console**: ✅ Verification meta tag in site head (`verification.google` in `layout.tsx` metadata) + backup file at `/google87e4ddcc8e80c24b.html`
 - **Mobile Responsive**: Optimized for all device sizes
 - **Scientific Foundation**: Based on Ferrari (1991), Chu & Choi (2005), Steel (2007) research
 
@@ -41,27 +45,47 @@ The email signup system is **fully configured and working**:
 
 See `GOOGLE_SHEETS_SETUP.md` for deployment instructions.
 
+## Environment Variables
+
+| Variable | Required | Purpose |
+|---|---|---|
+| `GOOGLE_SERVICE_ACCOUNT_EMAIL` | ✅ | Google Sheets service account for email signups |
+| `GOOGLE_PRIVATE_KEY` | ✅ | Service account private key |
+| `GOOGLE_SHEET_ID` | ✅ | Google Sheet ID for email signups |
+| `NEXT_PUBLIC_SITE_URL` | ✅ | Canonical domain (`https://procrastitype.jnprojects.me`) used by sitemap.xml, robots.txt and schema.org markup |
+
+Vercel Web Analytics needs **no** environment variables and no cookie banner (cookie-less, privacy-friendly). Custom events (quiz_start, quiz_complete, share_click, email_signup, workbook_click) are sent via `src/lib/analytics.ts` and appear in Vercel Dashboard → Analytics. The wrapper is provider-swappable (e.g., Plausible later).
+
 ## Project Structure
 
 ```
 src/
 ├── app/
 │   ├── page.tsx                     # Landing page
+│   ├── layout.tsx                   # SEO metadata, JSON-LD, analytics script
+│   ├── sitemap.ts                   # XML sitemap (all routes)
+│   ├── robots.ts                    # robots.txt
 │   ├── quiz/
 │   │   ├── page.tsx                 # Quiz interface
-│   │   └── results/page.tsx         # Results display
+│   │   └── results/page.tsx         # Results display + workbook email capture
+│   ├── types/                       # SEO content hub
+│   │   ├── page.tsx                 # Pillar: 7 types, one H2 per type
+│   │   └── <type>-procrastinator/   # 7 type guides (Article + FAQ schema)
 │   ├── workbooks/page.tsx           # Email signup page
 │   └── api/
 │       └── email-signup/route.ts    # ✅ Google Sheets API endpoint
 ├── components/
 │   ├── RoughCard.tsx               # Hand-drawn card component
 │   ├── RoughTitle.tsx              # Hand-drawn title backgrounds
-│   └── RoughButton.tsx             # Hand-drawn interactive buttons
+│   ├── RoughButton.tsx             # Hand-drawn interactive buttons
+│   ├── SiteHeader.tsx              # Site header
+│   └── SiteFooter.tsx              # Shared footer with type links
 └── lib/
     ├── quiz-data.ts                # Original 21-question system
     ├── improved-quiz-data.ts       # ✅ Enhanced 35-question system
     ├── improved-quiz-scoring.ts    # ✅ Advanced scoring algorithm
-    └── quiz-utils.ts               # Quiz utilities
+    ├── analytics.ts                # Vercel analytics wrapper + events
+    └── payhip-links.ts             # Payhip URLs per type
 ```
 
 ## Key Technologies
@@ -79,6 +103,7 @@ src/
 1. **Import Environment Variables**:
    - Go to Vercel Dashboard → Settings → Environment Variables
    - Click "Import" and upload the `.env` file
+   - Set `NEXT_PUBLIC_SITE_URL=https://procrastitype.jnprojects.me`
    - All Google Sheets credentials will be imported automatically
 
 2. **Deploy**:
@@ -94,6 +119,12 @@ src/
    - Visit your deployed site `/workbooks` page
    - Test email signup form
    - ✅ Emails will automatically save to your Google Sheet
+
+4. **Search Engine Verification**:
+   - In Google Search Console, choose the **HTML tag** method and verify (the meta tag is already in the head of every page via `layout.tsx`)
+   - The old HTML-file method (`/google87e4ddcc8e80c24b.html`) also works as a backup
+   - Submit `https://procrastitype.jnprojects.me/sitemap.xml` in GSC and Bing Webmaster Tools
+   - Analytics events appear automatically in Vercel Dashboard → Analytics (no setup)
 
 ## Troubleshooting
 

@@ -35,6 +35,8 @@
 - [x] ✅ **COMPLETED**: Detailed descriptions for each procrastination type (via enhanced scoring system)
 - [x] ✅ **COMPLETED**: Actionable tips and strategies for each type (integrated in results)
 - [x] ✅ **COMPLETED**: Scientific citations and credibility content (research-based scoring)
+- [x] ✅ **COMPLETED**: SEO content hub (pillar page + 7 type guides, prose-lint clean)
+- [x] ✅ **COMPLETED**: FAQ sections with FAQPage schema (home, workbooks, type guides)
 - [ ] 📚 Write compelling workbook descriptions and previews
 - [ ] 📚 Create FAQ section addressing common concerns
 - [ ] 📚 Develop blog content for SEO and authority building
@@ -130,6 +132,39 @@
 - [x] ✅ **ZERO PROBLEMATIC CONTENT**: No teaching/mentoring/helping others content found
 - [x] ✅ **PRODUCTION READY**: All 6 workbooks 100% clean and approved for immediate PDF generation
 
+## Phase 1.7: SEO & Discoverability (COMPLETED - August 2026) ✅
+
+### Technical SEO (COMPLETED)
+- [x] ✅ **sitemap.xml**: Auto-generated from `src/app/sitemap.ts` (all 16 routes)
+- [x] ✅ **robots.txt**: Auto-generated from `src/app/robots.ts` (`/api/`, `/admin` disallowed)
+- [x] ✅ **Per-page metadata**: Unique titles, descriptions, canonical, OG/Twitter cards on all routes
+- [x] ✅ **Google Search Console verification**: `public/google87e4ddcc8e80c24b.html` served at site root
+- [x] ✅ **Page speed**: Font preconnects, `display=swap`, static prerendering for content pages
+
+### Schema.org (COMPLETED)
+- [x] ✅ **Organization + WebSite (SearchAction)** sitewide
+- [x] ✅ **Quiz schema** on `/quiz`
+- [x] ✅ **Article schema** on the 7 type guides (share-card images)
+- [x] ✅ **FAQPage schema** on home, `/workbooks`, all type guides
+- [x] ✅ **ItemList schema** on the pillar page
+
+### Content Hub (COMPLETED)
+- [x] ✅ **Pillar page** `/types`: "The 7 Types of Procrastination", one H2 per type
+- [x] ✅ **7 type guides**: arousal, avoidant, decisional, perfectionist, passive, active, emotion-regulation (each targets a type keyword, links to quiz + Payhip book)
+- [x] ✅ **Prose lint pass**: 0 banned words, 0 AI tells, 0 em dashes, 0 rule-of-three on all 8 pages (`tools/PROSE-LINT-REPORT-articles.md`)
+- [x] ✅ **Internal linking**: home archetypes section → pillar → type guides → quiz
+
+### Analytics (COMPLETED - Vercel Web Analytics, free)
+- [x] ✅ **`lib/analytics.ts` wrapper**: provider-swappable (Vercel now, Plausible later)
+- [x] ✅ **quiz_start**: quiz page mount
+- [x] ✅ **quiz_complete**: results page (primaryType, secondaryType, confidence props, deduped)
+- [x] ✅ **share_click**: per platform (twitter, facebook, linkedin, whatsapp, reddit, copy, native)
+- [x] ✅ **email_signup**: workbooks + quiz results forms (type, source props)
+- [x] ✅ **workbook_click**: all Payhip links (type, placement props)
+
+### Email Capture Expansion (COMPLETED)
+- [x] ✅ **Quiz results page form**: "workbook launch" notification, reuses `/api/email-signup` (Google Sheets), `source: quiz-results`, type-segmented
+
 ## Phase 2 (Revised): Cognitive Dismantling Ebooks (Pivot) 📚
 
 ### Strategy Change
@@ -202,7 +237,7 @@
 - [x] 🎨 **COMPLETED**: Create hand-drawn styling with CSS (Kalam font, rotations, borders)
 - [x] 🎨 **COMPLETED**: Develop printable PDF formats (Letter 8.5x11 with proper margins)
 - [x] 🎨 **COMPLETED**: Add interactive elements and fillable forms (dotted lines, dashed boxes)
-- [ ] 🎨 Design covers and marketing materials (using Method 4 templates)
+- [x] 🎨 **COMPLETED**: Design covers and marketing materials (data-driven HTML/Puppeteer generator, `book-covers/`, all 7 books: front/back/wrap PNG + PDF)
 - [x] 🎨 **COMPLETED**: Create sample pages for marketing use (`test-day-1.pdf` generated)
 
 ### Quality Assurance
@@ -289,11 +324,15 @@
 ## Technical Implementation Tasks 💻
 
 ### Website Optimization
+- [x] ✅ Implement sitemap.xml and robots.txt (auto-generated)
+- [x] ✅ Add per-page SEO metadata (titles, descriptions, canonical, OG/Twitter)
+- [x] ✅ Add schema.org JSON-LD (Organization, WebSite, Quiz, Article, FAQPage, ItemList)
+- [x] ✅ Add privacy-friendly analytics (Vercel Web Analytics) with 5 custom events
 - [ ] ⚡ Implement lazy loading for images and content
 - [ ] ⚡ Optimize Rough.js rendering performance
 - [ ] ⚡ Add Progressive Web App (PWA) capabilities
 - [ ] ⚡ Implement caching strategies
-- [ ] ⚡ Add analytics and conversion tracking
+- [ ] ⚡ Add analytics and conversion tracking (quiz funnel analysis)
 
 ### Development Infrastructure
 - [ ] 🔧 Set up staging environment

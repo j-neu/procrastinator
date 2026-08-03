@@ -72,6 +72,7 @@ export default function Home() {
   const [totalCompletions, setTotalCompletions] = useState<number>(10000)
 
   useEffect(() => {
+    document.title = 'Procrastitype - Procrastination Quiz: Discover Your Type in 5 Minutes'
     const fetchStats = async () => {
       try {
         const response = await fetch('/api/stats')
@@ -185,6 +186,12 @@ export default function Home() {
                 </div>
               ))}
             </div>
+            <div className="mt-12 text-center">
+              <Link href="/types" className="inline-flex items-center gap-2 text-sm font-bold uppercase tracking-widest text-osmo-neon-green hover:text-osmo-text transition-colors">
+                Explore All 7 Types in Depth
+                <span className="material-symbols-outlined text-[16px] group-hover:translate-x-1 transition-transform">arrow_forward</span>
+              </Link>
+            </div>
           </div>
         </section>
 
@@ -240,6 +247,22 @@ export default function Home() {
         </section>
       </main>
 
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqs.map((faq) => ({
+            "@type": "Question",
+            name: faq.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: faq.answer,
+            },
+          })),
+        }) }}
+      />
+
       <footer className="border-t border-osmo-border bg-osmo-surface py-20">
         <div className="osmo-container flex flex-col md:flex-row justify-between items-start md:items-center gap-12">
           <div>
@@ -252,7 +275,8 @@ export default function Home() {
             </div>
           </div>
           <div className="flex flex-wrap gap-x-12 gap-y-4 text-xs font-medium uppercase tracking-widest text-osmo-muted">
-            <Link className="hover:text-osmo-text transition-colors" href="/blog/why-you-procrastinate">Blog</Link>
+            <Link className="hover:text-osmo-text transition-colors" href="/types">Types</Link>
+          <Link className="hover:text-osmo-text transition-colors" href="/blog/why-you-procrastinate">Blog</Link>
             <Link className="hover:text-osmo-text transition-colors" href="/research">Research</Link>
             <Link className="hover:text-osmo-text transition-colors" href="/privacy">Privacy</Link>
             <Link className="hover:text-osmo-text transition-colors" href="/terms">Terms</Link>
