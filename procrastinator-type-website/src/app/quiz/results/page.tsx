@@ -130,7 +130,7 @@ export default function ResultsPage() {
         </header>
 
         {/* Primary Type Result */}
-        <div className="bg-osmo-surface border border-osmo-border p-12 mb-12 relative overflow-hidden group">
+        <div className="bg-osmo-surface border border-osmo-border p-6 sm:p-12 mb-12 relative overflow-hidden group">
           <div className="absolute top-0 right-0 p-12 opacity-5 pointer-events-none text-osmo-text">
              <div className="text-9xl">{typeIcon}</div>
           </div>
@@ -197,7 +197,7 @@ export default function ResultsPage() {
 
         {/* Strategies & Strengths Grid */}
         <div className="grid md:grid-cols-2 gap-8 mb-12">
-          <div className="p-8 border border-osmo-border hover:bg-osmo-surface transition-colors duration-500">
+          <div className="p-6 sm:p-8 border border-osmo-border hover:bg-osmo-surface transition-colors duration-500">
             <h3 className="text-xl font-display font-light text-osmo-text mb-8 flex items-center gap-3">
               <span className="material-symbols-outlined font-light">lightbulb</span>
               Strategic Interventions
@@ -212,7 +212,7 @@ export default function ResultsPage() {
             </ul>
           </div>
 
-          <div className="p-8 border border-osmo-border hover:bg-osmo-surface transition-colors duration-500">
+          <div className="p-6 sm:p-8 border border-osmo-border hover:bg-osmo-surface transition-colors duration-500">
             <h3 className="text-xl font-display font-light text-osmo-text mb-8 flex items-center gap-3">
               <span className="material-symbols-outlined font-light">verified</span>
               Core Strengths
@@ -229,7 +229,7 @@ export default function ResultsPage() {
         </div>
 
         {/* Score Breakdown */}
-        <div className="p-8 border border-osmo-border mb-12">
+        <div className="p-6 sm:p-8 border border-osmo-border mb-12">
           <h3 className="text-xl font-display font-light text-osmo-text mb-8 flex items-center gap-3">
             <span className="material-symbols-outlined font-light">analytics</span>
             Pattern Analysis
@@ -276,7 +276,7 @@ export default function ResultsPage() {
         </div>
 
         {/* Call to Action */}
-        <div className="relative overflow-hidden bg-osmo-text text-osmo-bg p-12 text-center group rounded-3xl">
+        <div className="relative overflow-hidden bg-osmo-text text-osmo-bg p-8 sm:p-12 text-center group rounded-3xl">
           <div className="relative z-10">
             <h3 className="text-3xl font-display font-light mb-4">
               Break the Cycle

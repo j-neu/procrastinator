@@ -74,6 +74,11 @@
 }
 
 /* Base Styles */
+html,
+body {
+  overflow-x: clip;
+}
+
 body {
   @apply bg-osmo-bg text-osmo-text font-sans antialiased selection:bg-osmo-electric-purple selection:text-white transition-colors duration-300;
 }

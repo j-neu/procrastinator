@@ -1,7 +1,7 @@
 'use client'
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { ThemeToggle } from '@/components/ThemeToggle'
+import SiteHeader from '@/components/SiteHeader'
 
 const procrastinationTypes = [
   {
@@ -88,29 +88,11 @@ export default function Home() {
 
   return (
     <div className="relative min-h-screen w-full flex flex-col bg-osmo-bg text-osmo-text transition-colors duration-500">
-      <header className="fixed top-0 z-50 w-full border-b border-osmo-border bg-osmo-bg/80 backdrop-blur-md">
-        <div className="osmo-container flex items-center justify-between py-4">
-          <Link href="/" className="group flex items-center gap-3">
-            <div className="size-3 bg-osmo-text rounded-full group-hover:scale-125 transition-transform duration-500"></div>
-            <span className="font-display font-medium tracking-wide text-sm uppercase">Procrastitype</span>
-          </Link>
-          <nav className="hidden md:flex items-center gap-12">
-            <a className="text-xs font-medium uppercase tracking-widest text-osmo-muted hover:text-osmo-text transition-colors duration-300" href="#problem">The Problem</a>
-            <a className="text-xs font-medium uppercase tracking-widest text-osmo-muted hover:text-osmo-text transition-colors duration-300" href="#types">Archetypes</a>
-            <a className="text-xs font-medium uppercase tracking-widest text-osmo-muted hover:text-osmo-text transition-colors duration-300" href="#references">Science</a>
-          </nav>
-          <div className="flex items-center gap-6">
-            <ThemeToggle />
-            <Link href="/quiz" className="hidden md:flex items-center gap-2 group">
-              <span className="text-xs font-medium uppercase tracking-widest group-hover:mr-2 transition-all duration-300">Start Assessment</span>
-              <span className="material-symbols-outlined text-[16px] group-hover:translate-x-1 transition-transform">arrow_forward</span>
-            </Link>
-            <button className="md:hidden">
-              <span className="material-symbols-outlined">menu</span>
-            </button>
-          </div>
-        </div>
-      </header>
+      <SiteHeader links={[
+        { href: '#problem', label: 'The Problem' },
+        { href: '#types', label: 'Archetypes' },
+        { href: '#references', label: 'Science' },
+      ]} />
 
       <main className="flex-1 pt-32">
         {/* Hero Section */}
@@ -119,11 +101,11 @@ export default function Home() {
             <div className="absolute inset-0 bg-grid-pattern bg-grid [mask-image:linear-gradient(to_bottom,white,transparent)]"></div>
           </div>
           <div className="osmo-container relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
-            <div className="col-span-1 lg:col-span-8">
+            <div className="col-span-1 lg:col-span-12 min-w-0">
               <div className="inline-flex items-center gap-3 mb-8 opacity-0 animate-[fadeIn_0.8s_ease-out_forwards]">
                 <span className="px-3 py-1 bg-osmo-neon-green text-black text-[10px] font-bold uppercase tracking-widest rounded-full">Behavioral Analysis</span>
               </div>
-              <h1 className="text-6xl md:text-8xl lg:text-[7.5rem] font-display font-light leading-[0.85] tracking-tight mb-12 opacity-0 animate-[slideUp_0.8s_ease-out_0.2s_forwards]">
+              <h1 className="text-4xl sm:text-6xl md:text-8xl lg:text-[7.5rem] font-display font-light leading-[1.05] md:leading-[0.9] lg:leading-[0.85] tracking-tight mb-12 opacity-0 animate-[slideUp_0.8s_ease-out_0.2s_forwards]">
                 Decode your <br/>
                 <span className="italic font-normal text-osmo-muted">procrastination.</span>
               </h1>
@@ -131,14 +113,14 @@ export default function Home() {
                 <p className="text-lg md:text-xl text-osmo-muted max-w-md font-light leading-relaxed">
                   It's not laziness. It's a complex psychological pattern. Identifying your type is the first step to mastering your focus.
                 </p>
-                <div className="flex gap-6 mt-4 md:mt-0">
-                  <Link href="/quiz" className="group relative px-8 py-4 bg-osmo-neon-green text-black rounded-full overflow-hidden hover:scale-[1.05] transition-transform duration-300 shadow-xl">
+                <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 mt-4 md:mt-0 w-full sm:w-auto">
+                  <Link href="/quiz" className="group relative flex w-full sm:w-auto items-center justify-center px-8 py-4 bg-osmo-neon-green text-black rounded-full overflow-hidden hover:scale-[1.05] transition-transform duration-300 shadow-xl">
                     <span className="relative z-10 text-sm font-bold uppercase tracking-wider flex items-center gap-2">
                       Start Quiz
                       <span className="material-symbols-outlined text-[18px]">north_east</span>
                     </span>
                   </Link>
-                  <Link href="/workbooks" className="group relative px-8 py-4 border border-osmo-text text-osmo-text rounded-full overflow-hidden hover:bg-osmo-text hover:text-osmo-bg transition-all duration-300">
+                  <Link href="/workbooks" className="group relative flex w-full sm:w-auto items-center justify-center px-8 py-4 border border-osmo-text text-osmo-text rounded-full overflow-hidden hover:bg-osmo-text hover:text-osmo-bg transition-all duration-300">
                     <span className="relative z-10 text-sm font-bold uppercase tracking-wider flex items-center gap-2">
                       Get Workbook
                     </span>
@@ -269,7 +251,7 @@ export default function Home() {
               © 2026 Procrastitype. Science-backed focus optimization.
             </div>
           </div>
-          <div className="flex gap-12 text-xs font-medium uppercase tracking-widest text-osmo-muted">
+          <div className="flex flex-wrap gap-x-12 gap-y-4 text-xs font-medium uppercase tracking-widest text-osmo-muted">
             <Link className="hover:text-osmo-text transition-colors" href="/blog/why-you-procrastinate">Blog</Link>
             <Link className="hover:text-osmo-text transition-colors" href="/research">Research</Link>
             <Link className="hover:text-osmo-text transition-colors" href="/privacy">Privacy</Link>

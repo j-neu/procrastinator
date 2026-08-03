@@ -86,6 +86,8 @@ export default function ShareCard({ primaryType, className = '' }: ShareCardProp
           <img
             src={cardUrl}
             alt={`I'm a ${book.title}`}
+            loading="lazy"
+            decoding="async"
             className="w-full rounded-lg shadow-2xl"
           />
         </div>

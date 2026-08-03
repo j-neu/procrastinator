@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { ThemeToggle } from '@/components/ThemeToggle'
+import SiteHeader from '@/components/SiteHeader'
 
 export const metadata = {
   title: 'Why You Procrastinate: ACT, CBT & Cognitive Dismantling | Procrastitype',
@@ -9,21 +9,7 @@ export const metadata = {
 export default function WhyYouProcrastinate() {
   return (
     <div className="min-h-screen bg-osmo-bg text-osmo-text transition-colors duration-500">
-      <header className="fixed top-0 z-50 w-full border-b border-osmo-border bg-osmo-bg/80 backdrop-blur-md">
-        <div className="osmo-container flex items-center justify-between py-4">
-          <Link href="/" className="group flex items-center gap-3">
-            <div className="size-3 bg-osmo-text rounded-full group-hover:scale-125 transition-transform duration-500"></div>
-            <span className="font-display font-medium tracking-wide text-sm uppercase">Procrastitype</span>
-          </Link>
-          <div className="flex items-center gap-6">
-            <ThemeToggle />
-            <Link href="/quiz" className="hidden md:flex items-center gap-2 group">
-              <span className="text-xs font-medium uppercase tracking-widest group-hover:mr-2 transition-all duration-300">Start Assessment</span>
-              <span className="material-symbols-outlined text-[16px] group-hover:translate-x-1 transition-transform">arrow_forward</span>
-            </Link>
-          </div>
-        </div>
-      </header>
+      <SiteHeader />
 
       <main className="pt-40 pb-20">
         <article className="osmo-container max-w-3xl">
@@ -207,7 +193,7 @@ export default function WhyYouProcrastinate() {
               © 2026 Procrastitype. Science-backed focus optimization.
             </div>
           </div>
-          <div className="flex gap-12 text-xs font-medium uppercase tracking-widest text-osmo-muted">
+          <div className="flex flex-wrap gap-x-12 gap-y-4 text-xs font-medium uppercase tracking-widest text-osmo-muted">
             <Link className="hover:text-osmo-text transition-colors" href="/blog/why-you-procrastinate">Blog</Link>
             <Link className="hover:text-osmo-text transition-colors" href="/research">Research</Link>
             <Link className="hover:text-osmo-text transition-colors" href="/privacy">Privacy</Link>
