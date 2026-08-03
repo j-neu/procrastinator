@@ -138,7 +138,8 @@
 - [x] ✅ **sitemap.xml**: Auto-generated from `src/app/sitemap.ts` (all 16 routes)
 - [x] ✅ **robots.txt**: Auto-generated from `src/app/robots.ts` (`/api/`, `/admin` disallowed)
 - [x] ✅ **Per-page metadata**: Unique titles, descriptions, canonical, OG/Twitter cards on all routes
-- [x] ✅ **Google Search Console verification**: `public/google87e4ddcc8e80c24b.html` served at site root
+- [x] ✅ **Google Search Console verification**: meta tag in site head (`verification.google` in `layout.tsx`), file backup at `public/google87e4ddcc8e80c24b.html`
+- [x] ✅ **Search engine submission**: GSC property verified (URL prefix, HTML tag method), sitemap submitted in GSC + Bing Webmaster Tools (imported from GSC), indexing requested for home, quiz, workbooks and all 7 type pages (2026-08-03)
 - [x] ✅ **Page speed**: Font preconnects, `display=swap`, static prerendering for content pages
 
 ### Schema.org (COMPLETED)

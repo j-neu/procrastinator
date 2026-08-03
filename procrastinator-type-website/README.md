@@ -120,10 +120,11 @@ src/
    - Test email signup form
    - ✅ Emails will automatically save to your Google Sheet
 
-4. **Search Engine Verification**:
-   - In Google Search Console, choose the **HTML tag** method and verify (the meta tag is already in the head of every page via `layout.tsx`)
+4. **Search Engine Verification** ✅ **DONE (2026-08-03)**:
+   - GSC property verified via the **HTML tag** method (meta tag already in the head of every page via `layout.tsx`)
+   - Sitemap submitted in Google Search Console **and** Bing Webmaster Tools (imported from GSC)
+   - Indexing requested for home, quiz, workbooks and all 7 `/types` pages
    - The old HTML-file method (`/google87e4ddcc8e80c24b.html`) also works as a backup
-   - Submit `https://procrastitype.jnprojects.me/sitemap.xml` in GSC and Bing Webmaster Tools
    - Analytics events appear automatically in Vercel Dashboard → Analytics (no setup)
 
 ## Troubleshooting
