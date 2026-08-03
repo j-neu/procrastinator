@@ -8,6 +8,8 @@ A science-backed platform to help people understand their procrastination patter
 - **Hand-drawn Design**: Rough.js integration with Virgil font for authentic sketchy look
 - **Type Assessment**: Identifies primary + secondary procrastination types with confidence levels
 - **Email Signup Integration**: ✅ **WORKING** - Google Sheets API for persistent email collection
+- **Live Book Sales**: ✅ Quiz results link straight to the Payhip store for the matched type
+- **Share Cards**: ✅ Square "I'm a [type] procrastinator!" images (book-cover style) for download/share
 - **Mobile Responsive**: Optimized for all device sizes
 - **Scientific Foundation**: Based on Ferrari (1991), Chu & Choi (2005), Steel (2007) research
 

@@ -4,14 +4,15 @@ import { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import HandDrawnIcon from '../../components/HandDrawnIcon';
+import { getPayhipBook } from '../../lib/payhip-links';
 
 const procrastinationTypes = {
   'arousal': { title: 'Arousal Procrastinator', icon: 'lightning' },
-  'avoidant': { title: 'Avoidant Procrastinator', icon: 'shield' },
+  'avoidant': { title: 'Avoidance Procrastinator', icon: 'shield' },
   'decisional': { title: 'Decisional Procrastinator', icon: 'scales' },
   'active': { title: 'Active Procrastinator', icon: 'target' },
   'passive': { title: 'Passive Procrastinator', icon: 'cyclone' },
-  'emotion': { title: 'Emotion-Regulation Procrastinator', icon: 'brain' },
+  'emotionRegulation': { title: 'Emotion-Regulation Procrastinator', icon: 'brain' },
   'perfectionist': { title: 'Perfectionist Procrastinator', icon: 'diamond' }
 };
 
@@ -27,8 +28,9 @@ function WorkbooksPageContent() {
   // Check if user came from quiz results
   const userType = searchParams.get('type') as keyof typeof procrastinationTypes;
   const fromQuiz = !!userType;
-  
+
   const typeInfo = userType ? procrastinationTypes[userType] : null;
+  const book = userType ? getPayhipBook(userType) : null;
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -121,9 +123,15 @@ function WorkbooksPageContent() {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-display font-bold text-osmo-text mb-6">
             Workbooks
-            <span className="block text-osmo-neon-green">
-              Coming Soon
-            </span>
+            {book ? (
+              <span className="block text-osmo-neon-green">
+                Now Available
+              </span>
+            ) : (
+              <span className="block text-osmo-neon-green">
+                Coming Soon
+              </span>
+            )}
           </h1>
         </div>
 
@@ -137,15 +145,26 @@ function WorkbooksPageContent() {
                   You're an <span className="text-osmo-neon-green">{typeInfo.title}</span>
                 </h2>
               </div>
-              
-              <p className="text-lg text-osmo-muted mb-6">
-                Your personalized workbook is currently in development. 
-                Sign up to get notified when it's ready!
-              </p>
-              
-              <p className="text-sm text-osmo-muted mb-8">
-                No spam – we'll only email you when your specific workbook is available.
-              </p>
+
+              {book ? (
+                <>
+                  <p className="text-lg text-osmo-muted mb-6">
+                    Your guide to breaking the {typeInfo.title} pattern is ready. Grab the book now and start dismantling it today.
+                  </p>
+                  <a
+                    href={book.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-block mb-4 px-8 py-3 bg-osmo-neon-green border border-osmo-neon-green rounded-full font-semibold text-black transition-all duration-300 hover:opacity-90"
+                  >
+                    Get the Book on Payhip
+                  </a>
+                </>
+              ) : (
+                <p className="text-lg text-osmo-muted mb-6">
+                  Your personalized book is currently in development. Sign up to get notified when it's ready!
+                </p>
+              )}
             </div>
           ) : (
             // User came from landing page
@@ -177,7 +196,8 @@ function WorkbooksPageContent() {
             </div>
           )}
 
-          {/* Email Signup Form */}
+          {/* Email Signup Form (only shown when there's no live book to buy) */}
+          {!book && (
           <form onSubmit={handleSubmit} className="max-w-md mx-auto">
             <div className="flex flex-col gap-4">
               <input
@@ -202,6 +222,7 @@ function WorkbooksPageContent() {
               </button>
             </div>
           </form>
+          )}
         </div>
 
         {/* Back Navigation */}

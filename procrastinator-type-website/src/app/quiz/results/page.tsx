@@ -2,11 +2,12 @@
 
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
-import Link from 'next/link';
 import ShareButton from '../../../components/ShareButton';
+import ShareCard from '../../../components/ShareCard';
 import { QuizResult } from '../../../lib/quiz-data';
 import { ImprovedQuizResult } from '../../../lib/improved-quiz-scoring';
 import { getTypeColor, getTypeIcon } from '../../../lib/quiz-utils';
+import { getPayhipBook } from '../../../lib/payhip-links';
 
 export default function ResultsPage() {
   const [result, setResult] = useState<QuizResult | null>(null);
@@ -164,16 +165,35 @@ export default function ResultsPage() {
                 }}
                 className="bg-osmo-text/5 border border-osmo-border hover:bg-osmo-text/10 text-osmo-text px-6 py-2 rounded-full text-xs uppercase tracking-widest transition-colors"
               />
-              
-              <Link 
-                href={`/workbooks?type=${result.primaryType}`}
-                className="bg-osmo-text text-osmo-bg px-6 py-2 rounded-full text-xs uppercase tracking-widest font-bold hover:scale-105 transition-transform"
-              >
-                Get the Workbook
-              </Link>
+
+              {(() => {
+                const book = getPayhipBook(result.primaryType);
+                if (!book) return null;
+                return (
+                  <div className="flex flex-col items-center gap-4">
+                    <a
+                      href={book.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-osmo-text text-osmo-bg px-6 py-2 rounded-full text-xs uppercase tracking-widest font-bold hover:scale-105 transition-transform"
+                    >
+                      Get the Book
+                    </a>
+                    <p className="text-xs text-osmo-muted">
+                      Your <span className="text-osmo-text">{book.title}</span> book is live. Deep-dive into breaking the pattern.
+                    </p>
+                  </div>
+                );
+              })()}
             </div>
           </div>
         </div>
+
+        {/* Shareable card */}
+        <ShareCard
+          primaryType={result.primaryType}
+          className="mb-12"
+        />
 
         {/* Strategies & Strengths Grid */}
         <div className="grid md:grid-cols-2 gap-8 mb-12">
@@ -262,15 +282,23 @@ export default function ResultsPage() {
               Break the Cycle
             </h3>
             <p className="opacity-60 mb-8 max-w-xl mx-auto font-light leading-relaxed">
-              Download the workbook specifically engineered for the {result.typeDetails.title} pattern.
+              Download the book specifically engineered for the {result.typeDetails.title} pattern.
             </p>
-            <Link 
-              href={`/workbooks?type=${result.primaryType}`}
-              className="inline-flex items-center gap-2 px-8 py-3 bg-osmo-bg text-osmo-text rounded-full font-medium hover:scale-105 transition-transform"
-            >
-              <span className="text-xs uppercase tracking-widest font-bold">Get Workbook</span>
-              <span className="material-symbols-outlined text-[16px]">arrow_forward</span>
-            </Link>
+            {(() => {
+              const book = getPayhipBook(result.primaryType);
+              if (!book) return null;
+              return (
+                <a
+                  href={book.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 px-8 py-3 bg-osmo-bg text-osmo-text rounded-full font-medium hover:scale-105 transition-transform"
+                >
+                  <span className="text-xs uppercase tracking-widest font-bold">Get the Book</span>
+                  <span className="material-symbols-outlined text-[16px]">arrow_forward</span>
+                </a>
+              );
+            })()}
           </div>
           <div className="absolute inset-0 bg-grid-pattern opacity-5 pointer-events-none"></div>
         </div>

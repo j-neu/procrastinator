@@ -117,7 +117,7 @@ Discover your procrastination type: ${window.location.origin}/quiz`;
             </div>
 
             {/* Native Share (Mobile) */}
-            {typeof navigator !== 'undefined' && navigator.share && (
+            {'share' in navigator && (
               <button
                 onClick={nativeShare}
                 className="w-full mb-4 p-3 border border-osmo-border rounded-lg font-medium text-osmo-text hover:bg-osmo-text/5 transition-all duration-300 flex items-center justify-center"
