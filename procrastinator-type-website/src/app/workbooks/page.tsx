@@ -4,7 +4,7 @@ import { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import HandDrawnIcon from '../../components/HandDrawnIcon';
-import { getPayhipBook } from '../../lib/payhip-links';
+import { getPayhipBook, PAYHIP_BOOKS } from '../../lib/payhip-links';
 import { track } from '../../lib/analytics';
 
 const siteUrl = 'https://procrastitype.jnprojects.me';
@@ -111,7 +111,7 @@ function WorkbooksPageContent() {
   if (submitted) {
     return (
       <div className="min-h-screen bg-osmo-bg py-8">
-        <div className="container mx-auto px-4 max-w-3xl">
+      <div className="container mx-auto px-4 max-w-4xl">
           <div className="text-center">
             <div className="mb-8">
               <HandDrawnIcon name="sparkles" size={80} className="mx-auto mb-4" />
@@ -161,17 +161,45 @@ function WorkbooksPageContent() {
       <div className="container mx-auto px-4 max-w-3xl">
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-display font-bold text-osmo-text mb-6">
-            Workbooks
-            {book ? (
-              <span className="block text-osmo-neon-green">
-                Now Available
-              </span>
-            ) : (
-              <span className="block text-osmo-neon-green">
-                Coming Soon
-              </span>
-            )}
+            Books & Workbooks
           </h1>
+          <p className="text-lg text-osmo-muted font-light max-w-2xl mx-auto leading-relaxed">
+            All seven cognitive dismantling books are live on Payhip. The 31-day workbooks for each type are in development, and you can sign up below to be notified.
+          </p>
+        </div>
+
+        {/* All cognitive dismantling books */}
+        <div className="mb-16">
+          <h2 className="text-2xl md:text-3xl font-display font-bold text-osmo-text mb-4 text-center">
+            The Cognitive Dismantling Books
+          </h2>
+          <p className="text-center text-osmo-muted font-light mb-10 max-w-2xl mx-auto leading-relaxed">
+            Seven books, one for each procrastination pattern. Each one walks you through the cognitive dismantling method to break the fear loop for good.
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {Object.entries(PAYHIP_BOOKS).map(([typeKey, bookEntry]) => (
+              <div key={typeKey} className="bg-osmo-surface rounded-lg border border-osmo-border overflow-hidden flex flex-col">
+                <img
+                  src={`/share-cards/${bookEntry.cardSlug}.png`}
+                  alt={`${bookEntry.title} book cover`}
+                  loading="lazy"
+                  className="w-full aspect-square object-cover"
+                />
+                <div className="p-5 flex flex-col gap-4 flex-1">
+                  <h3 className="font-display font-bold text-osmo-text">{bookEntry.title}</h3>
+                  <a
+                    href={bookEntry.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    onClick={() => track('workbook_click', { type: typeKey, placement: 'workbooks-grid' })}
+                    className="mt-auto inline-block text-center px-4 py-2.5 bg-osmo-neon-green border border-osmo-neon-green rounded-full font-semibold text-black text-sm transition-all duration-300 hover:opacity-90"
+                  >
+                    Get the Book on Payhip
+                  </a>
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
 
         <div className="p-8 bg-osmo-surface rounded-lg border border-osmo-border mb-8">
