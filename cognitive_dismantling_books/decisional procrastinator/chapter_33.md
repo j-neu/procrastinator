@@ -6,7 +6,7 @@ It is the withdrawal from the illusion of control.
 
 For years, you have used "I'm thinking about it" as a shield. As long as you were "thinking about it," you hadn't failed. You hadn't lost any options. As long as you didn't choose the red car, you could still theoretically have the blue car. You felt like the master of potential.
 
-When you start deciding immediately—when you adopt the habit of swift commitment—you strip away that shield. You are suddenly exposed to reality. You pick the red car, and the blue car is gone. That feeling of "loss of options" can feel like a pang of anxiety. It can feel like an itch.
+When you start deciding immediately (when you adopt the habit of swift commitment), you strip away that shield. You are suddenly exposed to reality. You pick the red car, and the blue car is gone. That feeling of "loss of options" can feel like a pang of anxiety. It can feel like an itch.
 
 "Did I look at enough reviews?"
 "Maybe I should have asked Mom first."
@@ -22,11 +22,11 @@ Recognize this for what it is: The dying throes of the indecision beast.
 
 Treat it with a shrug. "Oh, that's just the old habit. I've made the choice. It's done. I am moving forward."
 
-The withdrawal period is short. Once you start seeing the results of your decisions—even the imperfect ones—you will realize that the world didn't end. You will realize that reality is malleable. You can work with what you chose.
+The withdrawal period is short. Once you start seeing the results of your decisions, even the imperfect ones, you will realize that the world didn't end. You will realize that reality is malleable. You can work with what you chose.
 
 The joy of momentum will quickly replace the anxiety of "option loss." You will start to feel the wind in your hair because you are finally moving.
 
-During this period, be kind to yourself, but be firm. Do not indulge the urge to second-guess. Second-guessing is just procrastination in reverse—it’s trying to un-make a decision so you can go back to the "safety" of not having chosen.
+During this period, be kind to yourself, but be firm. Do not indulge the urge to second-guess. Second-guessing is just procrastination in reverse, it’s trying to un-make a decision so you can go back to the "safety" of not having chosen.
 
 Keep your eyes forward. The rearview mirror is for checking traffic, not for driving the car.
 

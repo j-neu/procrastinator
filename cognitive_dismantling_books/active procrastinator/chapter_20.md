@@ -1,6 +1,6 @@
 # Chapter 20: Those Sinister Black Shadows
 
-Even when the Active Procrastinator is "winning"—meeting deadlines, getting promotions, impressing people—there is a shadow.
+Even when the Active Procrastinator is "winning" (meeting deadlines, getting promotions, impressing people) there is a shadow.
 
 It is the Shadow of **Imposter Syndrome**.
 

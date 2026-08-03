@@ -8,7 +8,7 @@ Six months from now, you might have a bad day. You might feel overwhelmed. A fri
 
 The old thought will come back: "Yeah. I deserve relief. I need to protect my mood."
 
-If you listen to that thought—if you use avoidance as a treat—you will be back in the trap instantly.
+If you listen to that thought (if you use avoidance as a treat), you will be back in the trap instantly.
 
 You will remember the "hit" of relief. The Little Monster will wake up. "Feed me!"
 

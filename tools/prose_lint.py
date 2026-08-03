@@ -33,6 +33,7 @@ BANNED = {
     "moreover", "furthermore", "in addition", "it is worth noting",
     "in conclusion", "ultimately", "in summary", "additionally",
     "in today's fast-paced", "in today's fast paced",
+    "easyway", "easy way", "easy method",
 }
 
 AI_TELLS = [
@@ -93,6 +94,15 @@ def banned_hits(text: str):
     return hits
 
 
+def em_dash_hits(text: str):
+    hits = []
+    for line_no, line in enumerate(text.splitlines(), start=1):
+        count = line.count(EM_DASH)
+        if count:
+            hits.append((line_no, f"em dash x{count}", line.strip()[:90]))
+    return hits
+
+
 def sentences(text: str):
     text = strip_markdown(text)
     parts = re.split(r"(?<=[.!?])\s+", text)
@@ -118,7 +128,7 @@ def lint_file(path: Path):
     prose = strip_markdown(raw)
     words = [w for w in re.split(r"\s+", prose) if w]
 
-    banned = banned_hits(raw)
+    banned = banned_hits(raw) + em_dash_hits(raw)
     tells = find_pattern(raw, AI_TELLS, "ai-tell")
     em_dashes = raw.count(EM_DASH)
     em_per_k = em_dashes * 1000.0 / max(len(words), 1)

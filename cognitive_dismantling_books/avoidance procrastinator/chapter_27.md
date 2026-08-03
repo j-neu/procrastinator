@@ -17,7 +17,7 @@ It is your life bleeding away.
 It is your dreams dying on the vine.
 
 When we bond over our misery, we create a "Crab Bucket."
-If one person tries to climb out—if one person says, "I'm actually going to finish my work early today"—the others pull them back.
+If one person tries to climb out (if one person says, "I'm actually going to finish my work early today") the others pull them back.
 "Oh, look at the teacher's pet!" "Stop making us look bad!"
 
 Don't be the crab.

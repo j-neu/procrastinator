@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>{{TITLE}} ({{EDITION}})</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300;1,8..60,400&family=Space+Grotesk:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --ink:     #1f1f1c;
+    --ink-soft: #4a4a44;
+    --ink-faint: #8a8a80;
+    --rule:    #c9c4b4;
+    --accent:  #5b7691;
+  }
+
+  * { box-sizing: border-box; }
+
+  @page {
+    size: 6in 9in;
+    margin: 0.85in 0.95in 0.9in 0.95in;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Source Serif 4", Georgia, serif;
+    font-size: 10.5pt;
+    line-height: 1.55;
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: geometricPrecision;
+  }
+
+  /* ── Front matter ── */
+  .title-page {
+    break-before: page;
+    text-align: center;
+    padding-top: 1.1in;
+  }
+  .title-page .series-eyebrow {
+    font-family: "Space Mono", monospace;
+    font-size: 9pt;
+    letter-spacing: 0.42em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-bottom: 0.9in;
+  }
+  .title-page .series-eyebrow .dot {
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--accent);
+    vertical-align: 2px;
+    margin: 0 16px;
+  }
+  .title-page h1 {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 27pt;
+    line-height: 1.15;
+    letter-spacing: 0.03em;
+    margin: 0 0 0.3in 0;
+    color: var(--ink);
+  }
+  .title-page .edition {
+    font-family: "Space Mono", monospace;
+    font-size: 10.5pt;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 0.55in;
+  }
+  .title-page .subtitle {
+    font-size: 12pt;
+    font-style: italic;
+    font-weight: 300;
+    color: var(--ink-soft);
+    max-width: 3.4in;
+    margin: 0 auto 0.95in auto;
+  }
+  .title-page .rule {
+    width: 0.7in;
+    height: 1px;
+    background: var(--rule);
+    margin: 0 auto 0.95in auto;
+  }
+  .title-page .author {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 13pt;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink);
+  }
+
+  .copyright-page {
+    break-before: page;
+    padding-top: 2.2in;
+    font-size: 8.5pt;
+    line-height: 1.6;
+    color: var(--ink-soft);
+  }
+  .copyright-page p { margin: 0 0 12px 0; }
+  .copyright-page .edition-line { margin-top: 26px; }
+
+  .frontmatter {
+    break-before: page;
+  }
+  .frontmatter h1 {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 18pt;
+    margin: 0 0 0.4in 0;
+  }
+
+  /* ── Chapters ── */
+  .chapter {
+    break-before: page;
+  }
+  .chapter .chapter-kicker {
+    font-family: "Space Mono", monospace;
+    font-size: 9pt;
+    letter-spacing: 0.34em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 0.12in 0;
+  }
+  .chapter h1 {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 20pt;
+    line-height: 1.18;
+    letter-spacing: 0.01em;
+    margin: 0 0 0.42in 0;
+    color: var(--ink);
+  }
+  .chapter .chapter-rule {
+    width: 0.55in;
+    height: 1px;
+    background: var(--rule);
+    margin-bottom: 0.45in;
+  }
+
+  /* Body */
+  p {
+    margin: 0 0 0.32em 0;
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    orphans: 3;
+    widows: 3;
+  }
+  p:last-child { margin-bottom: 0; }
+
+  strong { font-weight: 600; }
+  em { font-style: italic; }
+
+  /* Lists */
+  ul, ol {
+    margin: 0.2em 0 0.4em 0;
+    padding-left: 1.2em;
+  }
+  li { margin: 0 0 0.18em 0; text-align: justify; }
+  li > ul, li > ol { margin-top: 0.12em; }
+
+  /* Exercise blocks: never orphan the heading from the content that follows it */
+  h3 {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 600;
+    font-size: 11pt;
+    letter-spacing: 0.02em;
+    margin: 1.1em 0 0.35em 0;
+    color: var(--accent);
+    break-after: avoid;
+    page-break-after: avoid;
+    break-inside: avoid;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid var(--rule);
+    width: 2.4in;
+    margin: 0.55em auto;
+  }
+
+  /* Back matter */
+  .series-page {
+    break-before: page;
+    text-align: center;
+    padding-top: 0.7in;
+  }
+  .series-page h2 {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 15pt;
+    margin: 0 0 0.3in 0;
+  }
+  .series-page .series-item {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 10.5pt;
+    line-height: 1.2;
+    color: var(--ink-soft);
+    margin-bottom: 0.12in;
+  }
+  .series-page .series-item strong {
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .series-page .series-item .vol {
+    font-family: "Space Mono", monospace;
+    font-size: 8pt;
+    color: var(--accent);
+    margin-right: 8px;
+  }
+  .series-page .close-rule {
+    width: 0.7in;
+    height: 1px;
+    background: var(--rule);
+    margin: 0.5in auto 0.3in auto;
+  }
+</style>
+</head>
+<body>
+
+{{CONTENT}}
+
+</body>
+</html>

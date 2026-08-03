@@ -30,7 +30,7 @@ The drifter interprets this feeling as a signal to stop. "I'm too stressed to th
 
 The non-drifter interprets this feeling as a signal to *start*. "I'm feeling stressed about this, so I better do the first step to get it off my mind."
 
-The moment you start—just the first 5 minutes—the water level drops. The relief is real.
+The moment you start, just the first 5 minutes, the water level drops. The relief is real.
 
 But because the drifter rarely starts until the deadline forces them to, they rarely experience this relief. They only experience the relief of *avoidance*, which is fake relief. It is the relief of the man jumping out of a frying pan into the fire.
 

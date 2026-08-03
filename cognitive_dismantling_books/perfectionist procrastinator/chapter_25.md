@@ -8,7 +8,7 @@ This is one of the most damaging beliefs the perfectionist holds, because it mak
 
 So let me dismantle this belief, gently but completely.
 
-First, you are comparing yourself to a fiction. You do not see the colleague's drafts. You see their finished work and you assume it arrived finished. It did not. It went through the same muddle as yours—the false starts, the bad versions, the doubt. The difference is not that they don't care. It is that they don't worship. They care about the work and they let it be imperfect, and that imperfection is the price of the release.
+First, you are comparing yourself to a fiction. You do not see the colleague's drafts. You see their finished work and you assume it arrived finished. It did not. It went through the same muddle as yours, the false starts, the bad versions, the doubt. The difference is not that they don't care. It is that they don't worship. They care about the work and they let it be imperfect, and that imperfection is the price of the release.
 
 You are also comparing your insides to their outsides. You know your own doubt intimately, because you live in it. You assume they have none, because you only see their result. Everyone is comparing their messy interior to everyone else's polished exterior, and everyone is losing.
 

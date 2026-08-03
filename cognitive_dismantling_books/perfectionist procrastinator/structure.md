@@ -1,4 +1,4 @@
-# The Easy Way to Stop Procrastinating (Perfectionist Edition) - Structure
+# Breaking the Procrastination Pattern (Perfectionist Edition) - Structure
 
 **Target Word Count:** 15,000 - 20,000 words
 **Tone:** Informal, authoritative, empathetic, direct. No references to Allen Carr.
@@ -8,7 +8,7 @@
 
 1.  **The Most Demanding Person I Have Yet to Meet**
     *   *Introduction. The author as the ultimate perfectionist who spent years polishing work that never shipped. The realization that the standards weren't protecting the work; they were imprisoning it.*
-2.  **The Easy Method**
+2.  **This method**
     *   *You don't need to lower your standards. You don't need to become "sloppy." You just need to see that your standards are a trap, not a virtue.*
 3.  **Why is it Difficult to Start?**
     *   *The "Perfect Start" Myth. Why beginning feels impossible when the outcome might be flawed. The belief that you must know the perfect path before you take the first step.*
@@ -68,7 +68,7 @@
     *   *Fear that accepting "good enough" means abandoning your standards and your identity.*
 31. **Avoid False Incentives**
     *   *"If I finish this draft, I'll reward myself." Why bribery fails when the real enemy is the fear of the flawed result.*
-32. **The Easy Way to Stop**
+32. **This way to Stop**
     *   *The mindset shift: "Done" is a standard. "Shipped" is a standard. Perfection is a ghost.*
 33. **The Withdrawal Period**
     *   *The first few days of shipping imperfect work. The "itch" to revise, to redo, to start over.*

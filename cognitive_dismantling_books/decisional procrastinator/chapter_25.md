@@ -1,6 +1,6 @@
 # Chapter 25: Casual Deciders, Teenagers, Non-Procrastinators
 
-We look at decisive people—the "Casual Deciders"—with envy.
+We look at decisive people, the "Casual Deciders", with envy.
 We see them walk into a sandwich shop, look at the board for 10 seconds, and order.
 We see them quit a job without a 10-page exit strategy.
 We see them buy a car because "it looked cool."

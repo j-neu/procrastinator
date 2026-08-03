@@ -18,7 +18,7 @@ You miss the best scene because you are calculating deductions in your head.
 These are the Black Shadows.
 They are the ghosts of your potential, haunting your present.
 
-You are never fully "here" because part of you is always "there"—in the mess you left behind.
+You are never fully "here" because part of you is always "there," in the mess you left behind.
 You are living a half-life. You are haunting your own existence.
 
 The moment you do the work, the Shadows vanish.

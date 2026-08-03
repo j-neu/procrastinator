@@ -23,7 +23,7 @@ But procrastination is a habit. You won't slow down later. You will just get bet
 
 Your health is the ultimate deadline. And unlike a work deadline, you can't ask for an extension.
 
-When you stop the cycle, your body heals. The sleep returns. The digestion settles. You stop getting "mystery headaches." You realize that "feeling tired all the time" wasn't your personality—it was your addiction.
+When you stop the cycle, your body heals. The sleep returns. The digestion settles. You stop getting "mystery headaches." You realize that "feeling tired all the time" wasn't your personality. It was your addiction.
 
 ---
 

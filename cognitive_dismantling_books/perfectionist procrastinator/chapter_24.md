@@ -12,7 +12,7 @@ The perfectionist is not trying to relapse. They have made their decision. They 
 
 And the trap closes.
 
-I want you to understand something about the "just one more" trap. It is not a lapse of discipline. It is the most carefully engineered moment in the entire perfectionist system. Everything you have learned—the gold star, the fear of judgment, the black shadows—has been building toward this single second. The compulsion does not announce itself as the enemy. It arrives as a small, reasonable, even virtuous request.
+I want you to understand something about the "just one more" trap. It is not a lapse of discipline. It is the most carefully engineered moment in the entire perfectionist system. Everything you have learned (the gold star, the fear of judgment, the black shadows) has been building toward this single second. The compulsion does not announce itself as the enemy. It arrives as a small, reasonable, even virtuous request.
 
 What harm can one more check do?
 
@@ -22,7 +22,7 @@ This is the fatal slip, and it is the reason the willpower method always collaps
 
 Let me show you how the trap really works, so you can see the bullet coming.
 
-The "one more check" always appears when you are about to finish. It never appears when you are starting. It appears at the threshold of release—the moment just before the work leaves your hands. And that is not an accident. The check is not about the work. The check is about the release. The compulsion to check is the fear of letting go, wearing the costume of diligence.
+The "one more check" always appears when you are about to finish. It never appears when you are starting. It appears at the threshold of release, the moment just before the work leaves your hands. And that is not an accident. The check is not about the work. The check is about the release. The compulsion to check is the fear of letting go, wearing the costume of diligence.
 
 If the check were really about the work, you would check *before* you started polishing. But you do not. You check after. The check is the last barrier between you and the verdict. The phrase is not "let me improve this"; it is "let me not release this yet." The longer you check, the longer the verdict is postponed.
 

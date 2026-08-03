@@ -7,7 +7,7 @@ These are the ones that hit every single trigger of the Decisional Procrastinato
 2.  **High Ambiguity:** There is no objective "right" answer.
 3.  **Boredom/Tedium:** They involve paperwork, contracts, or endless comparison of dull details.
 
-Buying a house is the ultimate Combination Decision. It is expensive (Risk). It is subjective (Ambiguity—is this neighborhood "up and coming"?). And it is boring (Mortgage rates? Inspections?).
+Buying a house is the ultimate Combination Decision. It is expensive (Risk). It is subjective (Ambiguity, is this neighborhood "up and coming"?). And it is boring (Mortgage rates? Inspections?).
 
 When faced with a Combination Decision, the Ditherer falls apart. The brain jams.
 

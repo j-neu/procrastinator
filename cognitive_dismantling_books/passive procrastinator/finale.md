@@ -13,7 +13,7 @@ The **fear** is gone.
 You are no longer looking at those piles and thinking, "I can't handle this."
 You are looking at them and thinking, "That is just a pile of objects. I will move them, one by one, when I choose to."
 
-The monster is dead. The "Sleeping Partner" who whispered that you were weak, messy, and incapable—he has been silenced. You know now that you were never "naturally disorganized." You were just trapped in a loop of false relief.
+The monster is dead. The "Sleeping Partner" who whispered that you were weak, messy, and incapable. He has been silenced. You know now that you were never "naturally disorganized." You were just trapped in a loop of false relief.
 
 You have learned the great secret of the efficient: **It is easier to do it now.**
 It takes less energy to open the envelope than to stare at it for three weeks.

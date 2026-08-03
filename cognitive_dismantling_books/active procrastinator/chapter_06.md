@@ -8,7 +8,7 @@ The two main chemicals involved are **Cortisol** and **Adrenaline** (Epinephrine
 
 **Cortisol** is the stress hormone. It's designed to make you alert to danger. When you have a deadline hanging over your head, your body releases a steady drip of cortisol. This keeps you feeling "on edge." It's that nagging feeling in your stomach. It disrupts your sleep. It makes you irritable.
 
-**Adrenaline** is the fight-or-flight hormone. It's designed for immediate survival. When the deadline is imminent—when the saber-toothed tiger is leaping at you—your body dumps a massive load of adrenaline into your system.
+**Adrenaline** is the fight-or-flight hormone. It's designed for immediate survival. When the deadline is imminent (when the saber-toothed tiger is leaping at you) your body dumps a massive load of adrenaline into your system.
 
 This adrenaline dump does several things:
 1.  It narrows your focus (tunnel vision). You stop noticing the messy room, the hunger, the phone. You only see the task.
@@ -17,7 +17,7 @@ This adrenaline dump does several things:
 
 For the Active Procrastinator, this adrenaline rush is the only time you feel truly "alive" in your work.
 
-Regular work—work done without adrenaline—feels slow. It requires conscious effort. It requires **Dopamine** (the reward chemical) to sustain interest, but if your dopamine receptors are fried or you have low baseline dopamine (common in people with ADHD traits), regular work feels excruciatingly boring.
+Regular work, work done without adrenaline, feels slow. It requires conscious effort. It requires **Dopamine** (the reward chemical) to sustain interest, but if your dopamine receptors are fried or you have low baseline dopamine (common in people with ADHD traits), regular work feels excruciatingly boring.
 
 So, you subconsciously engineer situations that trigger Adrenaline. You create emergencies so that your body will naturally drug you with the energy you need to finish.
 

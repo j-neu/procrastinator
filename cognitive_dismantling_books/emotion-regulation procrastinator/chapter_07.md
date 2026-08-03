@@ -4,7 +4,7 @@ From our earliest years, we are bombarded with brainwashing about how work "shou
 
 We are taught that high performance feels like *flow*. It feels like *inspiration*. It feels *good*.
 
-So, when we sit down to work and it feels *bad*—when it feels clunky, awkward, and confusing—we think something is wrong.
+So, when we sit down to work and it feels *bad* (when it feels clunky, awkward, and confusing), we think something is wrong.
 
 "I'm not inspired," we say. "I have writer's block." "My heart isn't in it."
 

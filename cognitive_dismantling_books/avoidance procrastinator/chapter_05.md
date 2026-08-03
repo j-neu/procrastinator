@@ -1,7 +1,7 @@
 # CHAPTER 5
 # WHY DO WE KEEP PUTTING IT OFF?
 
-We all start procrastinating for understandable reasons—usually because a task makes us feel insecure or overwhelmed. But once we know it's ruining our lives, why do we carry on?
+We all start procrastinating for understandable reasons, usually because a task makes us feel insecure or overwhelmed. But once we know it's ruining our lives, why do we carry on?
 
 No regular procrastinator knows why. If they knew, they would stop. They ask themselves: "Why do I do this? Why am I so self-destructive? Do I want to fail?"
 
@@ -27,7 +27,7 @@ As long as you haven't checked your bank balance, you aren't broke.
 
 Avoidance preserves the fantasy of perfection. Action destroys the fantasy and replaces it with reality. And for the Avoidance Procrastinator, reality is scary.
 
-But here is the truth you are hiding from: **The fantasy is a prison.** The reality—flawed, messy, imperfect reality—is where life happens. It is where success happens. It is where joy happens.
+But here is the truth you are hiding from: **The fantasy is a prison.** The reality (flawed, messy, imperfect reality) is where life happens. It is where success happens. It is where joy happens.
 
 We keep putting it off because we have forgotten how to live in reality. We have retreated into the "Safety" of the waiting room.
 

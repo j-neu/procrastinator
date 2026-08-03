@@ -1,9 +1,9 @@
 # CHAPTER 2
-# THE EASY METHOD
+# THIS METHOD
 
-The object of this book is to get you into a frame of mind where, instead of the normal method of stopping procrastination—whereby you start off feeling like you are climbing a mountain, sacrificing your "freedom" and "comfort"—you start right away with a feeling of elation, as if you had been cured of a terrible disease.
+The object of this book is to get you into a frame of mind where, instead of the normal method of stopping procrastination (whereby you start off feeling like you are climbing a mountain, sacrificing your "freedom" and "comfort"), you start right away with a feeling of elation, as if you had been cured of a terrible disease.
 
-From then on, the further you go through life, the more you will look at tasks and wonder how you ever feared them in the first place. You will look at procrastinators not with envy—thinking they are "getting away with it"—but with pity.
+From then on, the further you go through life, the more you will look at tasks and wonder how you ever feared them in the first place. You will look at procrastinators not with envy (thinking they are "getting away with it"), but with pity.
 
 Provided you are not already a non-procrastinator (and if you are, why are you reading this?), I have an unusual instruction for you:
 
@@ -15,7 +15,7 @@ But let us accept that, whether you like it or not, you believe you are "hooked"
 
 So do not force yourself to become a productivity machine today. Do not set up a punishing schedule for tomorrow. As you read further, your desire to avoid will gradually be reduced. Do not go off half-cocked; this could be fatal. Remember, all you have to do is follow the instructions.
 
-The "Easy Method" is basically the complete opposite of the normal method of trying to stop.
+This method is basically the complete opposite of the normal method of trying to stop.
 
 The normal method (The Willpower Method) is to list the considerable disadvantages of procrastination:
 *   "I'm losing money."
@@ -31,7 +31,7 @@ This is the logical way to go about it, and thousands of people try this every J
 2.  **The scare tactics make it harder.** Telling an Avoidance Procrastinator that "time is running out" or "you're failing" just increases the Fear. And what do we do when we feel Fear? We avoid. So the reasons for stopping actually make you want to procrastinate *more*.
 3.  **It creates a sense of sacrifice.** You feel you are giving up your "safety valve," your "comfort," your "freedom." You feel you are being forced to become a boring drone.
 
-The Easy Method is this: We forget the reasons we *should* stop (you already know them, they keep you awake at night). Instead, we face the problem and ask ourselves:
+This method is this: We forget the reasons we *should* stop (you already know them, they keep you awake at night). Instead, we face the problem and ask ourselves:
 
 *   What is avoidance actually doing for me?
 *   Do I actually enjoy the time I spend avoiding?
@@ -43,7 +43,7 @@ I don't mean that the disadvantages outweigh the advantages. I mean there are **
 
 The only "advantage" it ever had was a temporary illusion of relief. An illusion that I will tear apart in the coming chapters.
 
-Once you realize that you aren't giving up anything—that you aren't giving up comfort, or safety, or freedom, but are actually *gaining* all those things—the fear will vanish. And when the fear vanishes, you won't need willpower. You will simply... start.
+Once you realize that you aren't giving up anything (that you aren't giving up comfort, or safety, or freedom, but are actually *gaining* all those things) the fear will vanish. And when the fear vanishes, you won't need willpower. You will simply... start.
 
 ***
 

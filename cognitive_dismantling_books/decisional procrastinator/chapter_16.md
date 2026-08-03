@@ -31,7 +31,7 @@ The Ditherer is a terrible accountant. We value pennies and minutes of "future s
 
 Real economy is decisiveness.
 Pick the first reasonable insurance quote. Lose the £50.
-Use the 12 hours you saved to work an extra shift, or freelance, or—better yet—relax.
+Use the 12 hours you saved to work an extra shift, or freelance, or, better yet, relax.
 You will be richer in money and richer in time.
 
 ### Exercise: The Hourly Rate Calculator

@@ -12,7 +12,7 @@ While neurodiversity is real, and executive dysfunction is real, the **Addiction
 
 Whether you have ADHD or not, relying on panic to function is a coping mechanism that eventually fails.
 
-In fact, if you *do* have ADHD or executive function challenges, the "Easy Method" is even *more* critical for you. Your system is already sensitive. overloading it with cortisol is doubly damaging.
+In fact, if you *do* have ADHD or executive function challenges, this method is even *more* critical for you. Your system is already sensitive. overloading it with cortisol is doubly damaging.
 
 It might be harder for you to initiate tasks. That is true. But the *relief* you feel when you stop procrastinating will be even greater.
 

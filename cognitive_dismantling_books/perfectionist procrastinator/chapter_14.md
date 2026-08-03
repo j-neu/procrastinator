@@ -16,13 +16,13 @@ The finished works you admire were not released because they were flawless. They
 
 So when you fear that you are giving up quality, ask yourself which quality you mean. If you mean the quality of the work in the world, you are not giving it up; you are finally allowing it to exist. The work that ships, flawed but finished, is infinitely more "quality" than the work that hides, perfect but nonexistent.
 
-If you mean the quality of your identity—the feeling of being someone who never settles—then yes, you are giving something up. You are giving up the mask. And the mask is not a badge of excellence. It is a suit of armor that has been weighing you down for years, and the enemy you wear it against is a phantom.
+If you mean the quality of your identity (the feeling of being someone who never settles), then yes, you are giving something up. You are giving up the mask. And the mask is not a badge of excellence. It is a suit of armor that has been weighing you down for years, and the enemy you wear it against is a phantom.
 
 What you are gaining, in exchange: everything. You are gaining finished work. You are gaining the extraordinary experience of seeing a project through from start to completion. You are gaining the money and opportunity that flow to people who ship. You are gaining sleep, and weekends, and a mind that is not permanently occupied with the unfinished.
 
 But the greatest gain is this: **the right to improve.** The perfectionist cannot improve, because improvement requires releasing a version of the work and then making the next version better. If the work never leaves your desk, there is no next version. The person who ships a rough report in March and a better report in June is an improving professional. The perfectionist who polishes the same report from March to June is standing still. By refusing to ship, you have not been protecting quality; you have been preventing your own growth.
 
-Here is the last thing I want you to hear. You are not giving up your taste. You are not giving up your eye. You are not giving up your standards in the sense that matters—the sense of knowing good work when you see it. All of that stays, because it is not the standards; it is you, and you have always been the one doing the seeing.
+Here is the last thing I want you to hear. You are not giving up your taste. You are not giving up your eye. You are not giving up your standards in the sense that matters, the sense of knowing good work when you see it. All of that stays, because it is not the standards; it is you, and you have always been the one doing the seeing.
 
 What leaves is the fear. What leaves is the demand that the world never see your rough edges. What leaves is the version of yourself that has been hiding in the drafting room for years.
 
@@ -30,7 +30,7 @@ You are not lowering your standards. You are releasing your work. Nothing is bei
 
 **EXERCISE: The Fantasy Funeral**
 
-Put the book down. Take your paper. Write down the fantasy version of your current project—the flawless version, the one that has been justifying the delay. Describe it in detail: how it looks, how it would be received, how you would feel releasing it.
+Put the book down. Take your paper. Write down the fantasy version of your current project, the flawless version, the one that has been justifying the delay. Describe it in detail: how it looks, how it would be received, how you would feel releasing it.
 
 Now read it back, and ask yourself the question you have been avoiding: *has this version ever been real?* You will not find the evidence, because the fantasy has never materialized. It has only ever been the thing you hid behind.
 

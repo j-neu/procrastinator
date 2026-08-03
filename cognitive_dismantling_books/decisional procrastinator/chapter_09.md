@@ -26,7 +26,7 @@ Stress -> Delay -> More Stress -> More Delay.
 
 The only way to break the cycle is to close the loops.
 
-When you make a decision—even a small one, even a "bad" one—you close the loop. You drop the rock from the backpack.
+When you make a decision (even a small one, even a "bad" one), you close the loop. You drop the rock from the backpack.
 *Clunk.*
 You feel lighter. Your RAM frees up. Your energy returns.
 

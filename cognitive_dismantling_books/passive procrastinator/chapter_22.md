@@ -40,7 +40,7 @@ If you think organization is **freedom**, you will never stop.
 
 The Willpower Method fails because it tries to overcome the "desire to drift" with brute force. It doesn't remove the desire. It just suppresses it.
 
-The Easy Method removes the desire. Once you realize that drifting is not "relaxing" but actually "torture," you don't need willpower to stop doing it. You don't need willpower to stop hitting yourself with a hammer. You just stop.
+This method removes the desire. Once you realize that drifting is not "relaxing" but actually "torture," you don't need willpower to stop doing it. You don't need willpower to stop hitting yourself with a hammer. You just stop.
 
 **EXERCISE: The "Have To" vs. "Get To" Shift**
 

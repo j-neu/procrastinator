@@ -14,7 +14,7 @@ Ironically, the most powerful force in this brainwashing is the procrastinator h
 
 This is one of the reasons why procrastinators refuse to accept the overwhelming evidence that waiting hurts their performance. Everyone knows of an Uncle Fred who "never started until the last minute" and became a CEO. They refuse even to consider the hundreds of other procrastinators who were fired, burnt out, or simply lived lives of quiet mediocrity because they never had time to polish their work.
 
-If you do a small survey among your friends, you will find that most arousal procrastinators are, in fact, high-energy people. They tend to be salespeople, journalists, emergency workers, or entrepreneurs—people who have gravitated towards careers that legitimize their addiction to chaos.
+If you do a small survey among your friends, you will find that most arousal procrastinators are, in fact, high-energy people. They tend to be salespeople, journalists, emergency workers, or entrepreneurs, people who have gravitated towards careers that legitimize their addiction to chaos.
 
 The extent of the brainwashing is quite incredible. We pride ourselves on being "good in a crisis." But we never stop to ask: "Why is my life *always* a crisis?"
 
@@ -37,7 +37,7 @@ We are about to remove the brainwashing. It is not the steady worker who is bein
 *   FREEDOM
 
 And what does he gain from these considerable sacrifices?
-ABSOLUTELY NOTHING—except the illusion of being a hero for solving a problem he created himself.
+ABSOLUTELY NOTHING, except the illusion of being a hero for solving a problem he created himself.
 
 ---
 

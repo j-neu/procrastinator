@@ -13,8 +13,8 @@ No. In fact, people with ADHD are *more* susceptible to burnout from the adrenal
 
 Using panic as your primary management tool for ADHD is like treating a broken leg by running on it until it goes numb. It works for a mile, and then you can't walk for a month.
 
-The Easy Method is actually *more* vital for you.
-When you stop relying on the last-minute panic, you can start building systems that actually support your brain. You can use body doubling, breaking tasks down, and gentle momentum—tools that are sustainable.
+This method is actually *more* vital for you.
+When you stop relying on the last-minute panic, you can start building systems that actually support your brain. You can use body doubling, breaking tasks down, and gentle momentum, tools that are sustainable.
 
 And the "creative type"?
 We have already debunked this. Creativity does not require suffering. That is a romantic myth that has killed too many artists.

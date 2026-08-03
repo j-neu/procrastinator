@@ -7,7 +7,7 @@ Many procrastination "gurus" will tell you to bribe yourself.
 "I'll buy myself a new gaming mouse if I complete this project."
 
 This is standard advice. It is also terrible advice.
-It is based on the Willpower Method. It assumes that the work is a chore—a sacrifice—and that you need a "treat" to compensate you for the suffering.
+It is based on the Willpower Method. It assumes that the work is a chore, a sacrifice, and that you need a "treat" to compensate you for the suffering.
 
 By using false incentives, you are reinforcing the brainwashing.
 You are telling your subconscious: "The work is the stick. The distraction is the carrot."

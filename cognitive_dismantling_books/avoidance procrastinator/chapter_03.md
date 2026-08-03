@@ -3,7 +3,7 @@
 
 Why is it so hard?
 
-You are an intelligent person. You know that the task you are avoiding—let's say, writing a report—will take maybe two hours. You know that if you just did it, you would feel wonderful. You would be free. You could enjoy your evening without guilt.
+You are an intelligent person. You know that the task you are avoiding (let's say, writing a report) will take maybe two hours. You know that if you just did it, you would feel wonderful. You would be free. You could enjoy your evening without guilt.
 
 Yet, you will spend *ten hours* dreading it. You will clean the entire house, scroll through news you don't care about, stare at the wall, eat food you don't want, all to avoid doing two hours of work.
 
@@ -42,7 +42,7 @@ The difficulty is not in the work. The difficulty is in the mental resistance yo
 
 Let me tell you a secret: **You will never feel like doing something you are terrified of.**
 
-But the moment you understand that the fear is a smoke screen—an illusion created by the avoidance itself—the wall crumbles.
+But the moment you understand that the fear is a smoke screen (an illusion created by the avoidance itself) the wall crumbles.
 
 ***
 

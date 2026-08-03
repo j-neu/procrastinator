@@ -10,13 +10,13 @@ Let me show you the actual arithmetic of the perfection tax.
 
 A normal worker is given a task. They estimate it will take four hours. They do it. It takes four hours. It ships. Done.
 
-A perfectionist is given the same task. They work on it for four hours. It is not, in their judgment, good enough. So they work on it for four more hours. Then four more. The task that should have taken four hours has taken twelve, and the extra eight hours have produced a marginal improvement so small that no one—literally no one—will ever notice it.
+A perfectionist is given the same task. They work on it for four hours. It is not, in their judgment, good enough. So they work on it for four more hours. Then four more. The task that should have taken four hours has taken twelve, and the extra eight hours have produced a marginal improvement so small that no one, literally no one, will ever notice it.
 
 That is the perfection tax: eight hours, paid for an invisible gain.
 
 Now, you may object. "But my work is judged on quality! The difference between good and excellent is what gets me promoted!" Let me address this directly, because it is the strongest argument the perfectionist has.
 
-Yes, the difference between good and excellent can matter. But here is the thing the perfectionist does not see: the difference between good and excellent is not achieved by polishing the first draft into the third draft. It is achieved by doing the work three times—by writing, shipping, learning, and writing again. The first report teaches you what the second report needs. The polished-to-death report teaches you nothing, because it never leaves your desk.
+Yes, the difference between good and excellent can matter. But here is the thing the perfectionist does not see: the difference between good and excellent is not achieved by polishing the first draft into the third draft. It is achieved by doing the work three times, by writing, shipping, learning, and writing again. The first report teaches you what the second report needs. The polished-to-death report teaches you nothing, because it never leaves your desk.
 
 The rework you are so afraid of is the rework that teaches. It is the feedback loop that makes professionals professional. By refusing to release anything but perfection, you have cut yourself off from the only mechanism that reliably improves work: doing it, seeing what happens, and doing it again. You have not been saving rework. You have been preventing improvement.
 

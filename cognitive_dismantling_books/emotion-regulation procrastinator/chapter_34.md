@@ -16,7 +16,7 @@ Or, you check social media. You get a hit of dopamine. Now the work feels even m
 
 There is no such thing as "just one" distraction when you are trying to start.
 
-When you are in the "airlock"—that transition period between resting and working—you must seal the doors. No outside input. No phones. No new tabs.
+When you are in the "airlock" (that transition period between resting and working), you must seal the doors. No outside input. No phones. No new tabs.
 
 Protect your headspace as if it were a sterile laboratory. One germ can ruin the whole experiment.
 

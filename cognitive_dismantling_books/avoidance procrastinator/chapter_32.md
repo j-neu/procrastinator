@@ -1,5 +1,5 @@
 # CHAPTER 32
-# THE EASY WAY TO STOP
+# THIS WAY TO STOP
 
 This is the chapter you have been waiting for.
 The actual method. The "how-to."
@@ -21,7 +21,7 @@ The difficulty is the *doubt*.
 The smoker suffers because he thinks, "I want a cigarette, but I can't have one." He creates a conflict.
 The procrastinator suffers because he thinks, "I should do this, but I don't want to." He creates a conflict.
 
-The Easy Way removes the conflict.
+This way removes the conflict.
 You realize that you *do* want to do it. Not because you love spreadsheets, but because you love *not having the spreadsheet hanging over your head*.
 You love the silence in your mind when the task is done.
 

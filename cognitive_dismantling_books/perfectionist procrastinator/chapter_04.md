@@ -4,9 +4,9 @@ Every trap has a lure. The mouse trap has the cheese. The perfectionist's trap i
 
 Society does not tell you to be a perfectionist. It tells you something far more dangerous: that your perfectionism is your greatest strength. "She has such high standards." "He never settles for mediocrity." So the trap does not look like a trap. It looks like a crown. This is the brainwashing. The trap is built from your own best intentions, and that is exactly why it works.
 
-Here is how the trap functions. It is a slow, quiet theft. You begin a project with genuine enthusiasm. The first hours are good. Then you hit the first flaw. And the trap snaps shut—not with a bang, but with a whisper: *"This isn't good enough. Fix it before you go any further."*
+Here is how the trap functions. It is a slow, quiet theft. You begin a project with genuine enthusiasm. The first hours are good. Then you hit the first flaw. And the trap snaps shut, not with a bang, but with a whisper: *"This isn't good enough. Fix it before you go any further."*
 
-So you fix it. In the fixing, you notice another flaw. You fix that too. Each fix is legitimate. Each fix genuinely improves the work. That is the genius of the trap—it never asks you to do anything that isn't, in isolation, a reasonable thing to do.
+So you fix it. In the fixing, you notice another flaw. You fix that too. Each fix is legitimate. Each fix genuinely improves the work. That is the genius of the trap. It never asks you to do anything that isn't, in isolation, a reasonable thing to do.
 
 But hours pass. You have "worked" all day and moved exactly four paragraphs forward. You have not shipped anything. You have polished a small island of the work while the vast ocean of it remains untouched.
 
@@ -16,7 +16,7 @@ The trap is also a time trap. Perfectionists believe they are making the work be
 
 Here is the deepest part of the trap: the belief that "someday" the conditions will be right. "When I have more time, I'll do it properly." The perfectionist lives in a perpetual future where the work will finally be worth starting. That future never arrives, because the condition you are waiting for is a feeling, and the feeling is always out of reach.
 
-The trap would be less sinister if it were clearly destructive. But it presents itself as diligence. It even produces occasional moments of genuine pride—when a polished paragraph finally satisfies you, you feel a surge of vindication. I am going to ask you to look at that feeling with suspicion. That moment of satisfaction is the cheese in the trap. It is the reward the trap doles out to keep you coming back. It feeds you small victories while it slowly starves you of finished work.
+The trap would be less sinister if it were clearly destructive. But it presents itself as diligence. It even produces occasional moments of genuine pride, when a polished paragraph finally satisfies you, you feel a surge of vindication. I am going to ask you to look at that feeling with suspicion. That moment of satisfaction is the cheese in the trap. It is the reward the trap doles out to keep you coming back. It feeds you small victories while it slowly starves you of finished work.
 
 Consider this: when was the last time you felt the pride of *completion*? Not the pride of a perfectly polished sentence. The pride of a finished thing. If you are a true perfectionist, you will have to search hard for the answer. You have spent years collecting small victories and no real ones.
 

@@ -9,7 +9,7 @@ You are the master of your own time, yet you treat yourself like a tyrant.
 You have a project due in two weeks. You have two weeks of freedom to do it at your leisure.
 What do you do? You do nothing for 13 days. And then, on the 14th day, you lock yourself in a room, deny yourself food, deny yourself sleep, and whip yourself until the work is done.
 
-If a boss did that to you—gave you nothing to do for 13 days and then demanded 24 hours of continuous labor on pain of termination—you would sue them. You would quit. You would call it a violation of human rights.
+If a boss did that to you (gave you nothing to do for 13 days and then demanded 24 hours of continuous labor on pain of termination), you would sue them. You would quit. You would call it a violation of human rights.
 
 But you do it to yourself. Again. And again. And again.
 

@@ -14,7 +14,7 @@ First: are your standards the reason your work is good? Think honestly about the
 
 Second: will your work get worse if you lower your standards? This is the fear that keeps every perfectionist locked in. But the version of the work you would ship today is better than the version you shipped last year, because you have grown. The quality is already inside you. You are not choosing between excellence and mediocrity. You are choosing between shipping and hiding.
 
-Third: are your standards a protection? Protection from what? Criticism? Criticism arrives anyway, the moment you ship—and it is almost always milder than you feared. Shame? The shame of the unfinished project is heavier and longer-lived than any comment a reader could make. The standards do not protect you. They delay you. They are not armor; they are a weight.
+Third: are your standards a protection? Protection from what? Criticism? Criticism arrives anyway, the moment you ship, and it is almost always milder than you feared. Shame? The shame of the unfinished project is heavier and longer-lived than any comment a reader could make. The standards do not protect you. They delay you. They are not armor; they are a weight.
 
 Now, the deepest layer: the myth of the effortless genius. Perfectionists compare their own messy process to a fictional version of other people's clean process. They imagine the admired colleague produces finished work directly, without drafts, without doubt. The comparison is rigged because the evidence is rigged. You see the finished work of others and the unfinished work of yourself. The colleague's report went through six drafts, one of which was embarrassingly bad, and you saw none of them.
 
@@ -28,7 +28,7 @@ There is a wonderful freedom in seeing the brainwashing for what it is. The mome
 
 **EXERCISE: The Gold Star Inventory**
 
-Put the book down. Take your paper. Write down the three messages you heard most often growing up about your work. Not the criticisms—the *praises*. "You're so meticulous." "You never settle." "You're such a perfectionist."
+Put the book down. Take your paper. Write down the three messages you heard most often growing up about your work. Not the criticisms, the *praises*. "You're so meticulous." "You never settle." "You're such a perfectionist."
 
 Now, for each one, write the hidden instruction being sent. Beneath "You're so meticulous" lives: *"Never let anyone see your rough work."* Beneath "You never settle" lives: *"Shipping imperfect is failure."* Beneath "You're such a perfectionist" lives: *"This is your identity. You are not allowed to change it."*
 

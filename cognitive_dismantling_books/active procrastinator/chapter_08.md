@@ -6,7 +6,7 @@ It’s a weird feeling. It’s not exactly boredom. It’s almost... wrong. It f
 
 "Why am I doing this now?" your brain asks. "It doesn't matter yet."
 
-That feeling—that itch to stop, to walk away, to go find a distraction—is the addiction talking.
+That feeling (that itch to stop, to walk away, to go find a distraction) is the addiction talking.
 
 You are itching for **stakes**.
 
@@ -38,7 +38,7 @@ Relieving the itch means learning to sit with that "wrong" feeling. It means sit
 
 And then typing the fourth sentence.
 
-It feels uncomfortable at first. It feels "too quiet." But eventually, the noise of the work itself—the ideas, the flow, the puzzle—will drown out the itch.
+It feels uncomfortable at first. It feels "too quiet." But eventually, the noise of the work itself (the ideas, the flow, the puzzle) will drown out the itch.
 
 ---
 

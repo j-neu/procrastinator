@@ -12,7 +12,7 @@ Here is what makes the combination task the perfectionist's perfect trap. It is 
 
 But notice what actually happens. The perfectionist does not respond to the combination task by producing excellent work. They respond by producing *no* work. The board receives no report. The application is never submitted. The task that was worth doing well ends up not being done at all.
 
-Let me put this plainly: **the combination task punishes perfectionism more than any other kind of task.** The stakes mean the work must be released into judgment. The quality means the work must be good enough to survive. But the perfectionist's response—refuse to release it—means the work is never judged and never good, because it does not exist.
+Let me put this plainly: **the combination task punishes perfectionism more than any other kind of task.** The stakes mean the work must be released into judgment. The quality means the work must be good enough to survive. But the perfectionist's response, refuse to release it, means the work is never judged and never good, because it does not exist.
 
 The irony is total. The perfectionist, who cares more than anyone about quality, is the only person who cannot complete the tasks where quality matters most.
 

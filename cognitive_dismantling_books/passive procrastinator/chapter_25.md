@@ -25,7 +25,7 @@ But what do we do? We yell at them. We tell them they are lazy. We shame them.
 And so they learn the lesson: "I am a messy person. Organization is painful and involves yelling."
 They become adult drifters.
 
-If you are a parent, stop shaming. Start systems. Don't say "Clean your room." Say "Let's set a timer for 10 minutes and see how much we can do." Teach them the Easy Method, not the Willpower Method.
+If you are a parent, stop shaming. Start systems. Don't say "Clean your room." Say "Let's set a timer for 10 minutes and see how much we can do." Teach them this method, not the Willpower Method.
 
 And if you are the adult drifter looking at the "casual" drifter: Don't be fooled. They are drowning too. They just have a better smile.
 

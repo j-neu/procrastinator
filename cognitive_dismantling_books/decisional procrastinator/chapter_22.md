@@ -17,9 +17,9 @@ You feel like you are sacrificing your "standards."
 You feel like you are sacrificing your "due diligence."
 You feel like you are being deprived of the comfort of Certainty.
 
-As long as you believe that "Researching" is a good thing that you are forcing yourself to stop doing, you will be miserable. You will be a "Dry Drunk"—someone who isn't drinking (researching) but desperately wants to.
+As long as you believe that "Researching" is a good thing that you are forcing yourself to stop doing, you will be miserable. You will be a "Dry Drunk," someone who isn't drinking (researching) but desperately wants to.
 
-The Easy Method is different.
+This method is different.
 We aren't using willpower because we aren't "giving up" anything good.
 We are escaping a burning building.
 

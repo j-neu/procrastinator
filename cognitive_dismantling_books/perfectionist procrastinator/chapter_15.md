@@ -14,11 +14,11 @@ And the fourth bar: **the standards make you a servant.** Consider your schedule
 
 Now here is the part I want you to feel, not just understand. You have been calling this slavery by noble names. "I'm dedicated." "I'm a perfectionist." "I care." And because you call it noble, you have never questioned the bill. But the bill has been coming every week for years: the abandoned projects, the sleepless nights, the opportunities that slipped past while you were perfecting the first chapter of the book that will never be written.
 
-Let me show you the life you have actually been living, stripped of its noble names. You get up. You think about the unfinished work before your feet hit the floor. You spin on it for hours, producing nothing shippable. You spend the evening half-polishing, half-avoiding. You go to bed anxious. At the end of the month, you look back and you have nothing to show—no release, no money, no growth, no rest. Just the same unfinished thing, slightly more polished, slightly more terrifying.
+Let me show you the life you have actually been living, stripped of its noble names. You get up. You think about the unfinished work before your feet hit the floor. You spin on it for hours, producing nothing shippable. You spend the evening half-polishing, half-avoiding. You go to bed anxious. At the end of the month, you look back and you have nothing to show, no release, no money, no growth, no rest. Just the same unfinished thing, slightly more polished, slightly more terrifying.
 
 That is not a life of high standards. That is a life of servitude, and the master is a fear you invented.
 
-The escape is not difficult. It is only unfamiliar. The escape begins when you stop honoring the prison. When you call the standards what they are—a demand that has never been met, a cage built to hold the fear—the bars become visible. And visible bars are the first step toward walking out.
+The escape is not difficult. It is only unfamiliar. The escape begins when you stop honoring the prison. When you call the standards what they are (a demand that has never been met, a cage built to hold the fear) the bars become visible. And visible bars are the first step toward walking out.
 
 You have been a slave to a phantom taskmaster. The taskmaster does not exist. The work exists. The work can be done. The work can be shipped. The work can be finished, and when it is finished, the master has nothing to command you with.
 
@@ -26,9 +26,9 @@ Imagine the version of your life where the work is always moving. Where projects
 
 **EXERCISE: The Schedule Audit**
 
-Put the book down. Take your paper. Write down what you did in the last seven days. Not your job description—your actual days. The evenings, the weekends, the hours.
+Put the book down. Take your paper. Write down what you did in the last seven days. Not your job description, your actual days. The evenings, the weekends, the hours.
 
-Now go through the list and mark each hour that was actually yours—rest, play, nothing—and each hour that was given to the unfinished work, either by polishing it or by worrying about it.
+Now go through the list and mark each hour that was actually yours (rest, play, nothing), and each hour that was given to the unfinished work, either by polishing it or by worrying about it.
 
 Count the hours in the second column. Multiply by fifty-two. That is your annual slavery tax, in hours, paid to a master that does not exist.
 

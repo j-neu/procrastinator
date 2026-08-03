@@ -12,9 +12,9 @@ As soon as the procrastinator hits "send" on the project, the adrenaline rapidly
 
 I must at this point dispel a common illusion that procrastinators have about withdrawal pangs. Procrastinators think that withdrawal pangs are the terrible boredom they suffer when they try to work steadily. These are, in fact, mainly mental; the procrastinator is feeling deprived of his drama.
 
-The actual pangs of withdrawal from the adrenaline rush are so subtle that most procrastinators have lived and died without even realizing they are drug addicts. When we use the term "adrenaline junkie," we usually think of skydivers. Most office-worker procrastinators have a horror of physical danger, yet that's exactly what they are—drug addicts using their own biochemistry.
+The actual pangs of withdrawal from the adrenaline rush are so subtle that most procrastinators have lived and died without even realizing they are drug addicts. When we use the term "adrenaline junkie," we usually think of skydivers. Most office-worker procrastinators have a horror of physical danger, yet that's exactly what they are, drug addicts using their own biochemistry.
 
-There is no physical pain in the withdrawal from the rush. It is merely an empty, flat, restless feeling, the feeling that "this is boring," or "I don't have the energy for this." It is like hunger—for a stimulant.
+There is no physical pain in the withdrawal from the rush. It is merely an empty, flat, restless feeling, the feeling that "this is boring," or "I don't have the energy for this." It is like hunger, for a stimulant.
 
 Within seconds of realizing you might miss the deadline, fresh adrenaline is supplied and the boredom ends, resulting in the feeling of intense focus and energy that the crisis appears to give to the procrastinator.
 
@@ -26,7 +26,7 @@ The whole business of arousal procrastination is a series of conundrums. All pro
 
 You know that feeling when a fire alarm has been ringing, and then suddenly stops? That marvellous feeling of peace. It is not really peace but the ending of the aggravation.
 
-Before we start the adrenaline chain, our bodies are balanced. We then force adrenaline into the body by creating a crisis, and when we finish the task and the adrenaline leaves, we suffer withdrawal pangs—not physical pain, just a "flat" feeling. We are not even aware that it exists, but it is like a grey fog. Our rational minds do not understand it. All we know is that we are bored, and when we realize we are running out of time, the boredom goes, and for the moment we are energized again. However, the satisfaction is only temporary because, in order to relieve the boredom next time, you have to create another crisis.
+Before we start the adrenaline chain, our bodies are balanced. We then force adrenaline into the body by creating a crisis, and when we finish the task and the adrenaline leaves, we suffer withdrawal pangs, not physical pain, just a "flat" feeling. We are not even aware that it exists, but it is like a grey fog. Our rational minds do not understand it. All we know is that we are bored, and when we realize we are running out of time, the boredom goes, and for the moment we are energized again. However, the satisfaction is only temporary because, in order to relieve the boredom next time, you have to create another crisis.
 
 The whole business of arousal procrastination is like wearing tight shoes just to obtain the pleasure you feel when you take them off.
 

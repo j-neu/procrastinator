@@ -14,7 +14,7 @@ The opposite is true.
 The worse you are, the easier it is to stop.
 
 Think about it.
-If you only procrastinate a little bit—say, you delay doing the dishes by 10 minutes—stopping won't change your life much. You won't feel a massive difference.
+If you only procrastinate a little bit (say, you delay doing the dishes by 10 minutes) stopping won't change your life much. You won't feel a massive difference.
 But if you are a chronic, deep-trench avoidance procrastinator?
 If you have spent years living in a state of low-grade panic?
 If you have ruined relationships and careers because of this?

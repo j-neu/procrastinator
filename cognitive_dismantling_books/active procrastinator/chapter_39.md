@@ -12,7 +12,7 @@ You will feel a strange sensation. Your stomach won't be in knots. Your shoulder
 
 You will look at the clock and realize you have the whole weekend ahead of you, and it is *truly* yours.
 
-That moment—that feeling of total, unburdened freedom—is better than any adrenaline rush you have ever felt.
+That moment (that feeling of total, unburdened freedom) is better than any adrenaline rush you have ever felt.
 
 That is the moment you know you are free.
 

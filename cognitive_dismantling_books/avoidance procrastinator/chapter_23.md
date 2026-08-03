@@ -8,7 +8,7 @@ Many procrastinators try to "manage" their addiction by doing "a little bit" eve
 Now, don't get me wrong. Small steps are better than no steps.
 But be careful.
 
-If you are "cutting down" on work—limiting yourself to 15 minutes because you are afraid of the pain of 30 minutes—you are still trapped.
+If you are "cutting down" on work (limiting yourself to 15 minutes because you are afraid of the pain of 30 minutes), you are still trapped.
 You are telling yourself: "Work is painful, so I will only take small doses of the poison."
 
 You are keeping the monster alive.

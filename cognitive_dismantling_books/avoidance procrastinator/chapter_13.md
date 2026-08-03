@@ -1,7 +1,7 @@
 # CHAPTER 13
 # "COMBINATION" TASKS
 
-In the world of smoking cessation, they talk about the "Combination Cigarette"—the one you smoke when you are both stressed *and* relaxing (like at a party). These are the hardest to give up because they hook you on multiple levels.
+In the world of smoking cessation, they talk about the "Combination Cigarette," the one you smoke when you are both stressed *and* relaxing (like at a party). These are the hardest to give up because they hook you on multiple levels.
 
 In procrastination, we have **Combination Tasks**.
 
@@ -59,7 +59,7 @@ The Monster is just three ducks in a trench coat. Kick them over.
 
 **Objective:** To strip a "Combination Task" of its power by breaking it down.
 
-1.  Identify your "Boss Battle" task—the one you've been avoiding for months.
+1.  Identify your "Boss Battle" task, the one you've been avoiding for months.
 2.  Write it down at the top of a page.
 3.  **List the Fears:** Underneath, list *why* it's scary. (e.g., "Boring," "Might get sued," "Don't know how," "Mom will be mad").
 4.  **List the Actions:** Now, ignore the fears. List the *physical movements* required to start it.

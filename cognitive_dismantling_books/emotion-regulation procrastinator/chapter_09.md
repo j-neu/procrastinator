@@ -6,7 +6,7 @@ This is the greatest lie of all.
 
 Avoiding the task does not reduce stress. It *multiplies* it.
 
-When you have a task hanging over your head, it takes up RAM in your brain. It is a background hum of anxiety. Even when you are "relaxing"—watching TV, hanging out with friends—the hum is there. You are never fully present. You are never fully at peace.
+When you have a task hanging over your head, it takes up RAM in your brain. It is a background hum of anxiety. Even when you are "relaxing" (watching TV, hanging out with friends) the hum is there. You are never fully present. You are never fully at peace.
 
 You are carrying an Emotional Debt.
 

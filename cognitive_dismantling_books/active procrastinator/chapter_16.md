@@ -27,8 +27,8 @@ You aren't efficient. You are just hiding the costs in different columns of the 
 
 When you stop procrastinating, you get all those hours back.
 
-You get the "Worrying Time" back—that mental RAM is now free for creative thoughts or genuine fun.
-You get the "Recovery Time" back—you don't need to recover from a Tuesday afternoon of steady work.
+You get the "Worrying Time" back. That mental RAM is now free for creative thoughts or genuine fun.
+You get the "Recovery Time" back. You don't need to recover from a Tuesday afternoon of steady work.
 
 You suddenly have *so much time*.
 

@@ -34,7 +34,7 @@ Just stand there. Feel the lightness in your chest. Feel the silence in your hea
 
 *That* is the drug. *That* is the dopamine.
 
-If you learn to savor that feeling—the Joy of Done—you will never need to bribe yourself again.
+If you learn to savor that feeling, the Joy of Done, you will never need to bribe yourself again.
 
 **EXERCISE: The Reward Detox**
 

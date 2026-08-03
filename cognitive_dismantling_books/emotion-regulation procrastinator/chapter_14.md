@@ -25,7 +25,7 @@ You are not giving up your emotions. You will still feel joy, excitement, and pa
 
 You are not giving up your spontaneity. True spontaneity is being able to say "Let's go on a trip this weekend" and *knowing you can go* because your work is done. That is freedom.
 
-The "freedom" you have now—the freedom to procrastinate—is the freedom of a truant schoolboy hiding under a bridge. He isn't free. He's cold, wet, and terrified of being caught.
+The "freedom" you have now, the freedom to procrastinate, is the freedom of a truant schoolboy hiding under a bridge. He isn't free. He's cold, wet, and terrified of being caught.
 
 Give up the bridge. Come out into the sun.
 

@@ -1,12 +1,12 @@
-# Chapter 2: The Easy Method
+# Chapter 2: This Method
 
 The object of this book is to get you into a frame of mind where, instead of feeling like you are giving up your "secret weapon" (pressure), you start right away with a feeling of elation, as if you had been cured of a terrible disease.
 
 The normal method of trying to stop procrastinating involves willpower. You tell yourself, "Next time, I will start early." You look at the calendar, you see the deadline is three weeks away, and you grit your teeth and try to force yourself to care. You try to manufacture importance. You try to scare yourself into action.
 
-This is like trying to force yourself to fall in love with someone you find boring. It’s impossible. And because you can't force the feeling, you don't do the work. You wait until the *actual* fear arrives—the deadline—to save you.
+This is like trying to force yourself to fall in love with someone you find boring. It’s impossible. And because you can't force the feeling, you don't do the work. You wait until the *actual* fear arrives, the deadline, to save you.
 
-The "Easy Method" is completely different. We are not going to try to force you to work when you are bored. We are not going to try to make you into a disciplined soldier.
+This method is completely different. We are not going to try to force you to work when you are bored. We are not going to try to make you into a disciplined soldier.
 
 We are going to dismantle the belief that the work *is* boring without the pressure.
 
@@ -18,7 +18,7 @@ Most active procrastinators believe they are "optimizing" their time. They think
 
 This is the "Efficiency Delusion." You aren't doing it in two hours. You are spending 166 hours (the whole week) carrying the mental weight of the task, feeling a low-level dread, destroying your ability to fully relax, and *then* doing it in two frantic, miserable hours. That is not efficiency. That is torture.
 
-The Easy Method is about realizing that there is nothing to give up. You aren't giving up your edge. You aren't giving up your speed. You are giving up the waiting. You are giving up the dread.
+This method is about realizing that there is nothing to give up. You aren't giving up your edge. You aren't giving up your speed. You are giving up the waiting. You are giving up the dread.
 
 Once you realize that work can actually be *more* engaging, *more* exciting, and *faster* when you aren't fighting a panic attack, you won't need willpower to start. You will want to start. You will want to get that weight off your back so you can fly.
 
@@ -26,7 +26,7 @@ You might be thinking, "But I've tried to start early! I just sit there and star
 
 That is because you are still brainwashed. You still believe that the "spark" comes from the deadline. You don't realize that the "block" you feel when you try to start early is actually a withdrawal symptom. It's the addiction screaming for its fix of high drama.
 
-We are going to starve that monster. And when we do, you will find that your natural motivation—the one you had before you got hooked on the adrenaline—is still there, stronger than ever.
+We are going to starve that monster. And when we do, you will find that your natural motivation (the one you had before you got hooked on the adrenaline) is still there, stronger than ever.
 
 ---
 

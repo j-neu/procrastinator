@@ -12,7 +12,7 @@ It is a myth. It is a lie.
 When you interrupt your work flow for "just one second," two terrible things happen:
 
 1.  **You break the surface tension of focus.**
-    Getting into a state of flow (where work feels easy) takes time—usually 15 to 20 minutes.
+    Getting into a state of flow (where work feels easy) takes time, usually 15 to 20 minutes.
     When you switch context for "one second," you reset that clock to zero.
     You force your brain to dump all the complex data it was holding and load new data (the email, the tweet).
     When you try to go back to work, you have to reload the work data. This feels heavy and exhausting.

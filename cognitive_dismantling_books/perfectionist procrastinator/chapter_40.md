@@ -16,13 +16,13 @@ I understand the seduction. I have felt it. The desire to prove, one more time, 
 
 Let me tell you what the final revision actually is. It is not a farewell to the trap. It is the trap's last hope. The trap knows it has lost your work. It cannot make you polish the important projects anymore. But it can offer you a single indulgence, and if you take it, it has a foot back in the door.
 
-Because the final revision is never the final revision. That is the trick. You polish the one thing. It feels good. The relief is real, and you have missed it, because the withdrawal was hard. And now you remember what the relief felt like, and the memory is dangerous. The next time the fear rises—and it will rise, because fear does not die—you will not reach for the shipping. You will reach for the relief you remembered. And the trap is back, and this time it knows you are stronger, so it will be smarter, and the relapse will be deeper, because you fell from a greater height.
+Because the final revision is never the final revision. That is the trick. You polish the one thing. It feels good. The relief is real, and you have missed it, because the withdrawal was hard. And now you remember what the relief felt like, and the memory is dangerous. The next time the fear rises (and it will rise, because fear does not die), you will not reach for the shipping. You will reach for the relief you remembered. And the trap is back, and this time it knows you are stronger, so it will be smarter, and the relapse will be deeper, because you fell from a greater height.
 
 I am not being dramatic. I am describing the exact shape of every relapse I have ever seen in a recovering perfectionist. It always begins the same way: with a "final" act of polishing, undertaken at a moment of confidence, in the belief that it is a one-time indulgence. And it always ends the same way: with the trap fully restored, and the perfectionist more ashamed than ever, because they had been free, and they walked back in.
 
 So here is the instruction, and I want you to take it seriously. There is no final revision. There is no graduation ceremony. There is no "just this once." The perfectionism is not a skill you can deploy and set aside. It is a belief, and the belief does not survive a single exception. Every exception feeds it. The moment you polish, you are not taking a farewell; you are taking a hit.
 
-Instead, do this: when the thought of the final revision arrives, recognize it for what it is. The trap, playing its last card. And then do the thing the trap is trying to prevent. Release the work, imperfect, into the world. Not because you could not have polished it—you could have; that is the point. But because the polishing is no longer yours to do. You have left that house.
+Instead, do this: when the thought of the final revision arrives, recognize it for what it is. The trap, playing its last card. And then do the thing the trap is trying to prevent. Release the work, imperfect, into the world. Not because you could not have polished it. You could have; that is the point. But because the polishing is no longer yours to do. You have left that house.
 
 And here is what you will discover, if you refuse the final revision. The masterpiece you were going to polish was never going to be perfect anyway. It was going to be polished into paralysis, like all the others. The perfect thing does not exist. The only thing that exists is the released thing, and the released thing is what you have been making for weeks, and it is good, and it is yours.
 
@@ -38,6 +38,6 @@ Put the book down. Take your paper. Write a letter to the trap, from the person 
 
 Then write the sentence that closes the letter: *"You do not get one more masterpiece. You get nothing. The work is mine now, and I release it."*
 
-Sign it. Date it. And when the thought of the final revision arrives—and it will—read the letter.
+Sign it. Date it. And when the thought of the final revision arrives, and it will, read the letter.
 
 The trap's last card is not a card at all. It is a question: do you still believe the perfect thing exists? You know the answer now. The perfect thing was never going to arrive. The real thing was always available. You chose the real thing. Stay chosen.

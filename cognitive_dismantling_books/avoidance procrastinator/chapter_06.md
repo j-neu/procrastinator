@@ -7,13 +7,13 @@ You probably don't think of yourself as an addict. Addicts are people who inject
 
 But make no mistake: Procrastination is an addiction. And like all addictions, it is chemical.
 
-When you are faced with a scary task—say, a difficult phone call—your brain's amygdala (the fear center) lights up. It screams: *Danger! Discomfort! Risk!*
+When you are faced with a scary task (say, a difficult phone call) your brain's amygdala (the fear center) lights up. It screams: *Danger! Discomfort! Risk!*
 
 Your body floods with stress hormones. You feel physically agitated. This is the "Withdrawal." You aren't withdrawing from a drug; you are withdrawing from your comfort zone.
 
 Then, you make a decision. "I'll do it later."
 
-Instantly—*physically*—your body relaxes. The amygdala calms down. Your brain releases a little hit of dopamine. *Ahhh. Safe.*
+Instantly, *physically*, your body relaxes. The amygdala calms down. Your brain releases a little hit of dopamine. *Ahhh. Safe.*
 
 That feeling? That relief? That is the drug.
 
@@ -32,7 +32,7 @@ Because that safety is a lie. While you are feeling "safe" watching Netflix, the
 
 But the lion is there. And it is hungry.
 
-The only way to break the addiction is to stop taking the drug. You have to stop chasing the Relief. You have to be willing to sit with the "Withdrawal"—the anxiety, the discomfort, the urge to run—and realize that it won't kill you.
+The only way to break the addiction is to stop taking the drug. You have to stop chasing the Relief. You have to be willing to sit with the "Withdrawal" (the anxiety, the discomfort, the urge to run), and realize that it won't kill you.
 
 The moment you stop running for Safety, you become free.
 

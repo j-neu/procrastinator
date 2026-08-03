@@ -38,7 +38,7 @@ The brainwashing is deep. We believe that the "stress" comes from the work.
 **The stress does not come from the work.**
 The stress comes from the *resistance* to the work.
 
-Once you stop resisting—once you ignore the Saboteur and just pick up the pen—the stress evaporates. It is replaced by focus.
+Once you stop resisting (once you ignore the Saboteur and just pick up the pen) the stress evaporates. It is replaced by focus.
 
 You have been brainwashed to fear the very thing that will set you free: Action.
 

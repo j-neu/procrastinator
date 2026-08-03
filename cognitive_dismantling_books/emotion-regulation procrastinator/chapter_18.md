@@ -18,7 +18,7 @@ You know you should be working. A part of you wants to work. But another part of
 
 This internal conflict burns energy like a wildfire. You are exhausted because you are fighting yourself all day long.
 
-The moment you surrender—the moment you stop fighting and just *start*—the energy returns.
+The moment you surrender (the moment you stop fighting and just *start*) the energy returns.
 
 Have you ever noticed that once you finally start the task you were dreading, you suddenly feel awake? You get into a rhythm. You finish it and think, "That wasn't so bad." You feel energized.
 

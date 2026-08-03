@@ -12,7 +12,7 @@ The revelation I want to share with you is stranger and more useful. It is this:
 
 The perfectionist lives in a state of withheld judgment. They withhold their own work from the world, and they withhold their approval from themselves. Nothing is ever good enough. The perfectionist's inner world is a tribunal where every verdict is harsh and nothing passes.
 
-And here is the terrible secret: the tribunal leaks. The harshness you direct at yourself does not stay inside. It colors how you see others. The perfectionist, who is merciless with their own work, is often merciless with the work of others. They notice the flaw in the colleague's report, the imperfection in the friend's attempt. They do not say anything—perfectionists are not usually cruel out loud—but the harshness is there, in the judgment, in the disappointment.
+And here is the terrible secret: the tribunal leaks. The harshness you direct at yourself does not stay inside. It colors how you see others. The perfectionist, who is merciless with their own work, is often merciless with the work of others. They notice the flaw in the colleague's report, the imperfection in the friend's attempt. They do not say anything (perfectionists are not usually cruel out loud), but the harshness is there, in the judgment, in the disappointment.
 
 And the world feels it. The colleague who is silently judged produces less, shares less, trusts less. The perfectionist wonders why the world seems cold, why people do not share their work. And they do not see that the coldness is their own, reflected back.
 
@@ -24,9 +24,9 @@ I want you to understand what this does. Every time you receive a piece of imper
 
 And the world responds. The colleague you receive with grace begins to share more work. The friend you accept begins to risk more. And their growth is feedback to you: the world is not a tribunal. It is a workshop. People are not judging you the way you judged yourself. They are making things, badly and bravely, the way you are learning to.
 
-The practice of feedback completes the recovery because it closes the loop. The perfectionist's freedom is not complete when they release their own work. It is complete when they can stand in the presence of other people's imperfect work and feel—not the itch to correct, not the flinch of judgment, but the warmth of recognition. *We are all making things. We are all releasing them imperfectly. This is the human condition, and it is good.*
+The practice of feedback completes the recovery because it closes the loop. The perfectionist's freedom is not complete when they release their own work. It is complete when they can stand in the presence of other people's imperfect work and feel, not the itch to correct, not the flinch of judgment, but the warmth of recognition. *We are all making things. We are all releasing them imperfectly. This is the human condition, and it is good.*
 
-Start small. The next piece of imperfect work that reaches you—a message, a draft, a meal, a gesture—receive it with grace. Do not fix it. Do not correct it. Do not silently judge it. Receive it. Say thank you. And notice what happens inside you: the tribunal, for a moment, is quiet. And in the quiet, you are free.
+Start small. The next piece of imperfect work that reaches you (a message, a draft, a meal, a gesture) receive it with grace. Do not fix it. Do not correct it. Do not silently judge it. Receive it. Say thank you. And notice what happens inside you: the tribunal, for a moment, is quiet. And in the quiet, you are free.
 
 You have read the whole book. The method is yours now. The one thing I ask you to carry beyond these pages is the grace. Give it to others, and you will find it comes back to you, multiplied, in the form of a world that no longer feels like a tribunal.
 

@@ -20,8 +20,8 @@ It treats productivity like a punishment.
 "If I finish this report, I am allowed to watch TV."
 This makes the report the vegetable and the TV the dessert. Of course you want the dessert!
 
-The Easy Method is different.
-The Easy Method removes the conflict.
+This method is different.
+This method removes the conflict.
 It says: "Why do you want to flee? There is no lion. It's just a laptop."
 
 If there is no lion, you don't need courage. You don't need willpower. You just sit down and type.

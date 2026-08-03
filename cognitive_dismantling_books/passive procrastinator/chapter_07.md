@@ -45,7 +45,7 @@ What label do you use to excuse your drifting?
 
 Write down your label.
 
-Now, imagine you met a person who was exactly like you—same job, same family, same brain—but they simply *decided* to put their keys in the same bowl every day. They simply *decided* to open mail when it arrived.
+Now, imagine you met a person who was exactly like you (same job, same family, same brain), but they simply *decided* to put their keys in the same bowl every day. They simply *decided* to open mail when it arrived.
 
 Would they lose their personality? Would they stop being funny or smart?
 

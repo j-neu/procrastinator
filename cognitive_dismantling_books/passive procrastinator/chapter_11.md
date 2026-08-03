@@ -34,7 +34,7 @@ You think you have an attention problem. You might. But more likely, you have a 
 
 The loss of concentration that drifters suffer is not due to a lack of talent. It is due to a lack of *closure*.
 
-When you start clearing the backlog—when you start closing the loops—you will be amazed at how sharp your mind becomes. It feels like waking up after a long sleep.
+When you start clearing the backlog, when you start closing the loops, you will be amazed at how sharp your mind becomes. It feels like waking up after a long sleep.
 
 **EXERCISE: The RAM Dump**
 

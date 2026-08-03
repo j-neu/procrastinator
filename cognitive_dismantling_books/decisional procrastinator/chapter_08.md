@@ -40,7 +40,7 @@ You have to carry the Doubt with you as you cross the finish line.
 You don't wait for the Doubt to go away before you decide. You decide *while* the Doubt is screaming at you.
 
 And a miracle happens.
-The moment—the exact second—you commit to a choice, the Doubt transforms.
+The moment, the exact second, you commit to a choice, the Doubt transforms.
 It shifts from "What if I pick the wrong one?" (an unanswerable, infinite question) to "How do I make this work?" (a concrete, solvable problem).
 
 "Buyer's Remorse" might flare up for a minute (we'll talk about that later), but the agonizing, soul-crushing paralysis of "I don't know" is gone.

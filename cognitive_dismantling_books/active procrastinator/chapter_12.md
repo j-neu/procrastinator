@@ -28,7 +28,7 @@ Never.
 
 You oscillate between **Guilty Avoidance** and **Manic Panic**. There is no peace in either state.
 
-The non-procrastinator—the person you think is "boring"—actually enjoys a life of luxury compared to you.
+The non-procrastinator, the person you think is "boring", actually enjoys a life of luxury compared to you.
 
 When they finish their work for the day, they are done. They walk away. They don't carry the "Invisible Load." Their evenings are pure. Their weekends are sacred.
 
@@ -36,7 +36,7 @@ They can sit on a beach and watch the waves without that little voice whispering
 
 They have earned their rest. And because they have earned it, they can enjoy it.
 
-If you want to know what true relaxation feels like—the kind that sinks into your bones and heals you—you have to stop stealing it. You have to pay for it upfront with action.
+If you want to know what true relaxation feels like (the kind that sinks into your bones and heals you), you have to stop stealing it. You have to pay for it upfront with action.
 
 ---
 

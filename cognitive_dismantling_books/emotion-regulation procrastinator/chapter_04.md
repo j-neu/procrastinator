@@ -1,6 +1,6 @@
 # Chapter 4: The Emotional Relief Trap
 
-Procrastination is the most subtle, sinister trap that man and nature have combined to devise. What gets us into it in the first place? Usually, it’s a moment of overwhelm. We have a big project. We feel a spike of anxiety. We instinctively turn away from it—perhaps to check our phone, or to get a snack.
+Procrastination is the most subtle, sinister trap that man and nature have combined to devise. What gets us into it in the first place? Usually, it’s a moment of overwhelm. We have a big project. We feel a spike of anxiety. We instinctively turn away from it, perhaps to check our phone, or to get a snack.
 
 In that split second, something powerful happens. The anxiety drops. The brain registers a "reward."
 
@@ -8,7 +8,7 @@ In that split second, something powerful happens. The anxiety drops. The brain r
 
 Your brain is an excellent learning machine. It learns: Task = Pain. Avoidance = Relief.
 
-It is the only trap in nature which has no lure, no piece of cheese. The thing that springs the trap is not that avoidance feels so marvellous; it’s that the task feels so uncomfortable. If the avoidance felt amazing—like a rollercoaster—we would understand why we do it. But usually, the avoidance is just... numb. We scroll mindlessly. We stare at the wall. We clean a toilet we don't care about. We aren't having fun. We are just *not feeling the fear*.
+It is the only trap in nature which has no lure, no piece of cheese. The thing that springs the trap is not that avoidance feels so marvellous; it’s that the task feels so uncomfortable. If the avoidance felt amazing, like a rollercoaster, we would understand why we do it. But usually, the avoidance is just... numb. We scroll mindlessly. We stare at the wall. We clean a toilet we don't care about. We aren't having fun. We are just *not feeling the fear*.
 
 It is the only drug in nature that prevents you from achieving your aim. You want to write a book. The writing scares you (fear of failure). So you don't write. The drug (avoidance) protects you from the fear, but it kills the book.
 

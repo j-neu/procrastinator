@@ -20,7 +20,7 @@ If you have to be bribed to do it, it must be torture.
 
 This mindset keeps you trapped. It keeps you believing that work is miserable.
 
-The Easy Method takes a different approach.
+This method takes a different approach.
 The reward is not a cookie.
 **The reward is the work itself.** Or, more accurately, the *peace* of the work.
 

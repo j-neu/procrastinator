@@ -1,9 +1,9 @@
-# Chapter 32: The Easy Way to Stop
+# Chapter 32: This Way to Stop
 
-The "Easy Way" is not a magic spell. It is a perspective shift.
+This way is not a magic spell. It is a perspective shift.
 
 The "Hard Way" (Willpower) says: "I must fight my emotions to do this terrible task."
-The "Easy Way" says: "The emotions are harmless, and the task is the only way to feel better."
+This way says: "The emotions are harmless, and the task is the only way to feel better."
 
 It is easy to stop procrastination when you realize that **procrastination is the source of your pain, not the cure.**
 

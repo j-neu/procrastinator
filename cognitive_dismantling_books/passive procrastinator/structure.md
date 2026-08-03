@@ -1,4 +1,4 @@
-# The Easy Way to Stop Procrastinating (Passive / Overwhelm Edition) - Structure
+# Breaking the Procrastination Pattern (Passive / Overwhelm Edition) - Structure
 
 **Target Word Count:** 15,000 - 20,000 words
 **Tone:** Informal, authoritative, empathetic, direct. No references to Allen Carr.
@@ -7,7 +7,7 @@
 
 1.  **The Most Disorganized Person I Have Yet to Meet**
     *   *Introduction to the author's own struggle with passive procrastination. The mess, the missed appointments, the constant feeling of "drowning" in simple tasks.*
-2.  **The Easy Method**
+2.  **This method**
     *   *Setting the stage: You don't need a PhD in productivity. You don't need a complex Notion setup. You just need to see the trap.*
 3.  **Why is it Difficult to Start?**
     *   *Debunking the myth that you need to "get organized" before you can start. The catch-22 of "I'm too overwhelmed to plan, but I need a plan to stop being overwhelmed."*
@@ -67,7 +67,7 @@
     *   *Addressing fears of replacement addictions.*
 31. **Avoid False Incentives**
     *   *"If I clean this up, I can watch TV." Why bribery fails.*
-32. **The Easy Way to Stop**
+32. **This way to Stop**
     *   *The mindset shift: Order is not a chore; it is freedom.*
 33. **The Withdrawal Period**
     *   *The first few days of making decisions immediately. The "itch" to defer.*

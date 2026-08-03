@@ -2,7 +2,7 @@
 # WILL I BECOME A BORING WORKAHOLIC?
 
 You worry that if you become "productive," you will lose your soul.
-You will become one of "them"—the people in suits who love spreadsheets.
+You will become one of "them," the people in suits who love spreadsheets.
 You worry you will become a workaholic.
 
 This is a misunderstanding of what a workaholic is.

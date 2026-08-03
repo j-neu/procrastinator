@@ -39,7 +39,7 @@ You have to break it down so small that the "Boredom" becomes manageable. You ca
 
 You have to say, "I am going to spend 15 minutes on this boring form today. Just 15 minutes. It will be boring. I will hate it. But I can survive 15 minutes of boredom."
 
-By accepting the boredom—by inviting it in—you take away its power to paralyze you. You stop waiting for the adrenaline (which will ruin the work anyway) and start relying on simple endurance.
+By accepting the boredom, by inviting it in, you take away its power to paralyze you. You stop waiting for the adrenaline (which will ruin the work anyway) and start relying on simple endurance.
 
 ---
 

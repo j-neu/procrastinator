@@ -23,7 +23,7 @@ The drifter waits for the perfect conditions to start. But drifting *creates* im
 
 Why? because the relief will be immediate.
 
-If you wait until "things calm down," you won't feel the benefit of the system. But if you start *right now*, in the middle of the chaos, you will see the power of the Easy Method instantly.
+If you wait until "things calm down," you won't feel the benefit of the system. But if you start *right now*, in the middle of the chaos, you will see the power of this method instantly.
 
 It is like learning to swim. You don't learn to swim on the sand. You learn in the water.
 
@@ -31,7 +31,7 @@ You are currently drowning in tasks. This is the perfect time to learn to swim.
 
 Do not wait for Monday. Monday is a mythical land where you are energetic, focused, and disciplined. The real you lives in Today.
 
-If you can't do it today—tired, stressed, overwhelmed Today—you won't be able to do it on Monday either.
+If you can't do it today (tired, stressed, overwhelmed Today), you won't be able to do it on Monday either.
 
 **EXERCISE: The Now**
 

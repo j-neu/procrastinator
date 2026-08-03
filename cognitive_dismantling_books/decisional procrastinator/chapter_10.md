@@ -27,7 +27,7 @@ We have turned our lives into a waiting room because we are afraid to open the d
 
 But here is the tragedy: **You are boring yourself to death.**
 
-You are taking the precious, finite hours of your life—hours you could spend laughing, creating, loving, running, sleeping—and you are spending them comparing pixel densities on monitors you won't buy for another three months.
+You are taking the precious, finite hours of your life (hours you could spend laughing, creating, loving, running, sleeping), and you are spending them comparing pixel densities on monitors you won't buy for another three months.
 
 You are trading your vitality for safety.
 

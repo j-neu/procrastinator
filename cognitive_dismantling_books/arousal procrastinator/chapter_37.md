@@ -27,4 +27,4 @@ That boredom is your nervous system healing. Let it heal.
 2.  Ask: "Is this a real problem, or am I just trying to make my heart beat faster?"
 3.  If it's the latter, take a cold shower. Go for a run. Watch a scary movie.
 4.  Get your "safe" adrenaline from sources that don't destroy your life.
-5.  But keep your work—and your relationships—boring. Boring is good. Boring is stable.
+5.  But keep your work, and your relationships, boring. Boring is good. Boring is stable.

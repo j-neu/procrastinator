@@ -6,7 +6,7 @@ This is the mantra of the arousal procrastinator. You believe that without the g
 
 You are confusing **concentration** with **panic**.
 
-When you are rushing to meet a deadline, you are not concentrating in the true sense of the word. You are in a state of fight-or-flight. Your brain shuts down "non-essential" functions—like nuance, critical thinking, and double-checking—to focus entirely on *completion*.
+When you are rushing to meet a deadline, you are not concentrating in the true sense of the word. You are in a state of fight-or-flight. Your brain shuts down "non-essential" functions (like nuance, critical thinking, and double-checking) to focus entirely on *completion*.
 
 This is tunnel vision, not concentration.
 

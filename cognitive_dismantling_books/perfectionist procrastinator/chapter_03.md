@@ -2,7 +2,7 @@
 
 All perfectionists believe that starting is the difficult part. "Once I get going, I'm fine. It's just getting going that kills me." So they wait for the perfect morning, the perfect headspace, the perfect hour when the work will flow.
 
-They are wrong. Starting is not difficult. The difficult part is the mental gymnastics we perform *before* we start—the demand that the first draft be flawless.
+They are wrong. Starting is not difficult. The difficult part is the mental gymnastics we perform *before* we start, the demand that the first draft be flawless.
 
 Imagine you are asked to write a short note to a friend. You sit down. The words come. Done in two minutes. No problem.
 

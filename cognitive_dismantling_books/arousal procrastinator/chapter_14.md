@@ -10,7 +10,7 @@ Get it clear in your mind: **THE RUSH DOES NOT FILL A VOID. IT CREATES IT!**
 
 It creates the void of exhaustion. It creates the void of anxiety. It creates the void of unreliability.
 
-The beautiful truth is—there is nothing to give up. Once you purge that little adrenaline monster from your body and the brainwashing from your mind, you will neither want the panic nor need it.
+The beautiful truth is that there is nothing to give up. Once you purge that little adrenaline monster from your body and the brainwashing from your mind, you will neither want the panic nor need it.
 
 You aren't giving up your creativity. You are giving up the shackles that keep your creativity hostage until 4:00 AM.
 You aren't giving up your "spark." You are giving up the burnout that dims that spark for weeks after a deadline.

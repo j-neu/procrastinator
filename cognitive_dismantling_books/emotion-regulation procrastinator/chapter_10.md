@@ -6,7 +6,7 @@ We are often addicted to high-arousal states. We like the drama of a crisis (anx
 
 Boredom feels like death.
 
-When we face a mundane task—data entry, folding laundry, formatting a document—our brain panics. "Where is the dopamine?" it screams. "I am starving!"
+When we face a mundane task (data entry, folding laundry, formatting a document) our brain panics. "Where is the dopamine?" it screams. "I am starving!"
 
 We interpret this lack of stimulation as a crisis. We feel restless. We feel agitated. We feel like we are crawling out of our skin.
 

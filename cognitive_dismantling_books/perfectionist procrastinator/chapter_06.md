@@ -24,7 +24,7 @@ This is the paradox at the heart of the trap. The perfectionist believes they ar
 
 Here is the part that surprises most perfectionists. I am not asking you to lower your standards. I am asking you to look at what your standards actually do. A standard that produces anxiety and hides your work from the world is not a standard; it is a weapon you are using against yourself.
 
-The person who ships is not less committed to quality than you are. They are just less committed to *avoidance*. They have broken the cycle. They have let the trigger fire without the behavior, let the anxiety rise, and discovered—to their astonishment—that it does not kill them.
+The person who ships is not less committed to quality than you are. They are just less committed to *avoidance*. They have broken the cycle. They have let the trigger fire without the behavior, let the anxiety rise, and discovered, to their astonishment, that it does not kill them.
 
 Think of the flaw, when you notice it, as a small animal knocking at the door of your attention. Its trick is to convince you that if you do not feed it, you will starve. But the animal is not hungry. The animal is frightened. It is your fear, in costume, asking you to keep running. When you stop running, the animal does not attack. It shrinks.
 

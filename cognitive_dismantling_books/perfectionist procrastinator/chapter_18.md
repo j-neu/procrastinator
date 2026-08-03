@@ -18,7 +18,7 @@ There is also the exhaustion of decision. Every perfectionist carries a heavy de
 
 And finally, there is the exhaustion of the shame. The perfectionist's internal monologue is a running commentary of failure. "Not good enough." "You should have done better." This commentary is not neutral; it is a drain. Criticism takes energy to absorb, even self-criticism, and the perfectionist absorbs a steady stream of it all day. They are being attacked by their own voice, from morning to night.
 
-Now, here is the energy promise of the other way of working. When you ship a task—not polish it, ship it—you experience a phenomenon the perfectionist almost never feels: the surge. It is the release of the held tension, the closing of the loop, the quiet drop of the shoulders. It is a genuine recharge. The person who ships four tasks a day receives four surges. The person who polishes one task a day receives none—only the slow, grinding expenditure, with no relief at the end.
+Now, here is the energy promise of the other way of working. When you ship a task (not polish it, ship it), you experience a phenomenon the perfectionist almost never feels: the surge. It is the release of the held tension, the closing of the loop, the quiet drop of the shoulders. It is a genuine recharge. The person who ships four tasks a day receives four surges. The person who polishes one task a day receives none, only the slow, grinding expenditure, with no relief at the end.
 
 This is why the ship-and-iterate worker seems to have boundless energy. They do not have more energy than you. They have a working method that *returns* energy instead of consuming it. Every finished task gives a little back. The perfectionist's method gives nothing back. It only takes.
 

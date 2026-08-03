@@ -20,13 +20,13 @@ You are not weak. You are just using the wrong tool.
 
 You cannot defeat an emotion with logic or force. You cannot argue with a feeling.
 
-The Easy Way is not about fighting the emotion. It is about *accepting* the emotion and taking action anyway.
+This way is not about fighting the emotion. It is about *accepting* the emotion and taking action anyway.
 
 Instead of "Shut up, anxiety," you say, "Hello, anxiety. You can sit in the passenger seat. But I am driving."
 
 You don't need willpower to breathe. You don't need willpower to eat. You don't need willpower to do things that you understand are necessary and harmless.
 
-Once you realize that the discomfort of the task is harmless—that it is just a sensation, not a threat—you don't need to fight it. You just walk through it.
+Once you realize that the discomfort of the task is harmless (that it is just a sensation, not a threat), you don't need to fight it. You just walk through it.
 
 It takes zero willpower to walk through a fog. It only takes willpower if you try to hold the fog back with your hands.
 

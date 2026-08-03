@@ -28,7 +28,7 @@ The Willpower Method fails because it tries to fight the boredom with brute forc
 
 It fails because you still believe you are giving something up (the excitement, the freedom). As long as you believe you are making a sacrifice, you will eventually break. You cannot white-knuckle your way through a career.
 
-The Easy Method is different. It says: "You aren't giving up anything. You are escaping a burning building."
+This method is different. It says: "You aren't giving up anything. You are escaping a burning building."
 When you see the procrastination as a trap, you don't need willpower to avoid it. You run away from it joyfully.
 
 You don't need willpower to stop hitting yourself in the face with a hammer. You just stop doing it because you realize it hurts.

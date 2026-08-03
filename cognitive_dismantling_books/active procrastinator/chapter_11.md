@@ -10,7 +10,7 @@ The "laser focus" you experience during a crisis isn't concentration. It is **Hy
 
 It is the focus of a prey animal being hunted. Yes, you are focused on the task, but only because you have excluded everything else in the universe out of sheer terror. You aren't seeing the whole picture; you are looking through a keyhole.
 
-True concentration—the kind that produces deep insights and masterful work—is relaxed. It is expansive. It allows you to hold multiple complex ideas in your mind at once.
+True concentration (the kind that produces deep insights and masterful work) is relaxed. It is expansive. It allows you to hold multiple complex ideas in your mind at once.
 
 When you procrastinate, you destroy your ability to concentrate during the "coasting" periods.
 

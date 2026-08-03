@@ -26,7 +26,7 @@ If you had done it immediately, the cost would have been: 30 minutes.
 
 You are paying **900% interest** on your time.
 
-If you did this with money—if you bought a sandwich for $5 and paid $45 in interest—you would be bankrupt in a month.
+If you did this with money (if you bought a sandwich for $5 and paid $45 in interest), you would be bankrupt in a month.
 And that is exactly what happens to your energy. You are emotionally bankrupt.
 
 You are always tired. You are always "busy." But you get nothing done.

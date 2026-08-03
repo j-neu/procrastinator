@@ -10,17 +10,17 @@ Think about it. If the task were merely boring, you would do it the way you do a
 
 No, the perfectionist's paralysis is reserved for the work that matters. And this is the cruel trick at the heart of the trap: the more a project means to you, the more dangerous it becomes.
 
-Why? Because a boring task has low stakes. Nobody judges you on your filing. But the project you care about—the book, the business, the presentation that could change your career—that project carries your identity inside it. If that project is flawed, *you* are flawed. So the project must be perfect. And because it cannot be perfect, it cannot be started. And because it cannot be started, it joins the graveyard of your great intentions.
+Why? Because a boring task has low stakes. Nobody judges you on your filing. But the project you care about (the book, the business, the presentation that could change your career) that project carries your identity inside it. If that project is flawed, *you* are flawed. So the project must be perfect. And because it cannot be perfect, it cannot be started. And because it cannot be started, it joins the graveyard of your great intentions.
 
 The perfectionist is not someone who avoids hard work. They are someone who cannot bear to see their favorite work be ordinary.
 
 Imagine a painter who refuses to paint because the first canvas might not be a masterpiece. Imagine a writer who refuses to write because the first draft might be bad. You would call these people artists in the grip of a sickness. And yet the perfectionist lives exactly this way, and everyone around them calls it "high standards."
 
-There is a second form of this myth, and it is worth naming. Perfectionists often describe the preparatory work—the research, the planning, the "getting organized" phase—as the pleasant part, and the actual producing as the burden. They spend weeks researching and outlining, feeling productive, while the actual work waits untouched.
+There is a second form of this myth, and it is worth naming. Perfectionists often describe the preparatory work (the research, the planning, the "getting organized" phase) as the pleasant part, and the actual producing as the burden. They spend weeks researching and outlining, feeling productive, while the actual work waits untouched.
 
 This is procrastination in a beautiful costume. The research is safe because it produces no verdict. You cannot be judged on the research. So the perfectionist gathers endlessly. They will read one more book, take one more course, and call it preparation. The book will never be written. The gathering is the avoidance, and the avoidance is disguised as diligence.
 
-The boredom myth protects the perfectionist's self-image. If you believe you delay because the work bores you, you can believe you are simply too gifted for the task. The truth—that you are terrified of your own best work—is harder to hold. It is also the truth that will set you free.
+The boredom myth protects the perfectionist's self-image. If you believe you delay because the work bores you, you can believe you are simply too gifted for the task. The truth (that you are terrified of your own best work) is harder to hold. It is also the truth that will set you free.
 
 Here is what I want you to understand: the work you love is not the work you should fear. It is the only work worth doing badly. If a task means nothing to you, you can polish it or abandon it, and it does not matter. But the work you love deserves to be attempted, imperfectly, repeatedly, until it becomes what it can be.
 
@@ -30,7 +30,7 @@ The boredom myth is dead. You are not too good for the work. You are afraid of t
 
 **EXERCISE: The Favorite Project**
 
-Put the book down. Take your paper. Write the name of the project you love most and have been avoiding longest. Now write down the exact moment you last touched it, and what you did. Was it the safe work—research, planning, reorganizing the files? Or the real work—the producing, the thing that could be judged?
+Put the book down. Take your paper. Write the name of the project you love most and have been avoiding longest. Now write down the exact moment you last touched it, and what you did. Was it the safe work, research, planning, reorganizing the files? Or the real work, the producing, the thing that could be judged?
 
 The safe work is not progress. It is the boredom costume.
 

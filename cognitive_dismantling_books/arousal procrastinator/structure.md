@@ -1,4 +1,4 @@
-# The Easy Way to Stop Procrastinating (Arousal Edition) - Structure
+# Breaking the Procrastination Pattern (Arousal Edition) - Structure
 
 **Target Word Count:** 15,000 - 20,000 words
 **Tone:** Informal, authoritative, empathetic, direct. No references to Allen Carr.
@@ -7,7 +7,7 @@
 
 1.  **The Worst Adrenaline Junkie I Have Yet to Meet**
     *   *Introduction to the author's own struggle with waiting until the last second. The thrill-seeker who is actually paralysed.*
-2.  **The Easy Method**
+2.  **This method**
     *   *You don't need to become boring. You don't need to lose your "spark." You just need to stop surviving on panic.*
 3.  **Why is it Difficult to Start Early?**
     *   *The myth that "I can't work without pressure." It's not that you can't; it's that you're addicted to the chemical spike of the deadline.*
@@ -67,7 +67,7 @@
     *   *Fear that steady work kills the soul. It actually frees the soul for *better* chaos elsewhere.*
 31. **Avoid False Incentives**
     *   *Rewards don't work because the adrenaline IS the reward.*
-32. **The Easy Way to Stop**
+32. **This way to Stop**
     *   *Seeing the "rush" as a chemical addiction, not a personality trait.*
 33. **The Withdrawal Period**
     *   *Facing a task without a gun to your head. Dealing with the "quiet."*

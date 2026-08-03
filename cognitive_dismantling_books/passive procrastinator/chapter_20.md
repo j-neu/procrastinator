@@ -12,7 +12,7 @@ For most of our lives, we tune out this static noise. But it is always there. It
 
 There are several marvelous advantages to achieve from getting organized. Some of them I was consciously aware of throughout my drifting life, like the saved money and time. However, such was my fear of "becoming boring" that I blocked my mind from the most important advantage.
 
-I’ve already mentioned the sheer slavery—spending half our lives worrying about what we haven't done. In the last chapter I referred to the incredible joy of having energy again. But for me the greatest joy of being free was not the money, the energy, or the ending of the slavery, it was the **silence**.
+I’ve already mentioned the sheer slavery, spending half our lives worrying about what we haven't done. In the last chapter I referred to the incredible joy of having energy again. But for me the greatest joy of being free was not the money, the energy, or the ending of the slavery, it was the **silence**.
 
 The silence of a mind that knows everything is handled.
 

@@ -1,6 +1,6 @@
 # Chapter 39: The Moment of Revelation
 
-For many people, the Easy Method works gradually. The fog lifts slowly.
+For many people, this method works gradually. The fog lifts slowly.
 But for some, there is a distinct **Moment of Revelation**.
 
 It happens like this:

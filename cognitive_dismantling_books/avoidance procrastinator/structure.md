@@ -1,4 +1,4 @@
-# The Easy Way to Stop Procrastinating (Avoidance Edition) - Structure
+# Breaking the Procrastination Pattern (Avoidance Edition) - Structure
 
 **Target Word Count:** 15,000 - 20,000 words
 **Tone:** Informal, authoritative, empathetic, direct. No references to Allen Carr.
@@ -7,7 +7,7 @@
 
 1.  **The Worst Procrastinator I Have Yet to Meet**
     *   *Introduction to the author's own struggle with avoidance. Establishing credibility not through Ph.D.s but through "being there" in the trenches of paralysis.*
-2.  **The Easy Method**
+2.  **This method**
     *   *Setting the stage: You don't need willpower. You don't need to "change your personality." You just need to see the trap for what it is.*
 3.  **Why is it Difficult to Start?**
     *   *Debunking the myth that "starting is the hardest part." It's not the work that's hard; it's the mental gymnastics we do before it.*
@@ -67,7 +67,7 @@
     *   *Fear that productivity = loss of personality.*
 31. **Avoid False Incentives**
     *   *"If I finish this, I can have a cookie." Why bribery fails.*
-32. **The Easy Way to Stop**
+32. **This way to Stop**
     *   *The mindset shift. The revelation.*
 33. **The Withdrawal Period**
     *   *The first few days of facing tasks immediately. The "itch" to run away.*

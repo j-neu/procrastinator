@@ -12,7 +12,7 @@ I want you to observe it. Do not try to stop it (yet). Just watch it.
 
 Watch the anxiety build. Feel the knot in your stomach. Notice how irritable you are. Notice how you aren't enjoying your "free" time.
 
-When the panic hits—the "Rush"—observe that too.
+When the panic hits, the "Rush", observe that too.
 
 Does it feel good? Or does it feel like a heart attack?
 Is your thinking clear? Or is it frantic?

@@ -16,7 +16,7 @@ These shadows are guilt. They are the knowledge that you are breaking your promi
 
 The only way to banish the shadows is to shine a light on them. To do the work.
 
-When you are up to date—when you have done what you said you would do—the shadows vanish. The world looks brighter. Colors are more vivid. You can look people in the eye.
+When you are up to date (when you have done what you said you would do) the shadows vanish. The world looks brighter. Colors are more vivid. You can look people in the eye.
 
 You deserve to live without ghosts. You deserve to enjoy your life without the constant, nagging whisper of "You should be working."
 

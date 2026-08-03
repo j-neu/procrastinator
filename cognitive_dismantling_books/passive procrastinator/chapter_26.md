@@ -10,7 +10,7 @@ Then I would open a bottle of wine and act like a civilized human being.
 
 But the whole evening, I was terrified. "What if someone opens that door?" "What if the latch breaks and an avalanche of dirty laundry buries my date?"
 
-I felt like a fraud. I felt that if anyone *really* knew me—knew the squalor I lived in, knew about the unpaid parking tickets hidden in my glovebox—they would lose all respect for me.
+I felt like a fraud. I felt that if anyone *really* knew me (knew the squalor I lived in, knew about the unpaid parking tickets hidden in my glovebox), they would lose all respect for me.
 
 This shame cycle is exhausting. You are constantly acting. You are playing the role of an Adult, while feeling like a naughty child hiding a bad report card.
 

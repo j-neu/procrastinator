@@ -32,7 +32,7 @@ And the withdrawal pangs get worse. The "withdrawal" here is the background anxi
 
 So you need a bigger hit of avoidance to keep the Shadow at bay. You stop checking your email entirely. You stop answering your phone. You start avoiding friends because they might ask "how's the project going?"
 
-You spiral down. You are trapped in a pit of your own making, and the only tool you have to make yourself feel better—avoidance—is the shovel digging the hole.
+You spiral down. You are trapped in a pit of your own making, and the only tool you have to make yourself feel better, avoidance, is the shovel digging the hole.
 
 It is a subtle trap because you don't realize you are digging. You think you are "buying time." You think you are "waiting for the right moment."
 

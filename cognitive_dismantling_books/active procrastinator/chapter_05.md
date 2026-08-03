@@ -25,7 +25,7 @@ Right now, two weeks out, The Boredom is heavier than The Fear. The pain of star
 
 So you wait.
 
-You wait until day 13. Suddenly, The Fear gets heavier. The vision of your boss yelling at you, or failing the class, or losing the client—that vision becomes vivid. It becomes terrifying.
+You wait until day 13. Suddenly, The Fear gets heavier. The vision of your boss yelling at you, or failing the class, or losing the client. That vision becomes vivid. It becomes terrifying.
 
 Finally, The Fear outweighs The Boredom. The scale tips. And you act.
 

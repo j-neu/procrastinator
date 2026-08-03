@@ -10,7 +10,7 @@ With most procrastinators, it’s a question of "I’ll do it when I have time."
 
 I had reached the stage where I gave up even trying to fix it. It was not so much that I enjoyed my "leisure" time. At some time in their lives most procrastinators suffer from the illusion that they are enjoying their video games or their scrolling; but I never suffered from that illusion. I always detested the wasted hours. I thought the avoidance helped me to cope. It gave me a sense of safety, a buffer against the scary world of expectations, and I was always miserable when I tried to force myself, never being able to visualize a productive life without that safety buffer.
 
-Eventually, I sought help. I tried everything. I read books on "Flow." I meditated. I journaled. Nothing appeared to be working properly. I didn't lose the anxiety. I didn't magically find passion for my tax return. And yet, after one specific realization—the realization I will share in this book—not only did I stop procrastinating, but I actually enjoyed the process of doing the work, even the boring, scary parts.
+Eventually, I sought help. I tried everything. I read books on "Flow." I meditated. I journaled. Nothing appeared to be working properly. I didn't lose the anxiety. I didn't magically find passion for my tax return. And yet, after one specific realization (the realization I will share in this book), not only did I stop procrastinating, but I actually enjoyed the process of doing the work, even the boring, scary parts.
 
 Let me make something quite clear. I didn't become a robot. I still feel anxiety. I still feel boredom. But those feelings no longer control me.
 
@@ -22,7 +22,7 @@ It took me a long time to work it all out, basically because I was going about i
 
 My full-time profession is now helping other procrastinators to get free. I am very, very successful. Let me emphasize from the start: there is no such thing as a "moody" person who "just can't help it." I have still not met anybody who was as badly hooked on emotional relief as myself. Anybody can not only stop procrastinating but also find it easy. It is basically fear that keeps us waiting: the fear that the task will be too painful, too boring, or too overwhelming to bear. In fact, nothing could be further from the truth. Not only is the task never as bad as the fear of it, but doing it is the only way to release the fear.
 
-All procrastinators can find it easy to stop—even you! All you have to do is read the rest of the book with an open mind. The more you can understand, the easier you will find it. Even if you do not understand every word, provided you follow the instructions you will find it easy. Most important of all, you will not go through life waiting for inspiration. The only mystery will be why you waited so long.
+All procrastinators can find it easy to stop, even you! All you have to do is read the rest of the book with an open mind. The more you can understand, the easier you will find it. Even if you do not understand every word, provided you follow the instructions you will find it easy. Most important of all, you will not go through life waiting for inspiration. The only mystery will be why you waited so long.
 
 Let me issue a warning. There are only two reasons for failure with my method:
 

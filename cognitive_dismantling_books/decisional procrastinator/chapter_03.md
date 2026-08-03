@@ -23,7 +23,7 @@ The truth is, it is difficult to choose because we have been trained to view dec
 
 From the time we are in school, we are taught that there is a Right Answer and a Wrong Answer. If you circle 'A' and the answer was 'B', you get a red 'X'. You fail. You are stupid. You are bad.
 
-We carry this multiple-choice scantron sheet into adulthood. We look at every decision—what car to buy, who to date, what job to take—as a test. We think, "If I pick the wrong one, I will get a red 'X'. I will fail life."
+We carry this multiple-choice scantron sheet into adulthood. We look at every decision (what car to buy, who to date, what job to take) as a test. We think, "If I pick the wrong one, I will get a red 'X'. I will fail life."
 
 But life is not a multiple-choice test. Life is an essay question. Life is an improv class.
 

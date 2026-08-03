@@ -10,9 +10,9 @@ It wasn't just toothpaste. It was everything. I spent six months researching whi
 
 I have missed out on concerts because I couldn't decide which seats were the "best value." I have stayed in unhappy jobs for years because I couldn't decide which career move was the "perfect" next step. I have let relationships wither because I couldn't decide if this person was "The One" or if there was someone 1% better around the corner.
 
-I had reached the stage where I honestly believed I was incapable of making a decision. I thought I was broken. I thought I lacked a "decisiveness gene" that other people—the CEOs, the leaders, the people who just ordered from the menu without asking the waiter five questions—seemed to have.
+I had reached the stage where I honestly believed I was incapable of making a decision. I thought I was broken. I thought I lacked a "decisiveness gene" that other people (the CEOs, the leaders, the people who just ordered from the menu without asking the waiter five questions) seemed to have.
 
-I despised myself for it. I knew I was intelligent. I knew I was capable. But put me in front of a choice between A and B, and I would crumble. I would freeze. I would procrastinate until the choice was made for me—usually by the deadline passing or the opportunity disappearing.
+I despised myself for it. I knew I was intelligent. I knew I was capable. But put me in front of a choice between A and B, and I would crumble. I would freeze. I would procrastinate until the choice was made for me, usually by the deadline passing or the opportunity disappearing.
 
 I thought I was "careful." I thought I was "thorough." I thought I was a "maximizer" who just wanted the best.
 
@@ -24,7 +24,7 @@ But I wasn't living. I was hovering. I was stuck in the waiting room of life, re
 
 Then, something happened. I realized that the misery wasn't coming from the *wrong choices*. I had made plenty of "wrong" choices in my life (usually by accident), and I had survived them all. The misery was coming from the *process of choosing itself*. The misery was the dithering. The misery was the hours, days, and weeks of mental torture I inflicted on myself before doing the thing I was going to do anyway.
 
-When I finally understood the mechanism of this trap—when I saw that "decision paralysis" wasn't a personality trait but a simple, solvable addiction to certainty—I was free.
+When I finally understood the mechanism of this trap (when I saw that "decision paralysis" wasn't a personality trait but a simple, solvable addiction to certainty), I was free.
 
 I went from a man who couldn't pick a sandwich to a man who makes big, bold, life-changing decisions every day with a smile on his face. I don't always get it right. Sometimes I pick the wrong sandwich. Sometimes I pick the wrong project. But I am free from the paralysis. I am free from the fear. And because I am moving, because I am acting, I am achieving more in a month than I used to achieve in a decade of "thinking about it."
 

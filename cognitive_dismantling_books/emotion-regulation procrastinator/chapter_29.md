@@ -10,7 +10,7 @@ Here is the paradox: **Procrastination makes you numb.**
 
 When you are avoiding work, you are not feeling deep, rich emotions. You are feeling a grey sludge of anxiety and distraction. You are scrolling your phone, feeling nothing but a mild dopamine itch.
 
-When you do the work—when you engage with the challenge—you feel *alive*.
+When you do the work, when you engage with the challenge, you feel *alive*.
 
 Frustration is a real emotion. Satisfaction is a real emotion. Pride is a real emotion. Flow is a real emotion.
 

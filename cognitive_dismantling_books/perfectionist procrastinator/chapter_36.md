@@ -10,17 +10,17 @@ You make the decision to stop. The shift happens. And then, a few days later, th
 
 **The second reason: waiting for the feeling.**
 
-The perfectionist expects the change to feel a certain way. They expect to feel ready, confident, sure. When the feeling does not arrive—when the first release is accompanied by anxiety—they conclude the change has failed. This is a misunderstanding of how change works. The feeling does not precede the action. It follows it. You do not ship because you feel ready. You ship, and the readiness arrives later, built from the evidence of the shipping. The perfectionist who waits for the feeling will wait forever, because the feeling is produced by the action they are waiting to take.
+The perfectionist expects the change to feel a certain way. They expect to feel ready, confident, sure. When the feeling does not arrive (when the first release is accompanied by anxiety), they conclude the change has failed. This is a misunderstanding of how change works. The feeling does not precede the action. It follows it. You do not ship because you feel ready. You ship, and the readiness arrives later, built from the evidence of the shipping. The perfectionist who waits for the feeling will wait forever, because the feeling is produced by the action they are waiting to take.
 
 **The third reason: the partial relapse.**
 
-This is the subtlest failure, and the most common. The perfectionist stops polishing for a week. They ship some things. And then the important project arrives, and they decide, quietly, that this one deserves special care. The partial relapse is not a fall into the old behavior. It is a fall into the old *belief*—the belief that some work is too important for the method. And the belief is the trap. Once the belief is back, the behavior follows. The special project becomes a polished project, which becomes a paralyzed project.
+This is the subtlest failure, and the most common. The perfectionist stops polishing for a week. They ship some things. And then the important project arrives, and they decide, quietly, that this one deserves special care. The partial relapse is not a fall into the old behavior. It is a fall into the old *belief*, the belief that some work is too important for the method. And the belief is the trap. Once the belief is back, the behavior follows. The special project becomes a polished project, which becomes a paralyzed project.
 
 **The fourth reason: forgetting why.**
 
 The change is made, and then it becomes routine. The urgency fades. The memory of the trap fades with it. And the perfectionist forgets what the polishing actually cost them. They remember the anxiety as "normal." And because they have forgotten the cost, they no longer recognize the warning signs when they return. The free perfectionist is not free because they are permanently cured. They are free because they remember. The remembering is the maintenance. The forgetting is the relapse.
 
-Now, I want you to notice something about all four reasons. Not one of them is a weakness in you. The doubting, the waiting, the partial relapse, the forgetting—these are not character flaws. They are the trap's standard equipment, and the trap deploys them in the same order every time. Doubt first, to reopen the door. Then the waiting, to keep you still while the door swings open. Then the partial relapse, to get you back inside. Then the forgetting, to make sure you stay.
+Now, I want you to notice something about all four reasons. Not one of them is a weakness in you. The doubting, the waiting, the partial relapse, the forgetting. These are not character flaws. They are the trap's standard equipment, and the trap deploys them in the same order every time. Doubt first, to reopen the door. Then the waiting, to keep you still while the door swings open. Then the partial relapse, to get you back inside. Then the forgetting, to make sure you stay.
 
 You are not fighting your own weakness. You are fighting a well-designed trap, and the first step to beating it is to know its sequence.
 
@@ -30,7 +30,7 @@ When the doubt arrives, you do not argue with it. You recognize it as the trap's
 
 When the feeling does not arrive, you do not conclude that the change failed. You conclude that the feeling is coming, and you keep shipping until it does.
 
-When the partial relapse beckons—when the important project arrives and you are tempted to make it special—you refuse. There are no special projects. The method applies to all of them, including the one that matters most. Especially the one that matters most.
+When the partial relapse beckons (when the important project arrives and you are tempted to make it special), you refuse. There are no special projects. The method applies to all of them, including the one that matters most. Especially the one that matters most.
 
 And you do not forget. You keep the memory of the trap alive. Not by brooding on it, but by noticing the cost every time it nearly catches you.
 

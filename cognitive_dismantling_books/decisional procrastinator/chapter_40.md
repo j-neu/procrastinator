@@ -22,8 +22,8 @@ But a vow to never again choose the misery of Indecision over the adventure of C
 
 You are going to decide. You are going to commit. And you are going to handle whatever comes next.
 
-This is the end of the "Old You"—the one who waited for permission.
-This is the birth of the "New You"—the one who gives permission to themselves.
+This is the end of the "Old You," the one who waited for permission.
+This is the birth of the "New You," the one who gives permission to themselves.
 
 Take a deep breath.
 The hallway is behind you. The door is in front of you.

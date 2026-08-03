@@ -6,7 +6,7 @@ This is the "Just One Crisis" trap.
 
 It is like the smoker who says, "I'll quit, but I'll keep a pack for weddings."
 
-If you keep the "Crisis Mode" as a valid tool in your toolbox, you will inevitably reach for it. And because it is so potent—because the chemical hit is so strong—it will make your normal, steady work feel even flatter by comparison.
+If you keep the "Crisis Mode" as a valid tool in your toolbox, you will inevitably reach for it. And because it is so potent (because the chemical hit is so strong), it will make your normal, steady work feel even flatter by comparison.
 
 You cannot be a "Part-Time Adrenaline Junkie."
 
@@ -16,7 +16,7 @@ You have to reject the Crisis completely.
 
 You have to accept that the work you do in "Crisis Mode" is tainted. It carries the stench of panic. It is not your best work.
 
-Once you close that door—once you decide that "The Rush" is not a valid way to work—you force yourself to find satisfaction in "The Flow."
+Once you close that door (once you decide that "The Rush" is not a valid way to work), you force yourself to find satisfaction in "The Flow."
 
 And you will find it. But not if you keep the emergency exit open.
 

@@ -1,4 +1,4 @@
-# The Easy Way to Stop Procrastinating (Decisional Edition) - Structure
+# Breaking the Procrastination Pattern (Decisional Edition) - Structure
 
 **Target Word Count:** 15,000 - 20,000 words
 **Tone:** Informal, authoritative, empathetic, direct. No references to Allen Carr.
@@ -7,7 +7,7 @@
 
 1.  **The Worst Ditherer I Have Yet to Meet**
     *   *Introduction to the author's own struggle with analysis paralysis. The cereal aisle breakdown. The 3-month research for a toaster.*
-2.  **The Easy Method**
+2.  **This method**
     *   *You don't need "confidence." You don't need to "know it all." You just need to see that the "Right Decision" is a myth.*
 3.  **Why is it Difficult to Choose?**
     *   *Debunking the myth of "I'm just being thorough." It's not prudence; it's fear. The pain of the unchosen path.*
@@ -67,7 +67,7 @@
     *   *Fear that decisiveness = stupidity.*
 31. **Avoid False Incentives**
     *   *Reward systems don't work when the fear is existential.*
-32. **The Easy Way to Decide**
+32. **This way to Decide**
     *   *The mindset shift: There are no wrong decisions, only different paths.*
 33. **The Withdrawal Period**
     *   *The "Buyer's Remorse" period. Riding it out without going back.*

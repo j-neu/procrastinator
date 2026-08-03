@@ -1,4 +1,4 @@
-# The Easy Way to Stop Procrastinating (Emotion-Regulation Edition) - Structure
+# Breaking the Procrastination Pattern (Emotion-Regulation Edition) - Structure
 
 **Target Word Count:** 15,000 - 20,000 words
 **Tone:** Informal, authoritative, empathetic, direct. No references to Allen Carr.
@@ -8,7 +8,7 @@
 
 1.  **The Worst Mood Repairer I Have Yet to Meet**
     *   *Introduction. The author as the ultimate "mood manager" who spent years waiting for inspiration that never came. The realization that waiting for the "right mood" was the problem, not the solution.*
-2.  **The Easy Method**
+2.  **This method**
     *   *You don't need to become a robot. You don't need to suppress your feelings. You just need to realize your feelings are smoke signals, not stop signs.*
 3.  **Why is it Difficult to Start?**
     *   *The "Right Mood" Myth. Why starting feels impossible when you feel anxious, bored, or overwhelmed. The belief that you must "fix" the feeling first.*
@@ -68,7 +68,7 @@
     *   *Fear that working without "feeling it" is unsustainable. Actually, resistance causes burnout.*
 31. **Avoid False Incentives**
     *   *Treating yourself like a toddler who needs a cookie. You don't need bribes.*
-32. **The Easy Way to Stop**
+32. **This way to Stop**
     *   *Seeing the emotion as a sensation, not a command.*
 33. **The Withdrawal Period**
     *   *Sitting with the itch to run away. Surfing the urge.*

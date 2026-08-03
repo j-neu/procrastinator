@@ -16,7 +16,7 @@ Yes, right in the middle of a project.
 
 It feels scary to let go of the crutch while you are walking. But the crutch is what is making you limp.
 
-If you start *today*—if you choose to do even one hour of calm, focused work on your current high-stakes project—you will prove to yourself that you don't need the panic.
+If you start *today* (if you choose to do even one hour of calm, focused work on your current high-stakes project), you will prove to yourself that you don't need the panic.
 
 You don't need to be perfect immediately. You just need to break the cycle of "Waiting for Fear."
 

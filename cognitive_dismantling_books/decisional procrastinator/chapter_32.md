@@ -1,4 +1,4 @@
-# Chapter 32: The Easy Way to Stop
+# Chapter 32: This Way to Stop
 
 You might be expecting me to tell you that stopping decisional procrastination requires immense willpower, rigid discipline, and a complete overhaul of your personality. You might be bracing yourself for a "boot camp" of decision-making drills.
 
@@ -12,13 +12,13 @@ You wait for clarity. You wait for the guarantee. You wait for that magical feel
 
 But the universe doesn't issue guarantees. And so you wait. And you suffer.
 
-The "Easy Way" to stop is to realize that you don't need certainty. You don't need to be right. You just need to be *moving*.
+This way to stop is to realize that you don't need certainty. You don't need to be right. You just need to be *moving*.
 
 The trap of the decisional procrastinator is the belief that the decision is the destination. You think, "Once I decide, it's over." So you treat it like a death sentence. But a decision isn't a destination; it's a doorway. It’s just the entrance to the next room of your life.
 
 If you pick the "wrong" door, you are still in a room. You can look around, learn, and find another door. But if you stand in the hallway refusing to turn any handle, you are nowhere. You are in limbo.
 
-The Easy Way is to shift your goal.
+This way is to shift your goal.
 **Old Goal:** Make the *perfect* decision to avoid pain and regret.
 **New Goal:** Make *a* decision to escape the misery of limbo.
 

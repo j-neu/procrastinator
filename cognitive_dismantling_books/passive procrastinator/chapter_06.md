@@ -2,19 +2,19 @@
 
 Indecision is the drug. It is a colorless, odorless gas that permeates the life of the passive procrastinator. It acts faster than heroin; it takes just a split second to think "I'll decide later" and get the hit.
 
-Every time you look at a task—an email, a pile of laundry, a complex form—and you look away, you receive a small dose of "relief." This relief is the drug.
+Every time you look at a task (an email, a pile of laundry, a complex form), and you look away, you receive a small dose of "relief." This relief is the drug.
 
 If you have twenty items on your to-do list and you ignore all of them, you receive twenty doses of the drug.
 
 The relief is quick-acting. As soon as you turn your attention to Netflix or a video game, the anxiety of the undone task drops. This explains why most drifters spend hours "zoning out."
 
-But as soon as the distraction ends—when the movie finishes, or you have to go to the bathroom—the relief leaves the body and the drifter begins to suffer withdrawal pangs.
+But as soon as the distraction ends (when the movie finishes, or you have to go to the bathroom) the relief leaves the body and the drifter begins to suffer withdrawal pangs.
 
 I must at this point dispel a common illusion that drifters have about withdrawal pangs. You think withdrawal pangs are the terrible panic you feel when a deadline is one hour away. That is not withdrawal; that is the *result* of the addiction.
 
 The actual pangs of withdrawal from Indecision are so subtle that most drifters have lived and died without even realizing they are addicts. You feel it as a low-level hum of anxiety. An empty, restless feeling. The feeling that *something* is wrong, or forgotten, or looming. It is a fog.
 
-If it is prolonged, the drifter becomes nervous, insecure, agitated, lacking in confidence, and irritable. It is like hunger—for a poison, RELIEF.
+If it is prolonged, the drifter becomes nervous, insecure, agitated, lacking in confidence, and irritable. It is like hunger, for a poison, RELIEF.
 
 Within seven seconds of deciding to "do it tomorrow," fresh relief is supplied and the craving ends, resulting in the feeling of relaxation that the procrastination appears to give to the drifter.
 
@@ -24,9 +24,9 @@ All drifters start drifting for stupid reasons. Nobody has to. The only reason w
 
 The whole business of passive procrastination is a series of conundrums. All drifters know at heart that they are wasting their potential. However, the most pathetic aspect is that the enjoyment the drifter gets from "doing nothing" is merely the pleasure of trying to get back to the state of peace and tranquility that their mind had *before* they became overwhelmed in the first place.
 
-You know that feeling when a neighbor’s car alarm has been ringing all day? Then the noise suddenly stops—that marvelous feeling of peace is experienced. It is not really peace but the ending of the aggravation.
+You know that feeling when a neighbor’s car alarm has been ringing all day? Then the noise suddenly stops. That marvelous feeling of peace is experienced. It is not really peace but the ending of the aggravation.
 
-Before we start the indecision chain, our minds are clear. We then force clutter into our lives (by not making decisions), and when we try to look at the clutter, we suffer withdrawal pangs—not physical pain, just an overwhelming fog. We are not even aware that it exists, but it is like a dripping tap inside our brains. Our rational minds do not understand it. All we know is that we want to look away, and when we look away the anxiety goes, and for the moment we are content again. However, the satisfaction is only temporary because the clutter is still there, growing. As soon as you look back at your desk, the craving starts again. It is a chain for life—UNLESS YOU BREAK IT.
+Before we start the indecision chain, our minds are clear. We then force clutter into our lives (by not making decisions), and when we try to look at the clutter, we suffer withdrawal pangs, not physical pain, just an overwhelming fog. We are not even aware that it exists, but it is like a dripping tap inside our brains. Our rational minds do not understand it. All we know is that we want to look away, and when we look away the anxiety goes, and for the moment we are content again. However, the satisfaction is only temporary because the clutter is still there, growing. As soon as you look back at your desk, the craving starts again. It is a chain for life, UNLESS YOU BREAK IT.
 
 The whole business of drifting is like wearing tight shoes just to obtain the pleasure you feel when you take them off.
 

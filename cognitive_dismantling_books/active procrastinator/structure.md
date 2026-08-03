@@ -1,4 +1,4 @@
-# The Easy Way to Stop Procrastinating (Active Edition) - Structure
+# Breaking the Procrastination Pattern (Active Edition) - Structure
 
 **Target Word Count:** 15,000 - 20,000 words
 **Tone:** Informal, authoritative, empathetic, direct. No references to Allen Carr.
@@ -8,7 +8,7 @@
 
 1.  **The Worst Adrenaline Junkie I Have Yet to Meet**
     *   *Introduction. The author as the ultimate "last-minute hero" who eventually burned out. The realization that it wasn't efficiency, it was chaos.*
-2.  **The Easy Method**
+2.  **This method**
     *   *You don't need to become a boring robot. You don't need to lose your "edge." You just need to realize the edge is cutting you.*
 3.  **Why is it Difficult to Start Early?**
     *   *The "Boredom" Myth. Why starting early feels like eating cardboard to an active procrastinator. The lack of stimulation.*
@@ -68,7 +68,7 @@
     *   *Fear of mediocrity. Speed vs. Haste.*
 31. **Avoid False Incentives**
     *   *Gamification traps. You don't need to trick yourself.*
-32. **The Easy Way to Stop**
+32. **This way to Stop**
     *   *Seeing the "pressure" for what it is: a toxic fuel.*
 33. **The Withdrawal Period**
     *   *Facing a task without the adrenaline kick. Learning to love the calm focus.*

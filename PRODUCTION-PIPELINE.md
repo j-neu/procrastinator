@@ -301,7 +301,7 @@ Two goals: (1) catch banned vocabulary and AI-typical phrasing per `writing_styl
 
 | Pass | Tool | What it catches |
 |------|------|-----------------|
-| 1. Style conformance | `tools/prose_lint.py` | Banned words/patterns from `writing_style.md` (delve, tapestry, moreover, "in conclusion", etc.) + AI-tell phrases ("not only ... but also", "at the end of the day", "importantly") |
+| 1. Style conformance | `tools/prose_lint.py` | Banned words/patterns from `writing_style.md` (delve, tapestry, moreover, "in conclusion", etc.) + AI-tell phrases ("not only ... but also", "at the end of the day", "importantly") + method-name references ("easy way", "easy method", "easyway") + em dashes (a top AI tell; use `tools/strip_em_dashes.py` to convert existing ones) |
 | 2. Prose quality | proselint (v0.16, bundled in the script) | Clichés, weasel words, redundancy, corporate-speak, paragraph-starting "But" |
 | 3. Rhythm & readability | textstat (bundled) | Flesch Reading Ease, grade level, sentence-length coefficient of variation (AI text runs uniform, CV < ~0.5) |
 
@@ -343,6 +343,63 @@ Not every hit is a fix. The Easyway voice is *supposed* to repeat, emphasize, an
 remaining 6 books. All 7 books have: `note-to-readers.md`, a passing lint run, and a
 per-book report (`PROSE-LINT-REPORT-<book>.md`). Future books follow Section 3 steps 5-6
 (Add the AI-Style Note, then Prose Lint) before being marked complete.
+
+## 5.5 Book Covers (Front / Back / Wrap)
+
+**Status:** DONE for all 7 books. Renders in `book-covers/output/`.
+
+The covers use the same HTML/CSS + Puppeteer approach as everything else, but data-driven:
+one template, one config file, one generator script. Full usage, per-book data, and the
+print math are documented in [`book-covers/README.md`](book-covers/README.md).
+
+### Files
+
+```
+book-covers/
+├── cover-template.html   # single template; front / back / wrap variants, palette CSS vars
+├── covers.config.js      # per-book data: palette, title, subtitle, hook, blurb, bio, pages
+├── generate-covers.js    # Puppeteer renderer
+└── output/               # <slug>-front.png / -back.png / -wrap.png (+ -wrap.pdf, previews)
+```
+
+### Rules (mirror the writing rules)
+
+- **No em dashes** in blurbs or hooks (banned by `writing_style.md`; run
+  `tools/prose_lint.py` on blurb text before shipping).
+- **No fake ISBN or barcode** on the back cover. The bottom-right zone stays empty.
+- **Text must not overflow** its panel. After any content/font change, verify with the
+  overflow check (see `book-covers/README.md`) — all 7 books currently render with
+  zero overflow.
+
+### Regenerate
+
+```bash
+node book-covers/generate-covers.js             # all 7 books
+node book-covers/generate-covers.js --only active
+node book-covers/generate-covers.js --no-pdf
+```
+
+## 5.6 Full Book PDF (Front Cover + Interior + Back Cover)
+
+**Status:** DONE for Active (example). Produces a single publishable, sellable
+manuscript: `book-publisher/output/<slug>-book.pdf`.
+
+Pipeline: `book-covers` renders the covers, then `book-publisher` assembles the
+book — front cover, title page, copyright page, note to readers, all chapters,
+finale, series page, back cover — as one 6x9in PDF.
+
+```bash
+node book-publisher/build-book.js --slug active --dir "cognitive_dismantling_books/active procrastinator"
+```
+
+- Covers are pulled from `book-covers/output/<slug>-front.png` / `-back.png`
+  (run the cover generator first).
+- Interior is markdown → HTML (`markdown-it`) → styled interior → Puppeteer PDF,
+  merged with the cover pages via `pdf-lib`.
+- Interior typography: Source Serif 4 body, Space Grotesk headings, Space Mono
+  kickers. Page numbers in the footer; each chapter starts on a new page.
+- The copyright page carries a real copyright notice and **no fake ISBN**.
+- All page numbers, fonts, and margins are set in `book-publisher/interior-template.html`.
 
 ## 6. Next Session Instructions
 

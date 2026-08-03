@@ -1,18 +1,18 @@
-# Chapter 32: The Easy Way to Stop
+# Chapter 32: This Way to Stop
 
-The Easy Way isn't a technique. It isn't a planner. It isn't a timer app.
+This way isn't a technique. It isn't a planner. It isn't a timer app.
 
-The Easy Way is a **Mindset Shift**.
+This way is a **Mindset Shift**.
 
 It is the realization that the thing you are afraid of (starting early) is not scary. And the thing you rely on (the adrenaline rush) is not helping you.
 
-Once you truly understand—deep in your gut—that procrastination is not a "style" but a "trap," the desire to do it evaporates.
+Once you truly understand, deep in your gut, that procrastination is not a "style" but a "trap," the desire to do it evaporates.
 
 You stop seeing the deadline as a finish line. You start seeing the deadline as a cliff edge.
 
 Why would you dance on the edge of a cliff if you didn't have to?
 
-The Easy Way works like this:
+This way works like this:
 
 1.  **Acknowledge the Addiction:** You are addicted to the chemical hit of the crisis.
 2.  **Debunk the Myth:** You do not work better under pressure. You work worse, but you feel "higher."

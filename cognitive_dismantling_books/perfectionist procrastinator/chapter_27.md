@@ -12,7 +12,7 @@ And the niche is a trap. Because the approval is conditional on the perfectionis
 
 This is why perfectionism survives even when the perfectionist understands it intellectually. The understanding says: this is destroying you. The social reward says: but it is who you are. And identity beats intellect every time.
 
-Look closer at the social reward and you will find something uncomfortable: the reward is not for the quality of your work. It is for your *visible suffering*. The colleague who praises your dedication is not praising your output—you produce less than anyone. They are praising the effort, the striving, the drama. The perfectionism is rewarded because it looks like commitment, and commitment is admired even when it produces nothing.
+Look closer at the social reward and you will find something uncomfortable: the reward is not for the quality of your work. It is for your *visible suffering*. The colleague who praises your dedication is not praising your output. You produce less than anyone. They are praising the effort, the striving, the drama. The perfectionism is rewarded because it looks like commitment, and commitment is admired even when it produces nothing.
 
 You have been paid in admiration for a currency you do not need. And the payment has a hidden tax: it locks you in. Every time someone praises your dedication, you receive the message that your current behavior is good, that you should keep it up, that the suffering is noble. The praise is the chain. The admiration is the cage.
 

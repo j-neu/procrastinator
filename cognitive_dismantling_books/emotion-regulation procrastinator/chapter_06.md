@@ -1,8 +1,8 @@
 # Chapter 6: The "Safety" Addiction
 
-We tend to think of addiction as something dramatic—heroin, gambling, alcohol. We don't think of "safety" as an addiction. But for the Emotion-Regulation Procrastinator, safety is the drug of choice.
+We tend to think of addiction as something dramatic, heroin, gambling, alcohol. We don't think of "safety" as an addiction. But for the Emotion-Regulation Procrastinator, safety is the drug of choice.
 
-When you have a task that scares you—say, a difficult phone call—your brain screams "Danger!" It perceives a threat to your ego, your status, or your comfort.
+When you have a task that scares you (say, a difficult phone call) your brain screams "Danger!" It perceives a threat to your ego, your status, or your comfort.
 
 If you make the call, you face the danger. If you delay the call, you retreat to safety.
 

@@ -14,7 +14,7 @@ The procrastinator leaves work at 5:00 PM (having done nothing). They go home. T
 Consider the "Sunday Scaries."
 This is a universal phenomenon where people spend their entire Sunday in a state of low-level dread because Monday is coming.
 Why? Because they left things undone on Friday.
-They ruined 50% of their weekend—their precious freedom—because they were afraid to finish an email on Friday afternoon.
+They ruined 50% of their weekend, their precious freedom, because they were afraid to finish an email on Friday afternoon.
 
 We punish ourselves. We are the jailer and the prisoner.
 
@@ -25,7 +25,7 @@ We just sit in the cell.
 
 This is madness.
 
-If a boss treated you this way—if a boss said, "You must sit at your desk for 12 hours, do no work, but also you aren't allowed to have fun"—you would quit. You would sue.
+If a boss treated you this way (if a boss said, "You must sit at your desk for 12 hours, do no work, but also you aren't allowed to have fun"), you would quit. You would sue.
 
 But you do this to yourself every day.
 

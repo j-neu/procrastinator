@@ -39,4 +39,4 @@ Give them the key. Tell them about the Fear. Tell them about the relief trap.
 Tell them: *"You aren't messy. You aren't lazy. You are just addicted to the relief of saying 'later'. If you stop seeking that relief, the mess clears itself."*
 
 Be patient. You know how thick the fog can be. But you also know the way out.
-The best way to help the sinking ship is to stand firmly on dry land and throw a rope—not to jump back in the water with them.
+The best way to help the sinking ship is to stand firmly on dry land and throw a rope, not to jump back in the water with them.

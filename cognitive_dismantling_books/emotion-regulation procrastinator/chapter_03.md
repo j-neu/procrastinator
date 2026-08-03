@@ -16,7 +16,7 @@ The answer is that procrastination is not a habit: IT IS AN ADDICTION TO RELIEF.
 
 Most procrastinators are convinced that they get some genuine pleasure or "safety" from delaying. They believe that by pushing the task away, they are protecting themselves from the anxiety or boredom it contains. They believe they are making a genuine sacrifice if they force themselves to face it now.
 
-The beautiful truth is that once you understand this emotional addiction and the true reasons why you delay, you will stop doing it—just like that—and within three weeks the only mystery will be why you found it necessary to hide for so long.
+The beautiful truth is that once you understand this emotional addiction and the true reasons why you delay, you will stop doing it, just like that, and within three weeks the only mystery will be why you found it necessary to hide for so long.
 
 You are probably saying, "That’s all very well. I know this, but when I look at that spreadsheet, I feel physically sick. I *can't* do it."
 

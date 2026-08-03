@@ -1,12 +1,12 @@
 # Chapter 39: The Moment of Revelation
 
-For every smoker who quits using this method, there comes a moment—sometimes immediate, sometimes a few weeks later—where the penny drops. The fog clears. They look at a cigarette and realize, "I don't need that. I never needed that. I am free."
+For every smoker who quits using this method, there comes a moment (sometimes immediate, sometimes a few weeks later) where the penny drops. The fog clears. They look at a cigarette and realize, "I don't need that. I never needed that. I am free."
 
 For the decisional procrastinator, this moment is even more profound.
 
 It is the moment you realize that **Indecision was the pain, not the Decision.**
 
-You will make a decision—maybe a big one you've been dreading for months. You will finally say "Yes" or "No."
+You will make a decision, maybe a big one you've been dreading for months. You will finally say "Yes" or "No."
 And you will brace yourself for the backlash... the regret, the panic, the doom.
 
 But instead, you will feel a rush of pure oxygen.
@@ -26,7 +26,7 @@ You will stop asking, "What is the *right* choice?" and start asking, "Which cho
 
 Because that is the secret: There are no right choices pre-existing in the world waiting to be found. There are only choices that you *make right* by your actions afterwards.
 
-When that revelation hits you—that you have the power to make things right—you will never want to go back to the paralysis of the hallway. You will be free.
+When that revelation hits you (that you have the power to make things right), you will never want to go back to the paralysis of the hallway. You will be free.
 
 ### Exercise: The "Fork in the Road" Visualization
 

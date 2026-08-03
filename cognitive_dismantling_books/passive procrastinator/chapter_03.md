@@ -4,7 +4,7 @@ As I explained earlier, I got interested in this subject because of my own addic
 
 One of the questions we always ask drifters is "Do you want to get organized?" In a way, it is a stupid question. All drifters would love to be organized. If you say to the most confirmed mess-maker, "If you could go back to the time before you became overwhelmed, with the knowledge you have now, would you have chosen to let things slide?", "NO WAY" is the reply.
 
-Say to the most confirmed drifter—someone who claims they are "creative" and "hate rules"—"Do you encourage your children to be disorganized, late, and unreliable?", "NO WAY" is the reply.
+Say to the most confirmed drifter (someone who claims they are "creative" and "hate rules")"Do you encourage your children to be disorganized, late, and unreliable?", "NO WAY" is the reply.
 
 All passive procrastinators feel that something evil has got possession of them. In the early days, it is a question of "I am going to sort this out, not today but tomorrow." Eventually, we get to the stage where we think either that we haven't got the willpower or that there is something inherent in our personality that means we *must* drift in order to cope with life.
 
@@ -32,7 +32,7 @@ Most drifters who think about it eventually come to the conclusion that it is ju
 
 So why do we find it difficult to break a habit that feels awful, that ruins our career, that costs us a fortune, that is embarrassing and chaotic and that we would love to break anyway, when all we have to do is to *make a decision*? The answer is that passive procrastination is not a habit: IT IS INDECISION ADDICTION! That is why it appears to be so difficult to "give up." Perhaps you feel this explanation explains why it is difficult to "get organized"? It does explain why most drifters find it difficult to "get organized." That is because they do not understand the addiction to *safety*. The main reason is that drifters are convinced that they get some genuine relief or safety from putting things off and believe that they are making a genuine sacrifice if they act now.
 
-The beautiful truth is that once you understand the addiction to "safety" and the true reasons why you drift, you will stop doing it—just like that—and within three weeks the only mystery will be why you found it necessary to drift as long as you have, and why you cannot persuade other drifters HOW NICE IT IS TO BE DECISIVE!
+The beautiful truth is that once you understand the addiction to "safety" and the true reasons why you drift, you will stop doing it, just like that, and within three weeks the only mystery will be why you found it necessary to drift as long as you have, and why you cannot persuade other drifters HOW NICE IT IS TO BE DECISIVE!
 
 **EXERCISE: The Difficulty Myth**
 

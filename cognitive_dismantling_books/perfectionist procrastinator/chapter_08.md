@@ -2,7 +2,7 @@
 
 I want you to think about the precise moment when the perfectionist's anxiety appears. It happens when you are working, or about to ship, or asked a question you cannot answer perfectly. You see the flaw. And you feel it. Not as a thought. As a sensation.
 
-Where do you feel it? For most perfectionists, it is in the chest—a tightness, a sinking. It has the quality of dread: a queasy certainty that something is wrong, that you are about to be exposed, that this flawed thing must be hidden at all costs.
+Where do you feel it? For most perfectionists, it is in the chest, a tightness, a sinking. It has the quality of dread: a queasy certainty that something is wrong, that you are about to be exposed, that this flawed thing must be hidden at all costs.
 
 I call this the **flaw dread**. It is the perfectionist's version of the withdrawal pang, and understanding it is the key to freedom.
 
@@ -12,11 +12,11 @@ The reflex was installed over years, in the moments when your work was mocked, w
 
 Now the second thing to know, and it is the liberating one: **the dread is a liar about the future, but it is honest about one thing.** It is honest that you are afraid. It is not honest about whether there is anything to be afraid of.
 
-When you feel the flaw dread, your brain tells you a story: *"If you release this work, you will be judged. You will be diminished."* That story is fiction. You have shipped before—small things, under duress, by accident—and the world did not end. The dread cannot tell you that, because the dread's job is to keep you safe from a danger that does not exist. It is a smoke alarm with no fire. It screams either way.
+When you feel the flaw dread, your brain tells you a story: *"If you release this work, you will be judged. You will be diminished."* That story is fiction. You have shipped before (small things, under duress, by accident), and the world did not end. The dread cannot tell you that, because the dread's job is to keep you safe from a danger that does not exist. It is a smoke alarm with no fire. It screams either way.
 
 Here is the trap's cleverest move. The perfectionist does not realize the dread can be *endured*. They have spent their whole life obeying it the instant it appears. The moment the dread arrives, they polish. They do not stop to wonder whether the dread will survive being ignored.
 
-Let me tell you what happens if you ignore it. The dread arrives. You notice it. You do not polish. You keep working, or you ship, or you speak. And the dread, which felt like a wall, begins to dissolve. It peaks within a minute or two—this is the uncomfortable part, and you must not flinch here—and then it recedes. It does not kill you. It simply passes, like a wave, and you are left standing with the work released and your heart still beating.
+Let me tell you what happens if you ignore it. The dread arrives. You notice it. You do not polish. You keep working, or you ship, or you speak. And the dread, which felt like a wall, begins to dissolve. It peaks within a minute or two (this is the uncomfortable part, and you must not flinch here), and then it recedes. It does not kill you. It simply passes, like a wave, and you are left standing with the work released and your heart still beating.
 
 This is the single most important fact about the flaw dread, and I want you to write it somewhere you can see it: **the dread cannot be killed by arguing with it. It can only be starved by ignoring it.**
 
@@ -32,7 +32,7 @@ The dread is not a wall. It is a shadow. Shadows do not stop you. They only make
 
 **EXERCISE: The Dread Field Trip**
 
-Put the book down. Take your paper. Choose the smallest piece of work you are currently polishing—a message, a sentence, a tiny task. Something that could be shipped in the next ten minutes.
+Put the book down. Take your paper. Choose the smallest piece of work you are currently polishing, a message, a sentence, a tiny task. Something that could be shipped in the next ten minutes.
 
 Now, deliberately, ship it. Do not fix it first. That is the whole exercise. Notice the dread as you do it. Notice how loud it screams. Notice that your finger still moved. Notice that the sky did not fall.
 

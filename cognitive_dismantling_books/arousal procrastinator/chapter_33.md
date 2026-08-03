@@ -3,7 +3,7 @@
 I will not lie to you. The first few weeks of being a non-procrastinator might feel... strange.
 You might feel "flat."
 You might feel "restless."
-You might stare at your finished work on a Wednesday afternoon and feel a phantom limb syndrome—where is the panic? Where is the drama?
+You might stare at your finished work on a Wednesday afternoon and feel a phantom limb syndrome, where is the panic? Where is the drama?
 
 This is the withdrawal period.
 Your brain is recalibrating its dopamine receptors. It is used to the massive, chaotic spikes of the deadline rush. Normal satisfaction feels quiet by comparison.

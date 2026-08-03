@@ -13,7 +13,9 @@ Avoid making every sentence the same length, which creates a robotic, predictabl
 ### Do not overuse the "Rule of Three": 
 Stop grouping adjectives or points into triplets (like "fast, safe, and secure") out of habit.
 ### Do not over-format short text: 
-Avoid forcing bold headers, bullet points, and em-dashes into brief, casual pieces.
+Avoid forcing bold headers and bullet points into brief, casual pieces.
+### Do not use em dashes: 
+Em dashes are the clearest sign of machine-written prose. Never use them. Use commas for parenthetical asides, parentheses for digressions, and periods or a semicolon where the em dash would have joined two full clauses.
 ### Do not wrap up with summary loops: 
 Never end a short section or post with phrases like "In conclusion," "Ultimately," or "In summary".
 ## Tone and Content to Avoid

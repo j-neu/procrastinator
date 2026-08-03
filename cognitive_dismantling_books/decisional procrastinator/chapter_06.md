@@ -8,7 +8,7 @@ Your drug of choice is **Certainty.**
 
 You crave the feeling of *knowing for sure*. You crave the guarantee. You want a signed contract from the Universe that says: "This is the Right Path. Nothing bad will happen here."
 
-When you don't have that feeling—when you are faced with ambiguity, risk, or the unknown—you go into withdrawal.
+When you don't have that feeling (when you are faced with ambiguity, risk, or the unknown), you go into withdrawal.
 
 The symptoms of Certainty Withdrawal are:
 *   Anxiety in the pit of your stomach.
@@ -17,7 +17,7 @@ The symptoms of Certainty Withdrawal are:
 
 And just like a heroin addict, you will do anything to stop the withdrawal. You will delay your life. You will annoy your loved ones. You will waste your money. You will stay up until 3:00 AM reading forums.
 
-And when you finally find a nugget of certainty—a "Best of 2024" list that puts your choice at #1—you get a hit. *Ahhhh.* Relief. The anxiety fades. You feel safe.
+And when you finally find a nugget of certainty (a "Best of 2024" list that puts your choice at #1), you get a hit. *Ahhhh.* Relief. The anxiety fades. You feel safe.
 
 But the hit is temporary. Because deep down, you know that lists are subjective. You know that things can change. So the doubt creeps back in. The withdrawal starts again. And you need another hit.
 
@@ -42,7 +42,7 @@ You have to learn to sit with the "Maybe."
 "Maybe I'll regret this."
 "Maybe there was a better deal."
 
-And instead of running from that feeling—instead of trying to numb it with more research—you just let it be there. You say, "Hello, Uncertainty. You're uncomfortably loud today. But you can't hurt me."
+And instead of running from that feeling (instead of trying to numb it with more research), you just let it be there. You say, "Hello, Uncertainty. You're uncomfortably loud today. But you can't hurt me."
 
 Because the truth is, **you can handle being wrong.**
 

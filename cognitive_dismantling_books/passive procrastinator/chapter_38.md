@@ -8,7 +8,7 @@ Some drifters try to protect their new habit by living in a bubble. They avoid a
 This is a mistake.
 
 You cannot organize your life by avoiding life.
-The goal is not to live in a monastery. The goal is to live in the real world—with all its mess and surprise—and remain the captain of your ship.
+The goal is not to live in a monastery. The goal is to live in the real world, with all its mess and surprise, and remain the captain of your ship.
 
 If you avoid "messy" situations, you never learn to handle them.
 You remain fragile. The first time a crisis hits, you will collapse back into drifting.

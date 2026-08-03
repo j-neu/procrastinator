@@ -12,7 +12,7 @@ You think: "I am so organized now, I can afford to leave this jacket on the chai
 
 **STOP.**
 
-That thought—"It doesn't matter"—is the seed of the weed.
+That thought, "It doesn't matter", is the seed of the weed.
 It matters.
 
 If you leave the jacket, you are not just leaving a jacket. You are reopening the negotiation.
@@ -40,7 +40,7 @@ And pick up the jacket.
 Pause.
 
 Set up a physical "Tripwire" in your home.
-Pick one surface—a table, a desk, a chair—that must stay 100% clear.
+Pick one surface (a table, a desk, a chair) that must stay 100% clear.
 This is your sacred ground.
 
 If you ever see an item on that surface, alarm bells should ring.

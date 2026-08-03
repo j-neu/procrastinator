@@ -1,0 +1,526 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>{{TITLE}} - Cover</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    /* Palette injected per book */
+    --sage:        {{PALETTE_PRIMARY}};
+    --sage-deep:   {{PALETTE_DEEP}};
+    --sage-shade:  {{PALETTE_SHADE}};
+    --bone:        #f1ece1;
+    --bone-soft:   rgba(241, 236, 225, 0.62);
+    --bone-faint:  rgba(241, 236, 225, 0.34);
+    --bone-rule:   rgba(241, 236, 225, 0.55);
+    --spine-px:    {{SPINE_PX}}px;
+    --cover-w:     {{COVER_W}}px;
+    --cover-h:     {{COVER_H}}px;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    font-family: "Space Grotesk", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: geometricPrecision;
+  }
+
+  /* Preview stage only; removed for print renders */
+  .stage {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    padding: 32px;
+    box-sizing: border-box;
+    background: #2a2a28;
+  }
+
+  /* ── Full wrap: back | spine | front ── */
+  .wrap {
+    display: flex;
+    width: calc(var(--cover-w) * 2 + var(--spine-px));
+    height: var(--cover-h);
+    position: relative;
+    isolation: isolate;
+    background: var(--sage);
+    box-shadow:
+      0 40px 80px -20px rgba(0,0,0,0.55),
+      0 8px 22px -4px rgba(0,0,0,0.35),
+      inset 0 0 0 1px rgba(255,255,255,0.04);
+  }
+
+  .panel {
+    width: var(--cover-w);
+    height: var(--cover-h);
+    position: relative;
+    flex-shrink: 0;
+    overflow: hidden;
+    isolation: isolate;
+  }
+
+  /* Paper grain */
+  .panel::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+      radial-gradient(rgba(255,255,255,0.05) 1px, transparent 1px),
+      radial-gradient(rgba(0,0,0,0.05) 1px, transparent 1px);
+    background-size: 3px 3px, 5px 5px;
+    background-position: 0 0, 1px 2px;
+    mix-blend-mode: overlay;
+    opacity: 0.45;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  /* Vignette */
+  .panel::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(110% 70% at 50% 50%, transparent 55%, rgba(0,0,0,0.18) 100%);
+    pointer-events: none;
+    z-index: 2;
+  }
+
+  .panel.back {
+    background:
+      radial-gradient(120% 80% at 50% 88%, var(--sage-shade) 0%, var(--sage) 55%, var(--sage-deep) 100%);
+  }
+
+  .panel.front {
+    background:
+      radial-gradient(120% 80% at 50% 18%, var(--sage-shade) 0%, var(--sage) 55%, var(--sage-deep) 100%);
+  }
+
+  /* Spine */
+  .spine {
+    width: var(--spine-px);
+    height: var(--cover-h);
+    background:
+      linear-gradient(90deg, var(--sage-deep) 0%, var(--sage-shade) 45%, var(--sage) 100%);
+    position: relative;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: calc(var(--spine-px) * 0.18);
+    overflow: hidden;
+    z-index: 4;
+  }
+
+  .spine .spine-series {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 13px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--bone-soft);
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+
+  .spine .spine-title {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 0.30em;
+    text-transform: uppercase;
+    color: var(--bone);
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+
+  .spine .spine-author {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 13px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--bone-soft);
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+
+  .spine .spine-rule {
+    width: 1px;
+    height: calc(var(--spine-px) * 0.6);
+    background: var(--bone-rule);
+  }
+
+  /* ── Interior margin frame ── */
+  .frame {
+    position: absolute;
+    inset: 90px;
+    display: flex;
+    flex-direction: column;
+    z-index: 3;
+  }
+
+  /* ── Top zone ── */
+  .series {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 8px;
+    flex-shrink: 0;
+  }
+
+  .series-name {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 18px;
+    letter-spacing: 0.42em;
+    text-transform: uppercase;
+    color: var(--bone-soft);
+    font-weight: 400;
+  }
+
+  .series-vol {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 18px;
+    letter-spacing: 0.30em;
+    color: var(--bone-soft);
+    font-weight: 400;
+  }
+
+  .top-rule {
+    position: absolute;
+    left: 90px;
+    right: 90px;
+    top: 152px;
+    height: 1px;
+    background: var(--bone-rule);
+    z-index: 3;
+  }
+
+  /* ── Back cover: blurb zone ── */
+  .blurb {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 24px;
+    min-height: 0;
+  }
+
+  .hook {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 1.1;
+    letter-spacing: 0.01em;
+    color: var(--bone);
+    margin: 0 0 44px 0;
+  }
+
+  .body-text {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 300;
+    font-size: 31px;
+    line-height: 1.5;
+    letter-spacing: 0.01em;
+    color: var(--bone-soft);
+    margin: 0;
+  }
+
+  .body-text p {
+    margin: 0 0 28px 0;
+  }
+
+  .body-text p:last-child {
+    margin-bottom: 0;
+  }
+
+  .body-text strong {
+    font-weight: 400;
+    color: var(--bone);
+  }
+
+  .blurb-rule {
+    width: 64px;
+    height: 1px;
+    background: var(--bone-rule);
+    margin: 36px 0;
+    flex-shrink: 0;
+  }
+
+  .bio-label {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 18px;
+    letter-spacing: 0.46em;
+    text-transform: uppercase;
+    color: var(--bone-faint);
+    margin-bottom: 16px;
+    flex-shrink: 0;
+  }
+
+  .bio-text {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 1.5;
+    letter-spacing: 0.01em;
+    color: var(--bone-soft);
+    max-width: 860px;
+    flex-shrink: 0;
+  }
+
+  /* ── Front cover: center zone ── */
+  .front .center {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 0 4px;
+  }
+
+  .eyebrow {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 22px;
+    letter-spacing: 0.36em;
+    text-transform: uppercase;
+    color: var(--bone-faint);
+    margin-bottom: 52px;
+  }
+
+  .eyebrow .dot {
+    display: inline-block;
+    width: 4px;
+    height: 4px;
+    background: var(--bone-faint);
+    border-radius: 50%;
+    transform: translateY(-4px);
+    margin: 0 14px;
+  }
+
+  .title {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: {{TITLE_SIZE}}px;
+    line-height: 0.94;
+    letter-spacing: 0.10em;
+    text-indent: 0.10em;
+    color: var(--bone);
+    margin: 0;
+    text-transform: uppercase;
+  }
+
+  .title span {
+    display: block;
+  }
+
+  .subtitle {
+    margin-top: 56px;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 300;
+    font-size: 33px;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+    color: var(--bone-soft);
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-wrap: balance;
+  }
+
+  .subtitle em {
+    font-style: italic;
+    font-weight: 400;
+    color: var(--bone);
+  }
+
+  .subtitle-rule {
+    width: 64px;
+    height: 1px;
+    background: var(--bone-rule);
+    margin: 44px auto 0 auto;
+  }
+
+  .front .bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+    padding-bottom: 4px;
+    flex-shrink: 0;
+  }
+
+  .author-label {
+    font-family: "Space Mono", ui-monospace, monospace;
+    font-size: 18px;
+    letter-spacing: 0.46em;
+    text-transform: uppercase;
+    color: var(--bone-faint);
+  }
+
+  .author {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 38px;
+    letter-spacing: 0.34em;
+    text-transform: uppercase;
+    color: var(--bone);
+    text-indent: 0.34em;
+  }
+
+  .bottom-rule {
+    position: absolute;
+    left: 90px;
+    right: 90px;
+    bottom: 220px;
+    height: 1px;
+    background: var(--bone-rule);
+    z-index: 3;
+  }
+
+  /* Corner ticks */
+  .tick {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border: 1px solid var(--bone-faint);
+    z-index: 3;
+  }
+  .tick.tl { top: 60px; left: 60px; border-right: 0; border-bottom: 0; }
+  .tick.tr { top: 60px; right: 60px; border-left: 0; border-bottom: 0; }
+  .tick.bl { bottom: 60px; left: 60px; border-right: 0; border-top: 0; }
+  .tick.br { bottom: 60px; right: 60px; border-left: 0; border-top: 0; }
+
+  /* ── Variant visibility ── */
+  body.variant-front .back, body.variant-front .spine { display: none; }
+  body.variant-front .wrap { width: var(--cover-w); }
+  body.variant-front .panel.front { display: block; }
+
+  body.variant-back .front, body.variant-back .spine { display: none; }
+  body.variant-back .wrap { width: var(--cover-w); }
+  body.variant-back .panel.back { display: block; }
+
+  body.variant-wrap .wrap { width: calc(var(--cover-w) * 2 + var(--spine-px)); }
+
+  /* Outer ticks only, per variant */
+  body.variant-front .panel.front .tick.tl,
+  body.variant-front .panel.front .tick.bl { display: block; }
+  body.variant-front .panel.front .tick.tr,
+  body.variant-front .panel.front .tick.br { display: block; }
+
+  body.variant-back .panel.back .tick.tl,
+  body.variant-back .panel.back .tick.bl { display: block; }
+  body.variant-back .panel.back .tick.tr,
+  body.variant-back .panel.back .tick.br { display: block; }
+
+  body.variant-wrap .panel.back .tick.tl,
+  body.variant-wrap .panel.back .tick.bl { display: block; }
+  body.variant-wrap .panel.back .tick.tr,
+  body.variant-wrap .panel.back .tick.br { display: none; }
+  body.variant-wrap .panel.front .tick.tl,
+  body.variant-wrap .panel.front .tick.bl { display: none; }
+  body.variant-wrap .panel.front .tick.tr,
+  body.variant-wrap .panel.front .tick.br { display: block; }
+
+  /* For print, hide the preview shadow */
+  body.mode-print .wrap { box-shadow: none; }
+  body.mode-print .stage { padding: 0; background: transparent; display: block; min-height: 0; }
+</style>
+</head>
+<body class="variant-{{VARIANT}} mode-{{MODE}}">
+
+<div class="stage" id="stage">
+  <div class="wrap" id="wrap">
+
+    <section class="panel back">
+      <span class="tick tl"></span>
+      <span class="tick tr"></span>
+      <span class="tick bl"></span>
+      <span class="tick br"></span>
+
+      <div class="frame">
+        <header class="series">
+          <span class="series-name">{{SERIES_NAME}}</span>
+          <span class="series-vol">{{VOLUME}}</span>
+        </header>
+
+        <div class="blurb">
+          <p class="hook">{{HOOK}}</p>
+          <div class="body-text">{{BLURB}}</div>
+        </div>
+
+        <div class="blurb-rule"></div>
+
+        <p class="bio-label">About the author</p>
+        <p class="bio-text">{{BIO}}</p>
+      </div>
+
+      <span class="top-rule"></span>
+    </section>
+
+    <section class="spine">
+      <span class="spine-series">{{SERIES_NAME}}</span>
+      <span class="spine-rule"></span>
+      <span class="spine-title">{{TITLE}}</span>
+      <span class="spine-rule"></span>
+      <span class="spine-author">{{AUTHOR}}</span>
+    </section>
+
+    <section class="panel front">
+      <span class="tick tl"></span>
+      <span class="tick tr"></span>
+      <span class="tick bl"></span>
+      <span class="tick br"></span>
+
+      <div class="frame">
+        <header class="series">
+          <span class="series-name">{{SERIES_NAME}}</span>
+          <span class="series-vol">{{VOLUME}}</span>
+        </header>
+
+        <section class="center">
+          <div class="eyebrow">{{EYEBROW}}</div>
+          <h1 class="title">{{TITLE_HTML}}</h1>
+          <p class="subtitle">{{SUBTITLE}}</p>
+          <div class="subtitle-rule"></div>
+        </section>
+
+        <footer class="bottom">
+          <span class="author-label">Written by</span>
+          <span class="author">{{AUTHOR}}</span>
+        </footer>
+      </div>
+
+      <span class="top-rule"></span>
+      <span class="bottom-rule"></span>
+    </section>
+
+  </div>
+</div>
+
+<script>
+  // Scale the wrap to fit the viewport for preview; removed in print renders.
+  (function () {
+    const stage = document.getElementById('stage');
+    const wrap = document.getElementById('wrap');
+    const PAD = 64;
+    function fit() {
+      if (document.body.classList.contains('mode-print')) return;
+      const availW = window.innerWidth - PAD;
+      const availH = window.innerHeight - PAD;
+      const scale = Math.min(availW / wrap.offsetWidth, availH / wrap.offsetHeight);
+      wrap.style.transform = 'scale(' + scale + ')';
+    }
+    window.addEventListener('resize', fit);
+    fit();
+  })();
+</script>
+
+</body>
+</html>

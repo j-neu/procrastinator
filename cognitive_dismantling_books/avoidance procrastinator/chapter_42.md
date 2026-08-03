@@ -3,7 +3,7 @@
 
 We hope this book has set you free.
 The greatest feedback you can give is simply living your life without the heavy burden of avoidance.
-When you finish a project weeks early and feel that strange lightness—that is the feedback we want.
+When you finish a project weeks early and feel that strange lightness. That is the feedback we want.
 
 If you have found this method helpful, or if you have questions, please reach out.
 But above all, show the world what a person looks like when they are fully alive and present, not hiding in the shadows of "later."

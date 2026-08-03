@@ -8,7 +8,7 @@ Parents often use bribery to get children to do things they don't want to do. "I
 
 This sounds logical, doesn’t it? Positive reinforcement. The carrot on the stick. But when it comes to the trap of decisional procrastination, this approach is fundamentally flawed. It reinforces the idea that making a decision is a chore, a burden, a painful task that must be endured to get to the "good stuff."
 
-It paints the decision as the spinach—the bitter, nasty sludge you have to swallow. And it paints the state of *not deciding* (or the reward that comes after) as the ice cream.
+It paints the decision as the spinach, the bitter, nasty sludge you have to swallow. And it paints the state of *not deciding* (or the reward that comes after) as the ice cream.
 
 By setting up false incentives, you are confirming to your subconscious mind that the act of deciding is something to be dreaded. You are telling yourself, "I am about to go through a terrible ordeal, so I deserve a reward afterwards."
 
@@ -18,7 +18,7 @@ Think about the decisional procrastinator's burden. You are carrying a heavy bac
 
 When you finally make a decision, you aren't swallowing spinach. You are dropping the rock. You are setting down the burden. You are freeing yourself.
 
-Why would you need a reward for setting down a heavy load? The relief *is* the reward. The surge of energy you get when you finally say "Yes, I'm doing X" and you can stop thinking about Y and Z—that is the euphoria we are looking for.
+Why would you need a reward for setting down a heavy load? The relief *is* the reward. The surge of energy you get when you finally say "Yes, I'm doing X" and you can stop thinking about Y and Z. That is the euphoria we are looking for.
 
 If you attach false incentives, you keep the focus on the wrong thing. You focus on the dinner, the gaming, the treat. You rush the decision or resent the process because you just want the treat. Or, worse, you decide that the treat isn't worth the pain of the anxiety, and you skip both.
 

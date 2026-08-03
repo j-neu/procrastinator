@@ -16,7 +16,7 @@ We see it in movies. The "hothead" who rushes in gets killed. The "thoughtful st
 
 We see it in the news. "A rush to judgment caused this disaster." "A lack of oversight caused this crash."
 
-So we internalize a Silent Saboteur—a voice in our head that says: **"If you decide quickly, you are being irresponsible."**
+So we internalize a Silent Saboteur, a voice in our head that says: **"If you decide quickly, you are being irresponsible."**
 
 This voice tells you that agonizing over a decision is a moral virtue. It tells you that if you spend three weeks researching a washing machine, you are being a "Good Consumer." You are being a "Good Adult."
 
@@ -28,7 +28,7 @@ But let's look at the reality.
 
 Most of the decisions we agonize over are puddles.
 Choosing a restaurant is a puddle.
-Choosing a laptop is a puddle (an expensive puddle, but still a puddle—you can return it, sell it, or just use it).
+Choosing a laptop is a puddle (an expensive puddle, but still a puddle. You can return it, sell it, or just use it).
 Choosing a paint color is a puddle.
 
 The brainwashing creates a "One Size Fits All" approach to risk. It treats every decision as if it were a life-or-death cliff jump.

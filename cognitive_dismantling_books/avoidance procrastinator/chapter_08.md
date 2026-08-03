@@ -33,7 +33,7 @@ There is only one thing that cures Dread. It works instantly. It works 100% of t
 
 **Action.**
 
-The moment—the very *second*—you start the task, the Dread vanishes.
+The moment, the very *second*, you start the task, the Dread vanishes.
 
 Have you ever noticed this? You spend weeks dreading a phone call. Finally, forced by a deadline, you pick up the phone. As soon as you say "Hello," the fear is gone. You are just talking.
 

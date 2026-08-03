@@ -5,7 +5,7 @@ A common piece of advice for procrastinators is "Gamification."
 "If I finish this chapter, I can watch an episode of my show."
 "If I complete this project a week early, I'll buy myself those shoes."
 
-This approach—bribery—rarely works for the Active Procrastinator.
+This approach, bribery, rarely works for the Active Procrastinator.
 
 Why? Because you are an addict.
 

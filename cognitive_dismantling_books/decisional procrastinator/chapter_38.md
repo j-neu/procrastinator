@@ -25,7 +25,7 @@ Go to the restaurant with the huge menu.
 Go to the store with the overwhelming selection.
 And practice the art of the **"Good Enough"** strike.
 
-Practice picking something—anything—quickly. Practice the feeling of walking away with your choice, leaving the other 99 options behind.
+Practice picking something, anything, quickly. Practice the feeling of walking away with your choice, leaving the other 99 options behind.
 
 The more you do this, the more you realize: The sky didn't fall. The cereal was fine. The decision didn't kill me.
 

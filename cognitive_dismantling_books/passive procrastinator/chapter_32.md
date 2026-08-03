@@ -1,4 +1,4 @@
-# Chapter 32: The Easy Way to Stop
+# Chapter 32: This Way to Stop
 
 We have spent this book dismantling the myths.
 *   We know drifting isn't relaxing.
@@ -16,7 +16,7 @@ You have been viewing the world through the lens of a Victim.
 Now, you view the world through the lens of an Owner.
 "This is my life. These are my tasks. I handle them."
 
-The Easy Way is this:
+This way is this:
 
 **Make the decision to be a Decider.**
 
@@ -33,7 +33,7 @@ You don't need a complex system. You don't need a specific app. You just need to
 **Every unmade decision is a leak in your boat.**
 
 You are currently bailing water with a teaspoon (procrastinating).
-The Easy Way is to stop bailing and plug the holes.
+This way is to stop bailing and plug the holes.
 
 Plug the hole immediately.
 *   Email -> Reply.

@@ -4,7 +4,7 @@ Ask a perfectionist why they hold such high standards, and at some point they wi
 
 The perfectionist believes the standards are managing their stress. This is the opposite of the truth. The standards are manufacturing it.
 
-Let me show you the arithmetic. There are two kinds of stress in the perfectionist's life. The first is the stress of the work itself—the deadline, the difficulty. This stress is real, but it is finite. It ends when the work ends. Every worker feels it, and every worker survives it.
+Let me show you the arithmetic. There are two kinds of stress in the perfectionist's life. The first is the stress of the work itself, the deadline, the difficulty. This stress is real, but it is finite. It ends when the work ends. Every worker feels it, and every worker survives it.
 
 The second stress is the stress of the standard. This stress has no end. It begins when you demand that the work be flawless, and it continues as long as the work is unfinished. It is a background radiation that follows you into the weekend, into bed, into the moments you were supposed to be enjoying.
 
@@ -20,11 +20,11 @@ And here is the deeper irony. The perfectionist is often praised for being "so h
 
 I want to be clear about what I am not saying. I am not telling you that work is stress-free. Difficult work is demanding. But there is a profound difference between the stress of effort and the stress of impossibility. The worker who accepts that the report will be imperfect feels the stress of effort: pressure, focus, a healthy urgency. The perfectionist feels the stress of impossibility: the weight of a demand that can never be met. One of these stresses ends. The other never does.
 
-Consider the relief that comes when you finally, reluctantly, ship a project—the exhaustion followed by the lightness. For a day or two, the background radiation switches off. The perfectionist feels, briefly, what normal people feel all the time: that the project is over, that life is not an endless siege.
+Consider the relief that comes when you finally, reluctantly, ship a project, the exhaustion followed by the lightness. For a day or two, the background radiation switches off. The perfectionist feels, briefly, what normal people feel all the time: that the project is over, that life is not an endless siege.
 
 The question I want to leave you with is simple: why would you choose to live in the siege?
 
-The standards do not keep you safe. They keep you tense. They do not protect your reputation. They hide your work. The stress of the standard is a tax you pay for a protection that was never offered. You can stop paying it at any moment. The work will still be hard. But the impossible demand—the demand that it be flawless—that demand can be resigned from.
+The standards do not keep you safe. They keep you tense. They do not protect your reputation. They hide your work. The stress of the standard is a tax you pay for a protection that was never offered. You can stop paying it at any moment. The work will still be hard. But the impossible demand, the demand that it be flawless, that demand can be resigned from.
 
 You do not have to lower your standards to feel relief. You only have to stop pretending that an impossible demand is the same thing as a high one.
 

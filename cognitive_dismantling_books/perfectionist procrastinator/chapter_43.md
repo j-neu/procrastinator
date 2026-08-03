@@ -36,7 +36,7 @@ When they are in the middle of a panic about the work "not being good enough," a
 
 *"What would actually happen if you released it as it is right now?"*
 
-Don't wait for an answer. Just plant the seed. Let them realize that the catastrophe they are protecting against is a fiction, and the cost of the protection—the unreleased work, the anxiety, the years—is real.
+Don't wait for an answer. Just plant the seed. Let them realize that the catastrophe they are protecting against is a fiction, and the cost of the protection (the unreleased work, the anxiety, the years) is real.
 
 **4. If they ask for help...**
 

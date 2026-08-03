@@ -4,7 +4,7 @@ We all start procrastinating for stupid reasons, usually social pressures (schoo
 
 No regular arousal procrastinator knows *why* he or she waits. If they knew the true reason, they would stop doing it. I have asked the question of thousands of procrastinators during my consultations. The true answer is the same for all of them, but the variety of replies is infinite. I find this part of the consultation the most amusing and at the same time the most pathetic.
 
-All arousal procrastinators know in their heart of hearts that they are mugs. They know that they had no need to wait until 9:00 PM the night before a deadline before they became hooked on the rush. Most of them can remember that their first "all-nighter" felt awful—the fatigue, the fear—and that they had to work hard in order to frame it as a "victory." The most annoying part is that they sense that steady workers are not missing anything and that they are actually happier (it is difficult not to see this when they go home at 5:00 PM guilt-free).
+All arousal procrastinators know in their heart of hearts that they are mugs. They know that they had no need to wait until 9:00 PM the night before a deadline before they became hooked on the rush. Most of them can remember that their first "all-nighter" felt awful (the fatigue, the fear), and that they had to work hard in order to frame it as a "victory." The most annoying part is that they sense that steady workers are not missing anything and that they are actually happier (it is difficult not to see this when they go home at 5:00 PM guilt-free).
 
 However, procrastinators are intelligent, rational human beings. They know that they are taking enormous career risks and that they waste a fortune in late fees and missed opportunities. Therefore it is necessary for them to have a rational explanation to justify themselves.
 
@@ -27,13 +27,13 @@ And "boredom"? Boredom is a frame of mind. There is nothing inherently interesti
 
 For thirty-three years my reason was that it gave me "energy." I also knew it was exhausting me and making me irritable with my family. Why didn't I go to my doctor and ask him for an alternative to give me energy? I didn't go because I knew he would suggest sleep, exercise, and diet. It wasn't my reason; it was my excuse.
 
-Some say they only do it because their industry demands it (advertising, journalism, tech). Are you really that naive? Even in high-pressure industries, the best people—the ones who last—are the ones who manage their time, not the ones who constantly crash and burn.
+Some say they only do it because their industry demands it (advertising, journalism, tech). Are you really that naive? Even in high-pressure industries, the best people, the ones who last, are the ones who manage their time, not the ones who constantly crash and burn.
 
 Most procrastinators who think about it eventually come to the conclusion that it is just a "personality trait." This is not really an explanation but, having discounted all the usual rational explanations, it appears to be the only remaining excuse. Unfortunately, this explanation is equally illogical. Every day of our lives we change traits. We learn to be patient with our kids, we learn to be quiet in libraries. We have been brainwashed to believe that "chaos" is a personality type.
 
 So why do we find it difficult to break a habit that feels awful, that ruins our weekends, that makes us look unprofessional, and that we would love to break anyway? The answer is that it is not a habit: **IT IS CHEMICAL ADDICTION.** That is why it appears to be so difficult to "give up." The main reason is that procrastinators are convinced that they get some genuine pleasure or "spark" from the rush and believe that they are making a genuine sacrifice if they work steadily.
 
-The beautiful truth is that once you understand the chemical hook and the true reasons why you wait, you will stop doing it—just like that—and within three weeks the only mystery will be why you found it necessary to torture yourself for so long.
+The beautiful truth is that once you understand the chemical hook and the true reasons why you wait, you will stop doing it, just like that, and within three weeks the only mystery will be why you found it necessary to torture yourself for so long.
 
 ---
 

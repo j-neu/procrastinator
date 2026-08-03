@@ -12,7 +12,7 @@ Your Mood says at 10 PM, "We feel guilty. Panic work now." And you obey.
 
 You have no autonomy. You do whatever your fleeting, chemical emotions dictate.
 
-If you had a boss who treated you this way—who changed the rules every hour, who demanded you work at midnight because he "felt like it"—you would quit. You would sue.
+If you had a boss who treated you this way (who changed the rules every hour, who demanded you work at midnight because he "felt like it"), you would quit. You would sue.
 
 But you accept this tyranny from yourself.
 

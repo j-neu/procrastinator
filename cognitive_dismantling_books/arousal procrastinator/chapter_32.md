@@ -1,4 +1,4 @@
-# Chapter 32: The Easy Way to Stop
+# Chapter 32: This Way to Stop
 
 We have spent this book dismantling the illusions that keep you trapped.
 *   The illusion that you work better under pressure.
@@ -8,13 +8,13 @@ We have spent this book dismantling the illusions that keep you trapped.
 Now that the brainwashing is gone, what is left?
 Just the decision.
 
-The Easy Way to stop is not a battle. It is a realization.
+This way to stop is not a battle. It is a realization.
 It is the realization that the door to the cage was open the whole time.
 You weren't being held prisoner by a cruel boss or a heavy workload. You were holding the key to the lock, but you were afraid to walk out because you thought the world outside was "dull."
 
 Now you know the world outside is free.
 
-The Easy Way is simply this:
+This way is simply this:
 **Stop manufacturing crises.**
 
 When a task arrives, look at it.

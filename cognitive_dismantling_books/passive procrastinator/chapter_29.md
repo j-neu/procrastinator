@@ -39,7 +39,7 @@ You have to find new sources of excitement. Healthy excitement.
 *   The excitement of deep, quality work.
 
 The drama of procrastination is "cheap" drama. It is the drama of a soap opera.
-You are upgrading to the drama of a documentary—real, deep, and meaningful.
+You are upgrading to the drama of a documentary, real, deep, and meaningful.
 
 **EXERCISE: The Arsonist Confession**
 

@@ -4,11 +4,11 @@ There is a moment that comes to every perfectionist who makes it this far. It is
 
 It cannot be forced. It cannot be scheduled. But it comes. And when it comes, you will recognize it, because it will feel like the floor settling under your feet.
 
-The moment of revelation is this: **you release a piece of work—imperfect, real, released—and the world does not end.**
+The moment of revelation is this: **you release a piece of work (imperfect, real, released), and the world does not end.**
 
 I want you to let that settle. It sounds simple. It is not simple. It is the end of a war.
 
-For years, you have been holding your work hostage to a standard that has never once been met. You have been certain—absolutely, unshakeably certain—that the moment you released something less than perfect, the judgment would come, and the judgment would be fatal. It would confirm what you have feared your whole life: that you are not good enough.
+For years, you have been holding your work hostage to a standard that has never once been met. You have been certain (absolutely, unshakeably certain) that the moment you released something less than perfect, the judgment would come, and the judgment would be fatal. It would confirm what you have feared your whole life: that you are not good enough.
 
 And then you release it. A report. A message. A submission. You release it with its flaws intact. Your hand shakes. The shadows scream. And nothing happens.
 
@@ -20,11 +20,11 @@ I want you to understand what actually happens in this moment. The fear of judgm
 
 The revelation is the first piece of evidence your body has ever received. Not "the world probably won't end." Not "statistically, most feedback is mild." No. *"I released the work. I survived. The fear was wrong."* That is the evidence, and it is the only kind that could ever reach the belief.
 
-After the revelation, the change is no longer an effort. It is a direction. You will still feel the urge to polish—the reflex does not die in a day—but you will feel it differently. It will feel like an echo, not a command. You will recognize it, and you will release the work anyway, because you have evidence now. You have been wrong before. You are not obligated to obey a fear that has already lied to you.
+After the revelation, the change is no longer an effort. It is a direction. You will still feel the urge to polish (the reflex does not die in a day), but you will feel it differently. It will feel like an echo, not a command. You will recognize it, and you will release the work anyway, because you have evidence now. You have been wrong before. You are not obligated to obey a fear that has already lied to you.
 
-There is a second moment, and I want you to know about it, because it comes a little later, and it is the one that finally completes the transformation. It is the moment when you release a piece of work and feel, not relief, but *pride*. A clean, quiet pride. Not the pride of the flawless—the flawless is gone, and you do not miss it. The pride of the real. You made a thing. It is not perfect. It is yours. It is out in the world. And you are proud of it.
+There is a second moment, and I want you to know about it, because it comes a little later, and it is the one that finally completes the transformation. It is the moment when you release a piece of work and feel, not relief, but *pride*. A clean, quiet pride. Not the pride of the flawless, the flawless is gone, and you do not miss it. The pride of the real. You made a thing. It is not perfect. It is yours. It is out in the world. And you are proud of it.
 
-This is the moment the perfectionist has been denied their entire life. They have only ever felt the pride of the sealed, unjudged work—the pride of the possibility. This is the pride of the actual. It is deeper, and it does not fade, because it is anchored in something real.
+This is the moment the perfectionist has been denied their entire life. They have only ever felt the pride of the sealed, unjudged work, the pride of the possibility. This is the pride of the actual. It is deeper, and it does not fade, because it is anchored in something real.
 
 When you feel that pride, you will understand what this book has been for. It has not been about lowering your standards. It has been about making your work real. And real work is the only work that can be loved.
 

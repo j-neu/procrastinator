@@ -2,7 +2,7 @@
 
 I am referring not only to the great tragedies of life but also to the minor stresses: the unpaid parking ticket, the awkward email reply, the pile of laundry that threatens to topple over.
 
-Most drifters believe that their "go with the flow" attitude protects them from stress. They look at organized people—with their schedules and reminders—and think, "That looks so stressful. I prefer to be chill."
+Most drifters believe that their "go with the flow" attitude protects them from stress. They look at organized people, with their schedules and reminders, and think, "That looks so stressful. I prefer to be chill."
 
 This is the greatest delusion of all.
 

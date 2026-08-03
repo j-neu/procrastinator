@@ -10,9 +10,9 @@ This is the core of the problem. It feels *physically difficult* to engage with 
 
 Why?
 
-It's not because you are lazy. You are clearly not lazy—you are capable of expending massive amounts of energy in short bursts. You are capable of working harder in four hours than most people work in four days.
+It's not because you are lazy. You are clearly not lazy. You are capable of expending massive amounts of energy in short bursts. You are capable of working harder in four hours than most people work in four days.
 
-It's not because the task is boring. You will procrastinate on tasks you actually *like*—creative projects, planning a vacation, things you *want* to do.
+It's not because the task is boring. You will procrastinate on tasks you actually *like*, creative projects, planning a vacation, things you *want* to do.
 
 The reason it is difficult to start early is because you are addicted to the **Drama**.
 
@@ -20,7 +20,7 @@ Your brain has been conditioned to associate "working" with "high arousal." You 
 
 When you try to work without the panic, your brain is confused. It says, "Where's the juice? Where's the spark? Where's the cortisol?" It feels like drinking decaf coffee when you're used to triple-shot espressos. It feels flat. It feels like something is missing.
 
-That feeling—that "flatness," that "boredom," that inability to focus—is not a sign that you *can't* work early. It is a sign of **withdrawal**.
+That feeling (that "flatness," that "boredom," that inability to focus) is not a sign that you *can't* work early. It is a sign of **withdrawal**.
 
 You are experiencing withdrawal from the chemical cocktail of stress hormones that you have come to rely on.
 

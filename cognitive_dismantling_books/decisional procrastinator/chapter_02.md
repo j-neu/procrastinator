@@ -1,4 +1,4 @@
-# Chapter 2: The Easy Method
+# Chapter 2: This Method
 
 The object of this book is to get you into a frame of mind where, instead of feeling like every decision is a life-or-death gamble, you start seeing choices for what they really are: simple forks in the road.
 
@@ -8,17 +8,17 @@ And then what happens? You spend the next three days worrying if you jumped the 
 
 This is the hard way. It's trying to force yourself to do something that feels dangerous.
 
-The Easy Method is different. We aren't going to force you to be bold. We aren't going to tell you to "feel the fear and do it anyway."
+This method is different. We aren't going to force you to be bold. We aren't going to tell you to "feel the fear and do it anyway."
 
 We are going to remove the fear.
 
-The reason you dither, the reason you procrastinate on decisions, is not because you are careful. It's because you are terrified. You are terrified of regret. You are terrified of being wrong. You are terrified of the "opportunity cost"—the idea that by choosing A, you are losing the magical potential of B.
+The reason you dither, the reason you procrastinate on decisions, is not because you are careful. It's because you are terrified. You are terrified of regret. You are terrified of being wrong. You are terrified of the "opportunity cost," the idea that by choosing A, you are losing the magical potential of B.
 
 You believe that there is a "Perfect Choice" out there, and it is your job to find it. You believe that if you just think hard enough, if you just gather enough data, the clouds will part, angels will sing, and the Right Answer will descend on a golden beam of light.
 
 This belief is the trap.
 
-The Easy Method works by destroying this illusion. We are going to prove to you that the "Perfect Choice" does not exist. It is a ghost. It is a mirage. And because it doesn't exist, you can't miss it.
+This method works by destroying this illusion. We are going to prove to you that the "Perfect Choice" does not exist. It is a ghost. It is a mirage. And because it doesn't exist, you can't miss it.
 
 Once you realize that *there is no perfect choice*, the pressure evaporates. If there is no perfect choice, then there is no wrong choice. There are just choices. Different paths, different outcomes, all of them manageable, all of them life.
 
@@ -30,7 +30,7 @@ If you knew that, would you stand in the hallway for three hours shaking with fe
 
 That is what this book will do. It will show you that there are no tigers.
 
-When you see the truth—that the "risk" you are feeling is an illusion created by your own mind—deciding becomes easy. It becomes fun. It becomes what it was always meant to be: the act of creating your life, moment by moment.
+When you see the truth (that the "risk" you are feeling is an illusion created by your own mind) deciding becomes easy. It becomes fun. It becomes what it was always meant to be: the act of creating your life, moment by moment.
 
 ### Exercise: Visualizing the Easy Path
 

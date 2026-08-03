@@ -27,11 +27,11 @@ You are robbing yourself of the very leisure you claim to value.
 The Avoidance Procrastinator *never* has a true weekend. Their weekend is just 48 hours of "I should be working."
 They never have a true vacation. Their vacation is just "I hope they don't email me."
 
-True Relaxation—the kind that restores your soul, the kind where you laugh loudly and sleep deeply—is only possible when you have nothing to hide from.
+True Relaxation (the kind that restores your soul, the kind where you laugh loudly and sleep deeply) is only possible when you have nothing to hide from.
 
 True Relaxation is the reward for Action.
 
-Think about the last time you actually finished a big project. Maybe you stayed up late, maybe it was hard. But the moment you pressed "Submit"—how did you feel?
+Think about the last time you actually finished a big project. Maybe you stayed up late, maybe it was hard. But the moment you pressed "Submit," how did you feel?
 You felt light. You felt giddy. You probably went home and collapsed on the bed and it felt like floating on a cloud. The pizza tasted better. The movie was funnier.
 
 That is Relaxation.

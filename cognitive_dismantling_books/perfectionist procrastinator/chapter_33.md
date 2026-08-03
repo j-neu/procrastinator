@@ -6,7 +6,7 @@ The urge to polish is returning. It is stronger than it was before. Your hand is
 
 I am here to tell you: this is the withdrawal period. It is not a sign that you are failing. It is a sign that you are healing.
 
-When you stop polishing, your brain is losing something it has been receiving for years. Not the quality—the quality was never real. The relief. The moment of safety that came when you postponed the release. The dopamine hit of the sealed, unjudged work. Your brain is addicted to that relief, and you have just cut off the supply.
+When you stop polishing, your brain is losing something it has been receiving for years. Not the quality, the quality was never real. The relief. The moment of safety that came when you postponed the release. The dopamine hit of the sealed, unjudged work. Your brain is addicted to that relief, and you have just cut off the supply.
 
 The result is a craving. It feels like the urge to polish, but it is not a love of quality. It is a withdrawal symptom.
 
@@ -16,7 +16,7 @@ The first face is the phantom flaw. You will pick up a piece of work and suddenl
 
 The second face is the deadline panic. You will be convinced that if you release the work in its current state, you will be exposed. The verdict will be catastrophic. This is also the withdrawal. The panic is not information about the work. It is the fear, screaming its last, loudest protests.
 
-The third face is the emptiness. You will finish a task and feel—nothing. No surge, no relief. And you will conclude that the change has failed. This is the most dangerous face, because it feels like evidence. It is not. The emptiness is the gap where the old relief used to be. Your brain has not yet learned to reward the release. The surge will come, but it will not come today. It comes to those who wait it out.
+The third face is the emptiness. You will finish a task and feel, nothing. No surge, no relief. And you will conclude that the change has failed. This is the most dangerous face, because it feels like evidence. It is not. The emptiness is the gap where the old relief used to be. Your brain has not yet learned to reward the release. The surge will come, but it will not come today. It comes to those who wait it out.
 
 Here is what you must do during the withdrawal. It is simple, and it is the whole instruction:
 
@@ -26,7 +26,7 @@ The craving will offer you deals. "Just this one project." "Just this once." Eve
 
 Instead, you endure. You ship the work with the phantom flaws still visible. You release it with the deadline panic still screaming. You finish the task and you feel the emptiness, and you do not fill the emptiness with polish. You let it be empty. You let the craving scream. And you keep shipping.
 
-I want you to know how long this lasts, because knowing the length is half the battle. The acute withdrawal lasts about three days. After three days, the craving begins to fade. It will still visit you—especially when you are tired, or when the work matters—but it will visit as an old acquaintance, not as a master. The itch lasts ninety seconds. The day lasts three days. The recovery lasts a lifetime, and it gets easier every week.
+I want you to know how long this lasts, because knowing the length is half the battle. The acute withdrawal lasts about three days. After three days, the craving begins to fade. It will still visit you (especially when you are tired, or when the work matters), but it will visit as an old acquaintance, not as a master. The itch lasts ninety seconds. The day lasts three days. The recovery lasts a lifetime, and it gets easier every week.
 
 There is a beautiful thing that happens if you survive the withdrawal. Somewhere in the second or third week, you will release a piece of work and feel it: the surge. The quiet drop of the shoulders. The warmth of a finished thing. And you will realize that the emptiness is gone, that the release has become its own reward.
 

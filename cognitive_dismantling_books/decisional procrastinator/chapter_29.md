@@ -24,7 +24,7 @@ And that is okay.
 That is the price of admission to reality.
 
 The sorrow of the road not taken is sweet. It is poignant. It is human.
-But the sorrow of the road *not entered*—the sorrow of the person who stayed in the driveway—is bitter. It is toxic. It is regret.
+But the sorrow of the road *not entered* (the sorrow of the person who stayed in the driveway) is bitter. It is toxic. It is regret.
 
 Don't choose Regret. Choose Sorrow.
 Embrace the limits of your life.

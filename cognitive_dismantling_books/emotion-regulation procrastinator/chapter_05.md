@@ -34,7 +34,7 @@ The monster goes to sleep for a while. We feel relief.
 
 But then the task comes back. The monster wakes up. It's hungry again. And now, because the deadline is closer, the monster is bigger. It scratches harder. The anxiety is worse.
 
-If you don't feed the monster—if you just sit there and work *despite* the scratching—something amazing happens. The monster realizes it won't get fed. It starts to shrink. The scratching stops. You enter the state of "Flow."
+If you don't feed the monster (if you just sit there and work *despite* the scratching) something amazing happens. The monster realizes it won't get fed. It starts to shrink. The scratching stops. You enter the state of "Flow."
 
 But you have to starve it first. You have to be willing to feel the itch and not scratch it.
 

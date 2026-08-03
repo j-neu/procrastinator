@@ -15,7 +15,7 @@ So when Wednesday comes, and you haven't finished, you just shrug and say, "Well
 
 Trying to trick your brain into feeling panic when there is no danger is a futile exercise. It is exhausting. You spend all your energy trying to manufacture a crisis, instead of just doing the work.
 
-And even if it *does* work—even if you manage to scare yourself into working on Wednesday—you are still feeding the monster. You are still reinforcing the belief that you can only work if you are afraid. You are keeping the adrenaline addiction alive.
+And even if it *does* work (even if you manage to scare yourself into working on Wednesday), you are still feeding the monster. You are still reinforcing the belief that you can only work if you are afraid. You are keeping the adrenaline addiction alive.
 
 You are telling yourself: "I am incapable of working without a gun to my head, so I will build a fake gun."
 

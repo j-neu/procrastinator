@@ -1,6 +1,6 @@
 # Chapter 27: A Social Habit?
 
-In certain industries—tech, advertising, law, students—procrastination is a social glue.
+In certain industries (tech, advertising, law, students) procrastination is a social glue.
 
 We bond over our misery. We share war stories about the 4 AM finishes. We compete to see who is the most sleep-deprived.
 
