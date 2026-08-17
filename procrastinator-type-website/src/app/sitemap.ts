@@ -12,6 +12,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: "/types/passive-procrastinator", changeFrequency: "monthly" as const, priority: 0.8 },
     { path: "/types/active-procrastinator", changeFrequency: "monthly" as const, priority: 0.8 },
     { path: "/types/emotion-regulation-procrastinator", changeFrequency: "monthly" as const, priority: 0.8 },
+    {
+      path: "/types/compare/active-vs-passive-procrastination",
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
     { path: "/quiz", changeFrequency: "weekly" as const, priority: 0.9 },
     { path: "/workbooks", changeFrequency: "monthly" as const, priority: 0.7 },
     { path: "/research", changeFrequency: "monthly" as const, priority: 0.6 },

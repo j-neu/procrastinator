@@ -230,6 +230,16 @@ export default function TypesPillarPage() {
               <p className="mt-6">
                 Recognizing yourself in a row is a start. If two rows feel equally true, that is normal and the assessment below will tell you which one leads.
               </p>
+              <p>
+                The pair people confuse most often is active and passive, because both end at the same midnight.{' '}
+                <Link
+                  href="/types/compare/active-vs-passive-procrastination"
+                  className="text-osmo-neon-green hover:text-osmo-text transition-colors"
+                >
+                  Active vs passive procrastination
+                </Link>{' '}
+                takes that one apart in detail.
+              </p>
             </section>
 
             <section id="the-types">

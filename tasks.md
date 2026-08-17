@@ -657,9 +657,23 @@
 > each. **Build 1-3 only, then measure** — seven thin siblings on an unproven cluster
 > reads as programmatic.
 
-- [ ] 📁 **Create the `/types/compare/` route segment.**
-- [ ] 1️⃣ **Build "Active vs Passive Procrastination"** (`active vs passive procrastination`).
-  Confirmed demand, anchored in Chu & Choi (2005). Table data ready in `COMPARISON-PAGE.md`.
+- [x] 📁 **Create the `/types/compare/` route segment.** ✅ **DONE 2026-08-17.**
+- [x] 1️⃣ **Build "Active vs Passive Procrastination"** ✅ **DONE 2026-08-17.** 1,641 words
+  of copy. Opens with the definition before the hook, carries the pull-quote answer
+  ("The difference is not how long you wait. It is whether you chose to."), an 8-row
+  comparison table, a from-the-inside section per type, and the Pychyl objection that
+  "active procrastination" is a misnomer, stated and then answered rather than hidden.
+  - **Inbound links (3):** the `/types` pillar plus both the active and passive guides.
+    A new page with no inbound links does not get crawled, so these ship together.
+  - Verified in built HTML: self-referencing canonical, single brand suffix in the title,
+    `og:image`, `Article` + `FAQPage` schema, byline linking to `/about`, and the route
+    present in `sitemap.ts`.
+  - Prose lint: **0 banned, 0 tells, 0 em dashes, 0 proselint hits.** CV 0.97, the highest
+    on the site so far. Two hits were fixed rather than kept: a weasel "very" (a
+    documented must-fix) and `early-start`, which is a proselint false positive on any
+    word ending in "ly" but was cheaper to reword than to document.
+  - One rule-of-three flag is a documented **keep**: "impulsiveness, low
+    conscientiousness, and task aversion" is Steel's actual finding, not padding.
 - [ ] 2️⃣ **Build "Arousal vs Active Procrastination"** (correlation 0.6, the hardest pair
   to separate; frame the split as motive, and link the 0.6 claim to `/research`).
 - [ ] 3️⃣ **Build "Avoidant vs Perfectionist Procrastination"** (correlation 0.4, targets
@@ -677,9 +691,15 @@
   (template in `comparison-schema.json`).
 - [ ] 🔗 **Add outbound links from each comparison page** to both type guides plus one
   sibling comparison page.
-- [ ] 📊 **Add `placement: 'compare-page'`** to the `workbook_click` analytics event on
-  these pages, so conversion can be compared against the type guides.
-- [ ] 🗺️ **Add the new `/types/compare/*` routes to `src/app/sitemap.ts`.**
+- [x] 📊 **Add `placement: 'compare-page'`** to the `workbook_click` analytics event ✅
+  **DONE 2026-08-17** via a new `components/BookLink.tsx`.
+  ℹ️ **Found while building this:** the 7 type guides are server components, so their
+  Payhip links are plain anchors that fire **no** `workbook_click` at all. Only the quiz
+  results and `/workbooks` pages were ever tracked, so the funnel has a hole wherever a
+  guide converts. `BookLink` is the smallest client boundary that closes it.
+  - [ ] 🔌 **Retrofit `BookLink` onto the 7 type guides** so guide conversions stop being
+    invisible. Small, mechanical, and worth doing before reading any funnel numbers.
+- [x] 🗺️ **Add the new `/types/compare/*` routes to `src/app/sitemap.ts`.** ✅
 - [ ] 🧹 **Prose-lint all three pages** before shipping.
 - [ ] ⏸️ **Decide on pages 4-7 only after 1-3 index** (emotion-regulation/avoidant 0.4,
   decisional/perfectionist 0.3, decisional/avoidant 0.3, passive/avoidant 0.2). Note

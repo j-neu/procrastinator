@@ -97,6 +97,16 @@ export default function ActiveProcrastinatorPage() {
               <p>
                 The line between this and other patterns is drawn by two things: control and results. Delaying on purpose while feeling calm and delivering well is the active pattern. Delaying and feeling anxious while the quality slips is something else wearing its clothes.
               </p>
+              <p>
+                That other thing has a name, and the two get mistaken for each other constantly. See{' '}
+                <Link
+                  href="/types/compare/active-vs-passive-procrastination"
+                  className="text-osmo-neon-green hover:text-osmo-text transition-colors"
+                >
+                  active vs passive procrastination
+                </Link>{' '}
+                for the full comparison.
+              </p>
             </section>
 
             <section>

@@ -105,6 +105,16 @@ export default function PassiveProcrastinatorPage() {
                 Chu and Choi gave this pattern its name in 2005. They split procrastinators into passive and active groups, and the split is about control. Active procrastinators delay deliberately and keep their outcomes intact. Passive procrastinators delay unintentionally, feel distressed, and suffer the consequences. Same delay. Opposite experience.
               </p>
               <p>
+                If you are not sure which side of that line you are on,{' '}
+                <Link
+                  href="/types/compare/active-vs-passive-procrastination"
+                  className="text-osmo-neon-green hover:text-osmo-text transition-colors"
+                >
+                  active vs passive procrastination
+                </Link>{' '}
+                sets the two out side by side.
+              </p>
+              <p>
                 Steel's 2007 meta-analysis explains the mechanics. Impulsiveness and poor self-regulation show up as time blindness: the future feels unreal, so only the present is worth responding to. Tasks without an immediate consequence get no attention, and the pile grows while you live entirely in the now.
               </p>
               <p>
