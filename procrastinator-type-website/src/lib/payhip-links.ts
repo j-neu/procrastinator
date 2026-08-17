@@ -23,6 +23,24 @@ export interface PayhipBook {
 
 export const PAYHIP_BASE_URL = 'https://payhip.com';
 
+/**
+ * The storefront listing all 7 books. Also hardcoded in
+ * share-cards/share-cards.config.js; this is the single source of truth for
+ * anything rendered by the site.
+ */
+export const PAYHIP_STORE_URL = 'https://payhip.com/Procrastitype';
+
+/**
+ * Price per book, maintained by hand.
+ *
+ * Payhip product pages return 403 to crawlers and the store does not appear in
+ * search for the brand, so the figure cannot be verified externally and the
+ * on-site display is the only machine-readable copy of it. Update here and it
+ * propagates to every CTA.
+ */
+export const BOOK_PRICE_EUR = 5;
+export const BOOK_PRICE_LABEL = `€${BOOK_PRICE_EUR}`;
+
 export const PAYHIP_BOOKS: Record<string, PayhipBook> = {
   arousal: {
     slug: 'arousal',

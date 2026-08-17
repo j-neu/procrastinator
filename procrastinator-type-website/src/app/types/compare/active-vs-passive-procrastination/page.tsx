@@ -3,7 +3,7 @@ import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import Byline from '@/components/Byline'
 import BookLink from '@/components/BookLink'
-import { getPayhipBook } from '@/lib/payhip-links'
+import { getPayhipBook, BOOK_PRICE_LABEL } from '@/lib/payhip-links'
 import { absoluteUrl, authorJsonLd, pageMetadata } from '@/lib/seo'
 
 const TITLE = 'Active vs Passive Procrastination: What Actually Separates Them'
@@ -346,7 +346,7 @@ export default function ActiveVsPassivePage() {
               <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">Go Deeper</h2>
               <p className="mb-6">
                 Each pattern has its own book, written to take the belief underneath it apart rather than to hand you
-                another system to keep up with. Five euros each.
+                another system to keep up with. {BOOK_PRICE_LABEL} each.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 {activeBook && (

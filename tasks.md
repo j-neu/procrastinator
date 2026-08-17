@@ -729,8 +729,13 @@
   Payhip links are plain anchors that fire **no** `workbook_click` at all. Only the quiz
   results and `/workbooks` pages were ever tracked, so the funnel has a hole wherever a
   guide converts. `BookLink` is the smallest client boundary that closes it.
-  - [ ] 🔌 **Retrofit `BookLink` onto the 7 type guides** so guide conversions stop being
-    invisible. Small, mechanical, and worth doing before reading any funnel numbers.
+  - [x] 🔌 **Retrofit `BookLink` onto the 7 type guides** ✅ **DONE 2026-08-17.** All 7 now
+    fire `workbook_click` with `placement: 'type-guide'`. The guides stay server components.
+    ℹ️ Also normalised the `/workbooks` from-quiz CTA, which sent `{ type, title }` and **no
+    `placement`**, so it vanished from any report grouped by placement. It now sends
+    `placement: 'workbooks-from-quiz'` alongside the existing fields.
+    📊 Placements now in use: `type-guide`, `compare-page`, `workbooks-grid`,
+    `workbooks-from-quiz`, plus whatever the quiz results page sends.
 - [x] 🗺️ **Add the new `/types/compare/*` routes to `src/app/sitemap.ts`.** ✅
 - [x] 🧹 **Prose-lint all three pages** before shipping ✅ **0 banned, 0 AI tells, 0 em
   dashes, 0 transition openers** across all three. Sentence-length CV 0.97 and 1.11, both
@@ -744,10 +749,15 @@
   - ℹ️ To lint a web page, `tools/prose_lint.py` only globs `chapter_*.md` / `finale*.md`,
     so extracted pages must be **copied to a scratch dir and renamed `chapter_*.md`** first.
     Run it with `--out` pointed at scratch too, or it clobbers the tracked root report.
-- [ ] ⏸️ **Decide on pages 4-7 only after 1-3 index** (emotion-regulation/avoidant 0.4,
-  decisional/perfectionist 0.3, decisional/avoidant 0.3, passive/avoidant 0.2). Note
+- [x] ⏸️ **Decide on pages 4-7** ✅ **DECIDED 2026-08-17: not building them.** Owner's call,
+  made after pages 1-3 shipped. Three pages is enough to test whether the format works, and
+  four more before any data would be spending effort on an unproven bet while giving the
+  cluster the burst-published shape of programmatic content.
+  ♻️ **Reopen only if pages 1-3 earn impressions.** Candidates kept here with their
+  correlations so nothing has to be re-derived: emotion-regulation/avoidant 0.4,
+  decisional/perfectionist 0.3, decisional/avoidant 0.3, passive/avoidant 0.2.
   `am I lazy or procrastinating` is the highest emotional-intensity query in the set
-  despite sitting on the weakest correlation.
+  despite sitting on the weakest correlation, so it would be the one to build first.
 
 ### 🟡 Tier 3 — "Best procrastination tests" roundup
 
@@ -777,15 +787,42 @@
 > pages return 403 to crawlers and the store does not appear in search for the brand,
 > so price cannot be verified externally and must be maintained by hand.
 
-- [ ] 💶 **Show the €5 price on `/workbooks`** and on the comparison-page book CTAs.
-  A stated price on-site is the only place this is machine-readable, given Payhip blocks
-  crawlers.
-- [ ] 🔗 **Add the store URL** `https://payhip.com/Procrastitype` to
-  `src/lib/payhip-links.ts` as a shared constant (it is already baked into
-  `share-cards/share-cards.config.js`; a single source of truth avoids drift).
+- [x] 💶 **Show the €5 price on `/workbooks`** and on the book CTAs ✅ **DONE 2026-08-17.**
+  Now on all 7 type guides, all 3 comparison pages, and both `/workbooks` CTAs.
+  Driven by `BOOK_PRICE_EUR` / `BOOK_PRICE_LABEL` in `payhip-links.ts`, so the price is
+  changed in one place and never drifts between pages.
+  ⛔ **Still no `Product` schema, deliberately.** A visible price is not a reason to add
+  offer markup: the guardrail above is about `aggregateRating`, and shipping `Product`
+  without it invites adding it later. Revisit only with real reviews.
+- [x] 🔗 **Add the store URL** to `src/lib/payhip-links.ts` ✅ **DONE 2026-08-17** as
+  `PAYHIP_STORE_URL`. ℹ️ Nothing renders it yet; it exists so the Ad Swap listing and any
+  future storefront link have one source. `share-cards.config.js` still has its own copy.
 - [ ] 🔍 **Investigate why the Payhip store is not indexed for "Procrastitype"** — the
   brand search gap recorded in Phase 1.9 covers the site, but the store is a separate
   property and its absence blocks the whole brand-query surface.
+
+### 🔎 Found while retrofitting `BookLink` (2026-08-17)
+
+- [x] 🏷️ **`/workbooks` was overwriting its own `<title>`** ✅ **FIXED.** `page.tsx` set
+  `document.title` in a `useEffect`, replacing the 64-char server title from
+  `workbooks/layout.tsx` with a shorter one that **dropped "for All 7 Types"**.
+  This is the **exact bug fixed on the homepage earlier in Phase 1.10**, still live on a
+  second route. Removed, with a comment so it does not come back.
+  ⚠️ **Check any remaining `document.title` before adding one.** The pattern is banned on
+  this site: `pageMetadata()` owns the title.
+- [ ] 🚨 **`/workbooks` ships no content in its server HTML.** The whole page is
+  `'use client'` and reads `useSearchParams`, so it renders behind a `<Suspense>` fallback.
+  The built `workbooks.html` contains the loading spinner and **zero** occurrences of
+  "Cognitive Dismantling Books", the book grid, or the price. Verified in `.next/server/app`.
+  - Why it matters: the route is in the sitemap and is the only commercial page on the site.
+    Google does render JS, so this is a weakness rather than a total block, but it is the
+    page where server-rendered content is worth the most.
+  - Fix shape: the book grid needs no client state at all. Lift the static half into a
+    server component and keep only the email form and the `?type=` branch on the client.
+    `BookLink` already exists and covers the tracking, which was the original reason the
+    grid needed to be client-side.
+  - Not done in this pass because it is a refactor of a working commercial page, not a
+    mechanical edit, and it deserves its own commit.
 
 ### 📈 Leading indicators (watch without re-running an audit)
 

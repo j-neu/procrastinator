@@ -3,6 +3,7 @@ import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import RelatedTypes from '@/components/RelatedTypes'
 import Byline from '@/components/Byline'
+import BookLink from '@/components/BookLink'
 import { getPayhipBook } from '@/lib/payhip-links'
 import { absoluteUrl, authorJsonLd, pageMetadata } from '@/lib/seo'
 
@@ -186,14 +187,14 @@ export default function EmotionRegulationProcrastinatorPage() {
                   Take the Assessment
                 </Link>
                 {book && (
-                  <a
+                  <BookLink
                     href={book.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                    type="emotionRegulation"
+                    placement="type-guide"
                     className="inline-flex items-center gap-2 px-6 py-3 border border-osmo-text rounded-full font-bold uppercase tracking-widest text-sm hover:bg-osmo-text hover:text-osmo-bg transition-colors"
                   >
-                    Get the Book
-                  </a>
+                    Get the Book &middot; &euro;5
+                  </BookLink>
                 )}
               </div>
             </section>

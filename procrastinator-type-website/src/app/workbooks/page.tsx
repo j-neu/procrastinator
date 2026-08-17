@@ -4,7 +4,7 @@ import { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import HandDrawnIcon from '../../components/HandDrawnIcon';
-import { getPayhipBook, PAYHIP_BOOKS } from '../../lib/payhip-links';
+import { getPayhipBook, PAYHIP_BOOKS, BOOK_PRICE_LABEL } from '../../lib/payhip-links';
 import { track } from '../../lib/analytics';
 import { siteUrl } from '../../lib/seo';
 
@@ -58,10 +58,10 @@ function WorkbooksPageContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
 
-  useEffect(() => {
-    document.title = 'Procrastination Workbooks & Books | Procrastitype';
-  }, []);
-  
+  // No `document.title` here: the title comes from `pageMetadata()` in
+  // layout.tsx. Setting it on mount overwrote the 64-char server title with a
+  // shorter one that dropped "for All 7 Types". Same bug as the homepage had.
+
   // Check if user came from quiz results
   const userType = searchParams.get('type') as keyof typeof procrastinationTypes;
   const fromQuiz = !!userType;
@@ -173,7 +173,7 @@ function WorkbooksPageContent() {
             The Cognitive Dismantling Books
           </h2>
           <p className="text-center text-osmo-muted font-light mb-10 max-w-2xl mx-auto leading-relaxed">
-            Seven books, one for each procrastination pattern. Each one walks you through the cognitive dismantling method to break the fear loop for good.
+            Seven books, one for each procrastination pattern. Each one walks you through the cognitive dismantling method to break the fear loop for good. {BOOK_PRICE_LABEL} each.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {Object.entries(PAYHIP_BOOKS).map(([typeKey, bookEntry]) => (
@@ -193,7 +193,7 @@ function WorkbooksPageContent() {
                     onClick={() => track('workbook_click', { type: typeKey, placement: 'workbooks-grid' })}
                     className="mt-auto inline-block text-center px-4 py-2.5 bg-osmo-neon-green border border-osmo-neon-green rounded-full font-semibold text-black text-sm transition-all duration-300 hover:opacity-90"
                   >
-                    Get the Book on Payhip
+                    Get the Book &middot; {BOOK_PRICE_LABEL}
                   </a>
                 </div>
               </div>
@@ -221,10 +221,19 @@ function WorkbooksPageContent() {
                     href={book.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    onClick={() => track('workbook_click', { type: userType || 'general', title: book.title })}
+                    onClick={() =>
+                      track('workbook_click', {
+                        type: userType || 'general',
+                        // `placement` matches every other workbook_click call.
+                        // This one only sent `title`, so it was invisible to any
+                        // report grouped by placement.
+                        placement: 'workbooks-from-quiz',
+                        title: book.title,
+                      })
+                    }
                     className="inline-block mb-4 px-8 py-3 bg-osmo-neon-green border border-osmo-neon-green rounded-full font-semibold text-black transition-all duration-300 hover:opacity-90"
                   >
-                    Get the Book on Payhip
+                    Get the Book &middot; {BOOK_PRICE_LABEL}
                   </a>
                 </>
               ) : (
