@@ -178,10 +178,43 @@
 > unique titles, descriptions, canonical, OG/Twitter cards on all routes"*.
 > Health score at time of audit: **51/100** (≈78 once the two Critical items land).
 >
-> ### 📌 Status as of 2026-08-17
-> **The code half is done, verified against a production build (`tsc --noEmit`
-> clean, 30/30 routes static). It is committed to the working tree but NOT yet
-> pushed or deployed.** All remaining Critical work is manual/ops, not code.
+> ### ✅ RESOLVED as of 2026-08-17 (later the same day) — production is FIXED
+> **`verify-seo.ps1` now exits 0 with 5/5 PASS against
+> `https://procrastitype.jnorthwood.com`.** The canonical/domain emergency is over.
+>
+> What actually happened, correcting the panic written earlier in this section:
+> - The "push never triggered a build" blocker **was wrong, or fixed itself.**
+>   `vercel ls` shows two `● Ready` Production deployments; the live alias
+>   `procrastitype.jnorthwood.com` points at `j-neu-procrastinator-qbsyp6lfq`,
+>   which serves the post-fix output. Git deploys are working.
+> - **The dead domain needs no detaching.** `procrastitype.jnprojects.me` holds no
+>   alias at all (`vercel alias ls`) and returns 404 `DEPLOYMENT_NOT_FOUND`.
+>   `sitemap.xml` reports 0 stale URLs. Nothing left to clean up.
+> - **`vercel env pull` cannot verify `NEXT_PUBLIC_SITE_URL`.** It writes
+>   `NEXT_PUBLIC_SITE_URL=""` even immediately after the value is set explicitly,
+>   while decrypting every other variable correctly. Do not diagnose from it. As
+>   this section originally said: **the deployed HTML is the only proof.**
+> - `NEXT_PUBLIC_SITE_URL` is now set explicitly to
+>   `https://procrastitype.jnorthwood.com` for **Production**. Preview could not be
+>   set from the CLI (it loops on a `git_branch_required` prompt that `--yes` does
+>   not satisfy), but this no longer matters — see the hardening note below.
+>
+> **New hardening in `src/lib/seo.ts` (do not revert):** `siteUrl` now uses `||`,
+> not `??`, and strips trailing slashes. `??` only catches `null`/`undefined`, so a
+> **blank** env var stayed an empty string, and `new URL(siteUrl)` in the root
+> layout throws `TypeError: Invalid URL` on an empty string — that would fail the
+> whole build. Verified by building with `NEXT_PUBLIC_SITE_URL=""`: the build now
+> succeeds and all 17 canonicals come out absolute and correct via the fallback.
+> This is also why Preview needs no env var: the fallback yields the same value.
+>
+> ### ▶️ RESUME HERE (next session)
+> 1. **Resubmit `sitemap.xml` in GSC + Bing**, then request re-indexing for home,
+>    quiz, workbooks and the 7 type pages. This is a **manual browser step** (needs
+>    a Google/Bing login) and is the only thing still gating recovery.
+> 2. Then work 🟠/🟡/🔵 below and Phase 1.9, which are now unblocked and measurable.
+>
+> *Leading indicator:* GSC → Pages → "Duplicate, Google chose different canonical"
+> should drain toward zero over 2–3 weeks.
 >
 > **What changed structurally** (worth knowing before editing metadata again):
 > - New helper `src/lib/seo.ts` — `siteUrl`, `absoluteUrl()`, `pageMetadata()`.
@@ -198,34 +231,56 @@
 > - `siteUrl` is no longer redefined in four places — `sitemap.ts`, `robots.ts`,
 >   `quiz/page.tsx` and `workbooks/page.tsx` all import it from `@/lib/seo`.
 
-### 🔴 Critical — the site is currently telling Google to deindex itself
+### ✅ Critical — RESOLVED 2026-08-17 (kept for the audit trail)
 
-- [ ] 🚨 **Fix `NEXT_PUBLIC_SITE_URL` in Vercel** → project `j-neu-procrastinator`
-  → Settings → Environment Variables → set to `https://procrastitype.jnorthwood.com`
-  (**no trailing slash**; `absoluteUrl()` appends paths directly) for **Production
-  AND Preview**. Live pages currently emit canonical / `og:url` / sitemap / robots
-  pointing at `procrastitype.jnprojects.me`, which returns **404
-  `DEPLOYMENT_NOT_FOUND`**. ⚠️ Env var changes only apply on a **new build** —
-  editing it does nothing to already-deployed output.
+- [x] 🚨 **Fix `NEXT_PUBLIC_SITE_URL` in Vercel** ✅ *(done 2026-08-17)* — now set
+  explicitly to `https://procrastitype.jnorthwood.com` (**no trailing slash**;
+  `absoluteUrl()` appends paths directly) for **Production**. Preview is covered by
+  the `src/lib/seo.ts` fallback instead, which resolves to the same value, so the
+  CLI's inability to set Preview non-interactively is not a defect.
+  ⚠️ Env var changes only apply on a **new build**.
+  ⚠️ **Do not try to verify this with `vercel env pull`** — it reports `""` for this
+  variable even right after a successful explicit set, while decrypting every other
+  variable correctly. Verify with `verify-seo.ps1` against the deployed HTML.
 - [x] 🚨 **Give every route a self-referencing canonical.**  ✅ *(code done 2026-08-17)*
   Was: root layout hardcoded `alternates: { canonical: "/" }` and none of the other
   17 pages overrode it, so all 18 routes claimed to be duplicates of the homepage.
   Fixed by removing `alternates`/`openGraph.url` from the root layout and routing
   every page through `pageMetadata()`. Verified in built HTML: all 18 routes
   self-canonicalise.
-- [ ] 🚨 **Commit + push + deploy — the env var alone is not enough.** The 7 type
-  guides used to hardcode the origin inside their `Article` JSON-LD; they now derive
-  it via `absoluteUrl()`, but that only reaches production on deploy. Full fix =
-  **env var change AND deploy**. Changes are in the working tree, uncommitted.
-- [ ] 🚨 **Verify before touching Search Console** (all three must pass):
+- [x] 🚨 **Commit + push.** Done 2026-08-17 as `63469e8` ("Fix site-wide canonical
+  inheritance and per-page SEO metadata"); `main` is level with `origin/main` on
+  `github.com/j-neu/procrastinator`. ⚠️ **Pushing did not deploy — see below.**
+- [x] 🚨🚨 **"BLOCKER: the push never triggered a Vercel build"** — ✅ **not a real
+  blocker.** `vercel ls` on 2026-08-17 shows two `● Ready` Production deployments,
+  and `vercel alias ls` puts `procrastitype.jnorthwood.com` on
+  `j-neu-procrastinator-qbsyp6lfq`, which serves post-fix output. Git integration
+  is working; no dashboard archaeology needed.
+  ⚠️ Note for future reference: the repo-level link lives at the **repo root**
+  (`.vercel/repo.json`, mapping project `j-neu-procrastinator` → directory
+  `procrastinator-type-website`). There is **no** `.vercel/project.json` inside
+  `procrastinator-type-website/`, so the previously-documented
+  `cd procrastinator-type-website && vercel --prod` risks creating a second project.
+- [x] 🚨 **Confirm `NEXT_PUBLIC_SITE_URL` actually applied.** ✅ Confirmed the only
+  way that works: `verify-seo.ps1` passes 5/5 against the deployed HTML.
+- [x] 🧹 **Detach the dead domain.** ✅ **Nothing to do.**
+  `procrastitype.jnprojects.me` holds no alias (`vercel alias ls`), returns 404
+  `DEPLOYMENT_NOT_FOUND`, and appears 0 times in `sitemap.xml`. The parent zone
+  `jnprojects.me` remains on the account, which is fine and unrelated.
+- [x] 🚨 **Verify before touching Search Console** ✅ **5/5 PASS on 2026-08-17.**
   ```
-  curl -s .../quiz | grep -o '<link rel="canonical"[^>]*>'      # → /quiz, not /
-  curl -s .../types/perfectionist-procrastinator | grep mainEntityOfPage
-  curl -s .../sitemap.xml | grep -c jnprojects                  # → 0
+  pwsh -File procrastinator-type-website/scripts/verify-seo.ps1
   ```
-- [ ] 🚨 **Resubmit `sitemap.xml` in GSC + Bing** once the above pass — the
-  currently-submitted sitemap lists 16 URLs that all 404. Then request re-indexing
-  for home, quiz, workbooks and the 7 type pages.
+  Re-run this after any metadata change; it is the gate for the GSC step.
+- [x] 📦 **Commit the leftovers.** ✅ `verify-seo.ps1`, the `seo.ts` hardening,
+  `.gitignore` (`.vercel`) and this file are committed.
+  ⚠️ Still true for future commits: do **not** `git add -A` — the working tree also
+  holds unrelated changes (`book-covers/output/`, `old_procrastinator_workbooks/`,
+  `tools/lint_articles/`, a stray `.jpg` in the repo root).
+- [ ] 🚨 **Resubmit `sitemap.xml` in GSC + Bing** — ⬅️ **the one remaining step.**
+  The previously-submitted sitemap listed 16 URLs that all 404'd; the live sitemap is
+  now correct, so resubmit it and request re-indexing for home, quiz, workbooks and
+  the 7 type pages. **Manual browser step** (needs a Google/Bing login).
   *Leading indicator:* GSC → Pages → "Duplicate, Google chose different canonical"
   should drain toward zero over 2–3 weeks.
 

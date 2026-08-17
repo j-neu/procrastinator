@@ -1,15 +1,23 @@
 import type { Metadata } from 'next'
 
+const FALLBACK_SITE_URL = 'https://procrastitype.jnorthwood.com'
+
 /**
- * Canonical origin for the site.
+ * Canonical origin for the site, never with a trailing slash.
  *
  * NOTE: `NEXT_PUBLIC_SITE_URL` must be set to the live domain in Vercel.
  * If it points anywhere else, every canonical, og:url and sitemap entry
  * follows it -- which is exactly how the whole site ended up canonicalising
  * to a dead domain. The fallback below is the source of truth.
+ *
+ * `||` rather than `??` on purpose: a blank variable reaches the build as an
+ * empty string, which is not nullish, so `??` would leave this empty and the
+ * `new URL(siteUrl)` in the root layout would throw during the build. The
+ * trailing slash is stripped because `absoluteUrl()` appends paths directly.
  */
-export const siteUrl =
-  process.env.NEXT_PUBLIC_SITE_URL ?? 'https://procrastitype.jnorthwood.com'
+export const siteUrl = (
+  process.env.NEXT_PUBLIC_SITE_URL || FALLBACK_SITE_URL
+).replace(/\/+$/, '')
 
 /** Absolute URL for a site-relative path. */
 export const absoluteUrl = (path: string) =>
