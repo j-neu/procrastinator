@@ -79,7 +79,9 @@ const organizationJsonLd = {
   "@type": "Organization",
   name: "Procrastitype",
   url: siteUrl,
-  logo: `${siteUrl}/window.svg`,
+  // SVG master lives at public/brand/mark.svg; Google's structured-data docs
+  // want a raster image for `logo`, so this points at the rendered PNG.
+  logo: `${siteUrl}/icon-512.png`,
   description:
     "Science-backed procrastination type assessment, books and workbooks to help people understand and overcome their procrastination patterns.",
   // Confirmed with the owner on 2026-08-17: Procrastitype has no social profiles

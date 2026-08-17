@@ -4,6 +4,7 @@ import { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import HandDrawnIcon from '../../components/HandDrawnIcon';
+import SiteFooter from '../../components/SiteFooter';
 import { getPayhipBook, PAYHIP_BOOKS, BOOK_PRICE_LABEL } from '../../lib/payhip-links';
 import { track } from '../../lib/analytics';
 import { siteUrl } from '../../lib/seo';
@@ -151,6 +152,7 @@ function WorkbooksPageContent() {
             </div>
           </div>
         </div>
+        <SiteFooter />
       </div>
     );
   }
@@ -316,6 +318,7 @@ function WorkbooksPageContent() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <SiteFooter />
     </div>
   );
 }

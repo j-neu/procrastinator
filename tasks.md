@@ -866,33 +866,57 @@
 > 2. `src/app/favicon.ico` is the **unmodified Next.js default**, untouched since the repo
 >    was scaffolded (Aug 2025).
 
-- [ ] 🎨 **Design a square brand mark.** Must read at ~48px (the pill format) as well as at
-  300px. Use the `osmo` palette already in `globals.css` so it matches the share cards.
-  ⚠️ Do **not** reuse a Material Symbols glyph: the 23-icon subset carries no licence to
-  redistribute a glyph as a standalone brand asset, and the per-type icons are already
-  spoken for on the homepage grid.
-- [ ] 🖼️ **Export the sizes.** SVG master, plus `512×512` and `192×192` PNG. Well under the
-  2 MB cap, so optimise for crispness, not weight.
-- [ ] 🏷️ **Point the Organization `logo` at the new file** in `layout.tsx`, replacing
-  `/window.svg`. Delete `public/window.svg` in the same commit if nothing else uses it
-  (a grep on 2026-08-17 found that line as the only reference).
-- [ ] ⭐ **Replace `src/app/favicon.ico`** and add the PNG icons.
+- [x] 🎨 **Design a square brand mark.** ✅ **DONE 2026-08-17.** Three concepts were
+  reviewed (paused-clock, echo monogram, dog-eared corner); owner picked the echo
+  monogram with the dog-eared corner folded in on top. Master lives at
+  `public/brand/mark.svg`: a rounded-square badge (`#3a434c`) with one corner cut on a
+  diagonal and a lighter-shade (`#8c95a0`) triangle folded into the cut, plus a doubled
+  "P" (front solid, back at 40% opacity, offset down-right) for the echo. Uses the slate
+  family already in `share-cards.config.js`'s `DEFAULT_CARD` palette, not a new one.
+  ⚠️ The fold triangle assumes the badge's top-right corner is a straight diagonal cut,
+  not the same 20-radius rounding as the other three corners — building it as a plain
+  rounded rect with a triangle overlaid caused the flap to float past the rounded silhouette.
+  Verified legible down to 16px (real favicon render, not just scaled preview).
+- [x] 🖼️ **Export the sizes.** ✅ **DONE 2026-08-17.** Rendered from the SVG via the
+  Puppeteer install this repo already resolves globally (same one `share-cards/` and
+  `book-covers/` use — no `package.json` in either folder, Node just walks up to
+  `C:\Users\jakob\node_modules\puppeteer`). `public/icon-512.png`, `public/icon-192.png`.
+- [x] 🏷️ **Point the Organization `logo` at the new file** ✅ **DONE 2026-08-17.**
+  `layout.tsx` now points at `${siteUrl}/icon-512.png` (schema.org wants a raster image,
+  not the SVG). `public/window.svg` deleted — confirmed via build output
+  (`.next/server/app/index.html`) that `icon-512.png` resolves and `window.svg` is gone.
+- [x] ⭐ **Replace `src/app/favicon.ico`** ✅ **DONE 2026-08-17.** Hand-built a proper
+  multi-size `.ico` (16/32/48, PNG-payload frames, no extra npm dependency) from the same
+  master. `npm run build` passes clean, 34 routes.
 
 ### 🪧 The Ad Swap listing itself
 
-- [ ] ✍️ **Tagline: "Find your procrastination type"** — 30 of the 80 characters allowed.
+- [x] ✍️ **Tagline: "Find your procrastination type"** — 30 of the 80 characters allowed.
   ℹ️ Corrected from the spelling supplied in the request ("proctrastination"). It is also
   the one query family the site is actually built to answer, so it doubles as a keyword.
-- [ ] 🔌 **Embed the iframe** in `components/SiteFooter.tsx`, so it appears sitewide without
-  touching the quiz funnel.
-  ⚠️ Keep it **off `/quiz`**. A competing outbound click mid-assessment costs a
-  `quiz_complete`, which is the funnel step everything downstream depends on.
-- [ ] 📐 **Reserve the iframe's height in CSS** before it loads. An unsized iframe dropped
-  into the footer is a textbook CLS regression, and Phase 1.8 spent real effort getting
-  Core Web Vitals clean.
-- [ ] ⚡ **Set `loading="lazy"`** on the iframe. It is below the fold everywhere it renders.
+- [x] 🔌 **Embed the iframe** in `components/SiteFooter.tsx` ✅ **DONE 2026-08-17**, site ID
+  `2wCnOY3BG9CayPu0nAz2`. Its own hairline-separated row, right-aligned on desktop so it
+  reads as a footnote rather than competing with the nav links.
+  ⚠️ **Discovered while wiring this up:** `SiteFooter.tsx` was not actually sitewide.
+  The homepage (`HomeClient.tsx`) and the blog post each had their own hand-copied
+  duplicate of the footer markup instead of importing the component, and `/workbooks`
+  had no footer at all. All three now import `SiteFooter`, so the ad (and the footer nav)
+  actually reaches every page it was supposed to.
+  ℹ️ `/workbooks` is still the fully client-rendered page flagged elsewhere in this
+  file — the footer only appears after hydration, same as the book grid, not a new gap.
+  Kept **off `/quiz` and `/quiz/results`** on purpose: neither route had a footer before
+  this, and results is peak-conversion (email capture, book CTA) — same logic as the
+  quiz-funnel guardrail, just extended one screen further.
+  Verified in the build: `ad-swap.web.app` present in `index.html` and
+  `blog/why-you-procrastinate.html`, absent from `quiz.html` and `quiz/results.html`.
+- [x] 📐 **Reserve the iframe's height in CSS** ✅ Not needed as a separate step — the
+  embed's own inline style already fixes `width:300px;height:130px`, so the space is
+  reserved before it loads regardless of where it's placed.
+- [x] ⚡ **Set `loading="lazy"`** ✅ Already present on the embed as supplied.
 - [ ] 📤 **Submit the listing** (name, URL, tagline, logo) once the embed is live. Approval
   is gated on their verifier seeing it, so the embed ships **before** the submission.
+  ⚠️ **Still needs a deploy** — the verifier checks the live site, and this change is
+  only built locally so far.
 - [ ] 📊 **Track outbound value, not just impressions.** Referral traffic from Ad Swap
   should be judged on `quiz_start`, not sessions. A reciprocal network sends low-intent
   traffic by construction, and sessions alone will flatter it.
