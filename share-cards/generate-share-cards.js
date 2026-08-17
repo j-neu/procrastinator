@@ -5,12 +5,18 @@
 // can serve them as static assets at /share-cards/<slug>.png.
 //
 // Usage:
-//   node share-cards/generate-share-cards.js            # all types
+//   node share-cards/generate-share-cards.js            # 7 types + default
 //   node share-cards/generate-share-cards.js --only active
+//   node share-cards/generate-share-cards.js --only default
 //
-// Output is square (1:1), sized for Instagram/TikTok/WhatsApp. The PNG does
-// not bake in the Payhip link (that changes), so the card stays evergreen and
-// points people to the quiz; the Payhip link is surfaced in the share dialog.
+// The 7 type cards are square (1:1), sized for Instagram/TikTok/WhatsApp. The
+// PNG does not bake in the Payhip link (that changes), so the card stays
+// evergreen and points people to the quiz; the Payhip link is surfaced in the
+// share dialog.
+//
+// `default.png` is the odd one out: landscape 1200x630, brand-level copy, and
+// used as the sitewide og:image fallback by pageMetadata() for routes with no
+// type card of their own. See DEFAULT_CARD in share-cards.config.js.
 
 const fs = require("fs");
 const path = require("path");
@@ -40,29 +46,51 @@ if (fs.existsSync(localPuppeteer)) {
 }
 
 function fillTemplate(card) {
+  const width = card.width ?? CARD_W;
+  const height = card.height ?? CARD_H;
   const titleHtml = card.titleLines.map((line) => `<span>${line}</span>`).join("");
+
+  // Type cards lead with "I'm an / Arousal Procrastinator". The brand default
+  // has no type to claim, so it drops the line rather than rendering it empty.
+  const claimHtml =
+    card.claim === null ? "" : `<p class="claim-small">I'm ${card.article}</p>`;
+
+  // Same reason: no single book belongs on the default card, so it shows the
+  // quiz link and the shop only.
+  const footerHtml = [
+    `<span class="link">${config.QUIZ_URL}</span>`,
+    card.bookUrl ? `<span class="link">${card.bookUrl}</span>` : null,
+    `<span class="link sub">all books: ${config.SHOP_URL}</span>`,
+  ]
+    .filter(Boolean)
+    .join("\n      ");
+
   return TEMPLATE
     .replace(/\{\{TITLE\}\}/g, card.titleLines.join(" "))
-    .replace(/\{\{ARTICLE\}\}/g, card.article)
+    .replace(/\{\{CARD_CLASS\}\}/g, card.variant ?? "")
+    .replace(/\{\{CLAIM_HTML\}\}/g, claimHtml)
+    .replace(/\{\{FOOTER_HTML\}\}/g, footerHtml)
     .replace(/\{\{TITLE_HTML\}\}/g, titleHtml)
     .replace(/\{\{TITLE_SIZE\}\}/g, String(card.titleSize))
     .replace(/\{\{PALETTE_PRIMARY\}\}/g, card.palette.primary)
     .replace(/\{\{PALETTE_DEEP\}\}/g, card.palette.deep)
     .replace(/\{\{PALETTE_SHADE\}\}/g, card.palette.shade)
-    .replace(/\{\{CARD_W\}\}/g, String(CARD_W))
-    .replace(/\{\{CARD_H\}\}/g, String(CARD_H))
+    .replace(/\{\{CARD_W\}\}/g, String(width))
+    .replace(/\{\{CARD_H\}\}/g, String(height))
     .replace(/\{\{SERIES_NAME\}\}/g, config.SERIES_NAME)
-    .replace(/\{\{EYEBROW\}\}/g, config.EYEBROW)
+    .replace(/\{\{EYEBROW\}\}/g, card.eyebrow ?? config.EYEBROW)
     .replace(/\{\{SUBTITLE\}\}/g, card.subtitle)
-    .replace(/\{\{QUIZ_URL\}\}/g, config.QUIZ_URL)
-    .replace(/\{\{SHOP_URL\}\}/g, config.SHOP_URL)
-    .replace(/\{\{BOOK_URL\}\}/g, card.bookUrl);
+    .replace(/\{\{QUIZ_URL\}\}/g, config.QUIZ_URL);
 }
 
-async function render(browser, html) {
+async function render(browser, html, card) {
   const page = await browser.newPage();
   try {
-    await page.setViewport({ width: CARD_W, height: CARD_H, deviceScaleFactor: 1 });
+    await page.setViewport({
+      width: card.width ?? CARD_W,
+      height: card.height ?? CARD_H,
+      deviceScaleFactor: 1,
+    });
     await page.setContent(html, { waitUntil: "networkidle0" });
     const el = await page.$("#card");
     return await el.screenshot();
@@ -76,9 +104,15 @@ async function main() {
   const onlyIdx = args.indexOf("--only");
   const only = onlyIdx >= 0 ? args[onlyIdx + 1] : null;
 
-  const cards = config.CARDS.filter((c) => !only || c.slug === only);
+  // The generic 1200x630 default card ships alongside the 7 square type cards.
+  const allCards = [...config.CARDS, config.DEFAULT_CARD];
+  const cards = allCards.filter((c) => !only || c.slug === only);
   if (!cards.length) {
-    console.error(`No card matching --only ${only}`);
+    console.error(
+      `No card matching --only ${only}. Known slugs: ${allCards
+        .map((c) => c.slug)
+        .join(", ")}`
+    );
     process.exit(1);
   }
 
@@ -88,9 +122,11 @@ async function main() {
   console.log(`Rendering ${cards.length} card(s) to ${path.relative(process.cwd(), OUT_DIR)}`);
   try {
     for (const card of cards) {
-      const png = await render(browser, fillTemplate(card));
+      const png = await render(browser, fillTemplate(card), card);
       fs.writeFileSync(path.join(OUT_DIR, `${card.slug}.png`), png);
-      console.log(`  ok ${card.slug}.png`);
+      console.log(
+        `  ok ${card.slug}.png (${card.width ?? CARD_W}x${card.height ?? CARD_H})`
+      );
     }
   } finally {
     await browser.close();

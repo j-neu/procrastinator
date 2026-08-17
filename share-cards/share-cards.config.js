@@ -84,10 +84,36 @@ const CARDS = [
   },
 ];
 
+// The generic fallback card, used as og:image / twitter:image on every route
+// that has no type-specific card of its own (home, /quiz, /workbooks, /types,
+// /blog/*, the legal pages). Landscape 1200x630 because that is the aspect
+// ratio Facebook, LinkedIn, Slack and X all crop to; the square type cards are
+// sized for Instagram/WhatsApp instead.
+//
+// `pageMetadata()` in the site's src/lib/seo.ts points at /share-cards/default.png,
+// so renaming the slug means updating DEFAULT_OG_IMAGE there too.
+const DEFAULT_CARD = {
+  slug: "default",
+  variant: "landscape",
+  width: 1200,
+  height: 630,
+  // Brand-level card, so no "I'm a [type]" claim and no single book link.
+  claim: null,
+  bookUrl: null,
+  eyebrow: "Free 5-min quiz",
+  titleLines: ["The 7 Types", "of Procrastination"],
+  titleSize: 74,
+  subtitle: "Find out which one is yours, and what actually works for it.",
+  // Deliberately not any single type's colour: a neutral slate reads as the
+  // series rather than as one of the seven.
+  palette: { primary: "#55606b", deep: "#3a434c", shade: "#4a545e" },
+};
+
 module.exports = {
   SERIES_NAME,
   QUIZ_URL,
   EYEBROW,
   SHOP_URL,
   CARDS,
+  DEFAULT_CARD,
 };

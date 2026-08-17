@@ -220,11 +220,37 @@
   .tick.tr { top: 46px; right: 46px; border-left: 0; border-bottom: 0; }
   .tick.bl { bottom: 46px; left: 46px; border-right: 0; border-top: 0; }
   .tick.br { bottom: 46px; right: 46px; border-left: 0; border-top: 0; }
+
+  /* ---------------------------------------------------------------
+     Landscape variant: the 1200x630 default OG/Twitter card.
+     Everything above is tuned for the 1080x1080 square type cards, so
+     this only tightens the spacing and type scale for the shorter box.
+     --------------------------------------------------------------- */
+  .card.landscape .frame { inset: 46px; }
+  .card.landscape .series-left { font-size: 15px; letter-spacing: 0.38em; }
+  .card.landscape .series-right { font-size: 15px; }
+  .card.landscape .top-rule { margin-top: 20px; }
+  .card.landscape .title { letter-spacing: 0.05em; text-indent: 0.05em; }
+  .card.landscape .subtitle {
+    margin-top: 24px;
+    font-size: 25px;
+    max-width: 700px;
+  }
+  .card.landscape .subtitle-rule { margin-top: 22px; }
+  .card.landscape .bottom { gap: 9px; }
+  .card.landscape .link { font-size: 25px; }
+  .card.landscape .link.sub { font-size: 18px; }
+  .card.landscape .bottom-rule { left: 46px; right: 46px; bottom: 92px; }
+  .card.landscape .tick { width: 14px; height: 14px; }
+  .card.landscape .tick.tl { top: 28px; left: 28px; }
+  .card.landscape .tick.tr { top: 28px; right: 28px; }
+  .card.landscape .tick.bl { bottom: 28px; left: 28px; }
+  .card.landscape .tick.br { bottom: 28px; right: 28px; }
 </style>
 </head>
 <body>
 
-<div class="card" id="card">
+<div class="card {{CARD_CLASS}}" id="card">
   <span class="tick tl"></span>
   <span class="tick tr"></span>
   <span class="tick bl"></span>
@@ -238,7 +264,7 @@
     <div class="top-rule"></div>
 
     <section class="center">
-      <p class="claim-small">I'm {{ARTICLE}}</p>
+      {{CLAIM_HTML}}
       <h1 class="title">{{TITLE_HTML}}</h1>
       <p class="subtitle">{{SUBTITLE}}</p>
       <div class="subtitle-rule"></div>
@@ -247,9 +273,7 @@
     <span class="bottom-rule"></span>
 
     <footer class="bottom">
-      <span class="link">{{QUIZ_URL}}</span>
-      <span class="link">{{BOOK_URL}}</span>
-      <span class="link sub">all books: {{SHOP_URL}}</span>
+      {{FOOTER_HTML}}
     </footer>
   </div>
 </div>

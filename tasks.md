@@ -277,10 +277,9 @@
   ⚠️ Still true for future commits: do **not** `git add -A` — the working tree also
   holds unrelated changes (`book-covers/output/`, `old_procrastinator_workbooks/`,
   `tools/lint_articles/`, a stray `.jpg` in the repo root).
-- [ ] 🚨 **Resubmit `sitemap.xml` in GSC + Bing** — ⬅️ **the one remaining step.**
-  The previously-submitted sitemap listed 16 URLs that all 404'd; the live sitemap is
-  now correct, so resubmit it and request re-indexing for home, quiz, workbooks and
-  the 7 type pages. **Manual browser step** (needs a Google/Bing login).
+- [x] 🚨 **Resubmit `sitemap.xml` in GSC + Bing** ✅ *(done 2026-08-17 by Jakob)* —
+  the previously-submitted sitemap listed 16 URLs that all 404'd; the corrected
+  sitemap has been resubmitted and re-indexing requested.
   *Leading indicator:* GSC → Pages → "Duplicate, Google chose different canonical"
   should drain toward zero over 2–3 weeks.
 
@@ -289,14 +288,19 @@
 - [x] 📝 **Add metadata to `/quiz` and `/workbooks`** — the two money pages export  ✅ *(code done 2026-08-17)*
   no `metadata` object, so they serve the homepage title + description verbatim
   and compete with the homepage for the same keyword.
-- [~] 🖼️ **Wire up `og:image` sitewide** — ⚠️ **PARTIAL.** The 7 type guides now
-  emit `og:image` + `twitter:card: summary_large_image` pointing at their existing
-  share cards ✅ *(code done 2026-08-17)*. **Still missing:** `/`, `/quiz`,
-  `/workbooks`, `/types`, `/blog/*` have no OG image because **no generic share
-  card asset exists** — `public/share-cards/` holds only the 7 type-specific PNGs.
-  → **Blocked on: create a default OG image** (1200×630) via the generator in
-  `share-cards/share-cards.config.js`, save as `public/share-cards/default.png`,
-  then pass `image: '/share-cards/default.png'` in those routes' `pageMetadata()`.
+- [x] 🖼️ **Wire up `og:image` sitewide** ✅ **DONE 2026-08-17.** Every route now
+  emits `og:image` + `twitter:card: summary_large_image`. Verified in the built
+  HTML across all 18 routes.
+  - The default card is **landscape 1200x630** (`public/share-cards/default.png`),
+    brand-level copy, neutral slate palette that is deliberately not any one
+    type's colour. Regenerate with
+    `node share-cards/generate-share-cards.js --only default`.
+  - The share-card generator now supports per-card `width`/`height`/`variant`;
+    `DEFAULT_CARD` lives in `share-cards.config.js` and the template carries a
+    `.card.landscape` block. The 7 square type cards are unchanged.
+  - Wired as a **fallback inside `pageMetadata()`** (`DEFAULT_OG_IMAGE` in
+    `src/lib/seo.ts`) rather than per route, so new pages inherit it
+    automatically. Pass `image: null` to opt a route out.
 - [x] 🚫 **`noindex` on `/quiz/results`** — currently `index, follow`; a stateful  ✅ *(code done 2026-08-17)*
   results page will enter the index thin/empty.
 - [x] 🏷️ **Add `Article`/`BlogPosting` schema to `/blog/why-you-procrastinate`**  ✅ *(code done 2026-08-17)*
@@ -310,8 +314,16 @@
   `"…Cognitive Dismantling | Procrastitype | Procrastitype"`.
 - [ ] ⚡ **TTFB ~0.6s sitewide** (0.591–0.652s across 5 pages) — slow for static
   Next.js on Vercel; suspect cold starts / missing ISR caching.
-- [ ] 🔗 **Add spoke-to-spoke internal links** between the 7 type pages — they
-  link up to `/types` but never to each other.
+- [x] 🔗 **Add spoke-to-spoke internal links** between the 7 type pages ✅ **DONE
+  2026-08-17.** New `src/components/RelatedTypes.tsx` renders an "Often Confused
+  With" block on each guide. Pairings follow the **correlation matrix already in
+  `lib/improved-quiz-scoring.ts`** (arousal/active 0.6, avoidant/perfectionist
+  0.4, emotionRegulation/avoidant 0.4, decisional/perfectionist 0.3,
+  decisional/avoidant 0.3, passive/avoidant 0.2) rather than arbitrary links, so
+  the "often confused" claim matches what the scoring model treats as
+  overlapping. Verified in built HTML: every guide has 2-3 outbound spoke links
+  and every type has at least one inbound one, so there are no orphans. Copy
+  passes `tools/prose_lint.py` (0 banned, 0 tells, 0 em dashes).
 - [x] ✂️ **Trim homepage title** (71 chars, truncates in SERPs around 60).  ✅ *(code done 2026-08-17)*
 
 ### 🔵 Low / Info
@@ -404,9 +416,9 @@
 
 - [ ] 🖼️ **Add inline images to type guides and the blog** — **zero `<img>` tags
   exist sitewide.** Multi-modal content sees ~156% higher selection rates.
-- [~] 🔗 **Wire up the share cards you already built** — ⚠️ **PARTIAL**, see Phase 1.8
-  (High). The 7 type guides now reference their cards; the generic routes still need
-  a `default.png` that doesn't exist yet.
+- [x] 🔗 **Wire up the share cards you already built** ✅ **DONE 2026-08-17**, see
+  Phase 1.8 (High). All 18 routes now emit an `og:image`: the 7 type guides use their
+  own square cards, everything else falls back to the new landscape `default.png`.
 - [x] 🏞️ **Add `max-image-preview:large`** to robots meta once images exist.  ✅ *(code done 2026-08-17)*
 - [ ] 📈 Consider infographics/charts for the 7-type model (natural fit, high citability).
 

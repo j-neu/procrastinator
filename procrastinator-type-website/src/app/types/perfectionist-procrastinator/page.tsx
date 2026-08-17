@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
+import RelatedTypes from '@/components/RelatedTypes'
 import { getPayhipBook } from '@/lib/payhip-links'
 import { absoluteUrl, pageMetadata } from '@/lib/seo'
 
@@ -166,6 +167,8 @@ export default function PerfectionistProcrastinatorPage() {
                 </div>
               </div>
             </section>
+
+            <RelatedTypes current="perfectionist" />
 
             <section className="bg-osmo-surface p-8 rounded-2xl border border-osmo-border">
               <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">Know Your Pattern for Certain</h2>
