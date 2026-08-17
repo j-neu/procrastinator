@@ -15,6 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: "/quiz", changeFrequency: "weekly" as const, priority: 0.9 },
     { path: "/workbooks", changeFrequency: "monthly" as const, priority: 0.7 },
     { path: "/research", changeFrequency: "monthly" as const, priority: 0.6 },
+    { path: "/about", changeFrequency: "monthly" as const, priority: 0.6 },
     { path: "/blog/why-you-procrastinate", changeFrequency: "monthly" as const, priority: 0.7 },
     { path: "/privacy", changeFrequency: "yearly" as const, priority: 0.2 },
     { path: "/terms", changeFrequency: "yearly" as const, priority: 0.2 },

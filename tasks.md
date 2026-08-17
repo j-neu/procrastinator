@@ -464,15 +464,37 @@
   - Verified in built HTML: Person author on all 8 articles, zero
     `"author":{"@type":"Organization"}` left, and the visible `<time>` matches the
     schema `dateModified` on every page.
-- [ ] 🎓 **Add author credentials + a bio page.** ⬅️ **the remaining half of the
-  E-E-A-T item.** The name is now in place but **no credentials or bio are
-  claimed**, because none were supplied and inventing expertise for psychology
-  content is not acceptable. What is needed is a short bio plus either a real
-  qualification or an explicit statement of relevant lived experience (the books
-  are written in a recovered-addict voice, which is itself a legitimate
-  experience claim if stated plainly).
-  → When that copy exists: add an author page, point `AUTHOR.url` at it, and keep
-  `jnorthwood.com` in the Person's `sameAs`.
+- [x] 🎓 **Add author credentials + a bio page.** ✅ **DONE 2026-08-17.** Credential
+  supplied by the owner and it is **experience, not qualification**: self-taught, no
+  clinical training, quit coffee, smoking, alcohol, pornography and compulsive social
+  media use, then applied the same approach to procrastination. That is exactly the
+  "explicit statement of relevant lived experience" this item asked for, and it is
+  stated plainly rather than dressed up as expertise.
+  - New page at **`/about`** (`src/app/about/page.tsx`) with `ProfilePage` +
+    `mainEntity: Person` schema. `AUTHOR.url` now points at it; `jnorthwood.com` moved
+    to `AUTHOR.homepage` and stays in the Person's `sameAs`, so the two identities
+    resolve to one entity.
+  - `AUTHOR.summary` added and reused in three places (page copy, `authorJsonLd`,
+    `ProfilePage`), so the visible claim and the markup cannot drift.
+  - `Byline.tsx` now links to `/about` internally instead of opening jnorthwood.com in
+    a new tab, giving all 8 articles an internal link to the page that evidences the
+    author claim. Added to the footer and to `sitemap.ts`.
+  - Page includes an explicit limits section: not therapy, not a diagnosis, self-report
+    questionnaire rather than a clinical instrument, not externally validated.
+  - Prose lint: **0 banned, 0 tells, 0 em dashes, 0 proselint hits.** Flesch 62.9,
+    CV 0.66. One rule-of-three flag is a documented **keep** ("depression, anxiety or
+    ADHD" and "degree, licence or clinical training" are factual enumerations, not
+    rhetorical padding). A `lexical_illusions` hit was a real one and was fixed: the
+    heading "What this is not" was echoed by "This is not therapy".
+  - ⚠️ **The bio must never name the method by its brand.** PRODUCTION-PIPELINE.md bans
+    "Allen Carr" and "Easyway" project-wide and `prose_lint.py` fails on them, so the
+    page describes the *mechanism* (dismantling the wanting rather than resisting it).
+    Naming it would also point readers straight at the source the 7 books deliberately
+    adapt without naming. Atomic Habits **is** named, since that is an ordinary
+    citation. The ban is recorded as a comment on `AUTHOR` in `src/lib/seo.ts`.
+    Verified the brand names appear only in that comment and not in any built HTML.
+- [ ] 📣 **Unblocked by the above:** the Tier 3 roundup in Phase 1.10 no longer waits on
+  credentials. Comparison pages should also link "Jonathan Northwood" to `/about`.
 - [x] 📅 **Add `Article` schema to `/blog/why-you-procrastinate`** — see Phase 1.8  ✅ *(code done 2026-08-17)*
   (High). Without it the post has no `datePublished`/`dateModified`/`author` and is
   invisible to freshness scoring.
@@ -664,7 +686,8 @@
 > `/blog/best-procrastination-tests`, 1,800-2,200 words. The only planned page making
 > factual claims about named third parties. Verified data table is in `COMPARISON-PAGE.md`
 > (all figures taken from each provider's own public page on 2026-08-17).
-> **Blocked on:** author credentials (Phase 1.9 🎓).
+> ~~**Blocked on:** author credentials (Phase 1.9 🎓).~~ ✅ **Unblocked 2026-08-17** —
+> `/about` now carries a plain lived-experience credential.
 
 - [ ] ✅ **Verify or drop the LifeHack row.** It is the one row marked unverified rather
   than guessed. Take the test and fill it in, or remove the row.

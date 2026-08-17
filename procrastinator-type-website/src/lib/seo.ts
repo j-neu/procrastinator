@@ -26,23 +26,33 @@ export const absoluteUrl = (path: string) =>
 /**
  * The person credited on the articles.
  *
- * Defined once here because it is referenced by the 7 type guides, the blog post
- * and the Organization schema in the root layout. Previously every article
- * credited `{ '@type': 'Organization', name: 'Procrastitype' }`, which gives
+ * Defined once here because it is referenced by the 7 type guides, the blog post,
+ * the author page and the Organization schema in the root layout. Previously every
+ * article credited `{ '@type': 'Organization', name: 'Procrastitype' }`, which gives
  * search engines and AI systems no human to attribute psychology content to.
  *
- * `www.` is deliberate: the bare domain 308-redirects there, and schema should
- * point at the URL that actually resolves.
+ * `url` points at the on-site author page: it is the page that actually evidences
+ * the claim. `homepage` (with the deliberate `www.`, since the bare domain
+ * 308-redirects there) stays in `sameAs` so the two identities resolve to one
+ * entity.
  *
- * TODO(seo): no credentials or bio yet, so none are claimed. For psychology
- * content a short bio plus a real qualification or a statement of relevant
- * lived experience is the part that carries E-E-A-T weight. Do NOT invent one.
- * When that copy exists, add an author page and point `AUTHOR.url` at it,
- * keeping jnorthwood.com in `sameAs`.
+ * The credential is **experience, not qualification**, and it is written that way
+ * on purpose. No degree, licence or clinical training is claimed anywhere, because
+ * none exists and inventing one for psychology content is not an option.
+ *
+ * ⚠️ The bio must never name the method by its brand. PRODUCTION-PIPELINE.md bans
+ * any mention of "Allen Carr" or "Easyway" across the whole project, and
+ * `tools/prose_lint.py` fails on "easy way" / "easy method" / "easyway". Describe
+ * the mechanism (dismantling the wanting rather than resisting it) instead.
+ * Atomic Habits is different: that is an ordinary citation and can be named.
  */
 export const AUTHOR = {
   name: 'Jonathan Northwood',
-  url: 'https://www.jnorthwood.com',
+  url: 'https://procrastitype.jnorthwood.com/about',
+  homepage: 'https://www.jnorthwood.com',
+  /** One-line experience claim, reused in schema and in the page copy. */
+  summary:
+    'Self-taught, not clinically trained. Quit coffee, smoking, alcohol, pornography and compulsive social media use, then applied the same method to procrastination.',
 } as const
 
 /** `author` node for Article/BlogPosting schema. */
@@ -50,7 +60,14 @@ export const authorJsonLd = {
   '@type': 'Person',
   name: AUTHOR.name,
   url: AUTHOR.url,
-  sameAs: [AUTHOR.url],
+  description: AUTHOR.summary,
+  knowsAbout: [
+    'Procrastination',
+    'Habit change',
+    'Addiction recovery',
+    'Behavioral psychology',
+  ],
+  sameAs: [AUTHOR.homepage],
 } as const
 
 /**

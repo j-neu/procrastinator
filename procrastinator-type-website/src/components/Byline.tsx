@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 import { AUTHOR } from '@/lib/seo'
 
 /**
@@ -22,14 +24,16 @@ export default function Byline({ dateModified }: { dateModified: string }) {
   return (
     <p className="text-sm text-osmo-muted mb-8">
       By{' '}
-      <a
-        href={AUTHOR.url}
-        rel="author noopener noreferrer"
-        target="_blank"
+      {/* Internal link now that AUTHOR.url is the on-site /about page. Not
+          target="_blank": that was correct while it pointed off-site, and is
+          hostile for a same-site link. */}
+      <Link
+        href="/about"
+        rel="author"
         className="text-osmo-text underline hover:text-osmo-neon-green transition-colors"
       >
         {AUTHOR.name}
-      </a>
+      </Link>
       {'  '}
       <span aria-hidden="true"> · </span>
       <span>
