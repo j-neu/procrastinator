@@ -8,6 +8,19 @@ const nextConfig: NextConfig = {
   async headers() {
     return [
       {
+        // Vercel serves everything in public/ with `max-age=0, must-revalidate`
+        // (only /_next/static gets long caching), so the self-hosted icon font
+        // was revalidated on every visit. The filename carries a version, so it
+        // is safe to treat as immutable. Bump the version when regenerating it.
+        source: "/fonts/:path*",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=31536000, immutable",
+          },
+        ],
+      },
+      {
         source: "/:path*",
         headers: [
           // Only HSTS was being sent (by Vercel). These are the standard

@@ -94,7 +94,11 @@ body {
  * Regenerate (keep the icon list in sync with the icons actually used):
  *   curl -A "<a browser UA>" "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&icon_names=analytics,arrow_back,arrow_forward,balance,campaign,check,close,content_copy,crisis_alert,cyclone,dark_mode,download,ios_share,light_mode,lightbulb,link,menu,north_east,psychology,share,shield,timer,verified&display=swap"
  * then download the fonts.gstatic.com URL it returns to
- * public/fonts/material-symbols-subset.woff2
+ * public/fonts/material-symbols-subset.v2.woff2
+ *
+ * ⚠️ BUMP THE VERSION IN THE FILENAME when you regenerate. next.config.ts serves
+ * /fonts/* with `immutable` and a one-year max-age, so a changed file reusing the
+ * old name would be served stale from browser caches.
  *
  * A name that is missing from the subset renders as its literal text
  * ("psychology") instead of a glyph. Dynamic call sites to check after any
@@ -108,7 +112,7 @@ body {
   /* `block`, not `swap`: with swap the fallback font paints the ligature name as
      visible text before the glyph arrives. The file is 8.9KB and same-origin. */
   font-display: block;
-  src: url('/fonts/material-symbols-subset.woff2') format('woff2');
+  src: url('/fonts/material-symbols-subset.v1.woff2') format('woff2');
 }
 
 .material-symbols-outlined {
