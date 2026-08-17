@@ -1,4 +1,11 @@
 import Link from 'next/link'
+import { pageMetadata } from '@/lib/seo'
+
+export const metadata = pageMetadata({
+  path: '/impressum',
+  title: 'Impressum',
+  description: 'Legal disclosure and contact details for Procrastitype (JN Projects, Berlin).',
+})
 
 export default function Impressum() {
   return (

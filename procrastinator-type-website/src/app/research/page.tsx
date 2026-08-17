@@ -1,9 +1,12 @@
 import Link from 'next/link'
 
-export const metadata = {
+import { pageMetadata } from '@/lib/seo'
+
+export const metadata = pageMetadata({
+  path: '/research',
   title: 'Research & Scientific Foundation',
   description: 'The Procrastitype assessment is built on Ferrari (1991), Chu & Choi (2005), Steel (2007) and Sirois & Pychyl (2013): the peer-reviewed science behind the 7 procrastination types.',
-}
+})
 
 export default function Research() {
   return (

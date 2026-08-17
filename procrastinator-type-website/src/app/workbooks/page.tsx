@@ -6,8 +6,7 @@ import Link from 'next/link';
 import HandDrawnIcon from '../../components/HandDrawnIcon';
 import { getPayhipBook, PAYHIP_BOOKS } from '../../lib/payhip-links';
 import { track } from '../../lib/analytics';
-
-const siteUrl = 'https://procrastitype.jnprojects.me';
+import { siteUrl } from '../../lib/seo';
 
 const faqJsonLd = {
   '@context': 'https://schema.org',

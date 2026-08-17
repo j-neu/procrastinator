@@ -2,12 +2,16 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { getPayhipBook } from '@/lib/payhip-links'
+import { absoluteUrl, pageMetadata } from '@/lib/seo'
 
-export const metadata = {
+export const metadata = pageMetadata({
+  path: '/types/perfectionist-procrastinator',
   title: 'Perfectionist Procrastination: When "Perfect" Blocks Everything',
   description:
     'You delay because anything less than flawless feels like failure. What perfectionist procrastination is, the science of it, and how to start anyway.',
-}
+  image: '/share-cards/perfectionist.png',
+  ogType: 'article',
+})
 
 const articleJsonLd = {
   '@context': 'https://schema.org',
@@ -15,12 +19,12 @@ const articleJsonLd = {
   headline: 'Perfectionist Procrastination: When "Perfect" Blocks Everything',
   description:
     'What perfectionist procrastination is, why impossible standards freeze you, and how to start anyway.',
-  image: 'https://procrastitype.jnprojects.me/share-cards/perfectionist.png',
+  image: absoluteUrl('/share-cards/perfectionist.png'),
   datePublished: '2026-08-03',
   dateModified: '2026-08-03',
   author: { '@type': 'Organization', name: 'Procrastitype' },
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
-  mainEntityOfPage: 'https://procrastitype.jnprojects.me/types/perfectionist-procrastinator',
+  mainEntityOfPage: absoluteUrl('/types/perfectionist-procrastinator'),
 }
 
 const faqJsonLd = {

@@ -1,4 +1,12 @@
 import Link from 'next/link'
+import { pageMetadata } from '@/lib/seo'
+
+export const metadata = pageMetadata({
+  path: '/terms',
+  title: 'Terms of Service',
+  description:
+    'The terms governing your use of Procrastitype, its assessment and its digital products.',
+})
 
 export default function Terms() {
   return (

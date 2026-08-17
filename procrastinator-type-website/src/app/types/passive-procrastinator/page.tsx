@@ -2,12 +2,16 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { getPayhipBook } from '@/lib/payhip-links'
+import { absoluteUrl, pageMetadata } from '@/lib/seo'
 
-export const metadata = {
+export const metadata = pageMetadata({
+  path: '/types/passive-procrastinator',
   title: 'Passive Procrastination: Why You Keep Missing Deadlines',
   description:
     'You don\u2019t plan to delay. It just happens. What passive procrastination is, how it differs from strategic delay, and how to build systems that beat it.',
-}
+  image: '/share-cards/passive.png',
+  ogType: 'article',
+})
 
 const articleJsonLd = {
   '@context': 'https://schema.org',
@@ -15,12 +19,12 @@ const articleJsonLd = {
   headline: 'Passive Procrastination: Why You Keep Missing Deadlines',
   description:
     'What passive procrastination is, how it differs from strategic delay, and the systems that beat it.',
-  image: 'https://procrastitype.jnprojects.me/share-cards/passive.png',
+  image: absoluteUrl('/share-cards/passive.png'),
   datePublished: '2026-08-03',
   dateModified: '2026-08-03',
   author: { '@type': 'Organization', name: 'Procrastitype' },
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
-  mainEntityOfPage: 'https://procrastitype.jnprojects.me/types/passive-procrastinator',
+  mainEntityOfPage: absoluteUrl('/types/passive-procrastinator'),
 }
 
 const faqJsonLd = {

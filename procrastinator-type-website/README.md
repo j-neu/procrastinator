@@ -52,7 +52,7 @@ See `GOOGLE_SHEETS_SETUP.md` for deployment instructions.
 | `GOOGLE_SERVICE_ACCOUNT_EMAIL` | ✅ | Google Sheets service account for email signups |
 | `GOOGLE_PRIVATE_KEY` | ✅ | Service account private key |
 | `GOOGLE_SHEET_ID` | ✅ | Google Sheet ID for email signups |
-| `NEXT_PUBLIC_SITE_URL` | ✅ | Canonical domain (`https://procrastitype.jnprojects.me`) used by sitemap.xml, robots.txt and schema.org markup |
+| `NEXT_PUBLIC_SITE_URL` | ✅ | Canonical domain (`https://procrastitype.jnorthwood.com`) used by sitemap.xml, robots.txt and schema.org markup |
 
 Vercel Web Analytics needs **no** environment variables and no cookie banner (cookie-less, privacy-friendly). Custom events (quiz_start, quiz_complete, share_click, email_signup, workbook_click) are sent via `src/lib/analytics.ts` and appear in Vercel Dashboard → Analytics. The wrapper is provider-swappable (e.g., Plausible later).
 
@@ -103,7 +103,7 @@ src/
 1. **Import Environment Variables**:
    - Go to Vercel Dashboard → Settings → Environment Variables
    - Click "Import" and upload the `.env` file
-   - Set `NEXT_PUBLIC_SITE_URL=https://procrastitype.jnprojects.me`
+   - Set `NEXT_PUBLIC_SITE_URL=https://procrastitype.jnorthwood.com`
    - All Google Sheets credentials will be imported automatically
 
 2. **Deploy**:

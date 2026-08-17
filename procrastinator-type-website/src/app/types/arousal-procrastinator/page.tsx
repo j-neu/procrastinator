@@ -2,12 +2,16 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { getPayhipBook } from '@/lib/payhip-links'
+import { absoluteUrl, pageMetadata } from '@/lib/seo'
 
-export const metadata = {
+export const metadata = pageMetadata({
+  path: '/types/arousal-procrastinator',
   title: 'Arousal Procrastination: Signs, Science & How to Break It',
   description:
     'You wait until the last minute because calm work feels boring. Here is what arousal procrastination is, why the adrenaline is a trap, and what actually works.',
-}
+  image: '/share-cards/arousal.png',
+  ogType: 'article',
+})
 
 const articleJsonLd = {
   '@context': 'https://schema.org',
@@ -15,12 +19,12 @@ const articleJsonLd = {
   headline: 'Arousal Procrastination: Signs, Science & How to Break It',
   description:
     'What arousal procrastination is, why the last-minute rush is a trap, and what actually works.',
-  image: 'https://procrastitype.jnprojects.me/share-cards/arousal.png',
+  image: absoluteUrl('/share-cards/arousal.png'),
   datePublished: '2026-08-03',
   dateModified: '2026-08-03',
   author: { '@type': 'Organization', name: 'Procrastitype' },
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
-  mainEntityOfPage: 'https://procrastitype.jnprojects.me/types/arousal-procrastinator',
+  mainEntityOfPage: absoluteUrl('/types/arousal-procrastinator'),
 }
 
 const faqJsonLd = {

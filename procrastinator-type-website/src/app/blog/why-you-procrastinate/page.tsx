@@ -1,14 +1,37 @@
 import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 
-export const metadata = {
-  title: 'Why You Procrastinate: ACT, CBT & Cognitive Dismantling | Procrastitype',
+import { absoluteUrl, pageMetadata } from '@/lib/seo'
+
+// Title deliberately carries no "| Procrastitype" suffix: the root layout's
+// title template appends it, and hardcoding it here produced a doubled brand.
+export const metadata = pageMetadata({
+  path: '/blog/why-you-procrastinate',
+  title: 'Why You Procrastinate: ACT, CBT & Cognitive Dismantling',
   description: 'It is not laziness. It is an addiction to safety. Discover the psychology of cognitive dismantling and how to break the cycle.',
+  ogType: 'article',
+})
+
+const articleJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: 'Why You Procrastinate: ACT, CBT & Cognitive Dismantling',
+  description:
+    'It is not laziness. It is an addiction to safety. The psychology of cognitive dismantling and how to break the cycle.',
+  datePublished: '2026-08-03',
+  dateModified: '2026-08-03',
+  author: { '@type': 'Organization', name: 'Procrastitype' },
+  publisher: { '@type': 'Organization', name: 'Procrastitype' },
+  mainEntityOfPage: absoluteUrl('/blog/why-you-procrastinate'),
 }
 
 export default function WhyYouProcrastinate() {
   return (
     <div className="min-h-screen bg-osmo-bg text-osmo-text transition-colors duration-500">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+      />
       <SiteHeader />
 
       <main className="pt-40 pb-20">

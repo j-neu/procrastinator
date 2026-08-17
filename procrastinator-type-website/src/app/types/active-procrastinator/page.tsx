@@ -2,12 +2,16 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { getPayhipBook } from '@/lib/payhip-links'
+import { absoluteUrl, pageMetadata } from '@/lib/seo'
 
-export const metadata = {
+export const metadata = pageMetadata({
+  path: '/types/active-procrastinator',
   title: 'Active Procrastination: Strategic Delay or a Story You Tell Yourself?',
   description:
     'You delay on purpose and it works out. Or does it? What active procrastination is, when the strategy is real, and when it\u2019s a costume for avoidance.',
-}
+  image: '/share-cards/active.png',
+  ogType: 'article',
+})
 
 const articleJsonLd = {
   '@context': 'https://schema.org',
@@ -15,12 +19,12 @@ const articleJsonLd = {
   headline: 'Active Procrastination: Strategic Delay or a Story You Tell Yourself?',
   description:
     'What active procrastination is, when the strategy is real, and when it is a costume for avoidance.',
-  image: 'https://procrastitype.jnprojects.me/share-cards/active.png',
+  image: absoluteUrl('/share-cards/active.png'),
   datePublished: '2026-08-03',
   dateModified: '2026-08-03',
   author: { '@type': 'Organization', name: 'Procrastitype' },
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
-  mainEntityOfPage: 'https://procrastitype.jnprojects.me/types/active-procrastinator',
+  mainEntityOfPage: absoluteUrl('/types/active-procrastinator'),
 }
 
 const faqJsonLd = {

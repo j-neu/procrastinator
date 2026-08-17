@@ -2,11 +2,14 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 
-export const metadata = {
+import { pageMetadata } from '@/lib/seo'
+
+export const metadata = pageMetadata({
+  path: '/types',
   title: 'The 7 Types of Procrastination: Which One Are You?',
   description:
     'Arousal, avoidant, decisional, passive, active, emotion-regulation and perfectionist. The research-backed guide to every procrastination pattern, with signs and what actually works for each.',
-}
+})
 
 const types = [
   {
@@ -79,7 +82,7 @@ const itemListJsonLd = {
     '@type': 'ListItem',
     position: index + 1,
     name: type.name,
-    url: `https://procrastitype.jnprojects.me/types/${type.slug}`,
+    url: `https://procrastitype.jnorthwood.com/types/${type.slug}`,
   })),
 }
 

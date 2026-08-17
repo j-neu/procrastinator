@@ -2,12 +2,16 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { getPayhipBook } from '@/lib/payhip-links'
+import { absoluteUrl, pageMetadata } from '@/lib/seo'
 
-export const metadata = {
+export const metadata = pageMetadata({
+  path: '/types/avoidant-procrastinator',
   title: 'Avoidant Procrastination: The Fear Behind the Delay',
   description:
     'You don\u2019t avoid the task. You avoid the feeling it triggers. What avoidant procrastination is, the science of it, and how to break the fear loop.',
-}
+  image: '/share-cards/avoidance.png',
+  ogType: 'article',
+})
 
 const articleJsonLd = {
   '@context': 'https://schema.org',
@@ -15,12 +19,12 @@ const articleJsonLd = {
   headline: 'Avoidant Procrastination: The Fear Behind the Delay',
   description:
     'What avoidant procrastination is, the fear loop that drives it, and what actually works.',
-  image: 'https://procrastitype.jnprojects.me/share-cards/avoidance.png',
+  image: absoluteUrl('/share-cards/avoidance.png'),
   datePublished: '2026-08-03',
   dateModified: '2026-08-03',
   author: { '@type': 'Organization', name: 'Procrastitype' },
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
-  mainEntityOfPage: 'https://procrastitype.jnprojects.me/types/avoidant-procrastinator',
+  mainEntityOfPage: absoluteUrl('/types/avoidant-procrastinator'),
 }
 
 const faqJsonLd = {

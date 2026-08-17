@@ -9,8 +9,7 @@ import { improvedQuizQuestions } from '../../lib/improved-quiz-data';
 import { calculateQuizResult, UserAnswer, calculateImprovedQuizResultWrapper, convertImprovedToLegacyResult } from '../../lib/quiz-utils';
 import { ImprovedQuestion } from '../../lib/improved-quiz-scoring';
 import { track } from '../../lib/analytics';
-
-const siteUrl = 'https://procrastitype.jnprojects.me';
+import { siteUrl } from '../../lib/seo';
 
 const quizJsonLd = {
   '@context': 'https://schema.org',

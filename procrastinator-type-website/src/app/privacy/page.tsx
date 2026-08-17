@@ -1,4 +1,12 @@
 import Link from 'next/link'
+import { pageMetadata } from '@/lib/seo'
+
+export const metadata = pageMetadata({
+  path: '/privacy',
+  title: 'Privacy Policy',
+  description:
+    'How Procrastitype collects, uses and protects your personal information when you use the site and take the assessment.',
+})
 
 export default function Privacy() {
   return (

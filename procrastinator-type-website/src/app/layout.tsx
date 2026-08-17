@@ -16,12 +16,12 @@ const spaceGrotesk = Space_Grotesk({
   display: "swap",
 });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://procrastitype.jnprojects.me";
+import { siteUrl } from "@/lib/seo";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Procrastitype - Procrastination Quiz: Discover Your Type in 5 Minutes",
+    default: "Procrastination Quiz: Discover Your Type | Procrastitype",
     template: "%s | Procrastitype",
   },
   description:
@@ -38,12 +38,13 @@ export const metadata: Metadata = {
     "perfectionist procrastination",
     "avoidance procrastination",
   ],
-  alternates: {
-    canonical: "/",
-  },
+  // NOTE: no `alternates.canonical` and no `openGraph.url` here on purpose.
+  // App Router metadata merges shallowly, so anything set at the root is
+  // inherited verbatim by every child route that doesn't override it -- which
+  // previously made all 18 routes canonicalise to the homepage. Each route sets
+  // its own via `pageMetadata()` in `@/lib/seo`.
   openGraph: {
     type: "website",
-    url: "/",
     siteName: "Procrastitype",
     title: "Procrastitype - Procrastination Quiz: Discover Your Type in 5 Minutes",
     description:
@@ -58,6 +59,15 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      // Let Google use the full share-card image in rich/AI previews rather
+      // than a thumbnail. Routes that need noindex set it via pageMetadata().
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
   },
   verification: {
     google: "cmNEBQ-OCDzOZ_1X9ijLqQHWWXgppo9QK6kRevFjmXg",
@@ -72,6 +82,10 @@ const organizationJsonLd = {
   logo: `${siteUrl}/window.svg`,
   description:
     "Science-backed procrastination type assessment, books and workbooks to help people understand and overcome their procrastination patterns.",
+  // TODO(seo): populate with every profile that exists (LinkedIn, YouTube, X,
+  // Reddit, Payhip). An empty array gives search + AI systems zero entity
+  // disambiguation signals, and brand mentions correlate ~3x more strongly with
+  // AI citations than backlinks. See tasks.md Phase 1.9.
   sameAs: [],
 };
 

@@ -2,12 +2,16 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { getPayhipBook } from '@/lib/payhip-links'
+import { absoluteUrl, pageMetadata } from '@/lib/seo'
 
-export const metadata = {
+export const metadata = pageMetadata({
+  path: '/types/decisional-procrastinator',
   title: 'Decisional Procrastination: When Choosing Feels Impossible',
   description:
     'You stall on the choice, not the work. What decisional procrastination is, why decision paralysis happens, and how to decide faster.',
-}
+  image: '/share-cards/decisional.png',
+  ogType: 'article',
+})
 
 const articleJsonLd = {
   '@context': 'https://schema.org',
@@ -15,12 +19,12 @@ const articleJsonLd = {
   headline: 'Decisional Procrastination: When Choosing Feels Impossible',
   description:
     'What decisional procrastination is, why the paralysis happens, and how to make decisions faster.',
-  image: 'https://procrastitype.jnprojects.me/share-cards/decisional.png',
+  image: absoluteUrl('/share-cards/decisional.png'),
   datePublished: '2026-08-03',
   dateModified: '2026-08-03',
   author: { '@type': 'Organization', name: 'Procrastitype' },
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
-  mainEntityOfPage: 'https://procrastitype.jnprojects.me/types/decisional-procrastinator',
+  mainEntityOfPage: absoluteUrl('/types/decisional-procrastinator'),
 }
 
 const faqJsonLd = {

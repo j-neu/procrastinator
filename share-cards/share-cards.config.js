@@ -4,7 +4,7 @@
 // same visual language as the book covers (Space Grotesk / Space Mono, muted
 // per-type palette, paper grain, vignette, corner ticks, PROCRASTITYPE
 // wordmark). The card reads: "I'm an [TYPE] Procrastinator! Take the quiz →
-// https://procrastitype.jnprojects.me/quiz" plus the exact Payhip product link
+// https://procrastitype.jnorthwood.com/quiz" plus the exact Payhip product link
 // for that book and the Payhip shop for all books.
 //
 // Keys here match the quiz result `primaryType` keys from the site's
@@ -12,7 +12,7 @@
 // passive, active, emotionRegulation).
 
 const SERIES_NAME = "P&nbsp;R&nbsp;O&nbsp;C&nbsp;R&nbsp;A&nbsp;S&nbsp;T&nbsp;I&nbsp;T&nbsp;Y&nbsp;P&nbsp;E";
-const QUIZ_URL = "procrastitype.jnprojects.me/quiz";
+const QUIZ_URL = "procrastitype.jnorthwood.com/quiz";
 const EYEBROW = "What's yours?";
 
 // The Payhip shop that hosts all the books.

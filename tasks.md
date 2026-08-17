@@ -134,6 +134,10 @@
 
 ## Phase 1.7: SEO & Discoverability (COMPLETED - August 2026) ✅
 
+> ⚠️ **Partially inaccurate — see Phase 1.8 below.** A 2026-08-17 live audit found
+> the per-page metadata and canonical items in this section do not hold in
+> production. Trust Phase 1.8 over this section until those tasks are closed.
+
 ### Technical SEO (COMPLETED)
 - [x] ✅ **sitemap.xml**: Auto-generated from `src/app/sitemap.ts` (all 16 routes)
 - [x] ✅ **robots.txt**: Auto-generated from `src/app/robots.ts` (`/api/`, `/admin` disallowed)
@@ -165,6 +169,203 @@
 
 ### Email Capture Expansion (COMPLETED)
 - [x] ✅ **Quiz results page form**: "workbook launch" notification, reuses `/api/email-signup` (Google Sheets), `source: quiz-results`, type-segmented
+
+## Phase 1.8: SEO Audit Remediation (audit run 2026-08-17) 🚨
+
+> ⚠️ **This section supersedes parts of Phase 1.7.** A live audit of
+> `procrastitype.jnorthwood.com` found that several Phase 1.7 items marked
+> COMPLETED are **not true in production** — in particular *"Per-page metadata:
+> unique titles, descriptions, canonical, OG/Twitter cards on all routes"*.
+> Health score at time of audit: **51/100** (≈78 once the two Critical items land).
+>
+> ### 📌 Status as of 2026-08-17
+> **The code half is done, verified against a production build (`tsc --noEmit`
+> clean, 30/30 routes static). It is committed to the working tree but NOT yet
+> pushed or deployed.** All remaining Critical work is manual/ops, not code.
+>
+> **What changed structurally** (worth knowing before editing metadata again):
+> - New helper `src/lib/seo.ts` — `siteUrl`, `absoluteUrl()`, `pageMetadata()`.
+>   Every route builds its metadata through `pageMetadata()`, which is what makes
+>   the canonical self-referencing. **New pages must call it.**
+> - The root layout deliberately has **no** `alternates.canonical` and **no**
+>   `openGraph.url`. Do not add them back — App Router merges metadata shallowly,
+>   so anything set there is inherited verbatim by every child route. That was
+>   the original bug.
+> - The homepage, `/quiz`, `/quiz/results` and `/workbooks` are `'use client'`
+>   components, which **cannot** export `metadata`. That is why they had none.
+>   Homepage is now a server wrapper (`page.tsx` → `HomeClient.tsx`); the other
+>   three carry metadata in a segment `layout.tsx`.
+> - `siteUrl` is no longer redefined in four places — `sitemap.ts`, `robots.ts`,
+>   `quiz/page.tsx` and `workbooks/page.tsx` all import it from `@/lib/seo`.
+
+### 🔴 Critical — the site is currently telling Google to deindex itself
+
+- [ ] 🚨 **Fix `NEXT_PUBLIC_SITE_URL` in Vercel** → project `j-neu-procrastinator`
+  → Settings → Environment Variables → set to `https://procrastitype.jnorthwood.com`
+  (**no trailing slash**; `absoluteUrl()` appends paths directly) for **Production
+  AND Preview**. Live pages currently emit canonical / `og:url` / sitemap / robots
+  pointing at `procrastitype.jnprojects.me`, which returns **404
+  `DEPLOYMENT_NOT_FOUND`**. ⚠️ Env var changes only apply on a **new build** —
+  editing it does nothing to already-deployed output.
+- [x] 🚨 **Give every route a self-referencing canonical.**  ✅ *(code done 2026-08-17)*
+  Was: root layout hardcoded `alternates: { canonical: "/" }` and none of the other
+  17 pages overrode it, so all 18 routes claimed to be duplicates of the homepage.
+  Fixed by removing `alternates`/`openGraph.url` from the root layout and routing
+  every page through `pageMetadata()`. Verified in built HTML: all 18 routes
+  self-canonicalise.
+- [ ] 🚨 **Commit + push + deploy — the env var alone is not enough.** The 7 type
+  guides used to hardcode the origin inside their `Article` JSON-LD; they now derive
+  it via `absoluteUrl()`, but that only reaches production on deploy. Full fix =
+  **env var change AND deploy**. Changes are in the working tree, uncommitted.
+- [ ] 🚨 **Verify before touching Search Console** (all three must pass):
+  ```
+  curl -s .../quiz | grep -o '<link rel="canonical"[^>]*>'      # → /quiz, not /
+  curl -s .../types/perfectionist-procrastinator | grep mainEntityOfPage
+  curl -s .../sitemap.xml | grep -c jnprojects                  # → 0
+  ```
+- [ ] 🚨 **Resubmit `sitemap.xml` in GSC + Bing** once the above pass — the
+  currently-submitted sitemap lists 16 URLs that all 404. Then request re-indexing
+  for home, quiz, workbooks and the 7 type pages.
+  *Leading indicator:* GSC → Pages → "Duplicate, Google chose different canonical"
+  should drain toward zero over 2–3 weeks.
+
+### 🟠 High
+
+- [x] 📝 **Add metadata to `/quiz` and `/workbooks`** — the two money pages export  ✅ *(code done 2026-08-17)*
+  no `metadata` object, so they serve the homepage title + description verbatim
+  and compete with the homepage for the same keyword.
+- [~] 🖼️ **Wire up `og:image` sitewide** — ⚠️ **PARTIAL.** The 7 type guides now
+  emit `og:image` + `twitter:card: summary_large_image` pointing at their existing
+  share cards ✅ *(code done 2026-08-17)*. **Still missing:** `/`, `/quiz`,
+  `/workbooks`, `/types`, `/blog/*` have no OG image because **no generic share
+  card asset exists** — `public/share-cards/` holds only the 7 type-specific PNGs.
+  → **Blocked on: create a default OG image** (1200×630) via the generator in
+  `share-cards/share-cards.config.js`, save as `public/share-cards/default.png`,
+  then pass `image: '/share-cards/default.png'` in those routes' `pageMetadata()`.
+- [x] 🚫 **`noindex` on `/quiz/results`** — currently `index, follow`; a stateful  ✅ *(code done 2026-08-17)*
+  results page will enter the index thin/empty.
+- [x] 🏷️ **Add `Article`/`BlogPosting` schema to `/blog/why-you-procrastinate`**  ✅ *(code done 2026-08-17)*
+  (964 words, currently only global `Organization` + `WebSite`; the 7 type guides
+  already have it).
+
+### 🟡 Medium
+
+- [x] ✂️ **Fix double brand suffix** — `blog/why-you-procrastinate/page.tsx:5`  ✅ *(code done 2026-08-17)*
+  ends its title with `| Procrastitype` and the root template appends another →
+  `"…Cognitive Dismantling | Procrastitype | Procrastitype"`.
+- [ ] ⚡ **TTFB ~0.6s sitewide** (0.591–0.652s across 5 pages) — slow for static
+  Next.js on Vercel; suspect cold starts / missing ISR caching.
+- [ ] 🔗 **Add spoke-to-spoke internal links** between the 7 type pages — they
+  link up to `/types` but never to each other.
+- [x] ✂️ **Trim homepage title** (71 chars, truncates in SERPs around 60).  ✅ *(code done 2026-08-17)*
+
+### 🔵 Low / Info
+
+- [x] 🔒 **Security headers**: only HSTS present. Add `X-Content-Type-Options`,  ✅ *(code done 2026-08-17)*
+  `Referrer-Policy`, `X-Frame-Options`/CSP. (Feeds the Phase-5 "security headers" task.)
+- [ ] 📊 **Measure Core Web Vitals** — not captured during the audit; PageSpeed
+  Insights rate-limited both attempts. Needs a PSI API key or GSC field data.
+- [ ] 🤖 **`llms.txt`** absent — optional, and ignored by Google. Backlog only.
+- [x] ℹ️ **FAQPage schema** on `/` and `/types` — Google retired FAQ rich results
+  for all sites on 2026-05-07. No SERP feature anymore, but harmless and still
+  machine-parseable. **Do not remove.** No action needed.
+
+## Phase 1.9: GEO / AI Search Readiness (audit run 2026-08-17) 🤖
+
+> **GEO Readiness Score: 51/100.** Framing per Google's own AI optimization guide:
+> this is **SEO fundamentals applied to AI surfaces**, not a separate discipline.
+> Blocked by Phase 1.8 — AI crawlers resolve canonicals too, so citation
+> eligibility is ~0 until the domain fix ships.
+>
+> | Criterion | Weight | Score |
+> |---|---|---|
+> | Citability | 25% | 62 |
+> | Structural readability | 20% | 74 |
+> | Multi-modal content | 15% | 25 |
+> | Authority & brand signals | 20% | 30 |
+> | Technical accessibility | 20% | 55 |
+>
+> ✅ **Already good, no action:** server-side rendering confirmed (full content +
+> JSON-LD in raw HTML without JS — the single most important technical box, since
+> AI crawlers don't execute JavaScript); all AI crawlers allowed in robots.txt
+> (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, Google-Extended); content
+> quality 79–81/100 with **zero filler and zero AI-pattern tells**; FAQ blocks are
+> well-formed and genuinely citable.
+
+### 🟠 Entity & authority (weakest scored dimension — 30/100)
+
+- [ ] 🆔 **Populate `sameAs` on Organization schema** — currently ships as an empty
+  array (`"sameAs":[]`), so there are zero entity-disambiguation signals. Add every
+  profile that exists (LinkedIn, YouTube, X, Reddit, Payhip).
+  → **Blocked on: which profiles actually exist?** A `TODO(seo)` marker is in
+  place at `src/app/layout.tsx` (`organizationJsonLd.sameAs`) — drop the URLs in.
+- [ ] 👤 **Add a named author with credentials + `Person` schema.** `author` is
+  currently `{"@type":"Organization"}` on all 7 type guides. For psychology content
+  a named human with a bio is both an E-E-A-T and an AI-citation signal.
+  → **Blocked on: whose name and what credentials?** Needs a real person and a
+  bio page; do not invent an author.
+- [x] 📅 **Add `Article` schema to `/blog/why-you-procrastinate`** — see Phase 1.8  ✅ *(code done 2026-08-17)*
+  (High). Without it the post has no `datePublished`/`dateModified`/`author` and is
+  invisible to freshness scoring.
+- [ ] 🔄 **Set up a content refresh program.** Type guides are dated `2026-08-03`.
+  Content under ~3 months old is ~3x more likely to be cited; pages stale 6+ months
+  lose eligibility. **These go stale around 2026-11-03** — schedule a refresh pass
+  and bump `dateModified` before then.
+
+### 🟠 Off-site brand presence (zero footprint today)
+
+> Brand mentions correlate **~3x more strongly with AI citations than backlinks**
+> (Ahrefs, 75k brands). An exact-match search for `"Procrastitype"` returns
+> **nothing about the brand** — not even this site. Competitors already hold the
+> category: Psychology Today, IDR Labs, LifeHack, Liven, Proactivity Lab.
+
+- [ ] 💬 **Establish genuine Reddit presence** (r/productivity, r/ADHD,
+  r/getdisciplined). Reddit = **46.7% of Perplexity citations, 11.3% of ChatGPT's**.
+  Real participation, not link drops.
+- [ ] 📺 **YouTube presence** — highest single correlation with AI citation (~0.737).
+- [ ] 📚 **Wikipedia / Wikidata entity** for the brand or its methodology (long-term;
+  Wikipedia is **47.9% of ChatGPT citations**).
+- [ ] 💼 **LinkedIn presence** (moderate correlation, low effort).
+- [ ] ⭐ **Encourage users to add Procrastitype as a Google "Preferred Source"** —
+  all-languages since 2026-04-30; Google is working toward using it as a ranking signal.
+
+### 🟡 Citability & content structure
+
+- [ ] 📊 **Publish original quiz distribution data** (e.g. "of N respondents, X%
+  scored perfectionist"). Unique, quotable, unavailable anywhere else — **highest
+  ceiling GEO play available**, and the data is already in your own database.
+- [ ] 📋 **Add a 7-type comparison table** on `/types` — the single most citable
+  format AI answers lift wholesale, and it doesn't currently exist anywhere on the site.
+- [ ] 🔤 **Front-load definitional passages.** Pages open with a hook ("It's not
+  laziness…") but no `X is…` definition in the first 40–60 words. **~44% of AI
+  citations come from the first 30% of a page.** Keep the hook, add the definition
+  immediately after.
+- [ ] ❓ **Rewrite blog H2s as question-based headings.** `/blog/why-you-procrastinate`
+  uses narrative headings ("The Trigger", "The Addiction to Relief", "The 30-Day
+  Rewire") that match no query pattern. Type-page H2s are already fine — leave them.
+- [ ] 🎯 **Target 134–167 word self-contained answer blocks** in future content.
+
+### 🟡 Multi-modal (25/100 — weakest raw score)
+
+- [ ] 🖼️ **Add inline images to type guides and the blog** — **zero `<img>` tags
+  exist sitewide.** Multi-modal content sees ~156% higher selection rates.
+- [~] 🔗 **Wire up the share cards you already built** — ⚠️ **PARTIAL**, see Phase 1.8
+  (High). The 7 type guides now reference their cards; the generic routes still need
+  a `default.png` that doesn't exist yet.
+- [x] 🏞️ **Add `max-image-preview:large`** to robots meta once images exist.  ✅ *(code done 2026-08-17)*
+- [ ] 📈 Consider infographics/charts for the 7-type model (natural fit, high citability).
+
+### 🔵 Optional / emerging standards
+
+- [ ] 🤖 **`/llms.txt`** — absent. ⚠️ **Google ignores it entirely** ("won't harm nor
+  help"); Mueller called the discovery use case "a dead end." Only worth adding for
+  non-Google crawlers. **Never treat as a Google ranking lever.**
+- [ ] 📜 **RSL 1.0** (`rsl.xml` 404) — machine-readable AI licensing, backed by
+  Reddit/Yahoo/Medium/Cloudflare. Backlog.
+
+> ℹ️ **FAQPage schema:** no action — already resolved in Phase 1.8. The FAQ *content
+> structure* is what helps citability; no confirmed AI-citation benefit is claimed
+> for the markup itself.
 
 ## Phase 2 (Revised): Cognitive Dismantling Ebooks (Pivot) 📚
 

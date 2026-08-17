@@ -2,12 +2,16 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import { getPayhipBook } from '@/lib/payhip-links'
+import { absoluteUrl, pageMetadata } from '@/lib/seo'
 
-export const metadata = {
+export const metadata = pageMetadata({
+  path: '/types/emotion-regulation-procrastinator',
   title: 'Emotion-Regulation Procrastination: When Mood Runs Your To-Do List',
   description:
     'You don\u2019t do the task because you don\u2019t feel like it, and the feeling never comes. What emotion-regulation procrastination is and how to work with it.',
-}
+  image: '/share-cards/emotion-regulation.png',
+  ogType: 'article',
+})
 
 const articleJsonLd = {
   '@context': 'https://schema.org',
@@ -15,12 +19,12 @@ const articleJsonLd = {
   headline: 'Emotion-Regulation Procrastination: When Mood Runs Your To-Do List',
   description:
     'What emotion-regulation procrastination is, why the feeling never comes, and how to work with it.',
-  image: 'https://procrastitype.jnprojects.me/share-cards/emotion-regulation.png',
+  image: absoluteUrl('/share-cards/emotion-regulation.png'),
   datePublished: '2026-08-03',
   dateModified: '2026-08-03',
   author: { '@type': 'Organization', name: 'Procrastitype' },
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
-  mainEntityOfPage: 'https://procrastitype.jnprojects.me/types/emotion-regulation-procrastinator',
+  mainEntityOfPage: absoluteUrl('/types/emotion-regulation-procrastinator'),
 }
 
 const faqJsonLd = {

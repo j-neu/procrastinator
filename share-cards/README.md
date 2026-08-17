@@ -5,7 +5,7 @@ in the same visual language as the book covers (Space Grotesk / Space Mono, mute
 per-type palette, paper grain, vignette, corner ticks, "PROCRASTITYPE" wordmark).
 
 The card reads: **"I'm an [TYPE] Procrastinator!"** with the quiz URL
-(`procrastitype.jnprojects.me/quiz`) and a hook. It is designed to be shared on Instagram,
+(`procrastitype.jnorthwood.com/quiz`) and a hook. It is designed to be shared on Instagram,
 WhatsApp, TikTok, and anywhere else.
 
 ## Files
@@ -36,7 +36,7 @@ Design notes:
 
 - The cards bake in the **exact Payhip product URL** for each book (`payhip.com/b/…`,
   from `PayhipLinks.md`) and the shop URL (`payhip.com/Procrastitype`), plus the quiz
-  URL (`procrastitype.jnprojects.me/quiz`). Keep these URLs in sync with
+  URL (`procrastitype.jnorthwood.com/quiz`). Keep these URLs in sync with
   `PayhipLinks.md` and with `procrastinator-type-website/src/lib/payhip-links.ts`.
 - No em dashes in any copy (per `writing_style.md`).
 - The article ("a" / "an") is set per type in the config to stay grammatical.
