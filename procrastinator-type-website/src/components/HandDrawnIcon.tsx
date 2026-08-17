@@ -17,6 +17,7 @@ export default function HandDrawnIcon({ name, className = "", size = 24 }: HandD
     'microscope': '/beedii/search.svg', // Research/analysis
     'chart': '/beedii/star.svg', // Achievement/progress
     'gem': '/beedii/gem.svg', // Value/precious
+    'diamond': '/beedii/gem.svg', // Perfectionist type on /workbooks asks for this name
     'heart': '/beedii/red-heart.svg', // Emotion/care
     'sun': '/beedii/sun.svg', // Energy/brightness
     'tree': '/beedii/tree.svg', // Growth/nature

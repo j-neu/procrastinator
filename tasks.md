@@ -312,8 +312,25 @@
 - [x] ✂️ **Fix double brand suffix** — `blog/why-you-procrastinate/page.tsx:5`  ✅ *(code done 2026-08-17)*
   ends its title with `| Procrastitype` and the root template appends another →
   `"…Cognitive Dismantling | Procrastitype | Procrastitype"`.
-- [ ] ⚡ **TTFB ~0.6s sitewide** (0.591–0.652s across 5 pages) — slow for static
-  Next.js on Vercel; suspect cold starts / missing ISR caching.
+- [x] ⚡ **TTFB ~0.6s sitewide** — ✅ **MISDIAGNOSED, no action needed** (measured
+  2026-08-17). There is no cold-start or ISR problem. Evidence:
+  - `X-Vercel-Cache: HIT` on `/`, `/quiz`, `/types`, `/workbooks` and the type
+    guides, plus `X-Nextjs-Prerender: 1`. The CDN is already serving prerendered
+    HTML from the edge, so there is no ISR caching to add.
+  - The 0.6s figure is mostly **client connection setup, not server time**. On a
+    cold connection `time_appconnect` (DNS + TCP + TLS) alone was 0.45-0.56s of
+    it. Reusing one connection across 5 requests gives a true TTFB of
+    **0.16-0.18s**, which is healthy for a CDN hit.
+  - ⚠️ **Do not re-measure TTFB with single cold `curl` calls** — that is what
+    produced the false positive. Reuse the connection (pass several URLs to one
+    `curl` invocation) or read field data from CrUX/GSC.
+  - Two genuine observations left as backlog, neither urgent:
+    - `Cache-Control: public, max-age=0, must-revalidate` (the Next.js default for
+      prerendered pages) makes browsers revalidate on every navigation. A
+      `stale-while-revalidate` policy would help repeat visits.
+    - `X-Vercel-Id` reports **`iad1`** (Washington DC). No region is pinned in
+      `next.config.ts` and there is no `vercel.json`. Worth a look if the audience
+      is mainly European, though static edge caching already absorbs most of it.
 - [x] 🔗 **Add spoke-to-spoke internal links** between the 7 type pages ✅ **DONE
   2026-08-17.** New `src/components/RelatedTypes.tsx` renders an "Often Confused
   With" block on each guide. Pairings follow the **correlation matrix already in
@@ -330,8 +347,43 @@
 
 - [x] 🔒 **Security headers**: only HSTS present. Add `X-Content-Type-Options`,  ✅ *(code done 2026-08-17)*
   `Referrer-Policy`, `X-Frame-Options`/CSP. (Feeds the Phase-5 "security headers" task.)
-- [ ] 📊 **Measure Core Web Vitals** — not captured during the audit; PageSpeed
-  Insights rate-limited both attempts. Needs a PSI API key or GSC field data.
+- [x] 📊 **Measure Core Web Vitals** ✅ **DONE 2026-08-17** (lab data). The PSI API
+  is still quota-blocked anonymously (`HTTP 429`), so this was measured with
+  Lighthouse 12 driving the Chrome that Puppeteer already installed:
+  ```
+  CHROME_PATH="<puppeteer chrome>" npx lighthouse@12 https://procrastitype.jnorthwood.com/ \
+    --only-categories=performance --output=json --chrome-flags="--headless=new"
+  ```
+  | Metric | Desktop | Mobile (throttled 4G) | Verdict |
+  |---|---|---|---|
+  | Performance | **97** | **91** | strong |
+  | LCP | 1.0 s | **3.1 s** | ⚠️ mobile over the 2.5 s "good" bar |
+  | CLS | 0.006 | 0.01 | excellent |
+  | TBT (INP proxy) | 0 ms | 10 ms | excellent |
+  | FCP | 0.9 s | 2.1 s | mobile slightly over 1.8 s |
+  | Server response | 160 ms | 150 ms | ✅ independently confirms the TTFB item above |
+  Still worth having GSC **field** data (real users) to sit next to this lab run.
+
+- [ ] 🖼️ **Fix mobile LCP: the Material Symbols font is 1.1 MB.** ⬅️ **biggest
+  remaining perf win.** Root cause found while measuring above, not yet fixed.
+  - Lighthouse reports the LCP element is a `<span class="material-symbols-outlined">`,
+    so **the largest paint on the page is an icon glyph** and cannot render until
+    the icon font arrives. `third-party-summary` puts Google Fonts at **1102 KiB**.
+  - Cause: `src/app/layout.tsx:117` requests the full variable font,
+    `Material+Symbols+Outlined:wght,FILL@100..700,0..1`, i.e. every icon across
+    the whole weight and fill range, to draw about 22 icons.
+  - Fix: add `&icon_names=` to subset. The full set is enumerated and **every name
+    was validated against Google Fonts**: `analytics, arrow_back, arrow_forward,
+    balance, campaign, check, close, crisis_alert, cyclone, dark_mode, download,
+    ios_share, light_mode, lightbulb, link, menu, north_east, psychology, share,
+    shield, timer, verified`. Pinning the axes to a single instance helps further.
+  - ⚠️ **Risk to check before shipping:** three call sites render the icon name
+    from a variable, so a missed name renders as literal text rather than a glyph:
+    `HomeClient.tsx:183` (`{type.icon}`), `ShareCard.tsx:122` (`check`/`link`),
+    `SiteHeader.tsx:51` (`close`/`menu`). Verify all pages after subsetting.
+  - ℹ️ Not related: `lightning`, `scales` and `brain` on `/workbooks` are **not**
+    Material Symbols. They go through `HandDrawnIcon`, which maps them to local
+    `/beedii/*.svg`. Leave them alone.
 - [ ] 🤖 **`llms.txt`** absent — optional, and ignored by Google. Backlog only.
 - [x] ℹ️ **FAQPage schema** on `/` and `/types` — Google retired FAQ rich results
   for all sites on 2026-05-07. No SERP feature anymore, but harmless and still
