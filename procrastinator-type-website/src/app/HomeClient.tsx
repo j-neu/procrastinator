@@ -23,6 +23,12 @@ const procrastinationTypes = [
     icon: 'balance'
   },
   {
+    type: 'perfectionist',
+    title: 'Perfectionist Procrastinator',
+    description: 'Impossibly high standards block both starting and finishing. Nothing ever feels ready.',
+    icon: 'verified'
+  },
+  {
     type: 'active',
     title: 'Active Procrastinator',
     description: 'Deliberate delay to optimize focus. Often high-performing but risky.',
@@ -72,7 +78,8 @@ export default function Home() {
   const [totalCompletions, setTotalCompletions] = useState<number>(10000)
 
   useEffect(() => {
-    document.title = 'Procrastitype - Procrastination Quiz: Discover Your Type in 5 Minutes'
+    // No `document.title` here: the title comes from `pageMetadata()` in page.tsx.
+    // Setting it on mount overwrote the trimmed 55-char title with a 69-char one.
     const fetchStats = async () => {
       try {
         const response = await fetch('/api/stats')
@@ -166,7 +173,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row justify-between items-end mb-24">
               <h2 className="text-4xl md:text-5xl font-display font-light">The Scientific <span className="text-osmo-muted italic">Archetypes</span></h2>
               <p className="text-osmo-muted text-sm max-w-xs mt-6 md:mt-0 leading-relaxed">
-                We've mapped the six primary patterns identified in behavioral research.
+                We've mapped the seven primary patterns identified in behavioral research.
               </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 border-t border-l border-osmo-border">
