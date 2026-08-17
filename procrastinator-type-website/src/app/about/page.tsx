@@ -8,7 +8,7 @@ export const metadata = pageMetadata({
   path: '/about',
   title: 'About Jonathan Northwood',
   description:
-    'Who writes Procrastitype, and why. Self-taught, not clinically trained: the method here came out of quitting coffee, smoking, alcohol, pornography and compulsive social media use, then turning the same approach on procrastination.',
+    'Who writes Procrastitype, and why. Self-taught, not clinically trained: the method here came out of quitting a run of stubborn personal habits, then turning the same approach on procrastination.',
 })
 
 /**
@@ -64,8 +64,8 @@ export default function AboutPage() {
               </h2>
               <p>
                 I am not a psychologist. I have no clinical training and no letters after my name. What I have is a
-                list of things that had me and no longer do: coffee, smoking, alcohol, pornography, and the phone
-                that used to eat my evenings.
+                list of things that had me and no longer do: coffee, smoking, alcohol, the phone that used to eat my
+                evenings, and a couple I will keep to myself.
               </p>
               <p>
                 Not one of those came off through willpower. I tried willpower for years. Willpower is a fight you

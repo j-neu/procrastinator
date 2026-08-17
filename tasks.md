@@ -466,10 +466,15 @@
     schema `dateModified` on every page.
 - [x] 🎓 **Add author credentials + a bio page.** ✅ **DONE 2026-08-17.** Credential
   supplied by the owner and it is **experience, not qualification**: self-taught, no
-  clinical training, quit coffee, smoking, alcohol, pornography and compulsive social
-  media use, then applied the same approach to procrastination. That is exactly the
-  "explicit statement of relevant lived experience" this item asked for, and it is
-  stated plainly rather than dressed up as expertise.
+  clinical training, quit a run of stubborn personal habits, then applied the same
+  approach to procrastination. That is exactly the "explicit statement of relevant lived
+  experience" this item asked for, and it is stated plainly rather than dressed up as
+  expertise.
+  ⚠️ **Published copy deliberately does not enumerate every habit.** The owner named them
+  all privately and then chose to soften the public version; the page lists the
+  unremarkable ones and says "a couple I will keep to myself" for the rest. This text is
+  permanent once indexed and the credential does not depend on the specifics, so do not
+  "restore" the full list. Keep the private ones out of this file too.
   - New page at **`/about`** (`src/app/about/page.tsx`) with `ProfilePage` +
     `mainEntity: Person` schema. `AUTHOR.url` now points at it; `jnorthwood.com` moved
     to `AUTHOR.homepage` and stays in the Person's `sameAs`, so the two identities

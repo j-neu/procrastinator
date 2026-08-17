@@ -50,9 +50,17 @@ export const AUTHOR = {
   name: 'Jonathan Northwood',
   url: 'https://procrastitype.jnorthwood.com/about',
   homepage: 'https://www.jnorthwood.com',
-  /** One-line experience claim, reused in schema and in the page copy. */
+  /**
+   * One-line experience claim, reused in schema and in the page copy.
+   *
+   * Deliberately does not enumerate every habit. The owner named all of them
+   * privately; the public copy keeps the more exposing ones unlisted, because
+   * this text is permanent once indexed and the credential does not depend on
+   * them. "A couple I keep to myself" is also a truer human note than a clinical
+   * inventory, and it costs nothing in credibility.
+   */
   summary:
-    'Self-taught, not clinically trained. Quit coffee, smoking, alcohol, pornography and compulsive social media use, then applied the same method to procrastination.',
+    'Self-taught, not clinically trained. Quit coffee, smoking, alcohol and compulsive phone use, plus a couple of habits I keep to myself, then applied the same method to procrastination.',
 } as const
 
 /** `author` node for Article/BlogPosting schema. */
