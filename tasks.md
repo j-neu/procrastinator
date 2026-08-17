@@ -536,6 +536,162 @@
 > structure* is what helps citability; no confirmed AI-citation benefit is claimed
 > for the markup itself.
 
+## Phase 1.10: Comparison & Roundup Pages (planned 2026-08-17) 🆚
+
+> Build specs, keyword targets and JSON-LD live in
+> [`seo/competitor-pages/`](seo/competitor-pages/) (`COMPARISON-PAGE.md`,
+> `KEYWORD-STRATEGY.md`, `comparison-schema.json`). Research done 2026-08-17 against the
+> live competitive set (IDR Labs, Psychology Today, Liven, Deepwrk, Freudly, LifeHack,
+> Solving Procrastination).
+>
+> **Why not classic "X vs Y" brand pages:** Procrastitype has no brand footprint (Phase
+> 1.9 confirmed an exact-match brand search returns nothing), so "Procrastitype vs X"
+> targets zero demand. All three tiers below target *concept* queries instead, which rank
+> on topical depth rather than domain authority.
+>
+> **Sequencing (do not reorder):** homepage fixes → Tier 2 table → Tier 1 pages 1-3 →
+> measure → Tier 1 pages 4-7. Tier 3 additionally blocked on author credentials
+> (see Phase 1.9, 🎓 open).
+>
+> ### ⛔ Guardrails (deliberate non-actions, do not "improve" these)
+> - **Never add `Product` + `aggregateRating`** to book or comparison pages. No collected
+>   reviews exist; self-assigned ratings are a self-serving-review policy violation and
+>   risk a manual action. Revisit only when real Payhip reviews exist and can be cited.
+> - **Never add new `FAQPage`** expecting a SERP feature (retired 2026-05-07, Phase 1.8).
+> - **Never claim "most accurate test."** Nothing supports it; the quiz is not externally
+>   validated. Lead with secondary type + confidence level instead (see below).
+
+### ✅ Blocking fixes — DONE 2026-08-17 (all in `src/app/HomeClient.tsx`)
+
+- [x] 🔢 **Add the missing Perfectionist entry** to the `procrastinationTypes` array ✅
+  It held only 6 entries; the homepage silently omitted Perfectionist while `/types`,
+  `/workbooks` and the quiz all cover 7. Inserted after Decisional to match `/types`
+  ordering. Icon is **`verified`**, chosen because it was **already in the 23-icon
+  Material Symbols subset**, so no font regeneration was needed.
+  ⚠️ Any *future* icon must also come from the list in the `@font-face` comment in
+  `globals.css`, or the name renders as literal text (Phase 1.8 🖼️).
+- [x] ✏️ **Change "We've mapped the six primary patterns"** → seven ✅ It directly
+  contradicted the CTA 22 lines below it ("Explore All 7 Types in Depth").
+- [x] 🏷️ **Delete the `document.title` assignment** ✅ It overwrote the 55-char server
+  metadata title from `page.tsx` with a 69-char one on mount, undoing the "trim homepage
+  title" fix marked done in Phase 1.8. Replaced with a comment explaining why nothing
+  sets the title there.
+  ℹ️ The 69-char string still appears in the build, correctly: it is the **`og:title`**
+  at `layout.tsx:49`, a separate field from the SERP `<title>`. Do not "fix" that one.
+
+> **Verified in the built HTML (`npm run build`, 30 routes, clean):** homepage `<title>`
+> is the 55-char version, 7 type headings render, copy reads "seven primary patterns",
+> and the old title string is gone from `.next/static/` (the client bundle), so nothing
+> overwrites it at runtime. All 7 homepage icons resolve to subset names: balance,
+> crisis_alert, cyclone, psychology, shield, timer, verified.
+>
+> ⚠️ **Not yet checked visually:** the archetype grid is `lg:grid-cols-3`, so 7 cards
+> leave a ragged last row (was a clean 2x3 at six). Borders still close correctly around
+> the orphan card. Eyeball it before deploying if the ragged row matters.
+
+### 🟠 Tier 2 — 7-type comparison table on `/types` (flagship asset)
+
+> Supersedes the 📋 "Add a 7-type comparison table" item in Phase 1.9 🟡. No competitor
+> owns a canonical multi-type chart: published frameworks fragment at 3 (Ferrari), 5, and
+> 6 (Sapadin) types. Tables are also the format AI answers lift wholesale.
+
+- [ ] 📋 **Build the comparison table component** on `/types`, directly under the H1 and
+  above the individual type sections. Table content is written out in `COMPARISON-PAGE.md`
+  (columns: type, core driver, the moment it hits, telltale sign, research anchor).
+- [ ] 🔗 **Link each type name in the table** to its `/types/<type>-procrastinator` guide,
+  making the table the hub's primary internal-linking device.
+- [ ] 📱 **Wrap the table in an `overflow-x: auto` container** so the page body never
+  scrolls horizontally on mobile.
+- [ ] 🏷️ **Add `DefinedTermSet` JSON-LD** to `/types` (ready in `comparison-schema.json`).
+  Runs alongside the existing `ItemList`, does not replace it.
+- [ ] 🧹 **Prose-lint the table copy** (`python tools/prose_lint.py`): 0 banned words,
+  0 AI tells, 0 em dashes.
+
+### 🟠 Tier 1 — Type vs type comparison pages
+
+> URL pattern `/types/compare/<a>-vs-<b>-procrastination`. Pairings 2-7 come from the
+> correlation matrix already in `lib/improved-quiz-scoring.ts`, so "often confused with"
+> matches what the scoring model actually treats as overlapping. Target 1,600-2,000 words
+> each. **Build 1-3 only, then measure** — seven thin siblings on an unproven cluster
+> reads as programmatic.
+
+- [ ] 📁 **Create the `/types/compare/` route segment.**
+- [ ] 1️⃣ **Build "Active vs Passive Procrastination"** (`active vs passive procrastination`).
+  Confirmed demand, anchored in Chu & Choi (2005). Table data ready in `COMPARISON-PAGE.md`.
+- [ ] 2️⃣ **Build "Arousal vs Active Procrastination"** (correlation 0.6, the hardest pair
+  to separate; frame the split as motive, and link the 0.6 claim to `/research`).
+- [ ] 3️⃣ **Build "Avoidant vs Perfectionist Procrastination"** (correlation 0.4, targets
+  `perfectionism vs procrastination`).
+- [ ] 🔤 **Open every page with a definition in the first 60 words**, before the hook.
+  ~44% of AI citations come from the first 30% of a page; the existing type guides open
+  with a hook and no definition (same gap as Phase 1.9 🔤).
+- [ ] 💬 **Add the one-line answer as a standalone pull-quote block** on each page. This is
+  the passage AI answers lift.
+- [ ] 🧭 **Route every new page through `pageMetadata()`** from `@/lib/seo`. Pages that
+  skip it inherit no self-referencing canonical and reintroduce the Phase 1.8 bug.
+- [ ] 👤 **Render `components/Byline.tsx`** on each page, with `dateModified` matching the
+  visible `<time>`.
+- [ ] 🏷️ **Add `Article` JSON-LD** per page using `authorJsonLd` from `src/lib/seo.ts`
+  (template in `comparison-schema.json`).
+- [ ] 🔗 **Add outbound links from each comparison page** to both type guides plus one
+  sibling comparison page.
+- [ ] 📊 **Add `placement: 'compare-page'`** to the `workbook_click` analytics event on
+  these pages, so conversion can be compared against the type guides.
+- [ ] 🗺️ **Add the new `/types/compare/*` routes to `src/app/sitemap.ts`.**
+- [ ] 🧹 **Prose-lint all three pages** before shipping.
+- [ ] ⏸️ **Decide on pages 4-7 only after 1-3 index** (emotion-regulation/avoidant 0.4,
+  decisional/perfectionist 0.3, decisional/avoidant 0.3, passive/avoidant 0.2). Note
+  `am I lazy or procrastinating` is the highest emotional-intensity query in the set
+  despite sitting on the weakest correlation.
+
+### 🟡 Tier 3 — "Best procrastination tests" roundup
+
+> `/blog/best-procrastination-tests`, 1,800-2,200 words. The only planned page making
+> factual claims about named third parties. Verified data table is in `COMPARISON-PAGE.md`
+> (all figures taken from each provider's own public page on 2026-08-17).
+> **Blocked on:** author credentials (Phase 1.9 🎓).
+
+- [ ] ✅ **Verify or drop the LifeHack row.** It is the one row marked unverified rather
+  than guessed. Take the test and fill it in, or remove the row.
+- [ ] ✍️ **Write the roundup** using the verified comparison table.
+- [ ] ⚖️ **Add the affiliation disclosure above the table**, not in a footer.
+- [ ] 📅 **Carry a visible "verified as of 2026-08-17" date** on the table.
+- [ ] 🎯 **Lead with the two defensible differentiators**, not accuracy claims: the quiz is
+  the only one on the list that reports a **secondary type**, and the only one that reports
+  a **confidence level** (and tracks neutral "none of the above" responses). Every
+  competing test returns a single label with no caveats.
+- [ ] 🏷️ **Add `ItemList` + `Article` JSON-LD** (ready in `comparison-schema.json`).
+  `itemListOrder` stays `Unordered` on purpose: the page does not rank the tests.
+- [ ] 🔁 **Set a quarterly re-verification reminder** for competitor figures (next:
+  2026-11-17).
+
+### 💶 Book pricing (supplied by owner 2026-08-17)
+
+> All 7 books: **€5 each**, store at https://payhip.com/Procrastitype. Payhip product
+> pages return 403 to crawlers and the store does not appear in search for the brand,
+> so price cannot be verified externally and must be maintained by hand.
+
+- [ ] 💶 **Show the €5 price on `/workbooks`** and on the comparison-page book CTAs.
+  A stated price on-site is the only place this is machine-readable, given Payhip blocks
+  crawlers.
+- [ ] 🔗 **Add the store URL** `https://payhip.com/Procrastitype` to
+  `src/lib/payhip-links.ts` as a shared constant (it is already baked into
+  `share-cards/share-cards.config.js`; a single source of truth avoids drift).
+- [ ] 🔍 **Investigate why the Payhip store is not indexed for "Procrastitype"** — the
+  brand search gap recorded in Phase 1.9 covers the site, but the store is a separate
+  property and its absence blocks the whole brand-query surface.
+
+### 📈 Leading indicators (watch without re-running an audit)
+
+- [ ] 📊 **Impressions on `active vs passive procrastination`** in GSC within 3 weeks of
+  publishing. Any impressions at all is the pass mark.
+- [ ] 📊 **Average position on `types of procrastinators`** should move after the Tier 2
+  table ships, not before.
+- [ ] 📊 **`quiz_start` events referred from `/types/compare/*`** should convert better
+  than from the type guides (sharper intent).
+- [ ] 📊 **"Duplicate, Google chose different canonical" stays at zero** in GSC → Pages.
+  Any new page skipping `pageMetadata()` will reintroduce it.
+
 ## Phase 2 (Revised): Cognitive Dismantling Ebooks (Pivot) 📚
 
 ### Strategy Change
