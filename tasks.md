@@ -595,17 +595,32 @@
 > owns a canonical multi-type chart: published frameworks fragment at 3 (Ferrari), 5, and
 > 6 (Sapadin) types. Tables are also the format AI answers lift wholesale.
 
-- [ ] 📋 **Build the comparison table component** on `/types`, directly under the H1 and
-  above the individual type sections. Table content is written out in `COMPARISON-PAGE.md`
-  (columns: type, core driver, the moment it hits, telltale sign, research anchor).
-- [ ] 🔗 **Link each type name in the table** to its `/types/<type>-procrastinator` guide,
-  making the table the hub's primary internal-linking device.
-- [ ] 📱 **Wrap the table in an `overflow-x: auto` container** so the page body never
-  scrolls horizontally on mobile.
-- [ ] 🏷️ **Add `DefinedTermSet` JSON-LD** to `/types` (ready in `comparison-schema.json`).
-  Runs alongside the existing `ItemList`, does not replace it.
-- [ ] 🧹 **Prose-lint the table copy** (`python tools/prose_lint.py`): 0 banned words,
-  0 AI tells, 0 em dashes.
+- [x] 📋 **Build the comparison table component** ✅ **DONE 2026-08-17.** New
+  `#compare` section on `/types` ("The 7 Types at a Glance"), placed after the intro and
+  before the individual type sections, so it sits inside the first 30% of the page where
+  most AI citations are drawn from. Columns: type, core driver, when it hits, telltale
+  sign, research anchor. The four new fields live on the existing `types` array in
+  `src/app/types/page.tsx`, so the table and the sections below it cannot drift apart.
+- [x] 🔗 **Link each type name in the table** to its guide ✅ Verified in built HTML: each
+  of the 7 guides now has 2 inbound links from the pillar (table row + "Read the full
+  guide").
+- [x] 📱 **Wrap the table in an `overflow-x: auto` container** ✅ Wrapper scrolls, body
+  does not. Table is `min-w-[46rem]` with a `sr-only` `<caption>`, `scope="col"` headers
+  and `scope="row"` on the type cell.
+- [x] 🏷️ **Add `DefinedTermSet` JSON-LD** ✅ Runs alongside the existing `ItemList`.
+  Verified: all 5 JSON-LD blocks on the page parse, `@type` values are Organization,
+  WebSite, ItemList, DefinedTermSet, FAQPage.
+  Also switched the existing `ItemList` off its hardcoded domain onto `absoluteUrl()`,
+  matching the Phase 1.8 rule that `siteUrl` is never redefined per-file.
+- [x] 🧹 **Prose-lint the table copy** ✅ **0 banned, 0 AI tells, 0 em dashes, 0
+  rule-of-three.** Sentence-length CV 0.85, comfortably above the ~0.5 that flags
+  mechanical text. The single proselint hit is `curly_quotes`, already a documented
+  "keep" in PRODUCTION-PIPELINE.md (handled at conversion) and pre-existing on the page.
+  ⚠️ **`tools/prose_lint.py` writes `PROSE-LINT-REPORT.md` to the repo root**, clobbering
+  the tracked file. Restore it with `git checkout -- PROSE-LINT-REPORT.md` after linting
+  anything that is not the books, and never stage that file by accident.
+  ⚠️ `tools/extract_articles.py` also drops untracked `*_page.md` files into
+  `tools/lint_articles/`. Scratch output, do not commit.
 
 ### 🟠 Tier 1 — Type vs type comparison pages
 
