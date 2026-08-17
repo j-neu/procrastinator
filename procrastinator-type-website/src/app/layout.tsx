@@ -111,27 +111,13 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         {/*
-          Material Symbols, subset to only the icons this site actually draws.
-          Without `icon_names` Google serves every glyph in the set: 1,127,076
-          bytes, which made an icon the largest contentful paint on the page and
-          pushed mobile LCP to 3.1s. Subsetting takes the same font to 8,900
-          bytes. The `wght,FILL` axis range is kept as-is because some icons are
-          rendered with `font-light` / `font-extralight`.
-
-          IMPORTANT: this list must contain every icon name used anywhere,
-          including the ones passed through variables. A name that is missing
-          renders as its literal text ("psychology") instead of a glyph. Current
-          dynamic call sites: HomeClient.tsx (`{type.icon}`), ShareCard.tsx
-          (`check`/`link`), ShareButton.tsx (`check`/`content_copy`),
-          SiteHeader.tsx (`close`/`menu`). Keep the list sorted.
+          No Google Fonts requests at runtime. Inter and Space Grotesk are
+          self-hosted at build time by `next/font/google` above, and Material
+          Symbols is a self-hosted subset declared in globals.css. That removes a
+          render-blocking cross-origin stylesheet plus the preconnects to
+          fonts.googleapis.com and fonts.gstatic.com that used to be needed.
         */}
-        <link
-          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&icon_names=analytics,arrow_back,arrow_forward,balance,campaign,check,close,content_copy,crisis_alert,cyclone,dark_mode,download,ios_share,light_mode,lightbulb,link,menu,north_east,psychology,share,shield,timer,verified&display=swap"
-          rel="stylesheet"
-        />
       </head>
       <body
         className={`${inter.variable} ${spaceGrotesk.variable} antialiased bg-osmo-bg text-osmo-text font-sans`}

@@ -364,26 +364,50 @@
   | Server response | 160 ms | 150 ms | ✅ independently confirms the TTFB item above |
   Still worth having GSC **field** data (real users) to sit next to this lab run.
 
-- [ ] 🖼️ **Fix mobile LCP: the Material Symbols font is 1.1 MB.** ⬅️ **biggest
-  remaining perf win.** Root cause found while measuring above, not yet fixed.
-  - Lighthouse reports the LCP element is a `<span class="material-symbols-outlined">`,
-    so **the largest paint on the page is an icon glyph** and cannot render until
-    the icon font arrives. `third-party-summary` puts Google Fonts at **1102 KiB**.
-  - Cause: `src/app/layout.tsx:117` requests the full variable font,
-    `Material+Symbols+Outlined:wght,FILL@100..700,0..1`, i.e. every icon across
-    the whole weight and fill range, to draw about 22 icons.
-  - Fix: add `&icon_names=` to subset. The full set is enumerated and **every name
-    was validated against Google Fonts**: `analytics, arrow_back, arrow_forward,
-    balance, campaign, check, close, crisis_alert, cyclone, dark_mode, download,
-    ios_share, light_mode, lightbulb, link, menu, north_east, psychology, share,
-    shield, timer, verified`. Pinning the axes to a single instance helps further.
-  - ⚠️ **Risk to check before shipping:** three call sites render the icon name
-    from a variable, so a missed name renders as literal text rather than a glyph:
-    `HomeClient.tsx:183` (`{type.icon}`), `ShareCard.tsx:122` (`check`/`link`),
-    `SiteHeader.tsx:51` (`close`/`menu`). Verify all pages after subsetting.
-  - ℹ️ Not related: `lightning`, `scales` and `brain` on `/workbooks` are **not**
-    Material Symbols. They go through `HandDrawnIcon`, which maps them to local
-    `/beedii/*.svg`. Leave them alone.
+- [x] 🖼️ **Fix the 1.1 MB Material Symbols font** ✅ **DONE 2026-08-17 by
+  self-hosting a subset.** Google's CSS2 endpoint was serving every glyph in the
+  set (**1,127,076 bytes**) to draw 23 icons.
+
+  **The obvious fix made things worse, so do not "simplify" this back.** Adding
+  `&icon_names=` to the Google Fonts URL does shrink the font to 8,900 bytes, but
+  measured *slower* than the unsubset font: the long unique `icon_names` URL
+  misses Google's edge cache, and it sits on a render-blocking cross-origin
+  stylesheet. Fair A/B, same machine, 2-3 Lighthouse mobile runs each:
+
+  | | Google, full | Google, `icon_names` | **Self-hosted subset** |
+  |---|---|---|---|
+  | Performance | 93 | 88 | **95** |
+  | FCP | 1.55 s | 2.40 s | **0.91 s** |
+  | Speed Index | 1.55 s | 2.40 s | **0.92 s** |
+  | LCP | 3.17 s | 3.47 s | **3.00 s** |
+  | Font bytes | 1,127,076 | 8,900 | **8,900** |
+
+  Shipped: the 8.9 KB subset lives at
+  `public/fonts/material-symbols-subset.woff2` with an `@font-face` in
+  `globals.css`. **All Google Fonts requests are now gone at runtime** (Inter and
+  Space Grotesk were already self-hosted by `next/font/google`), so the two
+  `preconnect`s to `fonts.googleapis.com` / `fonts.gstatic.com` were removed too.
+  `font-display: block`, not `swap`, because swap paints the ligature name as
+  visible text before the glyph arrives.
+
+  ⚠️ **Regenerating the subset:** the recipe and the icon list are in the comment
+  above `@font-face` in `globals.css`. A name missing from the subset renders as
+  its literal text. Verified after shipping by crawling all 18 routes (no literal
+  text, no name outside the list) and by injecting all 23 names and checking each
+  renders at 1em. Dynamic call sites to re-check: `HomeClient.tsx` `{type.icon}`,
+  `ShareCard.tsx` `check`/`link`, `ShareButton.tsx` `check`/`content_copy`,
+  `SiteHeader.tsx` `close`/`menu`.
+
+  ℹ️ Two things that look related but are not:
+  - `lightning`, `scales`, `brain`, `diamond` on `/workbooks` are **not** Material
+    Symbols. They go through `HandDrawnIcon` to local `/beedii/*.svg`.
+  - `globals.css` pins `font-variation-settings: 'wght' 400`, which overrides the
+    `font-light` / `font-extralight` classes on some icons. The weight axis is
+    therefore not actually in use, despite the `100..700` range in the request.
+
+- [ ] 📉 **LCP is still ~3.0 s on throttled mobile** (lab). Now dominated by the
+  hero `<h1>`, not by icons. Worth a look only if GSC **field** data agrees;
+  Lighthouse's simulated 4G is harsher than most real connections.
 - [ ] 🤖 **`llms.txt`** absent — optional, and ignored by Google. Backlog only.
 - [x] ℹ️ **FAQPage schema** on `/` and `/types` — Google retired FAQ rich results
   for all sites on 2026-05-07. No SERP feature anymore, but harmless and still
