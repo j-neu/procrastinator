@@ -1,0 +1,262 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Space+Grotesk:wght@500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+<style>
+  @page { size: 8.5in 11in; margin: 0.75in; }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #f3f3f1;
+    color: #17181a;
+    font-family: "Inter", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .eyebrow {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: {{PALETTE_DEEP}};
+    margin-bottom: 0.4in;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.4in;
+    margin-bottom: 0.32in;
+    break-inside: avoid;
+  }
+  .kicker {
+    font-family: "Space Mono", monospace;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    color: #66696e;
+    margin-bottom: 0.08in;
+  }
+  h1 {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.08;
+    letter-spacing: -0.01em;
+    margin: 0;
+    max-width: 4.9in;
+    color: #17181a;
+  }
+  .card-thumb {
+    width: 1.5in;
+    height: 1.5in;
+    object-fit: cover;
+    border-radius: 12px;
+    flex: none;
+    box-shadow: 0 3px 0 rgba(0,0,0,0.08);
+  }
+  .description {
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: #33363a;
+    max-width: 6.1in;
+    margin: 0 0 0.32in;
+  }
+  .start-here {
+    background: {{PALETTE_PRIMARY}};
+    color: #1a1c1e;
+    border-radius: 12px;
+    padding: 0.24in 0.32in;
+    margin-bottom: 0.36in;
+    break-inside: avoid;
+  }
+  .start-here .label {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.75;
+    margin-bottom: 0.05in;
+  }
+  .start-here .text {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 15.5px;
+    line-height: 1.4;
+  }
+  .divider {
+    height: 2px;
+    background: {{PALETTE_PRIMARY}};
+    opacity: 0.55;
+    margin-bottom: 0.36in;
+  }
+  .columns {
+    display: flex;
+    gap: 0.6in;
+    margin-bottom: 0.4in;
+  }
+  .col { flex: 1; }
+  .col h2 {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    color: {{PALETTE_DEEP}};
+    margin: 0 0 0.2in;
+  }
+  .col ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .col li {
+    font-size: 12.5px;
+    line-height: 1.45;
+    color: #292b2e;
+    padding-left: 0.2in;
+    position: relative;
+    margin-bottom: 0.16in;
+    break-inside: avoid;
+  }
+  .col li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.08in;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: {{PALETTE_PRIMARY}};
+  }
+  .related {
+    margin-bottom: 0.4in;
+  }
+  .related h2 {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: {{PALETTE_DEEP}};
+    margin: 0 0 0.06in;
+  }
+  .related .sub {
+    font-size: 12px;
+    color: #66696e;
+    margin: 0 0 0.22in;
+    max-width: 6in;
+  }
+  .related-item {
+    padding: 0.16in 0 0.16in 0.22in;
+    border-left: 2px solid {{PALETTE_PRIMARY}};
+    margin-bottom: 0.14in;
+    break-inside: avoid;
+  }
+  .related-item .name {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    color: #17181a;
+    margin-bottom: 0.04in;
+  }
+  .related-item .why {
+    font-size: 12px;
+    line-height: 1.5;
+    color: #4a4d51;
+    max-width: 5.8in;
+  }
+  .cta {
+    background: {{PALETTE_DEEP}};
+    color: #f5f4f0;
+    border-radius: 14px;
+    padding: 0.3in 0.36in;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.3in;
+    margin-bottom: 0.24in;
+    break-inside: avoid;
+  }
+  .cta-kicker {
+    font-family: "Space Mono", monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    opacity: 0.65;
+    margin-bottom: 0.06in;
+  }
+  .cta-title {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .cta-url {
+    font-family: "Space Mono", monospace;
+    font-size: 12px;
+    text-align: right;
+    opacity: 0.9;
+    white-space: nowrap;
+  }
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.3in;
+    font-family: "Space Mono", monospace;
+    font-size: 9px;
+    color: #86898e;
+    break-inside: avoid;
+  }
+</style>
+</head>
+<body>
+  <div class="eyebrow">Procrastitype &middot; Your Results, Explained</div>
+  <div class="header">
+    <div>
+      <div class="kicker">You are the</div>
+      <h1>{{TITLE}}</h1>
+    </div>
+    <img class="card-thumb" src="{{CARD_IMG_SRC}}" alt="" />
+  </div>
+  <p class="description">{{DESCRIPTION}}</p>
+
+  <div class="start-here">
+    <div class="label">Start here</div>
+    <div class="text">{{START_HERE}}</div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="columns">
+    <div class="col">
+      <h2>Strategies That Work For You</h2>
+      <ul>{{STRATEGIES_HTML}}</ul>
+    </div>
+    <div class="col">
+      <h2>Your Strengths</h2>
+      <ul>{{STRENGTHS_HTML}}</ul>
+    </div>
+  </div>
+
+  <div class="related">
+    <h2>Often Confused With</h2>
+    <p class="sub">These patterns overlap. If your result only half fits, it's worth reading about these too.</p>
+    {{RELATED_HTML}}
+  </div>
+
+  <div class="cta">
+    <div>
+      <div class="cta-kicker">Go deeper</div>
+      <div class="cta-title">{{BOOK_TITLE}} &middot; {{BOOK_PRICE_LABEL}}</div>
+    </div>
+    <div class="cta-url">{{BOOK_URL_DISPLAY}}</div>
+  </div>
+
+  <div class="footer">
+    <span>This is a self-report assessment, not a clinical diagnosis.</span>
+    <span>{{SITE_URL_DISPLAY}} &middot; retake the quiz at {{QUIZ_URL}}</span>
+  </div>
+</body>
+</html>

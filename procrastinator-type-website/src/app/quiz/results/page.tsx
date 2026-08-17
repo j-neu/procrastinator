@@ -313,24 +313,42 @@ export default function ResultsPage() {
           </div>
         </div>
 
-        {/* Workbook Launch Notification */}
+        {/* Results PDF email gate. Replaces the old "workbook is coming,
+            notify me" pitch -- that asked people to wait on a 31-day product
+            with no ship date, right next to a book they could already buy.
+            This delivers something immediately instead. */}
         <div className="p-6 sm:p-8 border border-osmo-border mb-12 bg-osmo-surface/50">
           {emailSubmitted ? (
             <div className="text-center py-4">
               <h3 className="text-xl font-display font-light text-osmo-text mb-3">
-                You're on the list
+                Your PDF is ready
               </h3>
-              <p className="text-sm text-osmo-muted font-light leading-relaxed max-w-md mx-auto">
-                We'll email you as soon as the {result.typeDetails.title} workbook is ready. No spam, just your personal toolkit.
+              <p className="text-sm text-osmo-muted font-light leading-relaxed max-w-md mx-auto mb-6">
+                Your {result.typeDetails.title} profile, strategies and strengths, saved as a one-page PDF.
               </p>
+              {(() => {
+                const book = getPayhipBook(result.primaryType);
+                if (!book) return null;
+                return (
+                  <a
+                    href={`/results-pdf/${book.cardSlug}.pdf`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    onClick={() => track('results_pdf_download', { type: result.primaryType })}
+                    className="inline-block px-8 py-3 bg-osmo-text border border-osmo-text rounded-full font-semibold text-osmo-bg transition-all duration-300 hover:bg-transparent hover:text-osmo-text"
+                  >
+                    Download Your PDF
+                  </a>
+                );
+              })()}
             </div>
           ) : (
             <>
               <h3 className="text-xl font-display font-light text-osmo-text mb-2">
-                The {result.typeDetails.title} Workbook Is Coming
+                Get Your Results as a PDF
               </h3>
               <p className="text-sm text-osmo-muted font-light leading-relaxed mb-6 max-w-lg">
-                A 31-day, research-backed workbook built specifically for your pattern. Be the first to know when it launches.
+                A one-page summary of your {result.typeDetails.title} profile, strategies and strengths, worth saving or printing. We'll email you occasional updates too, nothing spammy.
               </p>
               <form onSubmit={handleEmailSubmit} className="max-w-md">
                 <div className="flex flex-col gap-4">
@@ -350,7 +368,7 @@ export default function ResultsPage() {
                     disabled={isEmailSubmitting}
                     className="px-8 py-3 bg-osmo-text border border-osmo-text rounded-full font-semibold text-osmo-bg transition-all duration-300 hover:bg-transparent hover:text-osmo-text disabled:opacity-50 disabled:cursor-not-allowed"
                   >
-                    {isEmailSubmitting ? 'Signing up...' : 'Notify Me When It Launches'}
+                    {isEmailSubmitting ? 'Signing up...' : 'Get My PDF'}
                   </button>
                 </div>
               </form>

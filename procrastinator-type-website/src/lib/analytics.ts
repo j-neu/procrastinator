@@ -5,7 +5,8 @@ export type AnalyticsEvent =
   | 'quiz_complete'
   | 'share_click'
   | 'email_signup'
-  | 'workbook_click';
+  | 'workbook_click'
+  | 'results_pdf_download';
 
 type EventProps = Record<string, string | number | boolean | undefined>;
 
