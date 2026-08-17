@@ -2,8 +2,9 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import RelatedTypes from '@/components/RelatedTypes'
+import Byline from '@/components/Byline'
 import { getPayhipBook } from '@/lib/payhip-links'
-import { absoluteUrl, pageMetadata } from '@/lib/seo'
+import { absoluteUrl, authorJsonLd, pageMetadata } from '@/lib/seo'
 
 export const metadata = pageMetadata({
   path: '/types/avoidant-procrastinator',
@@ -22,8 +23,8 @@ const articleJsonLd = {
     'What avoidant procrastination is, the fear loop that drives it, and what actually works.',
   image: absoluteUrl('/share-cards/avoidance.png'),
   datePublished: '2026-08-03',
-  dateModified: '2026-08-03',
-  author: { '@type': 'Organization', name: 'Procrastitype' },
+  dateModified: '2026-08-17',
+  author: authorJsonLd,
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
   mainEntityOfPage: absoluteUrl('/types/avoidant-procrastinator'),
 }
@@ -76,6 +77,8 @@ export default function AvoidantProcrastinatorPage() {
               Avoidant Procrastination: <br />
               <span className="italic text-osmo-muted">You're Not Avoiding the Task. You're Avoiding the Fear.</span>
             </h1>
+
+            <Byline dateModified="2026-08-17" />
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               The email is written in your head. You've drafted it twenty times. You know exactly what to say. And yet you haven't sent it, because sending it means it exists, and existing means it can be judged. So you refresh your inbox instead, and hate yourself a little more.
             </p>

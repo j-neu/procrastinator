@@ -2,8 +2,9 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import RelatedTypes from '@/components/RelatedTypes'
+import Byline from '@/components/Byline'
 import { getPayhipBook } from '@/lib/payhip-links'
-import { absoluteUrl, pageMetadata } from '@/lib/seo'
+import { absoluteUrl, authorJsonLd, pageMetadata } from '@/lib/seo'
 
 export const metadata = pageMetadata({
   path: '/types/passive-procrastinator',
@@ -22,8 +23,8 @@ const articleJsonLd = {
     'What passive procrastination is, how it differs from strategic delay, and the systems that beat it.',
   image: absoluteUrl('/share-cards/passive.png'),
   datePublished: '2026-08-03',
-  dateModified: '2026-08-03',
-  author: { '@type': 'Organization', name: 'Procrastitype' },
+  dateModified: '2026-08-17',
+  author: authorJsonLd,
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
   mainEntityOfPage: absoluteUrl('/types/passive-procrastinator'),
 }
@@ -76,6 +77,8 @@ export default function PassiveProcrastinatorPage() {
               Passive Procrastination: <br />
               <span className="italic text-osmo-muted">You Didn't Choose This Delay. It Chose You.</span>
             </h1>
+
+            <Byline dateModified="2026-08-17" />
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               You wake up intending to work. You really do. Then the morning evaporates, the afternoon disappears into small tasks, and at 6 PM you're surprised to be where you are, again, with the deadline closer and nothing done. You don't have a fear story or a thrill story. You just keep losing the day.
             </p>

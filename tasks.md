@@ -437,16 +437,42 @@
 
 ### 🟠 Entity & authority (weakest scored dimension — 30/100)
 
-- [ ] 🆔 **Populate `sameAs` on Organization schema** — currently ships as an empty
-  array (`"sameAs":[]`), so there are zero entity-disambiguation signals. Add every
-  profile that exists (LinkedIn, YouTube, X, Reddit, Payhip).
-  → **Blocked on: which profiles actually exist?** A `TODO(seo)` marker is in
-  place at `src/app/layout.tsx` (`organizationJsonLd.sameAs`) — drop the URLs in.
-- [ ] 👤 **Add a named author with credentials + `Person` schema.** `author` is
-  currently `{"@type":"Organization"}` on all 7 type guides. For psychology content
-  a named human with a bio is both an E-E-A-T and an AI-citation signal.
-  → **Blocked on: whose name and what credentials?** Needs a real person and a
-  bio page; do not invent an author.
+- [~] 🆔 **Populate `sameAs` on Organization schema** — ⚠️ **nothing to populate
+  yet.** Confirmed with the owner 2026-08-17: **Procrastitype has no social
+  profiles.** `sameAs` stays `[]` deliberately; padding it with URLs that are not
+  profiles of this entity would be worse than leaving it empty. The `TODO(seo)` at
+  `src/app/layout.tsx` now records this. **Reopen when the first profile exists.**
+  This is still the highest-value field on that object: brand mentions correlate
+  ~3x more strongly with AI citations than backlinks.
+- [x] 👤 **Add a named author + `Person` schema** ✅ **DONE 2026-08-17.** Author is
+  **Jonathan Northwood** (`https://www.jnorthwood.com`, verified live; `www.` because
+  the bare domain 308-redirects there). Previously all 7 type guides and the blog
+  post credited `{"@type":"Organization"}`, which gave no human to attribute
+  psychology content to.
+  - Defined once as `AUTHOR` / `authorJsonLd` in `src/lib/seo.ts` rather than
+    repeated in 8 files.
+  - Also **visible on the page**, not just in markup: new `components/Byline.tsx`
+    renders "By Jonathan Northwood · Updated <date>" under each headline, sourced
+    from the same constant. Google's guidance treats visible authorship as the
+    stronger signal, and markup that claims an author the page never shows is
+    weaker than markup that matches the page.
+  - `organizationJsonLd.founder` now points at the same Person, so the brand and
+    the author resolve to one graph.
+  - Type guides' `dateModified` moved to 2026-08-17, which is honest: the
+    "Often Confused With" section was genuinely added that day. The blog post got
+    no content change, so **its date was deliberately left at 2026-08-03.**
+  - Verified in built HTML: Person author on all 8 articles, zero
+    `"author":{"@type":"Organization"}` left, and the visible `<time>` matches the
+    schema `dateModified` on every page.
+- [ ] 🎓 **Add author credentials + a bio page.** ⬅️ **the remaining half of the
+  E-E-A-T item.** The name is now in place but **no credentials or bio are
+  claimed**, because none were supplied and inventing expertise for psychology
+  content is not acceptable. What is needed is a short bio plus either a real
+  qualification or an explicit statement of relevant lived experience (the books
+  are written in a recovered-addict voice, which is itself a legitimate
+  experience claim if stated plainly).
+  → When that copy exists: add an author page, point `AUTHOR.url` at it, and keep
+  `jnorthwood.com` in the Person's `sameAs`.
 - [x] 📅 **Add `Article` schema to `/blog/why-you-procrastinate`** — see Phase 1.8  ✅ *(code done 2026-08-17)*
   (High). Without it the post has no `datePublished`/`dateModified`/`author` and is
   invisible to freshness scoring.

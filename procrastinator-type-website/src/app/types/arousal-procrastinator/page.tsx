@@ -2,8 +2,9 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import RelatedTypes from '@/components/RelatedTypes'
+import Byline from '@/components/Byline'
 import { getPayhipBook } from '@/lib/payhip-links'
-import { absoluteUrl, pageMetadata } from '@/lib/seo'
+import { absoluteUrl, authorJsonLd, pageMetadata } from '@/lib/seo'
 
 export const metadata = pageMetadata({
   path: '/types/arousal-procrastinator',
@@ -22,8 +23,8 @@ const articleJsonLd = {
     'What arousal procrastination is, why the last-minute rush is a trap, and what actually works.',
   image: absoluteUrl('/share-cards/arousal.png'),
   datePublished: '2026-08-03',
-  dateModified: '2026-08-03',
-  author: { '@type': 'Organization', name: 'Procrastitype' },
+  dateModified: '2026-08-17',
+  author: authorJsonLd,
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
   mainEntityOfPage: absoluteUrl('/types/arousal-procrastinator'),
 }
@@ -76,6 +77,8 @@ export default function ArousalProcrastinatorPage() {
               Arousal Procrastination: <br />
               <span className="italic text-osmo-muted">You're Not Lazy, You're Bored</span>
             </h1>
+
+            <Byline dateModified="2026-08-17" />
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               You know the feeling. The report is due Friday, you open the document on Tuesday, and your brain switches off. So you close it. And you'll do it Thursday night, at 11 PM, with a heartbeat you can feel in your ears. And you'll do it well. Maybe better than you would have on Tuesday.
             </p>

@@ -2,8 +2,9 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import RelatedTypes from '@/components/RelatedTypes'
+import Byline from '@/components/Byline'
 import { getPayhipBook } from '@/lib/payhip-links'
-import { absoluteUrl, pageMetadata } from '@/lib/seo'
+import { absoluteUrl, authorJsonLd, pageMetadata } from '@/lib/seo'
 
 export const metadata = pageMetadata({
   path: '/types/active-procrastinator',
@@ -22,8 +23,8 @@ const articleJsonLd = {
     'What active procrastination is, when the strategy is real, and when it is a costume for avoidance.',
   image: absoluteUrl('/share-cards/active.png'),
   datePublished: '2026-08-03',
-  dateModified: '2026-08-03',
-  author: { '@type': 'Organization', name: 'Procrastitype' },
+  dateModified: '2026-08-17',
+  author: authorJsonLd,
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
   mainEntityOfPage: absoluteUrl('/types/active-procrastinator'),
 }
@@ -76,6 +77,8 @@ export default function ActiveProcrastinatorPage() {
               Active Procrastination: <br />
               <span className="italic text-osmo-muted">Strategic Delay, or a Story You Tell Yourself?</span>
             </h1>
+
+            <Byline dateModified="2026-08-17" />
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               You tell people you work best under pressure, and honestly, the evidence agrees. You've aced exams started the night before. You've delivered projects that began in a panic. The delay feels less like a flaw and more like a tool. So is it a problem? The honest answer: sometimes yes.
             </p>

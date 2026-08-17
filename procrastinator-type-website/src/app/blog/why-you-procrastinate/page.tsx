@@ -1,7 +1,8 @@
 import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
+import Byline from '@/components/Byline'
 
-import { absoluteUrl, pageMetadata } from '@/lib/seo'
+import { absoluteUrl, authorJsonLd, pageMetadata } from '@/lib/seo'
 
 // Title deliberately carries no "| Procrastitype" suffix: the root layout's
 // title template appends it, and hardcoding it here produced a doubled brand.
@@ -20,7 +21,7 @@ const articleJsonLd = {
     'It is not laziness. It is an addiction to safety. The psychology of cognitive dismantling and how to break the cycle.',
   datePublished: '2026-08-03',
   dateModified: '2026-08-03',
-  author: { '@type': 'Organization', name: 'Procrastitype' },
+  author: authorJsonLd,
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
   mainEntityOfPage: absoluteUrl('/blog/why-you-procrastinate'),
 }
@@ -44,6 +45,7 @@ export default function WhyYouProcrastinate() {
               Why You Procrastinate: <br/>
               <span className="italic text-osmo-muted">It's Not Laziness. It's an Addiction to Relief.</span>
             </h1>
+            <Byline dateModified="2026-08-03" />
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               I know the feeling. The guilt, the dread, the 3 AM panic. Here is the actual science of why we do this to ourselves, and how Cognitive Dismantling can help us stop.
             </p>

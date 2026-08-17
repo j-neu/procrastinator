@@ -2,8 +2,9 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import RelatedTypes from '@/components/RelatedTypes'
+import Byline from '@/components/Byline'
 import { getPayhipBook } from '@/lib/payhip-links'
-import { absoluteUrl, pageMetadata } from '@/lib/seo'
+import { absoluteUrl, authorJsonLd, pageMetadata } from '@/lib/seo'
 
 export const metadata = pageMetadata({
   path: '/types/emotion-regulation-procrastinator',
@@ -22,8 +23,8 @@ const articleJsonLd = {
     'What emotion-regulation procrastination is, why the feeling never comes, and how to work with it.',
   image: absoluteUrl('/share-cards/emotion-regulation.png'),
   datePublished: '2026-08-03',
-  dateModified: '2026-08-03',
-  author: { '@type': 'Organization', name: 'Procrastitype' },
+  dateModified: '2026-08-17',
+  author: authorJsonLd,
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
   mainEntityOfPage: absoluteUrl('/types/emotion-regulation-procrastinator'),
 }
@@ -76,6 +77,8 @@ export default function EmotionRegulationProcrastinatorPage() {
               Emotion-Regulation Procrastination: <br />
               <span className="italic text-osmo-muted">"I Don't Feel Like It" Is Your Operating System</span>
             </h1>
+
+            <Byline dateModified="2026-08-17" />
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               The task is important. You know it's important. You agreed it's important, out loud, to another human. And still you don't do it, because right now, at this exact moment, you don't feel like it. So you wait for the mood to arrive. It never does.
             </p>

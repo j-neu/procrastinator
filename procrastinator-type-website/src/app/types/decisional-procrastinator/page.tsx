@@ -2,8 +2,9 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import RelatedTypes from '@/components/RelatedTypes'
+import Byline from '@/components/Byline'
 import { getPayhipBook } from '@/lib/payhip-links'
-import { absoluteUrl, pageMetadata } from '@/lib/seo'
+import { absoluteUrl, authorJsonLd, pageMetadata } from '@/lib/seo'
 
 export const metadata = pageMetadata({
   path: '/types/decisional-procrastinator',
@@ -22,8 +23,8 @@ const articleJsonLd = {
     'What decisional procrastination is, why the paralysis happens, and how to make decisions faster.',
   image: absoluteUrl('/share-cards/decisional.png'),
   datePublished: '2026-08-03',
-  dateModified: '2026-08-03',
-  author: { '@type': 'Organization', name: 'Procrastitype' },
+  dateModified: '2026-08-17',
+  author: authorJsonLd,
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
   mainEntityOfPage: absoluteUrl('/types/decisional-procrastinator'),
 }
@@ -76,6 +77,8 @@ export default function DecisionalProcrastinatorPage() {
               Decisional Procrastination: <br />
               <span className="italic text-osmo-muted">You're Not Stuck on the Work. You're Stuck on the Choice.</span>
             </h1>
+
+            <Byline dateModified="2026-08-17" />
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               The project is clear. The deadline is clear. The only unclear thing is which direction to take, so you keep gathering information, asking for opinions, waiting for a sign. The task never starts because the first step is a decision, and decisions feel like bets you can't afford to lose.
             </p>

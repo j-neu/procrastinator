@@ -24,6 +24,36 @@ export const absoluteUrl = (path: string) =>
   `${siteUrl}${path === '/' ? '' : path}`
 
 /**
+ * The person credited on the articles.
+ *
+ * Defined once here because it is referenced by the 7 type guides, the blog post
+ * and the Organization schema in the root layout. Previously every article
+ * credited `{ '@type': 'Organization', name: 'Procrastitype' }`, which gives
+ * search engines and AI systems no human to attribute psychology content to.
+ *
+ * `www.` is deliberate: the bare domain 308-redirects there, and schema should
+ * point at the URL that actually resolves.
+ *
+ * TODO(seo): no credentials or bio yet, so none are claimed. For psychology
+ * content a short bio plus a real qualification or a statement of relevant
+ * lived experience is the part that carries E-E-A-T weight. Do NOT invent one.
+ * When that copy exists, add an author page and point `AUTHOR.url` at it,
+ * keeping jnorthwood.com in `sameAs`.
+ */
+export const AUTHOR = {
+  name: 'Jonathan Northwood',
+  url: 'https://www.jnorthwood.com',
+} as const
+
+/** `author` node for Article/BlogPosting schema. */
+export const authorJsonLd = {
+  '@type': 'Person',
+  name: AUTHOR.name,
+  url: AUTHOR.url,
+  sameAs: [AUTHOR.url],
+} as const
+
+/**
  * Sitewide og:image fallback: the landscape 1200x630 brand card.
  *
  * Routes with a type-specific square card (the 7 type guides) pass their own

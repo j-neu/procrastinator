@@ -2,8 +2,9 @@ import Link from 'next/link'
 import SiteHeader from '@/components/SiteHeader'
 import SiteFooter from '@/components/SiteFooter'
 import RelatedTypes from '@/components/RelatedTypes'
+import Byline from '@/components/Byline'
 import { getPayhipBook } from '@/lib/payhip-links'
-import { absoluteUrl, pageMetadata } from '@/lib/seo'
+import { absoluteUrl, authorJsonLd, pageMetadata } from '@/lib/seo'
 
 export const metadata = pageMetadata({
   path: '/types/perfectionist-procrastinator',
@@ -22,8 +23,8 @@ const articleJsonLd = {
     'What perfectionist procrastination is, why impossible standards freeze you, and how to start anyway.',
   image: absoluteUrl('/share-cards/perfectionist.png'),
   datePublished: '2026-08-03',
-  dateModified: '2026-08-03',
-  author: { '@type': 'Organization', name: 'Procrastitype' },
+  dateModified: '2026-08-17',
+  author: authorJsonLd,
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
   mainEntityOfPage: absoluteUrl('/types/perfectionist-procrastinator'),
 }
@@ -76,6 +77,8 @@ export default function PerfectionistProcrastinatorPage() {
               Perfectionist Procrastination: <br />
               <span className="italic text-osmo-muted">"Perfect" Is the Most Expensive Word You Know</span>
             </h1>
+
+            <Byline dateModified="2026-08-17" />
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               You've been planning this project for months. The research is done, the folder is labeled, the vision is clear. And the document is still empty, because what you imagine is flawless and what you could actually type tonight is not. So you wait for a version of you that doesn't exist yet.
             </p>

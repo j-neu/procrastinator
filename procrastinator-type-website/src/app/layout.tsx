@@ -16,7 +16,7 @@ const spaceGrotesk = Space_Grotesk({
   display: "swap",
 });
 
-import { siteUrl } from "@/lib/seo";
+import { authorJsonLd, siteUrl } from "@/lib/seo";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -82,11 +82,19 @@ const organizationJsonLd = {
   logo: `${siteUrl}/window.svg`,
   description:
     "Science-backed procrastination type assessment, books and workbooks to help people understand and overcome their procrastination patterns.",
-  // TODO(seo): populate with every profile that exists (LinkedIn, YouTube, X,
-  // Reddit, Payhip). An empty array gives search + AI systems zero entity
-  // disambiguation signals, and brand mentions correlate ~3x more strongly with
-  // AI citations than backlinks. See tasks.md Phase 1.9.
+  // Confirmed with the owner on 2026-08-17: Procrastitype has no social profiles
+  // yet, so there is genuinely nothing to list here. Leave it empty rather than
+  // padding it with unrelated URLs -- `sameAs` means "another profile of THIS
+  // entity", and a wrong entry is worse than none.
+  //
+  // TODO(seo): add each profile as it is created (LinkedIn, YouTube, X, Reddit,
+  // Payhip). Brand mentions correlate ~3x more strongly with AI citations than
+  // backlinks, so this is the highest-value field on this object once populated.
+  // See tasks.md Phase 1.9.
   sameAs: [],
+  // Ties the brand to the named human who writes the articles, so the
+  // Organization and the Person in each article's schema resolve to one graph.
+  founder: authorJsonLd,
 };
 
 const websiteJsonLd = {
