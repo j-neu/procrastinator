@@ -240,6 +240,23 @@ export default function TypesPillarPage() {
                 </Link>{' '}
                 takes that one apart in detail.
               </p>
+              <p>
+                Two more pairs are worth reading side by side if the table left you undecided.{' '}
+                <Link
+                  href="/types/compare/arousal-vs-active-procrastination"
+                  className="text-osmo-neon-green hover:text-osmo-text transition-colors"
+                >
+                  Arousal vs active procrastination
+                </Link>{' '}
+                separates delay you chose from delay you wanted, and{' '}
+                <Link
+                  href="/types/compare/avoidant-vs-perfectionist-procrastination"
+                  className="text-osmo-neon-green hover:text-osmo-text transition-colors"
+                >
+                  avoidant vs perfectionist procrastination
+                </Link>{' '}
+                splits the two fear-driven patterns by where in the work they stop you.
+              </p>
             </section>
 
             <section id="the-types">

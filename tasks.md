@@ -648,6 +648,9 @@
   anything that is not the books, and never stage that file by accident.
   ⚠️ `tools/extract_articles.py` also drops untracked `*_page.md` files into
   `tools/lint_articles/`. Scratch output, do not commit.
+  🛑 **Never `rm -rf tools/lint_articles/`.** That folder also holds **tracked**
+  `chapter_01.md`-`chapter_08.md`. Delete only the `*_page.md` files it generated, or
+  recover with `git checkout -- tools/lint_articles/`.
 
 ### 🟠 Tier 1 — Type vs type comparison pages
 
@@ -674,23 +677,52 @@
     word ending in "ly" but was cheaper to reword than to document.
   - One rule-of-three flag is a documented **keep**: "impulsiveness, low
     conscientiousness, and task aversion" is Steel's actual finding, not padding.
-- [ ] 2️⃣ **Build "Arousal vs Active Procrastination"** (correlation 0.6, the hardest pair
-  to separate; frame the split as motive, and link the 0.6 claim to `/research`).
-- [ ] 3️⃣ **Build "Avoidant vs Perfectionist Procrastination"** (correlation 0.4, targets
-  `perfectionism vs procrastination`).
-- [ ] 🔤 **Open every page with a definition in the first 60 words**, before the hook.
-  ~44% of AI citations come from the first 30% of a page; the existing type guides open
-  with a hook and no definition (same gap as Phase 1.9 🔤).
-- [ ] 💬 **Add the one-line answer as a standalone pull-quote block** on each page. This is
-  the passage AI answers lift.
-- [ ] 🧭 **Route every new page through `pageMetadata()`** from `@/lib/seo`. Pages that
-  skip it inherit no self-referencing canonical and reintroduce the Phase 1.8 bug.
-- [ ] 👤 **Render `components/Byline.tsx`** on each page, with `dateModified` matching the
-  visible `<time>`.
-- [ ] 🏷️ **Add `Article` JSON-LD** per page using `authorJsonLd` from `src/lib/seo.ts`
-  (template in `comparison-schema.json`).
-- [ ] 🔗 **Add outbound links from each comparison page** to both type guides plus one
-  sibling comparison page.
+- [x] 2️⃣ **Build "Arousal vs Active Procrastination"** ✅ **DONE 2026-08-17.** 2,155 words.
+  The split is framed as **motive**, and the page is built around one diagnostic that no
+  competing article uses: *take the deadline away and watch what happens.* An active
+  procrastinator picks their own date, because a judgment survives the loss of pressure.
+  An arousal procrastinator loses the task entirely, because without pressure there is no
+  charge. Second form of the test: if a deadline moving a week later costs you the week,
+  the rush is running the schedule.
+  - ⚠️ **The 0.6 figure is stated as the assessment's own scoring value, not as a published
+    finding.** `TYPE_CORRELATIONS` in `lib/improved-quiz-scoring.ts` carries a code comment
+    saying "research shows ~0.6" with **no citation attached**, so the page says the quiz
+    models the link at 0.6 and links to `/research`. Do not upgrade that wording to "studies
+    show" without finding the source first.
+    ℹ️ The already-shipped `/types/active-procrastinator` guide **does** say "the research
+    puts the link around 0.6". Same unsourced claim, phrased less carefully. Worth softening
+    the next time that file is touched.
+  - Also states plainly that the "pressure improves performance" claim is weaker than its
+    popularity suggests: pressure removes the boredom, it does not add ability.
+- [x] 3️⃣ **Build "Avoidant vs Perfectionist Procrastination"** ✅ **DONE 2026-08-17.**
+  1,999 words, targeting `perfectionism vs procrastination`. The differentiator is
+  **where in the work the block sits**: avoidance stops you at the start and leaves blank
+  pages; perfectionism lets you start and stops you shipping, leaving drafts. The physical
+  test is "look at what your delay left behind."
+  - 🎯 **The contrarian section is the reason this page can win.** Nearly every competing
+    article asserts perfectionism causes procrastination. Steel (2007) found it a **weak**
+    predictor. The page states that, then resolves it with Hewitt and Flett's (1991)
+    multidimensional model: concern about others' expectations tracks with procrastination,
+    a high personal standard on its own mostly does not. That leads to advice the
+    competitors cannot give — if the standards are genuinely yours, lowering them is the
+    wrong repair.
+  - Closes on why the two fixes are **opposites**: avoidance needs the cost of *starting*
+    reduced, perfectionism needs the cost of *stopping* reduced. Applying the wrong one
+    actively backfires.
+- [x] 🔤 **Open every page with a definition in the first 60 words**, before the hook ✅
+  All three comparison pages now do. ~44% of AI citations come from the first 30% of a
+  page. ⚠️ Still **open** for the 7 type guides, which lead with a hook (Phase 1.9 🔤).
+- [x] 💬 **Add the one-line answer as a standalone pull-quote block** on each page ✅
+  This is the passage AI answers lift.
+- [x] 🧭 **Route every new page through `pageMetadata()`** ✅ Verified in the built HTML:
+  all three carry a self-referencing canonical and a single brand suffix.
+- [x] 👤 **Render `components/Byline.tsx`** on each page ✅ `dateModified` matches the
+  visible `<time>` and the byline links to `/about`.
+- [x] 🏷️ **Add `Article` JSON-LD** per page using `authorJsonLd` ✅ Each carries `about`
+  and `citation` nodes naming the papers it actually relies on.
+- [x] 🔗 **Add outbound links from each comparison page** to both type guides plus sibling
+  comparisons ✅ Verified: each new page has **4 inbound links** (pillar, both type guides,
+  and the active-vs-passive page, which gained sibling links in the same commit).
 - [x] 📊 **Add `placement: 'compare-page'`** to the `workbook_click` analytics event ✅
   **DONE 2026-08-17** via a new `components/BookLink.tsx`.
   ℹ️ **Found while building this:** the 7 type guides are server components, so their
@@ -700,7 +732,18 @@
   - [ ] 🔌 **Retrofit `BookLink` onto the 7 type guides** so guide conversions stop being
     invisible. Small, mechanical, and worth doing before reading any funnel numbers.
 - [x] 🗺️ **Add the new `/types/compare/*` routes to `src/app/sitemap.ts`.** ✅
-- [ ] 🧹 **Prose-lint all three pages** before shipping.
+- [x] 🧹 **Prose-lint all three pages** before shipping ✅ **0 banned, 0 AI tells, 0 em
+  dashes, 0 transition openers** across all three. Sentence-length CV 0.97 and 1.11, both
+  well clear of the ~0.5 that flags mechanical text.
+  - Fixed rather than kept: a weasel `very` on the perfectionist page (documented must-fix).
+  - **Documented keeps:** 4 `typography.symbols.curly_quotes` hits, which are proselint
+    asking for curly quotes around *straight* quoted speech. Straight quotes are what every
+    other page on the site uses, and this is already a recorded keep in PRODUCTION-PIPELINE.md.
+  - **One rule-of-three flag is not prose at all:** it is the Hewitt and Flett paper title
+    inside the JSON-LD `citation` block. Bibliographic, not padding.
+  - ℹ️ To lint a web page, `tools/prose_lint.py` only globs `chapter_*.md` / `finale*.md`,
+    so extracted pages must be **copied to a scratch dir and renamed `chapter_*.md`** first.
+    Run it with `--out` pointed at scratch too, or it clobbers the tracked root report.
 - [ ] ⏸️ **Decide on pages 4-7 only after 1-3 index** (emotion-regulation/avoidant 0.4,
   decisional/perfectionist 0.3, decisional/avoidant 0.3, passive/avoidant 0.2). Note
   `am I lazy or procrastinating` is the highest emotional-intensity query in the set
@@ -754,6 +797,73 @@
   than from the type guides (sharper intent).
 - [ ] 📊 **"Duplicate, Google chose different canonical" stays at zero** in GSC → Pages.
   Any new page skipping `pageMetadata()` will reintroduce it.
+
+## Phase 1.11: Brand mark & Ad Swap banner (planned 2026-08-17) 🪧
+
+> **What Ad Swap is:** https://ad-swap.web.app — a free reciprocal ad exchange for small
+> sites. You embed a sandboxed iframe that shows another member's ad; in exchange your ad
+> runs on theirs. Approval is gated on the embed being live and verified first.
+>
+> **Specs confirmed from the provider on 2026-08-17:**
+> | Item | Requirement |
+> |---|---|
+> | Logo | **Square** image, max **2 MB** |
+> | Tagline | one line, max **80 characters** |
+> | Embed | sandboxed `<iframe>` (`allow-scripts allow-popups`), or an optional script tag |
+> | Format | 300px card by default; `&shape=pill` gives a compact logo + name |
+> | Theme | auto-detects the visitor's system preference; `&theme=dark` / `&theme=light` force it |
+> | CSP | sites sending a CSP must allow `frame-src https://ad-swap.web.app` |
+>
+> ✅ **No CSP change needed here.** `next.config.ts` sends no `Content-Security-Policy`.
+> The `X-Frame-Options: SAMEORIGIN` it does send governs *this site being framed by
+> others*, not this site framing Ad Swap, so it is not a blocker either.
+
+### 🎨 The logo (blocks everything else in this phase)
+
+> ⚠️ **This is not only an ad asset.** Two existing gaps are waiting on the same file, so
+> design it once and spend it three times:
+> 1. `src/app/layout.tsx:82` sets the Organization schema `logo` to `${siteUrl}/window.svg`
+>    — the **stock Next.js template icon**, a grey #666 browser window. Every consumer of
+>    the Organization node (Google's knowledge panel included) is currently being handed
+>    boilerplate.
+> 2. `src/app/favicon.ico` is the **unmodified Next.js default**, untouched since the repo
+>    was scaffolded (Aug 2025).
+
+- [ ] 🎨 **Design a square brand mark.** Must read at ~48px (the pill format) as well as at
+  300px. Use the `osmo` palette already in `globals.css` so it matches the share cards.
+  ⚠️ Do **not** reuse a Material Symbols glyph: the 23-icon subset carries no licence to
+  redistribute a glyph as a standalone brand asset, and the per-type icons are already
+  spoken for on the homepage grid.
+- [ ] 🖼️ **Export the sizes.** SVG master, plus `512×512` and `192×192` PNG. Well under the
+  2 MB cap, so optimise for crispness, not weight.
+- [ ] 🏷️ **Point the Organization `logo` at the new file** in `layout.tsx`, replacing
+  `/window.svg`. Delete `public/window.svg` in the same commit if nothing else uses it
+  (a grep on 2026-08-17 found that line as the only reference).
+- [ ] ⭐ **Replace `src/app/favicon.ico`** and add the PNG icons.
+
+### 🪧 The Ad Swap listing itself
+
+- [ ] ✍️ **Tagline: "Find your procrastination type"** — 30 of the 80 characters allowed.
+  ℹ️ Corrected from the spelling supplied in the request ("proctrastination"). It is also
+  the one query family the site is actually built to answer, so it doubles as a keyword.
+- [ ] 🔌 **Embed the iframe** in `components/SiteFooter.tsx`, so it appears sitewide without
+  touching the quiz funnel.
+  ⚠️ Keep it **off `/quiz`**. A competing outbound click mid-assessment costs a
+  `quiz_complete`, which is the funnel step everything downstream depends on.
+- [ ] 📐 **Reserve the iframe's height in CSS** before it loads. An unsized iframe dropped
+  into the footer is a textbook CLS regression, and Phase 1.8 spent real effort getting
+  Core Web Vitals clean.
+- [ ] ⚡ **Set `loading="lazy"`** on the iframe. It is below the fold everywhere it renders.
+- [ ] 📤 **Submit the listing** (name, URL, tagline, logo) once the embed is live. Approval
+  is gated on their verifier seeing it, so the embed ships **before** the submission.
+- [ ] 📊 **Track outbound value, not just impressions.** Referral traffic from Ad Swap
+  should be judged on `quiz_start`, not sessions. A reciprocal network sends low-intent
+  traffic by construction, and sessions alone will flatter it.
+
+> ⚖️ **Reconsider if:** the served ads turn out to be low quality or off-topic. The banner
+> sits on a site selling €5 books on self-control; an ad for a get-rich scheme next to that
+> costs more trust than the reciprocal traffic is worth. Check what actually renders after
+> a week and pull it if the inventory is bad.
 
 ## Phase 2 (Revised): Cognitive Dismantling Ebooks (Pivot) 📚
 

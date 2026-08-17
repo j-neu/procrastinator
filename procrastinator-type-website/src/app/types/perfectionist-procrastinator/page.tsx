@@ -108,6 +108,17 @@ export default function PerfectionistProcrastinatorPage() {
                 Steel's 2007 meta-analysis frames it as task aversion. The task isn't a report. It's a mirror, and you're afraid of the reflection. Every failed start feels like confirmation, so you stop starting.
               </p>
               <p>
+                The overlap with avoidance is close enough that people regularly pick the wrong one.{' '}
+                <Link
+                  href="/types/compare/avoidant-vs-perfectionist-procrastination"
+                  className="text-osmo-neon-green hover:text-osmo-text transition-colors"
+                >
+                  Avoidant vs perfectionist procrastination
+                </Link>{' '}
+                splits them by where the work stops, and covers why the research on perfectionism as a cause is weaker
+                than most articles admit.
+              </p>
+              <p>
                 The maddening part is that perfectionism rarely produces perfection. It produces unfinished work. The best work you've ever seen was probably made by someone who shipped a version they hated, then fixed it in public. Shipping is a skill. Hiding is not.
               </p>
             </section>

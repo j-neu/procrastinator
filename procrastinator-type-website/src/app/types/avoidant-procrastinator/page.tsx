@@ -108,6 +108,17 @@ export default function AvoidantProcrastinatorPage() {
                 Sirois and Pychyl brought the modern layer in 2013. Procrastination is mood regulation. You don't run from the task. You run from the discomfort the task predicts. The avoidance works instantly, and that's exactly why it's so hard to quit. Nothing beats avoidance at making you feel better in the moment. The bill just arrives later.
               </p>
               <p>
+                The pattern next door is perfectionist procrastination, which runs on the same fear and blocks you at
+                the opposite end of the work.{' '}
+                <Link
+                  href="/types/compare/avoidant-vs-perfectionist-procrastination"
+                  className="text-osmo-neon-green hover:text-osmo-text transition-colors"
+                >
+                  Avoidant vs perfectionist procrastination
+                </Link>{' '}
+                explains how to tell them apart from what your unfinished work looks like.
+              </p>
+              <p>
                 The cruel part: the fear doesn't shrink while you avoid. It grows. Every day of delay adds guilt to the fear, and now the task feels even bigger. You're not waiting for the fear to pass. You're feeding it.
               </p>
             </section>

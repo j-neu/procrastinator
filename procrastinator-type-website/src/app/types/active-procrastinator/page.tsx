@@ -120,6 +120,16 @@ export default function ActiveProcrastinatorPage() {
               <p>
                 So the real question is not "is delay bad?" It's "who is driving: you or the rush?" When you decide the timing, you're active. When the timing decides you, you're in another pattern entirely.
               </p>
+              <p>
+                That question has its own page.{' '}
+                <Link
+                  href="/types/compare/arousal-vs-active-procrastination"
+                  className="text-osmo-neon-green hover:text-osmo-text transition-colors"
+                >
+                  Arousal vs active procrastination
+                </Link>{' '}
+                is the comparison to read if you have ever suspected the strategy was a story.
+              </p>
             </section>
 
             <section>

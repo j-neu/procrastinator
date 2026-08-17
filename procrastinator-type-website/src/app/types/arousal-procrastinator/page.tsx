@@ -109,6 +109,17 @@ export default function ArousalProcrastinatorPage() {
                 Steel's 2007 meta-analysis in Psychological Bulletin backs it up. Procrastination is impulsive behavior, and for this type, the impulse points toward stimulation. A spreadsheet gives you nothing. A midnight deadline gives you everything.
               </p>
               <p>
+                The pattern this gets mistaken for is active procrastination, where the delay is a decision about
+                timing rather than a hunt for the charge.{' '}
+                <Link
+                  href="/types/compare/arousal-vs-active-procrastination"
+                  className="text-osmo-neon-green hover:text-osmo-text transition-colors"
+                >
+                  Arousal vs active procrastination
+                </Link>{' '}
+                sets the two out side by side, along with the question that separates them.
+              </p>
+              <p>
                 But here is the catch, and it matters. You don't perform better because of the pressure. You perform better in spite of it, because the pressure finally outweighs the boredom. The ability was always there. The crisis just let it out.
               </p>
             </section>

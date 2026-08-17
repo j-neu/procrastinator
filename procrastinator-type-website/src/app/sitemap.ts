@@ -17,6 +17,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly" as const,
       priority: 0.8,
     },
+    {
+      path: "/types/compare/arousal-vs-active-procrastination",
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
+    {
+      path: "/types/compare/avoidant-vs-perfectionist-procrastination",
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
     { path: "/quiz", changeFrequency: "weekly" as const, priority: 0.9 },
     { path: "/workbooks", changeFrequency: "monthly" as const, priority: 0.7 },
     { path: "/research", changeFrequency: "monthly" as const, priority: 0.6 },

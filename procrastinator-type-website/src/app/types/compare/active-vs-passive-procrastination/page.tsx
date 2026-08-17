@@ -312,6 +312,19 @@ export default function ActiveVsPassivePage() {
                   </Link>{' '}
                   is where passive delay often turns out to be fear in disguise.
                 </li>
+                <li>
+                  <Link href="/types/compare/arousal-vs-active-procrastination" className="text-osmo-neon-green hover:text-osmo-text transition-colors">
+                    Arousal vs active procrastination
+                  </Link>{' '}
+                  is the harder version of this comparison, for people who delay and still deliver but are no longer
+                  sure the timing is their own.
+                </li>
+                <li>
+                  <Link href="/types/compare/avoidant-vs-perfectionist-procrastination" className="text-osmo-neon-green hover:text-osmo-text transition-colors">
+                    Avoidant vs perfectionist procrastination
+                  </Link>{' '}
+                  splits the two fear-driven patterns by where in the work they stop you.
+                </li>
               </ul>
             </section>
 
