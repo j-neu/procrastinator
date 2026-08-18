@@ -225,9 +225,12 @@ guide. That converts the table into the hub's primary internal-linking device.
 
 # TIER 3: "Best Procrastination Tests" Roundup
 
+> **Status: SHIPPED 2026-08-18.** `/blog/best-procrastination-tests`, 1,793 words, 6 tests
+> (LifeHack dropped, see below). See `tasks.md` Phase 1.10 Tier 3 for the full build log.
+
 **URL:** `/blog/best-procrastination-tests`
-**Title:** `7 Procrastination Tests Compared: Which One Is Worth Your Time`
-**Length:** 1,800 to 2,200 words
+**Title:** `6 Procrastination Tests Compared: Which Is Worth Your Time`
+**Length:** 1,800 to 2,200 words (shipped at 1,793 — reasonable given 6 tests, not 7)
 **Format:** Roundup with mandatory affiliation disclosure
 
 ## Mandatory disclosure
@@ -248,10 +251,14 @@ Place this above the table, not in a footer:
 | Liven | Not stated | ~3 min | 5 (Perfectionist, Dreamer, Avoider, Crisis-Maker, Overdoer) | Yes | Not stated | Sapadin-style framework |
 | Deepwrk | 9 | 2 to 3 min | 4 mechanism-based | Yes | No | Mechanisms cited, no named studies |
 | Freudly | 53 | ~10 min | Academic delay reasons | Yes | No | PASS questionnaire |
-| LifeHack | Not verified | Not verified | Not verified | Not verified | Not verified | Not verified |
 
-The LifeHack row is deliberately marked unverified rather than guessed. Either take that
-test and fill the row before publishing, or drop the row.
+**LifeHack was dropped, not filled in.** ✅ Decided 2026-08-18. Its quiz is fully
+client-rendered (a JS app that loads questions after the initial page load, nothing in the
+raw HTML), so it could not be completed and timed the way the other 6 were without browser
+automation, which wasn't available in that session. The shipped page explains the omission
+in its own Methodology section rather than silently dropping it, which turns the gap into a
+credibility point: it demonstrates the "every figure was actually checked" claim is real.
+Revisit only if it can be taken and timed properly.
 
 ## The honest differentiator to lead with
 

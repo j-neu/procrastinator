@@ -102,14 +102,14 @@
   },
 
   "tier3_roundup_itemlist": {
-    "_note": "itemListOrder is Unordered on purpose. The article does not rank the tests from best to worst, and claiming a descending quality order in markup that the page does not support would be inaccurate.",
+    "_note": "itemListOrder is Unordered on purpose. The article does not rank the tests from best to worst, and claiming a descending quality order in markup that the page does not support would be inaccurate. SHIPPED 2026-08-18 with 6 items, not 7: LifeHack was dropped rather than filled in with unverified figures, see COMPARISON-PAGE.md.",
     "@context": "https://schema.org",
     "@type": "ItemList",
     "name": "Procrastination Tests Compared",
-    "description": "Seven procrastination tests compared on length, types identified, cost, and research basis. Verified 2026-08-17.",
+    "description": "Six procrastination tests compared on length, types identified, cost, and research basis. Verified 2026-08-17.",
     "url": "https://procrastitype.jnorthwood.com/blog/best-procrastination-tests",
     "itemListOrder": "https://schema.org/ItemListUnordered",
-    "numberOfItems": 7,
+    "numberOfItems": 6,
     "itemListElement": [
       {
         "@type": "ListItem",
@@ -146,12 +146,6 @@
         "position": 6,
         "name": "Freudly Academic Procrastination Scale (PASS)",
         "url": "https://freudly.ai/tests/academic-procrastination-scale-pass/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "LifeHack Procrastination Quiz",
-        "url": "https://www.lifehack.org/tools/assessments/procrastination-quiz"
       }
     ]
   },
@@ -160,7 +154,7 @@
     "_note": "Pair this with the ItemList above on the same page.",
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "7 Procrastination Tests Compared: Which One Is Worth Your Time",
+    "headline": "6 Procrastination Tests Compared: Which Is Worth Your Time",
     "url": "https://procrastitype.jnorthwood.com/blog/best-procrastination-tests",
     "mainEntityOfPage": {
       "@type": "WebPage",

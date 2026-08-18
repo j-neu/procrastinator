@@ -32,6 +32,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: "/research", changeFrequency: "monthly" as const, priority: 0.6 },
     { path: "/about", changeFrequency: "monthly" as const, priority: 0.6 },
     { path: "/blog/why-you-procrastinate", changeFrequency: "monthly" as const, priority: 0.7 },
+    { path: "/blog/best-procrastination-tests", changeFrequency: "monthly" as const, priority: 0.7 },
     { path: "/privacy", changeFrequency: "yearly" as const, priority: 0.2 },
     { path: "/terms", changeFrequency: "yearly" as const, priority: 0.2 },
     { path: "/impressum", changeFrequency: "yearly" as const, priority: 0.2 },

@@ -29,7 +29,11 @@
 - [x] ✅ **NEW**: Uncertainty quantification and transparency in results
 - [x] ✅ **NEW**: Create shareable results with social media integration and modal sharing system
 - [x] ✅ Implement retake functionality (enhanced with cleanup)
-- [ ] 🔨 Add email delivery of detailed results
+- [x] 🔨 Add email delivery of detailed results ✅ **DONE 2026-08-17.** Not literally
+  emailed — email unlocks a one-page "your results, explained" PDF (`results-pdf/`),
+  with a Start Here callout and Often Confused With section not shown on the results
+  page itself. Counts as covering this item. See Phase 1.10-adjacent work in the commit
+  log (`ddc8109`) for full detail.
 
 ### Content Management
 - [x] ✅ **COMPLETED**: Detailed descriptions for each procrastination type (via enhanced scoring system)
@@ -532,19 +536,36 @@
   ceiling GEO play available**, and the data is already in your own database.
 - [ ] 📋 **Add a 7-type comparison table** on `/types` — the single most citable
   format AI answers lift wholesale, and it doesn't currently exist anywhere on the site.
-- [ ] 🔤 **Front-load definitional passages.** Pages open with a hook ("It's not
-  laziness…") but no `X is…` definition in the first 40–60 words. **~44% of AI
-  citations come from the first 30% of a page.** Keep the hook, add the definition
-  immediately after.
-- [ ] ❓ **Rewrite blog H2s as question-based headings.** `/blog/why-you-procrastinate`
-  uses narrative headings ("The Trigger", "The Addiction to Relief", "The 30-Day
-  Rewire") that match no query pattern. Type-page H2s are already fine — leave them.
+- [x] 🔤 **Front-load definitional passages.** ✅ **DONE 2026-08-18.** All 7 type
+  guides now carry a `<strong>[Type] procrastination</strong> is …` sentence directly
+  after the existing hook paragraph, still inside the header block (before the first
+  `<h2>`), so the hook is unchanged and the definition sits ahead of all body content.
+  Each definition names its research anchor (Ferrari 1991, Chu and Choi 2005, or
+  Sirois and Pychyl 2013) to match the FAQ/JSON-LD claims already on the page.
+  Verified present in all 7 built HTML files.
+- [x] ❓ **Rewrite blog H2s as question-based headings.** ✅ **DONE 2026-08-18.**
+  `/blog/why-you-procrastinate` headings rewritten: "Stop Calling Yourself Lazy" →
+  "Why Do I Procrastinate If I'm Not Lazy?", "The Mechanism: Why We Run" → "What
+  Actually Happens in Your Brain When You Procrastinate?" (its two H3s, "The Trigger"
+  and "The Addiction to Relief", → "What Triggers the Urge to Avoid a Task?" and "Why
+  Does Avoiding the Task Feel So Good?"), "The Solution: Cognitive Dismantling" → "How
+  Do You Actually Stop Procrastinating?", "We Are Not All the Same" → "Are There
+  Different Types of Procrastination?", "The 30-Day Rewire" → "How Long Does It Take
+  to Break the Procrastination Habit?". Body copy under each heading is unchanged.
+  Type-page H2s left alone as instructed.
 - [ ] 🎯 **Target 134–167 word self-contained answer blocks** in future content.
 
 ### 🟡 Multi-modal (25/100 — weakest raw score)
 
-- [ ] 🖼️ **Add inline images to type guides and the blog** — **zero `<img>` tags
-  exist sitewide.** Multi-modal content sees ~156% higher selection rates.
+- [x] 🖼️ **Add inline images to type guides and the blog** ✅ **DONE 2026-08-18.**
+  Each of the 7 type guides now has a `<figure>` with the type's existing 1080x1080
+  share-card PNG (`public/share-cards/<slug>.png`, already generated, already used as
+  `og:image`) placed right after the header block, before the first section. The blog
+  post uses the landscape `default.png` brand card the same way. All images carry
+  descriptive `alt`, explicit `width`/`height`, and `loading="lazy"` (they sit below
+  the hero text, not competing with it for LCP). Verified in built HTML: all 8 pages
+  now contain a real `<img src="/share-cards/...">`, where before this there were zero
+  `<img>` tags in any server-rendered content page.
 - [x] 🔗 **Wire up the share cards you already built** ✅ **DONE 2026-08-17**, see
   Phase 1.8 (High). All 18 routes now emit an `og:image`: the 7 type guides use their
   own square cards, everything else falls back to the new landscape `default.png`.
@@ -767,19 +788,48 @@
 > ~~**Blocked on:** author credentials (Phase 1.9 🎓).~~ ✅ **Unblocked 2026-08-17** —
 > `/about` now carries a plain lived-experience credential.
 
-- [ ] ✅ **Verify or drop the LifeHack row.** It is the one row marked unverified rather
-  than guessed. Take the test and fill it in, or remove the row.
-- [ ] ✍️ **Write the roundup** using the verified comparison table.
-- [ ] ⚖️ **Add the affiliation disclosure above the table**, not in a footer.
-- [ ] 📅 **Carry a visible "verified as of 2026-08-17" date** on the table.
-- [ ] 🎯 **Lead with the two defensible differentiators**, not accuracy claims: the quiz is
-  the only one on the list that reports a **secondary type**, and the only one that reports
-  a **confidence level** (and tracks neutral "none of the above" responses). Every
-  competing test returns a single label with no caveats.
-- [ ] 🏷️ **Add `ItemList` + `Article` JSON-LD** (ready in `comparison-schema.json`).
-  `itemListOrder` stays `Unordered` on purpose: the page does not rank the tests.
-- [ ] 🔁 **Set a quarterly re-verification reminder** for competitor figures (next:
-  2026-11-17).
+- [x] ✅ **Verify or drop the LifeHack row.** ✅ **DROPPED 2026-08-18.** LifeHack's quiz is
+  fully client-rendered (Next.js app, questions load after JS, no embedded data in the raw
+  HTML), so it could not be completed and timed the way the other 6 were without browser
+  automation, which wasn't available. Rather than guess the row, it was left out and the
+  omission is explained in the page's own Methodology section, framed as evidence the
+  page's verification claim is real. Roundup ships with **6 tests**, not 7.
+- [x] ✍️ **Write the roundup** ✅ **DONE 2026-08-18.** `/blog/best-procrastination-tests`,
+  1,793 words. Structure: what these tests can/cannot tell you, disclosure + comparison
+  table, the honest differentiator (secondary type + confidence level), one ~150-word
+  section per test, "which test to take" (3 scenarios, explicitly no single winner), a
+  methodology/disclosure section, quiz + books CTA.
+- [x] ⚖️ **Add the affiliation disclosure above the table** ✅ **DONE** — pull-quote block
+  immediately before the table, not in a footer, matching the spec exactly.
+- [x] 📅 **Carry a visible "verified as of 2026-08-17" date** ✅ **DONE**, directly under the
+  table and again in the Methodology section, with the next re-verification date (2026-11-17)
+  stated in the same paragraph.
+- [x] 🎯 **Lead with the two defensible differentiators** ✅ **DONE** — "The Honest
+  Differentiator" section states plainly that no accuracy claim is being made, then leads
+  with secondary type + confidence level as the two checkable facts.
+- [x] 🏷️ **Add `ItemList` + `Article` JSON-LD** ✅ **DONE**, adapted from
+  `comparison-schema.json` with `numberOfItems` corrected to 6 and the LifeHack `ListItem`
+  removed. `itemListOrder` stays `Unordered`. Verified in built HTML: self-referencing
+  canonical, both JSON-LD blocks present, "LifeHack" appears only in the Methodology prose
+  explaining the exclusion, not in the table or schema.
+  ⚠️ **No `FAQPage` added**, per the guardrail in `COMPARISON-PAGE.md` — not in the Tier 3
+  spec and Google retired FAQ rich results 2026-05-07.
+- [x] 🔁 **Set a quarterly re-verification reminder** ✅ Recorded in the page copy itself
+  (next: 2026-11-17), same date already tracked in the Tier 1 comparison pages.
+  ⚠️ **Re-verify LifeHack too at that check-in**, not just the 6 shipped rows — it may be
+  addable with real numbers by then if its markup changes or browser automation becomes
+  available.
+- [x] 🗺️ **Add `/blog/best-procrastination-tests` to `sitemap.ts`** ✅ Done alongside the
+  page, `monthly` / `0.7`, matching `/blog/why-you-procrastinate`.
+- [x] 🧹 **Prose-lint the page** ✅ **0 banned, 0 AI tells, 0 em dashes.** 6 hits were all
+  `typography.symbols.curly_quotes` (documented sitewide keep, straight quotes are the
+  house style) after fixing 3 real ones: three per-test paragraphs originally opened by
+  repeating their own `<h3>` heading verbatim ("IDR Labs" / "IDR Labs runs...", same for
+  Liven and Freudly), which the lint tool flagged as a lexical illusion and which was also
+  just weaker prose regardless of the tool. Reworded to not echo the heading. The single
+  rule-of-three flag is 5 factual enumerations (the 6 test names, the table's own column
+  list, 4 named academic scales) with no rhetorical padding, a documented keep matching the
+  precedent already set on the Tier 1 pages.
 
 ### 💶 Book pricing (supplied by owner 2026-08-17)
 
@@ -810,19 +860,21 @@
   second route. Removed, with a comment so it does not come back.
   ⚠️ **Check any remaining `document.title` before adding one.** The pattern is banned on
   this site: `pageMetadata()` owns the title.
-- [ ] 🚨 **`/workbooks` ships no content in its server HTML.** The whole page is
-  `'use client'` and reads `useSearchParams`, so it renders behind a `<Suspense>` fallback.
-  The built `workbooks.html` contains the loading spinner and **zero** occurrences of
-  "Cognitive Dismantling Books", the book grid, or the price. Verified in `.next/server/app`.
-  - Why it matters: the route is in the sitemap and is the only commercial page on the site.
-    Google does render JS, so this is a weakness rather than a total block, but it is the
-    page where server-rendered content is worth the most.
-  - Fix shape: the book grid needs no client state at all. Lift the static half into a
-    server component and keep only the email form and the `?type=` branch on the client.
-    `BookLink` already exists and covers the tracking, which was the original reason the
-    grid needed to be client-side.
-  - Not done in this pass because it is a refactor of a working commercial page, not a
-    mechanical edit, and it deserves its own commit.
+- [x] 🚨 **`/workbooks` ships no content in its server HTML.** ✅ **FIXED 2026-08-17.**
+  `page.tsx` is now a plain server component: headings, the book grid (7 cards via
+  `BookLink`, unchanged tracking) and the FAQ JSON-LD render into the static HTML.
+  Only the `?type=` quiz branch and the email form moved to a new client component,
+  `WorkbooksPanel.tsx`, wrapped in `<Suspense>` (required by `useSearchParams`).
+  - Verified in `.next/server/app/workbooks.html`: "Cognitive Dismantling Books", all
+    7 book titles, `Get the Book · €5` ×7, and the `FAQPage` JSON-LD are present in the
+    rendered body. Only the small panel (quiz-type callout + email form) still falls
+    back to a spinner until hydration reads the URL, which is the minimum unavoidable
+    client bit, not the whole page.
+  - One behavior change from the old version: the "Thanks for signing up" state used to
+    replace the *entire* page (book grid included). It now only replaces the panel, so
+    the book grid stays visible after signup. Deliberate. Keeps the commercial content
+    on screen instead of hiding it, and email signups aren't reading the grid anyway.
+  - `npm run build` passes clean, 34 routes.
 
 ### 📈 Leading indicators (watch without re-running an audit)
 
@@ -913,10 +965,8 @@
   embed's own inline style already fixes `width:300px;height:130px`, so the space is
   reserved before it loads regardless of where it's placed.
 - [x] ⚡ **Set `loading="lazy"`** ✅ Already present on the embed as supplied.
-- [ ] 📤 **Submit the listing** (name, URL, tagline, logo) once the embed is live. Approval
-  is gated on their verifier seeing it, so the embed ships **before** the submission.
-  ⚠️ **Still needs a deploy** — the verifier checks the live site, and this change is
-  only built locally so far.
+- [x] 📤 **Submit the listing** ✅ **DONE 2026-08-17.** Deployed, then submitted (name,
+  URL, tagline, logo) by the owner.
 - [ ] 📊 **Track outbound value, not just impressions.** Referral traffic from Ad Swap
   should be judged on `quiz_start`, not sessions. A reciprocal network sends low-intent
   traffic by construction, and sessions alone will flatter it.
@@ -1108,6 +1158,204 @@
 - [ ] 🔒 Secure user data handling
 - [ ] 🔒 Add SSL certificates and security headers
 - [ ] 🔒 Implement data retention policies
+
+## Phase 6: Break Free / cognitivedismantling.com SEO (planned 2026-08-18) 🪤
+
+> **Separate site, same author.** `cognitivedismantling.com` (Jonathan Northwood / JNProjects) sells
+> the **Break Free** book series on Amazon, applying the cognitive dismantling method to digital-age
+> compulsions (doomscrolling, social media, TikTok, shopping, dating apps, overwork, pornography, and
+> 5 more). Distinct product line from the Procrastitype cognitive dismantling books above, but same
+> method, same author, and the same SEO playbook that worked here applies there.
+>
+> Full plan (audit + competitive landscape + architecture + roadmap): **"The Break Free Playbook"**,
+> published as an artifact 2026-08-18. Built from a live crawl (robots.txt, sitemap, homepage, all 5
+> blog posts, `/books/`, `/method/`, `/about/`) plus open web search for competitive context — no
+> paid keyword-tool or analytics access, so volume/KPI figures in that plan are directional, not
+> measured.
+>
+> **Site snapshot at audit time:** 0 pages indexed (`site:cognitivedismantling.com` returns nothing),
+> 12 URLs total in the sitemap, 0 of the books have a dedicated landing page (all 7 "Available" titles
+> link straight to Amazon from one shared `/books/` list).
+>
+> ⚠️ **Confirmed via the Amazon KDP dashboard, same day:** **10 books are live**, not the 7 the website
+> marks "Available." `/books/` is stale relative to Amazon. The 3 that flipped from "coming soon" to
+> live: **Instagram, ADHD-Based Porn Addiction, Audiobook Addiction.** Only **YouTube** and **Reddit**
+> remain genuinely unpublished. `/books/` still showed 7/5 on a direct crawl after the correction —
+> it needs a manual update, it will not fix itself on its own.
+
+### 🚨 Critical — fix before anything else ships
+
+- [ ] 🚨 **Retitle `/blog/cognitive-dismantling-and-the-easyway-method/`** — its `<title>` and meta
+  description name "Allen Carr" and "Easyway" directly. This violates the same author's own
+  project-wide rule for the Procrastitype books (`PRODUCTION-PIPELINE.md`: never name the method or
+  its author, adapt the mechanism only). Rewrite both fields to describe the mechanism without the
+  proper nouns.
+- [ ] 🚨 **Rewrite the body of that post** to keep an honest "lineage" framing without naming Allen
+  Carr or Easyway, matching how the Procrastitype `/about` page handles the same constraint.
+- [x] 🚨 **Confirm which books are actually live on Amazon right now** ✅ **DONE 2026-08-18**, via the
+  Amazon KDP dashboard. 10 of 12 titles are live, all with 2 formats each: Doomscrolling, Social Media
+  Addiction, TikTok Addiction, Dating App Addiction, Internet Shopping Addiction, Overwork,
+  Pornography, Audiobook Addiction, ADHD-Based Porn Addiction, Instagram. Only YouTube and Reddit
+  remain unpublished.
+- [ ] 🚨 **Update `/books/`** to mark all 10 titles "Available" with their real Amazon links — the page
+  currently still lists Instagram, ADHD-Based Porn Addiction, and Audiobook Addiction as "coming soon."
+- [ ] 🚨 **Verify Google Search Console is set up and verified** for cognitivedismantling.com.
+- [ ] 🚨 **Verify Bing Webmaster Tools is set up** for cognitivedismantling.com.
+- [ ] 🚨 **Submit `sitemap-index.xml`** in both consoles if not already submitted — zero index presence
+  could mean "never submitted" rather than "submitted, not ranking," and the two have different fixes.
+- [ ] 🚨 **Request indexing** for the homepage, `/books/`, `/method/`, and all 5 existing blog posts
+  once Search Console access is confirmed.
+
+### 🏗️ Architecture — one landing page per book
+
+- [ ] 📁 **Create a `/books/[slug]/` route segment**, the direct structural analog of `/types/[slug]`
+  on Procrastitype.
+- [ ] 📝 **Write the page template**: definitional opening sentence (`[Compulsion] is…`) before the
+  voice-driven hook, a "what it looks like" section, the cue → craving → response → reward mechanism
+  walked through with detail specific to that compulsion (not generic advice), a "why willpower fails
+  here specifically" section, and a close with the Amazon buy link.
+- [ ] 🔗 **Add 2–3 related-topic links per page** to genuinely related books (e.g. dating apps ↔
+  social media, doomscrolling ↔ overwork-as-escape) — real pairings from the content, not arbitrary
+  cross-links.
+- [ ] 🔤 **Open every topic page with the plain definition before the hook** — same front-loading fix
+  already shipped on the 7 Procrastitype type guides.
+- [ ] 💬 **Add the one-line hook as a standalone pull-quote block** on each page (the site already has
+  strong one-liners per book — "The trap wears a bathrobe. Walk out of the store for good." — these
+  are the passage an AI answer would lift).
+- [ ] 🖼️ **Reuse the existing book cover art** (`/covers/[slug]/front.webp` etc., already built) as the
+  page's inline image — the site already has real cover art per title, unlike Procrastitype which had
+  to build share-cards from scratch.
+
+### 📄 Build the 10 confirmed-live topic pages, in priority order
+
+> Reordered 2026-08-18 to insert the 3 newly-confirmed titles. Instagram slots in near the top on
+> assumed search volume; ADHD-Based Porn Addiction sits next to Pornography as a natural companion
+> angle with less direct competition; Audiobook Addiction goes last as the narrowest, lowest-volume
+> topic in the series. Re-rank once real keyword data exists (see open questions below).
+
+- [ ] 1️⃣ **Build `/books/doomscrolling/`** — target term "how to stop doomscrolling", 1,000–1,200 words.
+- [ ] 2️⃣ **Build `/books/social-media/`** — target term "how to quit social media addiction", 1,000–1,200 words.
+- [ ] 3️⃣ **Build `/books/instagram/`** — target term "Instagram addiction", 900–1,100 words.
+- [ ] 4️⃣ **Build `/books/overwork/`** — target term "workaholism / work addiction signs", 900–1,100 words.
+- [ ] 5️⃣ **Build `/books/pornography/`** — target term "porn addiction recovery" (no-shame framing), 900–1,100 words.
+- [ ] 6️⃣ **Build `/books/adhd-porn/`** — target term "ADHD and porn addiction", 800–1,000 words. Keep
+  the same no-shame, mechanism-first framing as the Pornography page; cross-link the two.
+- [ ] 7️⃣ **Build `/books/dating-apps/`** — target term "dating app fatigue / addiction", 900–1,100 words.
+- [ ] 8️⃣ **Build `/books/tiktok/`** — target term "how to stop scrolling TikTok", 800–1,000 words.
+- [ ] 9️⃣ **Build `/books/shopping/`** — target term "compulsive online shopping", 800–1,000 words.
+- [ ] 🔟 **Build `/books/audiobook/`** — target term "audiobook escapism", 700–900 words. Narrowest
+  topic in the series; fine to run shorter.
+
+### 📄 The 2 titles still genuinely unpublished
+
+- [ ] ⏸️ **Do not build a page for YouTube or Reddit yet** — both remain "coming soon" on Amazon. A
+  landing page for a book that isn't purchasable is a dead end and reads as exactly the kind of
+  ahead-of-the-content thin page the Procrastitype guardrails warn against.
+- [ ] 📝 **Build `/books/youtube/`** once "Break Free from YouTube" actually ships.
+- [ ] 📝 **Build `/books/reddit/`** once "Break Free from Reddit" actually ships.
+
+### ✍️ Fix existing content (don't replace what's working)
+
+- [ ] ✏️ **Expand `/method/`** from ~400 words to a full walkthrough of all 4 mechanism steps with a
+  concrete example per step — every topic page will link back to it as the canonical explanation.
+- [ ] ✏️ **Expand `/blog/what-is-cognitive-dismantling/`** toward 900+ words; currently thin relative
+  to the site's own ambition and to the Procrastitype type guides it should match in depth.
+- [ ] 🚫 **Leave "The Little Monster" and "Why Willpower Always Loses" as short, voice-driven pieces**
+  — they work at their current length; don't pad them to hit a word-count target.
+
+### 🏗️ Rebuild `/books/` as a real hub page
+
+- [ ] 📋 **Rebuild `/books/`** from a flat card list into a hub: intro copy, a comparison table across
+  all live titles (direct reuse of the pillar-page pattern already proven on `/types`), then the
+  existing book grid.
+- [ ] 🔗 **Link every table row to its new `/books/[slug]/` page**, not straight to Amazon — the
+  Amazon link belongs on the topic page, not the hub.
+
+### 🏷️ Schema gaps to close
+
+- [ ] 🏷️ **Add a proper `Organization` JSON-LD node for "JNProjects"** with `logo` and `sameAs` — the
+  existing `Article` schema's `publisher` field already names this organization, but no node anywhere
+  defines it.
+- [ ] 🔗 **Point `Organization.founder` at the existing Jonathan Northwood `Person` node** so brand and
+  author resolve to one graph, matching the pattern already shipped on Procrastitype.
+- [ ] 🏷️ **Add `BreadcrumbList` schema sitewide** — currently absent on every page type.
+- [ ] 🏷️ **Add `Article` + `Book` schema to each new `/books/[slug]/` page.**
+- [ ] 🏷️ **Add `CollectionPage` + `ItemList` schema to the rebuilt `/books/` hub.**
+- [ ] 🏷️ **Add `ProfilePage` schema to `/about/`** — the `Person` node exists sitewide already, but the
+  page itself carries no page-level schema.
+
+### 🤖 GEO / AI-answer readiness
+
+- [ ] 🔤 **Front-load a plain definition in the first ~60 words** of every new topic page, before the
+  hook — ~44% of AI citations come from the first 30% of a page (same finding as Procrastitype).
+- [ ] 💬 **Lean on the named-concept device** ("the little monster," the loop steps) as a standalone,
+  quotable line per topic page — more citable than generic advice, and nothing in the competitive set
+  (clinical content or Amazon self-pub titles) uses this framing.
+- [ ] 🚫 **Skip `llms.txt` for now** — optional, and Google explicitly ignores it; not worth the effort
+  before the core topic pages exist.
+
+### ⚡ Technical
+
+- [ ] ⚡ **Confirm the actual framework/CMS** — trailing-slash URLs and Vercel hosting suggest a static
+  site generator (Astro-shaped), inferred from crawl behavior only, not source access. Confirm before
+  scoping the `/books/[slug]/` route work.
+- [ ] 📊 **Run a lab Lighthouse pass** once the 7 topic pages ship, using the reused-connection method
+  (single-connection curl or CrUX/GSC field data) — never isolated cold `curl` calls, which produced a
+  false TTFB alarm on Procrastitype.
+
+### 📅 14-week publishing cadence
+
+> Extended from 12 to 14 weeks 2026-08-18 to fit the 3 newly-confirmed titles without compressing
+> the human-review step for any page.
+
+- [ ] 📅 **Week 1**: ship the Allen Carr/Easyway retitle, the `/method/` expansion, and the `/books/`
+  Available/coming-soon correction.
+- [ ] 📅 **Weeks 2–3**: ship the Doomscrolling and Social Media Addiction topic pages, human-reviewed
+  before publish.
+- [ ] 📅 **Week 4**: ship the Instagram topic page.
+- [ ] 📅 **Weeks 5–6**: ship the Overwork and Pornography topic pages.
+- [ ] 📅 **Week 7**: ship the ADHD-Based Porn Addiction topic page, cross-linked with Pornography.
+- [ ] 📅 **Weeks 8–9**: ship the Dating Apps and TikTok topic pages.
+- [ ] 📅 **Week 10**: ship the Internet Shopping Addiction topic page.
+- [ ] 📅 **Week 11**: ship the Audiobook Addiction topic page; rebuild `/books/` as a hub linking all
+  10 live titles.
+- [ ] 📅 **Weeks 12–13**: expand the 2 thinnest existing blog posts; cross-link every topic page to the
+  5 blog posts and back.
+- [ ] 📅 **Week 14**: check indexing and impressions per topic page in GSC before deciding whether to
+  build pages for YouTube or Reddit.
+
+### 📣 Phase 3–4 (later, gated on Phase 1–2 evidence)
+
+- [ ] 📊 **Add original data if any exists** (reader survey results, common-trap patterns across the
+  series) once the core pages are live — same highest-ceiling GEO play identified for Procrastitype.
+- [ ] 🆚 **Consider 1–2 comparison posts** ("doomscrolling vs. social media addiction: same loop,
+  different cue") only once there's enough topic-page traffic to justify the internal-linking
+  investment.
+- [ ] 💬 **Evaluate a Reddit or newsletter presence** — this audience is arguably a more natural fit
+  for it than Procrastitype's audience was.
+- [ ] 📺 **Evaluate YouTube presence** once the "Break Free from YouTube" title ships, for the obvious
+  topical tie-in.
+
+### ❓ Open questions to resolve (not guessed at in this plan)
+
+- [ ] ❓ **Confirm GSC/Bing Webmaster Tools status** — unknown whether they were ever set up.
+- [ ] ❓ **Confirm the site's actual framework/CMS** from source access, not crawl inference.
+- [ ] ❓ **Assess Amazon-side signals** (reviews, sales rank, category ranking) — out of scope for the
+  owned-site plan above but a real, separate trust signal worth checking.
+- [ ] ❓ **Pull real keyword volume/difficulty data** (Search Console, Keyword Planner, or a paid tool)
+  to sharpen the topic-page priority order above, which is currently based on open search results only.
+- [ ] ❓ **Check who is actually writing this content** and sequence the 12-week cadence against
+  whatever else that person (likely the same author running Procrastitype) already has queued.
+
+### 📊 KPI targets (directional, not measured — baseline is effectively zero everywhere)
+
+| Metric | Baseline | 3 month | 6 month | 12 month |
+|---|---|---|---|---|
+| Indexed pages | 1–2 | 13–17 | 18–24 | 24+ |
+| Pages ranking top 50 for primary term | 0 | 2–3 | 5–7 | 7–10 |
+| Organic sessions / month | ~0 | 100–300 | 500–1,200 | 2,000–5,000 |
+| Amazon click-throughs from organic | 0 | tracked, low volume | meaningful signal | primary funnel metric |
+| AI Overview / answer-engine citations | 0 | 0–1 | 1–3 | 3–5 |
 
 ## Priority Levels
 
