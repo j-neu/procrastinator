@@ -52,10 +52,21 @@ export default function WhyYouProcrastinate() {
             </p>
           </div>
 
+          <figure className="mb-16">
+            <img
+              src="/share-cards/default.png"
+              alt="Procrastitype: find your procrastination type"
+              width={1200}
+              height={630}
+              loading="lazy"
+              className="w-full rounded-2xl border border-osmo-border"
+            />
+          </figure>
+
           <div className="prose prose-lg prose-invert max-w-none text-osmo-muted font-light leading-relaxed space-y-12">
-            
+
             <section>
-              <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">Stop Calling Yourself Lazy</h2>
+              <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">Why Do I Procrastinate If I'm Not Lazy?</h2>
               <p>
                 Let's get this out of the way immediately. If you were lazy, you'd be having a good time. You'd be on the couch, watching Netflix, without a care in the world.
               </p>
@@ -71,12 +82,12 @@ export default function WhyYouProcrastinate() {
             </section>
 
             <section>
-              <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">The Mechanism: Why We Run</h2>
+              <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">What Actually Happens in Your Brain When You Procrastinate?</h2>
               <p>
                 Here is what is actually happening in your brain. It's not magic, and it's not moral failure. It's a feedback loop.
               </p>
-              
-              <h3 className="text-xl font-medium text-osmo-text mt-8 mb-4">The Trigger</h3>
+
+              <h3 className="text-xl font-medium text-osmo-text mt-8 mb-4">What Triggers the Urge to Avoid a Task?</h3>
               <p>
                 You look at the Task. Maybe it's a tax return. Maybe it's a difficult email. Your brain's amygdala (the prehistoric part that looks for tigers) sees this Task and misidentifies it. It doesn't see "paperwork." It sees "Threat."
               </p>
@@ -84,7 +95,7 @@ export default function WhyYouProcrastinate() {
                 Why? Because the task makes you feel something you don't want to feel. Incompetent? Bored? Scared of judgment? That's the tiger.
               </p>
 
-              <h3 className="text-xl font-medium text-osmo-text mt-8 mb-4">The Addiction to Relief</h3>
+              <h3 className="text-xl font-medium text-osmo-text mt-8 mb-4">Why Does Avoiding the Task Feel So Good?</h3>
               <p>
                 So your brain hits the panic button. "Abort! Run away!" And you obey. You open Instagram. You clean the kitchen.
               </p>
@@ -100,7 +111,7 @@ export default function WhyYouProcrastinate() {
             </section>
 
             <section>
-              <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">The Solution: Cognitive Dismantling</h2>
+              <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">How Do You Actually Stop Procrastinating?</h2>
               <p>
                 Willpower doesn't work here. You can't out-willpower a tiger. If your brain thinks the task will kill you (emotionally), it will fight you every step of the way. And it will win.
               </p>
@@ -124,7 +135,7 @@ export default function WhyYouProcrastinate() {
             </section>
 
             <section className="bg-osmo-surface p-8 rounded-2xl border border-osmo-border my-12">
-              <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">We Are Not All the Same</h2>
+              <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">Are There Different Types of Procrastination?</h2>
               <p className="mb-6">
                 I used to read generic productivity advice and feel broken when it didn't work. "Eat the frog!" they said. Well, I tried to eat the frog and I just had a panic attack.
               </p>
@@ -170,7 +181,7 @@ export default function WhyYouProcrastinate() {
             </section>
 
             <section>
-              <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">The 30-Day Rewire</h2>
+              <h2 className="text-2xl md:text-3xl font-display font-medium text-osmo-text mb-6">How Long Does It Take to Break the Procrastination Habit?</h2>
               <p>
                 You can't think your way out of this. You have to act your way out. But you have to act <em>differently</em>.
               </p>

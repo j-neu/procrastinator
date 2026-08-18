@@ -83,7 +83,21 @@ export default function EmotionRegulationProcrastinatorPage() {
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               The task is important. You know it's important. You agreed it's important, out loud, to another human. And still you don't do it, because right now, at this exact moment, you don't feel like it. So you wait for the mood to arrive. It never does.
             </p>
+            <p className="text-lg text-osmo-muted font-light leading-relaxed mt-4">
+              <strong className="text-osmo-text font-medium">Emotion-regulation procrastination</strong> is the pattern of delaying a task until your mood allows it, prioritizing how you feel right now over what the task actually needs. Sirois and Pychyl (2013) framed it as a mood-repair strategy that works instantly and costs you later.
+            </p>
           </div>
+
+          <figure className="mb-16">
+            <img
+              src="/share-cards/emotion-regulation.png"
+              alt="Emotion-Regulation Procrastinator, one of the 7 Procrastitype patterns"
+              width={1080}
+              height={1080}
+              loading="lazy"
+              className="w-full max-w-sm mx-auto rounded-2xl border border-osmo-border"
+            />
+          </figure>
 
           <div className="prose prose-lg prose-invert max-w-none text-osmo-muted font-light leading-relaxed space-y-12">
             <section>

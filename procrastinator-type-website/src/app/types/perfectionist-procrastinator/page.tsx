@@ -83,7 +83,21 @@ export default function PerfectionistProcrastinatorPage() {
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               You've been planning this project for months. The research is done, the folder is labeled, the vision is clear. And the document is still empty, because what you imagine is flawless and what you could actually type tonight is not. So you wait for a version of you that doesn't exist yet.
             </p>
+            <p className="text-lg text-osmo-muted font-light leading-relaxed mt-4">
+              <strong className="text-osmo-text font-medium">Perfectionist procrastination</strong> is the pattern of delaying a task because anything short of flawless feels like proof you are not good enough, so not starting feels safer than starting badly. It runs on impossibly high personal standards, not laziness.
+            </p>
           </div>
+
+          <figure className="mb-16">
+            <img
+              src="/share-cards/perfectionist.png"
+              alt="Perfectionist Procrastinator, one of the 7 Procrastitype patterns"
+              width={1080}
+              height={1080}
+              loading="lazy"
+              className="w-full max-w-sm mx-auto rounded-2xl border border-osmo-border"
+            />
+          </figure>
 
           <div className="prose prose-lg prose-invert max-w-none text-osmo-muted font-light leading-relaxed space-y-12">
             <section>

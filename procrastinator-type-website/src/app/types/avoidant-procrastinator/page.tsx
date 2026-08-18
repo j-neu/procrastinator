@@ -83,7 +83,21 @@ export default function AvoidantProcrastinatorPage() {
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               The email is written in your head. You've drafted it twenty times. You know exactly what to say. And yet you haven't sent it, because sending it means it exists, and existing means it can be judged. So you refresh your inbox instead, and hate yourself a little more.
             </p>
+            <p className="text-lg text-osmo-muted font-light leading-relaxed mt-4">
+              <strong className="text-osmo-text font-medium">Avoidant procrastination</strong> is the pattern of delaying a task to escape the uncomfortable feeling it triggers, such as fear of failure, judgment, or even success. Ferrari (1991) linked it to anxiety and perfectionism rather than a lack of motivation.
+            </p>
           </div>
+
+          <figure className="mb-16">
+            <img
+              src="/share-cards/avoidance.png"
+              alt="Avoidant Procrastinator, one of the 7 Procrastitype patterns"
+              width={1080}
+              height={1080}
+              loading="lazy"
+              className="w-full max-w-sm mx-auto rounded-2xl border border-osmo-border"
+            />
+          </figure>
 
           <div className="prose prose-lg prose-invert max-w-none text-osmo-muted font-light leading-relaxed space-y-12">
             <section>

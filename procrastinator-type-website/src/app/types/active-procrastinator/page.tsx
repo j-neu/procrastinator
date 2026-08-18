@@ -83,7 +83,21 @@ export default function ActiveProcrastinatorPage() {
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               You tell people you work best under pressure, and honestly, the evidence agrees. You've aced exams started the night before. You've delivered projects that began in a panic. The delay feels less like a flaw and more like a tool. So is it a problem? The honest answer: sometimes yes.
             </p>
+            <p className="text-lg text-osmo-muted font-light leading-relaxed mt-4">
+              <strong className="text-osmo-text font-medium">Active procrastination</strong> is the pattern of delaying a task on purpose, while staying in control of the timing and still delivering good work. Chu and Choi (2005) were the first to show that some delay is intentional and adaptive rather than dysfunctional.
+            </p>
           </div>
+
+          <figure className="mb-16">
+            <img
+              src="/share-cards/active.png"
+              alt="Active Procrastinator, one of the 7 Procrastitype patterns"
+              width={1080}
+              height={1080}
+              loading="lazy"
+              className="w-full max-w-sm mx-auto rounded-2xl border border-osmo-border"
+            />
+          </figure>
 
           <div className="prose prose-lg prose-invert max-w-none text-osmo-muted font-light leading-relaxed space-y-12">
             <section>

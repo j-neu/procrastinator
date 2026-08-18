@@ -83,7 +83,21 @@ export default function ArousalProcrastinatorPage() {
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               You know the feeling. The report is due Friday, you open the document on Tuesday, and your brain switches off. So you close it. And you'll do it Thursday night, at 11 PM, with a heartbeat you can feel in your ears. And you'll do it well. Maybe better than you would have on Tuesday.
             </p>
+            <p className="text-lg text-osmo-muted font-light leading-relaxed mt-4">
+              <strong className="text-osmo-text font-medium">Arousal procrastination</strong> is the pattern of delaying a task until the deadline supplies enough pressure to make starting feel necessary. Named by Ferrari (1991), it is driven by a need for stimulation, not a lack of discipline.
+            </p>
           </div>
+
+          <figure className="mb-16">
+            <img
+              src="/share-cards/arousal.png"
+              alt="Arousal Procrastinator, one of the 7 Procrastitype patterns"
+              width={1080}
+              height={1080}
+              loading="lazy"
+              className="w-full max-w-sm mx-auto rounded-2xl border border-osmo-border"
+            />
+          </figure>
 
           <div className="prose prose-lg prose-invert max-w-none text-osmo-muted font-light leading-relaxed space-y-12">
             <section>

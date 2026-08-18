@@ -83,7 +83,21 @@ export default function PassiveProcrastinatorPage() {
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               You wake up intending to work. You really do. Then the morning evaporates, the afternoon disappears into small tasks, and at 6 PM you're surprised to be where you are, again, with the deadline closer and nothing done. You don't have a fear story or a thrill story. You just keep losing the day.
             </p>
+            <p className="text-lg text-osmo-muted font-light leading-relaxed mt-4">
+              <strong className="text-osmo-text font-medium">Passive procrastination</strong> is the pattern of delaying tasks without deciding to, through disorganization and a poor sense of how long things take, rather than through fear or strategy. Chu and Choi (2005) distinguished it from the active pattern below.
+            </p>
           </div>
+
+          <figure className="mb-16">
+            <img
+              src="/share-cards/passive.png"
+              alt="Passive Procrastinator, one of the 7 Procrastitype patterns"
+              width={1080}
+              height={1080}
+              loading="lazy"
+              className="w-full max-w-sm mx-auto rounded-2xl border border-osmo-border"
+            />
+          </figure>
 
           <div className="prose prose-lg prose-invert max-w-none text-osmo-muted font-light leading-relaxed space-y-12">
             <section>

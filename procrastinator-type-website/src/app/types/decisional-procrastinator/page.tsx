@@ -83,7 +83,21 @@ export default function DecisionalProcrastinatorPage() {
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               The project is clear. The deadline is clear. The only unclear thing is which direction to take, so you keep gathering information, asking for opinions, waiting for a sign. The task never starts because the first step is a decision, and decisions feel like bets you can't afford to lose.
             </p>
+            <p className="text-lg text-osmo-muted font-light leading-relaxed mt-4">
+              <strong className="text-osmo-text font-medium">Decisional procrastination</strong> is the pattern of delaying a task because you cannot commit to the choice that starts it, not because the work itself is hard. Ferrari (1991) treated it as a third pillar alongside arousal and avoidance.
+            </p>
           </div>
+
+          <figure className="mb-16">
+            <img
+              src="/share-cards/decisional.png"
+              alt="Decisional Procrastinator, one of the 7 Procrastitype patterns"
+              width={1080}
+              height={1080}
+              loading="lazy"
+              className="w-full max-w-sm mx-auto rounded-2xl border border-osmo-border"
+            />
+          </figure>
 
           <div className="prose prose-lg prose-invert max-w-none text-osmo-muted font-light leading-relaxed space-y-12">
             <section>
