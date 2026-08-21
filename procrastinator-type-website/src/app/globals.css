@@ -16,7 +16,8 @@
   
   --color-osmo-neon-green: #CCFF00;
   --color-osmo-electric-purple: #6633FF;
-  
+  --color-chart-accent: var(--chart-accent);
+
   --background-image-grid-pattern: var(--grid-pattern);
 }
 
@@ -29,6 +30,12 @@
   --text-muted: #888888;
   --accent-color: #cccccc;
   --grid-pattern: linear-gradient(to right, #262626 1px, transparent 1px), linear-gradient(to bottom, #262626 1px, transparent 1px);
+  /* Chart bar fill. Same hue family as osmo-neon-green, but the flat
+     #CCFF00 fails contrast against a light surface (~1.1:1, invisible on
+     white) so light mode gets a darkened step of the same hue instead
+     (5.3-5.9:1 against the light surfaces). Verified with the dataviz
+     skill's contrast() check; do not swap this back to the flat neon green. */
+  --chart-accent: #CCFF00;
 }
 
 [data-theme='light'],
@@ -41,6 +48,7 @@
   --text-muted: #666666;
   --accent-color: #111111;
   --grid-pattern: linear-gradient(to right, #e5e5e5 1px, transparent 1px), linear-gradient(to bottom, #e5e5e5 1px, transparent 1px);
+  --chart-accent: #5c6b00;
 }
 
 [data-theme='dark'],
@@ -52,6 +60,7 @@
   --text-muted: #888888;
   --accent-color: #cccccc;
   --grid-pattern: linear-gradient(to right, #262626 1px, transparent 1px), linear-gradient(to bottom, #262626 1px, transparent 1px);
+  --chart-accent: #CCFF00;
 }
 
 /* Utilities */

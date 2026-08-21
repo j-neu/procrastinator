@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 import ShareButton from '../../../components/ShareButton';
 import ShareCard from '../../../components/ShareCard';
 import { QuizResult } from '../../../lib/quiz-data';
@@ -240,6 +241,13 @@ export default function ResultsPage() {
                   </div>
                 );
               })()}
+
+              <Link
+                href="/stats"
+                className="text-xs text-osmo-muted hover:text-osmo-text underline underline-offset-4 transition-colors"
+              >
+                See how common your type is
+              </Link>
             </div>
           </div>
         </div>

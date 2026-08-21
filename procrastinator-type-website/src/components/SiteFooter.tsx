@@ -17,6 +17,7 @@ export default function SiteFooter() {
           <Link className="hover:text-osmo-text transition-colors" href="/types">Types</Link>
           <Link className="hover:text-osmo-text transition-colors" href="/blog/why-you-procrastinate">Blog</Link>
           <Link className="hover:text-osmo-text transition-colors" href="/research">Research</Link>
+          <Link className="hover:text-osmo-text transition-colors" href="/stats">Stats</Link>
           <Link className="hover:text-osmo-text transition-colors" href="/about">About</Link>
           <Link className="hover:text-osmo-text transition-colors" href="/workbooks">Workbooks</Link>
           <Link className="hover:text-osmo-text transition-colors" href="/privacy">Privacy</Link>
