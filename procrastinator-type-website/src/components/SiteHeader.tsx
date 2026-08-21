@@ -11,9 +11,11 @@ export interface SiteHeaderLink {
 
 interface SiteHeaderProps {
   links?: SiteHeaderLink[];
+  /** Always render the hamburger dropdown, even on desktop, instead of the inline nav row. */
+  alwaysHamburger?: boolean;
 }
 
-export default function SiteHeader({ links = [] }: SiteHeaderProps) {
+export default function SiteHeader({ links = [], alwaysHamburger = false }: SiteHeaderProps) {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
@@ -23,7 +25,7 @@ export default function SiteHeader({ links = [] }: SiteHeaderProps) {
           <div className="size-3 bg-osmo-text rounded-full group-hover:scale-125 transition-transform duration-500"></div>
           <span className="font-display font-medium tracking-wide text-sm uppercase">Procrastitype</span>
         </Link>
-        {links.length > 0 && (
+        {links.length > 0 && !alwaysHamburger && (
           <nav className="hidden md:flex items-center gap-12">
             {links.map((link) => (
               <a
@@ -38,12 +40,14 @@ export default function SiteHeader({ links = [] }: SiteHeaderProps) {
         )}
         <div className="flex items-center gap-6">
           <ThemeToggle />
-          <Link href="/quiz" className="hidden md:flex items-center gap-2 group">
-            <span className="text-xs font-medium uppercase tracking-widest group-hover:mr-2 transition-all duration-300">Start Assessment</span>
-            <span className="material-symbols-outlined text-[16px] group-hover:translate-x-1 transition-transform">arrow_forward</span>
-          </Link>
+          {!alwaysHamburger && (
+            <Link href="/quiz" className="hidden md:flex items-center gap-2 group">
+              <span className="text-xs font-medium uppercase tracking-widest group-hover:mr-2 transition-all duration-300">Start Assessment</span>
+              <span className="material-symbols-outlined text-[16px] group-hover:translate-x-1 transition-transform">arrow_forward</span>
+            </Link>
+          )}
           <button
-            className="md:hidden flex items-center justify-center"
+            className={alwaysHamburger ? 'flex items-center justify-center' : 'md:hidden flex items-center justify-center'}
             onClick={() => setMenuOpen(!menuOpen)}
             aria-label={menuOpen ? 'Close menu' : 'Open menu'}
             aria-expanded={menuOpen}
@@ -54,7 +58,7 @@ export default function SiteHeader({ links = [] }: SiteHeaderProps) {
       </div>
 
       {menuOpen && (
-        <div className="md:hidden border-t border-osmo-border bg-osmo-bg/95 backdrop-blur-md animate-fadeIn">
+        <div className={alwaysHamburger ? 'border-t border-osmo-border bg-osmo-bg/95 backdrop-blur-md animate-fadeIn' : 'md:hidden border-t border-osmo-border bg-osmo-bg/95 backdrop-blur-md animate-fadeIn'}>
           <div className="osmo-container py-6 flex flex-col gap-1">
             {links.map((link) => (
               <a

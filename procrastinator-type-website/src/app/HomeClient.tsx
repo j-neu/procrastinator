@@ -97,11 +97,17 @@ export default function Home() {
 
   return (
     <div className="relative min-h-screen w-full flex flex-col bg-osmo-bg text-osmo-text transition-colors duration-500">
-      <SiteHeader links={[
-        { href: '#problem', label: 'The Problem' },
-        { href: '#types', label: 'Archetypes' },
-        { href: '#references', label: 'Science' },
-      ]} />
+      <SiteHeader
+        alwaysHamburger
+        links={[
+          { href: '/types', label: 'Types' },
+          { href: '/blog/why-you-procrastinate', label: 'Blog' },
+          { href: '/research', label: 'Research' },
+          { href: '/stats', label: 'Stats' },
+          { href: '/about', label: 'About' },
+          { href: '/workbooks', label: 'Workbooks' },
+        ]}
+      />
 
       <main className="flex-1 pt-32">
         {/* Hero Section */}
