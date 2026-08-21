@@ -49,7 +49,9 @@ export default function ResultsPage() {
           trackQuizCompletion(
             parsedImprovedResult.primaryType,
             parsedImprovedResult.secondaryType,
-            parsedImprovedResult.confidenceLevel
+            parsedImprovedResult.confidenceLevel,
+            parsedImprovedResult.typeDetails?.likelihood,
+            parsedImprovedResult.noneOfAbovePercentage
           );
         } else {
           // Track quiz completion (original version)
@@ -66,7 +68,13 @@ export default function ResultsPage() {
     setLoading(false);
   }, [router]);
 
-  const trackQuizCompletion = async (primaryType: string, secondaryType?: string, confidence?: string) => {
+  const trackQuizCompletion = async (
+    primaryType: string,
+    secondaryType?: string,
+    confidence?: string,
+    matchStrength?: number,
+    neutralResponseRate?: number
+  ) => {
     try {
       // Check if we've already tracked this completion
       const tracked = localStorage.getItem('quizCompletionTracked');
@@ -80,7 +88,9 @@ export default function ResultsPage() {
         body: JSON.stringify({
           primaryType,
           secondaryType,
-          confidence
+          confidence,
+          matchStrength,
+          neutralResponseRate
         }),
       });
 

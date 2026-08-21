@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { pageMetadata } from '@/lib/seo';
 import { getQuizStats } from '@/lib/quiz-stats';
 import TypeDistributionChart from '@/components/TypeDistributionChart';
-import ConfidenceMeterChart from '@/components/ConfidenceMeterChart';
+import ConfidencePieChart from '@/components/ConfidencePieChart';
 import DayOfWeekColumns from '@/components/DayOfWeekColumns';
 
 export const metadata = pageMetadata({
@@ -17,8 +17,14 @@ export const metadata = pageMetadata({
 export const revalidate = 300;
 
 export default async function StatsPage() {
-  const { typeDistribution, confidenceDistribution, secondaryTypeDistribution, dayOfWeekDistribution } =
-    await getQuizStats();
+  const {
+    typeDistribution,
+    confidenceDistribution,
+    secondaryTypeDistribution,
+    dayOfWeekDistribution,
+    avgMatchStrength,
+    avgNeutralResponseRate,
+  } = await getQuizStats();
   const topType = typeDistribution[0];
 
   return (
@@ -68,7 +74,27 @@ export default async function StatsPage() {
             a single pattern was dominant; medium or low means the answers were split across two
             or three patterns, which the quiz treats as a blend rather than a single type.
           </p>
-          <ConfidenceMeterChart data={confidenceDistribution} />
+          <ConfidencePieChart data={confidenceDistribution} />
+          {(avgMatchStrength !== null || avgNeutralResponseRate !== null) && (
+            <div className="grid grid-cols-2 gap-6 mt-10 max-w-md mx-auto">
+              {avgMatchStrength !== null && (
+                <div>
+                  <div className="text-4xl font-display font-light text-osmo-text">{avgMatchStrength}%</div>
+                  <p className="text-sm text-osmo-muted font-light mt-1">
+                    average match strength for the top result
+                  </p>
+                </div>
+              )}
+              {avgNeutralResponseRate !== null && (
+                <div>
+                  <div className="text-4xl font-display font-light text-osmo-text">{avgNeutralResponseRate}%</div>
+                  <p className="text-sm text-osmo-muted font-light mt-1">
+                    of answers marked &quot;none of the above&quot;, on average
+                  </p>
+                </div>
+              )}
+            </div>
+          )}
         </section>
 
         <section className="mb-16">

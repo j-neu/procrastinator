@@ -36,6 +36,16 @@ export interface QuizStats {
    * lowest day, not an end-of-week extreme).
    */
   dayOfWeekDistribution: TypeDistributionEntry[];
+  /**
+   * Average of typeDetails.likelihood across completions that have it (the
+   * original quiz doesn't compute one). Rounded whole percent.
+   */
+  avgMatchStrength: number | null;
+  /**
+   * Average of noneOfAbovePercentage across completions that have it.
+   * Rounded whole percent.
+   */
+  avgNeutralResponseRate: number | null;
 }
 
 // Canonical display names, matching the /types pillar (src/app/types/page.tsx),
@@ -96,6 +106,10 @@ export async function getQuizStats(): Promise<QuizStats> {
   let confidenceTotal = 0;
   let secondaryTotal = 0;
   let dayTotal = 0;
+  let matchStrengthSum = 0;
+  let matchStrengthCount = 0;
+  let neutralResponseSum = 0;
+  let neutralResponseCount = 0;
 
   try {
     if (!process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL || !process.env.GOOGLE_PRIVATE_KEY || !process.env.GOOGLE_SHEET_ID) {
@@ -124,6 +138,8 @@ export async function getQuizStats(): Promise<QuizStats> {
         const secondary = row.get('Secondary Type');
         const confidence = row.get('Confidence');
         const timestamp = row.get('Timestamp');
+        const matchStrength = row.get('Match Strength');
+        const neutralResponseRate = row.get('Neutral Response Rate');
 
         if (primary && Object.prototype.hasOwnProperty.call(typeCounts, primary)) {
           typeCounts[primary] += 1;
@@ -144,6 +160,14 @@ export async function getQuizStats(): Promise<QuizStats> {
             dayTotal += 1;
           }
         }
+        if (matchStrength !== '' && matchStrength != null && !Number.isNaN(Number(matchStrength))) {
+          matchStrengthSum += Number(matchStrength);
+          matchStrengthCount += 1;
+        }
+        if (neutralResponseRate !== '' && neutralResponseRate != null && !Number.isNaN(Number(neutralResponseRate))) {
+          neutralResponseSum += Number(neutralResponseRate);
+          neutralResponseCount += 1;
+        }
       }
     }
   } catch (error) {
@@ -163,5 +187,7 @@ export async function getQuizStats(): Promise<QuizStats> {
       title: label,
       percentage: dayTotal > 0 ? Math.round((dayCounts[index] / dayTotal) * 100) : 0,
     })),
+    avgMatchStrength: matchStrengthCount > 0 ? Math.round(matchStrengthSum / matchStrengthCount) : null,
+    avgNeutralResponseRate: neutralResponseCount > 0 ? Math.round(neutralResponseSum / neutralResponseCount) : null,
   };
 }
