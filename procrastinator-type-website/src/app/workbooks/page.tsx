@@ -66,14 +66,21 @@ export default function WorkbooksPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {Object.entries(PAYHIP_BOOKS).map(([typeKey, bookEntry]) => (
               <div key={typeKey} className="bg-osmo-surface rounded-lg border border-osmo-border overflow-hidden flex flex-col">
-                <img
-                  src={`/share-cards/${bookEntry.cardSlug}.png`}
-                  alt={`${bookEntry.title} book cover`}
-                  loading="lazy"
-                  className="w-full aspect-square object-cover"
-                />
+                <Link href={`/types/${bookEntry.guideSlug}`}>
+                  <img
+                    src={`/share-cards/${bookEntry.cardSlug}.png`}
+                    alt={`${bookEntry.title} book cover`}
+                    loading="lazy"
+                    className="w-full aspect-square object-cover"
+                  />
+                </Link>
                 <div className="p-5 flex flex-col gap-4 flex-1">
-                  <h3 className="font-display font-bold text-osmo-text">{bookEntry.title}</h3>
+                  <h3 className="font-display font-bold text-osmo-text">
+                    <Link href={`/types/${bookEntry.guideSlug}`} className="hover:text-osmo-neon-green transition-colors">
+                      {bookEntry.title}
+                    </Link>
+                  </h3>
+                  <p className="text-sm text-osmo-muted font-light leading-relaxed">{bookEntry.description}</p>
                   <BookLink
                     href={bookEntry.url}
                     type={typeKey}

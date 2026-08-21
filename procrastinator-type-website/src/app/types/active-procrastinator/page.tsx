@@ -130,7 +130,15 @@ export default function ActiveProcrastinatorPage() {
                 Chu and Choi introduced active procrastination in 2005, and it was a small revolution. Until then, procrastination was treated as pure dysfunction. Their data showed a group that delayed intentionally, felt low stress, and performed as well as non-procrastinators. The delay was not self-sabotage. It was time management with a higher heart rate.
               </p>
               <p>
-                The catch comes from the type correlation research. Active procrastination overlaps heavily with arousal procrastination, where the delay is driven by stimulation-seeking, and the research puts the link around 0.6. Most people who identify with one show signs of the other. The strategy and the compulsion live close together.
+                The catch comes from the type correlation model behind{' '}
+                <Link href="/quiz" className="text-osmo-neon-green hover:text-osmo-text transition-colors">
+                  the Procrastitype quiz
+                </Link>
+                . Active procrastination overlaps heavily with arousal procrastination, where the delay is driven by stimulation-seeking, and the assessment models that link at 0.6, its highest correlation between any pair of types. You can read what the scoring is built on over on the{' '}
+                <Link href="/research" className="text-osmo-neon-green hover:text-osmo-text transition-colors">
+                  research page
+                </Link>
+                . Most people who identify with one show signs of the other. The strategy and the compulsion live close together.
               </p>
               <p>
                 So the real question is not "is delay bad?" It's "who is driving: you or the rush?" When you decide the timing, you're active. When the timing decides you, you're in another pattern entirely.
