@@ -17,6 +17,9 @@
   --color-osmo-neon-green: #CCFF00;
   --color-osmo-electric-purple: #6633FF;
   --color-chart-accent: var(--chart-accent);
+  --color-chart-confidence-high: var(--chart-confidence-high);
+  --color-chart-confidence-medium: var(--chart-confidence-medium);
+  --color-chart-confidence-low: var(--chart-confidence-low);
 
   --background-image-grid-pattern: var(--grid-pattern);
 }
@@ -36,6 +39,13 @@
      (5.3-5.9:1 against the light surfaces). Verified with the dataviz
      skill's contrast() check; do not swap this back to the flat neon green. */
   --chart-accent: #CCFF00;
+  /* Ordinal ramp for the confidence-level meter: one hue, three lightness
+     steps (high = fullest). Contrast against --bg-surface (#141414),
+     verified with the dataviz skill's contrast() check: 15.68 / 8.50 / 3.12
+     -- all clear the categorical 3:1 floor, not just the ordinal 2:1 one. */
+  --chart-confidence-high: #CCFF00;
+  --chart-confidence-medium: #93BF00;
+  --chart-confidence-low: #5C6B00;
 }
 
 [data-theme='light'],
@@ -49,6 +59,12 @@
   --accent-color: #111111;
   --grid-pattern: linear-gradient(to right, #e5e5e5 1px, transparent 1px), linear-gradient(to bottom, #e5e5e5 1px, transparent 1px);
   --chart-accent: #5c6b00;
+  /* Contrast against --bg-surface (#ffffff): 10.00 / 5.90 / 2.94. The "low"
+     step clears the ordinal 2:1 floor (not the stricter categorical 3:1),
+     which is why it always ships with a direct percentage label. */
+  --chart-confidence-high: #3D4700;
+  --chart-confidence-medium: #5C6B00;
+  --chart-confidence-low: #8CA000;
 }
 
 [data-theme='dark'],
@@ -61,6 +77,35 @@
   --accent-color: #cccccc;
   --grid-pattern: linear-gradient(to right, #262626 1px, transparent 1px), linear-gradient(to bottom, #262626 1px, transparent 1px);
   --chart-accent: #CCFF00;
+  --chart-confidence-high: #CCFF00;
+  --chart-confidence-medium: #93BF00;
+  --chart-confidence-low: #5C6B00;
+}
+
+/* Chart entrance animation: bars/columns grow from the baseline on mount.
+   CSS-only (plays automatically on paint, no JS needed), so chart
+   components can stay server components. */
+@keyframes chart-grow-x {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+@keyframes chart-grow-y {
+  from { transform: scaleY(0); }
+  to { transform: scaleY(1); }
+}
+.animate-grow-x {
+  transform-origin: left;
+  animation: chart-grow-x 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.animate-grow-y {
+  transform-origin: bottom;
+  animation: chart-grow-y 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+@media (prefers-reduced-motion: reduce) {
+  .animate-grow-x,
+  .animate-grow-y {
+    animation: none;
+  }
 }
 
 /* Utilities */

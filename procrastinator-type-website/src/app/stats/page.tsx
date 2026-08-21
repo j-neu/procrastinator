@@ -3,6 +3,8 @@ import Link from 'next/link';
 import { pageMetadata } from '@/lib/seo';
 import { getQuizStats } from '@/lib/quiz-stats';
 import TypeDistributionChart from '@/components/TypeDistributionChart';
+import ConfidenceMeterChart from '@/components/ConfidenceMeterChart';
+import DayOfWeekColumns from '@/components/DayOfWeekColumns';
 
 export const metadata = pageMetadata({
   path: '/stats',
@@ -15,7 +17,9 @@ export const metadata = pageMetadata({
 export const revalidate = 300;
 
 export default async function StatsPage() {
-  const { typeDistribution, confidenceDistribution, secondaryTypeDistribution } = await getQuizStats();
+  const { typeDistribution, confidenceDistribution, secondaryTypeDistribution, dayOfWeekDistribution } =
+    await getQuizStats();
+  const topType = typeDistribution[0];
 
   return (
     <div className="min-h-screen bg-osmo-bg text-osmo-text pt-32 pb-20">
@@ -39,6 +43,17 @@ export default async function StatsPage() {
         </p>
 
         <section className="mb-16">
+          {topType && (
+            <div className="mb-8">
+              <div className="text-6xl md:text-7xl font-display font-light text-chart-accent leading-none">
+                {topType.percentage}%
+              </div>
+              <p className="text-osmo-muted font-light mt-3">
+                of quiz-takers land on <span className="text-osmo-text">{topType.title}</span>, the most
+                common result so far.
+              </p>
+            </div>
+          )}
           <h2 className="text-2xl font-display mb-2">Primary Type</h2>
           <p className="text-sm text-osmo-muted font-light mb-6">
             The dominant pattern the quiz identifies for each person.
@@ -53,17 +68,25 @@ export default async function StatsPage() {
             a single pattern was dominant; medium or low means the answers were split across two
             or three patterns, which the quiz treats as a blend rather than a single type.
           </p>
-          <TypeDistributionChart data={confidenceDistribution} />
+          <ConfidenceMeterChart data={confidenceDistribution} />
         </section>
 
-        <section>
+        <section className="mb-16">
           <h2 className="text-2xl font-display mb-2">Most Common Second Pattern</h2>
           <p className="text-sm text-osmo-muted font-light mb-6">
             Most people show a blend of two patterns, not just one. This is how often each type
             turns up as that second pattern, across everyone who took the quiz, regardless of
             their primary type.
           </p>
-          <TypeDistributionChart data={secondaryTypeDistribution} />
+          <TypeDistributionChart data={secondaryTypeDistribution} showRank />
+        </section>
+
+        <section>
+          <h2 className="text-2xl font-display mb-2">Which Day People Take It</h2>
+          <p className="text-sm text-osmo-muted font-light mb-6">
+            Share of completions by day of the week.
+          </p>
+          <DayOfWeekColumns data={dayOfWeekDistribution} />
         </section>
 
         <p className="text-sm text-osmo-muted font-light leading-relaxed mt-16">
