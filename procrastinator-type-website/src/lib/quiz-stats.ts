@@ -7,6 +7,27 @@ export interface TypeDistributionEntry {
   percentage: number;
 }
 
+export interface QuizStats {
+  /** Primary-type breakdown, percentage of all completions, sorted descending. */
+  typeDistribution: TypeDistributionEntry[];
+  /**
+   * Confidence-level breakdown, percentage of completions that have a
+   * confidence value (the original 21-question quiz doesn't compute one).
+   * Fixed high/medium/low order -- confidence is ordinal, so it is not
+   * sorted by percentage.
+   */
+  confidenceDistribution: TypeDistributionEntry[];
+  /**
+   * How often each type appears as anyone's SECONDARY type, pooled across
+   * all primary types (not sliced per primary type). A per-primary-type
+   * breakdown was considered and rejected: 5 of the 7 types currently have
+   * single-digit completion counts, too sparse to publish a "most common
+   * pairing" for without it reading as noise dressed up as data. Pooling
+   * across all primaries keeps the sample size honest.
+   */
+  secondaryTypeDistribution: TypeDistributionEntry[];
+}
+
 // Canonical display names, matching the /types pillar (src/app/types/page.tsx),
 // not the Payhip book titles in payhip-links.ts (which say "Avoidance
 // Procrastinator" for this same type -- a pre-existing inconsistency in the
@@ -23,16 +44,44 @@ const TYPE_LABELS: Record<string, string> = {
 
 const TYPE_KEYS = Object.keys(TYPE_LABELS);
 
+const CONFIDENCE_LABELS: [key: string, label: string][] = [
+  ['high', 'High'],
+  ['medium', 'Medium'],
+  ['low', 'Low'],
+];
+
+function emptyTypeCounts(): Record<string, number> {
+  return Object.fromEntries(TYPE_KEYS.map((key) => [key, 0]));
+}
+
+function toPercentageEntries(
+  counts: Record<string, number>,
+  labels: Record<string, string>,
+  total: number,
+  keyOrder: string[],
+  sort: boolean,
+): TypeDistributionEntry[] {
+  const entries = keyOrder.map((key) => ({
+    typeKey: key,
+    title: labels[key],
+    percentage: total > 0 ? Math.round((counts[key] / total) * 100) : 0,
+  }));
+  return sort ? entries.sort((a, b) => b.percentage - a.percentage) : entries;
+}
+
 /**
- * Percentage breakdown of primary quiz result types, read from the
- * "Quiz Completions" sheet that /api/quiz-completion writes to on every
- * quiz finish (no PII, see that route). Returns percentages only, rounded
- * to whole numbers, sorted descending -- callers must never derive or
- * display the underlying respondent count from this (see /stats page).
+ * Reads the "Quiz Completions" sheet once (written by /api/quiz-completion
+ * on every quiz finish, no PII) and returns three percentage-only
+ * breakdowns. Callers must never derive or display the underlying
+ * respondent count from any of these -- see /stats page.
  */
-export async function getQuizTypeDistribution(): Promise<TypeDistributionEntry[]> {
-  const counts: Record<string, number> = Object.fromEntries(TYPE_KEYS.map((key) => [key, 0]));
-  let total = 0;
+export async function getQuizStats(): Promise<QuizStats> {
+  const typeCounts = emptyTypeCounts();
+  const confidenceCounts: Record<string, number> = { high: 0, medium: 0, low: 0 };
+  const secondaryCounts = emptyTypeCounts();
+  let typeTotal = 0;
+  let confidenceTotal = 0;
+  let secondaryTotal = 0;
 
   try {
     if (!process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL || !process.env.GOOGLE_PRIVATE_KEY || !process.env.GOOGLE_SHEET_ID) {
@@ -57,10 +106,21 @@ export async function getQuizTypeDistribution(): Promise<TypeDistributionEntry[]
     if (sheet) {
       const rows = await sheet.getRows();
       for (const row of rows) {
-        const type = row.get('Primary Type');
-        if (type && Object.prototype.hasOwnProperty.call(counts, type)) {
-          counts[type] += 1;
-          total += 1;
+        const primary = row.get('Primary Type');
+        const secondary = row.get('Secondary Type');
+        const confidence = row.get('Confidence');
+
+        if (primary && Object.prototype.hasOwnProperty.call(typeCounts, primary)) {
+          typeCounts[primary] += 1;
+          typeTotal += 1;
+        }
+        if (confidence && Object.prototype.hasOwnProperty.call(confidenceCounts, confidence)) {
+          confidenceCounts[confidence] += 1;
+          confidenceTotal += 1;
+        }
+        if (secondary && Object.prototype.hasOwnProperty.call(secondaryCounts, secondary)) {
+          secondaryCounts[secondary] += 1;
+          secondaryTotal += 1;
         }
       }
     }
@@ -68,9 +128,13 @@ export async function getQuizTypeDistribution(): Promise<TypeDistributionEntry[]
     console.error('Error reading quiz completion stats:', error);
   }
 
-  return TYPE_KEYS.map((typeKey) => ({
-    typeKey,
-    title: TYPE_LABELS[typeKey],
-    percentage: total > 0 ? Math.round((counts[typeKey] / total) * 100) : 0,
-  })).sort((a, b) => b.percentage - a.percentage);
+  return {
+    typeDistribution: toPercentageEntries(typeCounts, TYPE_LABELS, typeTotal, TYPE_KEYS, true),
+    confidenceDistribution: CONFIDENCE_LABELS.map(([key, label]) => ({
+      typeKey: key,
+      title: label,
+      percentage: confidenceTotal > 0 ? Math.round((confidenceCounts[key] / confidenceTotal) * 100) : 0,
+    })),
+    secondaryTypeDistribution: toPercentageEntries(secondaryCounts, TYPE_LABELS, secondaryTotal, TYPE_KEYS, true),
+  };
 }

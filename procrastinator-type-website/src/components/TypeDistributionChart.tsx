@@ -5,7 +5,7 @@ import type { TypeDistributionEntry } from '@/lib/quiz-stats';
  * the row label, not from color), so no legend box. See the dataviz skill's
  * color-formula reference for why a nominal single metric works this way.
  * Percentages only, by design -- never pass or render a raw respondent count
- * here (see getQuizTypeDistribution in src/lib/quiz-stats.ts).
+ * here (see getQuizStats in src/lib/quiz-stats.ts).
  */
 export default function TypeDistributionChart({ data }: { data: TypeDistributionEntry[] }) {
   return (
