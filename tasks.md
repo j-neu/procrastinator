@@ -976,6 +976,55 @@
 > costs more trust than the reciprocal traffic is worth. Check what actually renders after
 > a week and pull it if the inventory is bad.
 
+## Phase 1.12: Blog Expansion (2026-09-06) ✍️
+
+- [x] ✍️ **Ship "Not All Avoidant Procrastinators Delay the Same Way"** ✅
+  **DONE 2026-09-06.** `/blog/avoidant-procrastination-subtypes`. Prompted by the
+  live quiz data showing 54% of takers land on Avoidant, which is too large a share
+  for one mechanism. Splits the type into five research-backed subtypes: fear of
+  failure vs. fear of success, self-handicapping vs. plain avoidance (Berglas &
+  Jones 1978, Ferrari 1991), task aversiveness vs. evaluative anxiety (Steel 2007
+  vs. Solomon & Rothblum 1984), autonomy-resistance/rebellion (Uzun Özer, Demir &
+  Ferrari 2009), and perfectionism as a subtype rather than a sibling type (Hewitt
+  & Flett 1991).
+  - ⚠️ **Every citation was verified by actually reading the source**, not just a
+    search-engine summary: the Solomon & Rothblum, Berglas & Jones, Steel, Ozer/
+    Demir/Ferrari and Hewitt & Flett papers were each confirmed via ERIC, PubMed's
+    E-utilities API, a Crossref DOI lookup, or by reading the actual PDF. One
+    correction came out of this: the user's initial framing credited the
+    "rebellion against control" factor to Solomon & Rothblum's 1984 scale directly,
+    but their own factor analysis only extracted two factors (fear of failure,
+    task aversiveness). Rebellion is one of the scale's 13 original *items*, not
+    one of their own factors; it took Uzun Özer, Demir & Ferrari's 2009 four-factor
+    reanalysis of Turkish students to actually surface it as its own dimension.
+    The published piece cites it that way.
+  - Written with the `write-like-jakob` skill (voice + a three-tier anti-AI-slop
+    scanner) and passed all hard gates (0 phrase/structure violations); two Tier 3
+    silhouette flags (`heading_preview`, `callback_content`) were reviewed and kept,
+    since the section-per-subtype structure matches how the site's own type guides
+    and comparison pages are already built, not a fabricated scaffold.
+  - The originally drafted closing section ("What this means for the quiz",
+    proposing a second layer of quiz questions) was cut at the user's request before
+    publishing; the standard site CTA block (quiz + book link) closes the page
+    instead.
+  - Cross-linked from `/types/avoidant-procrastinator` (new paragraph, `dateModified`
+    bumped to 2026-09-06 for the genuine content change) and added to `sitemap.ts`.
+- [x] 🗂️ **Add a `/blog` index page** ✅ **DONE 2026-09-06.** The header hamburger
+  menu and the footer both linked "Blog" straight to `/blog/why-you-procrastinate`,
+  so there was no way to see other posts or know more existed.
+  - New `src/lib/blog-posts.ts`: a small registry (title, description, image,
+    `datePublished`/`dateModified`) that the index page renders from. Each post's
+    own metadata and JSON-LD stay defined in its own `page.tsx`; this file only
+    drives the index listing. **Add an entry here for every future post.**
+  - `/blog` features the most recent post (currently the avoidant subtypes one)
+    with a larger card and image, then lists older posts below.
+  - `HomeClient.tsx`'s hamburger nav and `SiteFooter.tsx` now point at `/blog`
+    instead of a specific post. Added `/blog` to `sitemap.ts` (`weekly`, `0.7`,
+    ahead of the individual post entries).
+  - Verified in the build (`npm run build`, clean, 38 routes): self-referencing
+    canonical, single brand suffix, all three posts linked from the index, newest
+    one featured.
+
 ## Phase 2 (Revised): Cognitive Dismantling Ebooks (Pivot) 📚
 
 ### Strategy Change

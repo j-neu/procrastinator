@@ -115,12 +115,18 @@ procrastinator/
 │   │   │   ├── improved-quiz-scoring.ts        # ✨ NEW: Advanced scoring algorithm
 │   │   │   ├── quiz-utils.ts                   # Updated with dual system support
 │   │   │   ├── analytics.ts                    # ✨ NEW: analytics wrapper (Vercel)
-│   │   │   └── payhip-links.ts                 # Payhip store links per type
+│   │   │   ├── payhip-links.ts                 # Payhip store links per type
+│   │   │   └── blog-posts.ts                   # ✨ NEW: /blog index registry (title, dates, image per post)
 │   │   └── app/
 │   │       ├── page.tsx                        # Main landing page
 │   │       ├── layout.tsx                      # App layout, SEO metadata + JSON-LD
 │   │       ├── sitemap.ts                      # ✨ NEW: XML sitemap
 │   │       ├── robots.ts                       # ✨ NEW: robots.txt
+│   │       ├── blog/                           # ✨ NEW: blog index + posts
+│   │       │   ├── page.tsx                    # /blog index: latest post featured, older ones listed
+│   │       │   ├── avoidant-procrastination-subtypes/page.tsx
+│   │       │   ├── best-procrastination-tests/page.tsx
+│   │       │   └── why-you-procrastinate/page.tsx
 │   │       ├── quiz/
 │   │       │   ├── page.tsx                    # ✨ UPDATED: Enhanced quiz interface
 │   │       │   └── results/page.tsx            # ✨ UPDATED: results + email capture
@@ -159,6 +165,11 @@ procrastinator/
 ```
 
 ### ✨ Recent Additions
+
+#### Blog (September 2026)
+- **`/blog` index page** - Lists all posts, featuring the most recent one with a larger preview and image; older posts below. Replaces the previous setup where the header/footer "Blog" link pointed straight at a single post.
+- **`lib/blog-posts.ts`** - Small registry (title, description, image, dates) the index page renders from. Add an entry here whenever a new post ships; each post keeps its own metadata/JSON-LD in its own `page.tsx`.
+- **New post: "Not All Avoidant Procrastinators Delay the Same Way"** (`/blog/avoidant-procrastination-subtypes`) - Splits the Avoidant type (54% of quiz takers) into five research-backed subtypes (fear of failure vs. fear of success, self-handicapping vs. plain avoidance, task aversiveness vs. evaluative anxiety, autonomy-resistance/rebellion, perfectionism as a subtype rather than a sibling type). Every citation links to a verified primary source (ERIC, PubMed, a DOI, or a free full-text PDF read directly, not just search-summarized). Cross-linked from the `/types/avoidant-procrastinator` guide.
 
 #### SEO, Analytics & Content Hub (August 2026)
 - **`sitemap.ts` + `robots.ts`** - Auto-generated sitemap and robots.txt

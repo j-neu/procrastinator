@@ -12,6 +12,7 @@ A science-backed platform to help people understand their procrastination patter
 - **Share Cards**: ✅ Square "I'm a [type] procrastinator!" images (book-cover style) for download/share
 - **SEO Foundation**: ✅ sitemap.xml, robots.txt, per-page metadata, canonical URLs, schema.org JSON-LD (Organization, WebSite, Quiz, Article, FAQPage, ItemList)
 - **Content Hub**: ✅ Pillar page `/types` + 7 type guides with Article/FAQ schema (prose-lint clean, `writing_style.md` compliant)
+- **Blog**: ✅ `/blog` index (latest post featured + older ones listed) driven by `lib/blog-posts.ts`, plus individual posts each with their own metadata and Article JSON-LD
 - **Analytics**: ✅ Vercel Web Analytics (free, cookie-less) with 5 custom events (quiz_start, quiz_complete, share_click, email_signup, workbook_click)
 - **Google Search Console**: ✅ Verification meta tag in site head (`verification.google` in `layout.tsx` metadata) + backup file at `/google87e4ddcc8e80c24b.html`
 - **Mobile Responsive**: Optimized for all device sizes
@@ -65,6 +66,9 @@ src/
 │   ├── layout.tsx                   # SEO metadata, JSON-LD, analytics script
 │   ├── sitemap.ts                   # XML sitemap (all routes)
 │   ├── robots.ts                    # robots.txt
+│   ├── blog/
+│   │   ├── page.tsx                 # /blog index: latest post featured, older ones listed
+│   │   └── <slug>/page.tsx          # Individual posts, each with its own metadata + JSON-LD
 │   ├── quiz/
 │   │   ├── page.tsx                 # Quiz interface
 │   │   └── results/page.tsx         # Results display + workbook email capture
@@ -85,7 +89,8 @@ src/
     ├── improved-quiz-data.ts       # ✅ Enhanced 35-question system
     ├── improved-quiz-scoring.ts    # ✅ Advanced scoring algorithm
     ├── analytics.ts                # Vercel analytics wrapper + events
-    └── payhip-links.ts             # Payhip URLs per type
+    ├── payhip-links.ts             # Payhip URLs per type
+    └── blog-posts.ts               # /blog index registry (title, description, image, dates)
 ```
 
 ## Key Technologies
