@@ -1024,6 +1024,36 @@
   - Verified in the build (`npm run build`, clean, 38 routes): self-referencing
     canonical, single brand suffix, all three posts linked from the index, newest
     one featured.
+- [x] 🧩 **Ship the Avoidant subtype follow-up quiz** ✅ **DONE 2026-09-06.**
+  `/quiz/avoidant-subtypes` — 15 questions, multi-select with an exclusive "None of
+  these," reusing `QuizOption`/`QuizProgress` from the main quiz. Every question
+  offers one option per subtype (Fear of Failure, Fear of Success, Self-Handicapping,
+  Task Aversiveness, Autonomy Resistance) plus "None of these," so scoring is a plain
+  unweighted tally, not the correlation-adjusted model the 35-question quiz uses.
+  Single page: quiz first, result (subtype + strategies + score breakdown) appears
+  inline on the same URL, no redirect/localStorage handoff like `/quiz` → `/quiz/results`.
+  - New libs: `avoidant-subtype-quiz-data.ts`, `avoidant-subtype-scoring.ts`.
+  - **No book exists for the subtypes yet.** The result view shows a "we're updating
+    the Avoidant Procrastinator book to cover subtypes" email banner instead of a
+    Payhip link. Reuses `/api/email-signup` with `type: 'avoidant'` and a new
+    `subtype` field.
+  - Owner manually added a `Subtype` column to both the email-signups sheet and the
+    "Quiz Completions" sheet beforehand. Both `/api/email-signup` and
+    `/api/quiz-completion` now write it, with the same self-healing header-row
+    pattern already used for Match Strength / Neutral Response Rate (extends the
+    header in place if the column name doesn't already match, rather than failing).
+  - Entry points: a new card on `/quiz/results` when `primaryType === 'avoidant'`,
+    and a link from inside the blog post's existing closing CTA section.
+  - Added to `sitemap.ts` (`monthly`, `0.7`) and given its own `layout.tsx` for
+    metadata + Quiz JSON-LD (client page, so metadata can't live in `page.tsx`,
+    same split already used by `/quiz`).
+  - New `track()` events: `avoidant_subtype_quiz_start`, `avoidant_subtype_quiz_complete`.
+  - Prose-linted (0 banned, 0 tells, 0 em dashes, 0 rule-of-three); one weasel
+    "very" was fixed. Two `typography.symbols.ellipsis` hits are a documented
+    **keep** — literal `...` mid-question is the same convention the main
+    35-question quiz already uses.
+  - Verified: `npm run build` clean (40 routes), `tsc --noEmit` clean, built HTML
+    for the new route has a self-referencing canonical and the Quiz JSON-LD.
 
 ## Phase 2 (Revised): Cognitive Dismantling Ebooks (Pivot) 📚
 
