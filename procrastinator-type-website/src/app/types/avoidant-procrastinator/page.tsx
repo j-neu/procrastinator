@@ -24,7 +24,7 @@ const articleJsonLd = {
     'What avoidant procrastination is, the fear loop that drives it, and what actually works.',
   image: absoluteUrl('/share-cards/avoidance.png'),
   datePublished: '2026-08-03',
-  dateModified: '2026-08-17',
+  dateModified: '2026-09-06',
   author: authorJsonLd,
   publisher: { '@type': 'Organization', name: 'Procrastitype' },
   mainEntityOfPage: absoluteUrl('/types/avoidant-procrastinator'),
@@ -79,7 +79,7 @@ export default function AvoidantProcrastinatorPage() {
               <span className="italic text-osmo-muted">You're Not Avoiding the Task. You're Avoiding the Fear.</span>
             </h1>
 
-            <Byline dateModified="2026-08-17" />
+            <Byline dateModified="2026-09-06" />
             <p className="text-xl text-osmo-muted font-light leading-relaxed">
               The email is written in your head. You've drafted it twenty times. You know exactly what to say. And yet you haven't sent it, because sending it means it exists, and existing means it can be judged. So you refresh your inbox instead, and hate yourself a little more.
             </p>
@@ -132,6 +132,17 @@ export default function AvoidantProcrastinatorPage() {
                   Avoidant vs perfectionist procrastination
                 </Link>{' '}
                 explains how to tell them apart from what your unfinished work looks like.
+              </p>
+              <p>
+                "Avoidant" is also not one mechanism. Several distinct patterns hide under the same label.{' '}
+                <Link
+                  href="/blog/avoidant-procrastination-subtypes"
+                  className="text-osmo-neon-green hover:text-osmo-text transition-colors"
+                >
+                  Not All Avoidant Procrastinators Delay the Same Way
+                </Link>{' '}
+                walks through five research-backed splits, from fear of failure to a stricter form of
+                perfectionism, and why each one needs its own fix.
               </p>
               <p>
                 The cruel part: the fear doesn't shrink while you avoid. It grows. Every day of delay adds guilt to the fear, and now the task feels even bigger. You're not waiting for the fear to pass. You're feeding it.
