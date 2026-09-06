@@ -101,7 +101,7 @@ export default function Home() {
         alwaysHamburger
         links={[
           { href: '/types', label: 'Types' },
-          { href: '/blog/why-you-procrastinate', label: 'Blog' },
+          { href: '/blog', label: 'Blog' },
           { href: '/research', label: 'Research' },
           { href: '/stats', label: 'Stats' },
           { href: '/about', label: 'About' },

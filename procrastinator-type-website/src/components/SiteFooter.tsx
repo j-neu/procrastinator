@@ -15,7 +15,7 @@ export default function SiteFooter() {
         </div>
         <div className="flex flex-wrap gap-x-12 gap-y-4 text-xs font-medium uppercase tracking-widest text-osmo-muted">
           <Link className="hover:text-osmo-text transition-colors" href="/types">Types</Link>
-          <Link className="hover:text-osmo-text transition-colors" href="/blog/why-you-procrastinate">Blog</Link>
+          <Link className="hover:text-osmo-text transition-colors" href="/blog">Blog</Link>
           <Link className="hover:text-osmo-text transition-colors" href="/research">Research</Link>
           <Link className="hover:text-osmo-text transition-colors" href="/stats">Stats</Link>
           <Link className="hover:text-osmo-text transition-colors" href="/about">About</Link>
