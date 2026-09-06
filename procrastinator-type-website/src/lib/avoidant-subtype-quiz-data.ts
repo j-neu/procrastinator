@@ -1,9 +1,14 @@
 import { AvoidantSubtypeQuestion } from './avoidant-subtype-scoring';
 
-// 15 questions. Every question offers one option per subtype (Fear of
-// Failure, Fear of Success, Self-Handicapping, Task Aversiveness, Autonomy
-// Resistance) plus "None of these", so scoring is a simple unweighted tally
-// rather than the correlation-adjusted model the main 35-question quiz uses.
+// 10 questions, each testing a distinct angle (finishing, starting, social
+// accountability, post-completion emotion, deadline timing, what removes the
+// block, lifelong pattern, a stakes-removed test, a hypothetical removal, and
+// a direct self-statement) so the quiz doesn't feel like the same question
+// asked five different ways. Every question offers one option per subtype
+// (Fear of Failure, Fear of Success, Self-Handicapping, Task Aversiveness,
+// Autonomy Resistance) plus "None of these", so scoring is a simple
+// unweighted tally rather than the correlation-adjusted model the main
+// 35-question quiz uses.
 export const avoidantSubtypeQuestions: AvoidantSubtypeQuestion[] = [
   {
     id: 1,
@@ -19,13 +24,13 @@ export const avoidantSubtypeQuestions: AvoidantSubtypeQuestion[] = [
   },
   {
     id: 2,
-    text: "You've been putting off starting for days now. Underneath it, the real reason is closer to...",
+    text: "You've been avoiding starting this for over a week. If you're honest with yourself, the delay is really about...",
     options: [
-      { text: "I'm worried starting will expose that I can't actually do this well.", subtype: 'fearOfFailure' },
-      { text: "I'm worried that doing this well opens the door to more of the same, and I'm not sure I want that.", subtype: 'fearOfSuccess' },
-      { text: "I've been busy or distracted, and that gives me something to point to if it turns out badly.", subtype: 'selfHandicapping' },
-      { text: "The task itself is tedious or draining. That's really the whole reason.", subtype: 'taskAversiveness' },
-      { text: 'I resent being told when and how to do this, so I keep not doing it.', subtype: 'autonomyResistance' },
+      { text: 'not wanting to find out, once I start, that I might not be capable of this.', subtype: 'fearOfFailure' },
+      { text: "a nagging worry that doing this properly sets a precedent I'll have to keep up.", subtype: 'fearOfSuccess' },
+      { text: 'keeping my options open, so if it goes badly there is a reason on hand.', subtype: 'selfHandicapping' },
+      { text: "the task itself. It's tedious, and that's the whole story.", subtype: 'taskAversiveness' },
+      { text: "the fact that I didn't choose this. Someone else did.", subtype: 'autonomyResistance' },
       { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
     ],
   },
@@ -43,42 +48,18 @@ export const avoidantSubtypeQuestions: AvoidantSubtypeQuestion[] = [
   },
   {
     id: 4,
-    text: 'Which sentence feels closest to true for you?',
-    options: [
-      { text: 'A blank page feels safer than a finished one that might get picked apart.', subtype: 'fearOfFailure' },
-      { text: 'Being really good at this would change what people expect from me going forward.', subtype: 'fearOfSuccess' },
-      { text: "I'd rather have a reason ready than risk it just not being good enough.", subtype: 'selfHandicapping' },
-      { text: 'I avoid tasks that are draining or unpleasant, whatever the stakes are.', subtype: 'taskAversiveness' },
-      { text: "I avoid tasks more when they feel forced on me by someone else's deadline.", subtype: 'autonomyResistance' },
-      { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
-    ],
-  },
-  {
-    id: 5,
-    text: "Think about the task you're avoiding right now. What's actually underneath the delay?",
-    options: [
-      { text: "Fear of what happens once it's finished and open to feedback.", subtype: 'fearOfFailure' },
-      { text: 'A quiet fear of what comes after doing it well.', subtype: 'fearOfSuccess' },
-      { text: 'Setting things up so a bad result already has an explanation.', subtype: 'selfHandicapping' },
-      { text: "It's just not enjoyable or worth the effort. No fear involved.", subtype: 'taskAversiveness' },
-      { text: "It was assigned or expected by someone else. I didn't choose it.", subtype: 'autonomyResistance' },
-      { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
-    ],
-  },
-  {
-    id: 6,
     text: 'Picture the moment right after you finally submit the work. What do you feel first?',
     options: [
       { text: "Dread about how it's going to be received.", subtype: 'fearOfFailure' },
       { text: 'Unease about the new expectations that come with it going well.', subtype: 'fearOfSuccess' },
       { text: 'Some relief that the circumstances give me cover either way.', subtype: 'selfHandicapping' },
-      { text: "Mostly relief the tedious part is over. Nothing deeper than that.", subtype: 'taskAversiveness' },
+      { text: 'Mostly relief the tedious part is over. Nothing deeper than that.', subtype: 'taskAversiveness' },
       { text: 'Indifference, since it was never really my goal to begin with.', subtype: 'autonomyResistance' },
       { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
     ],
   },
   {
-    id: 7,
+    id: 5,
     text: 'You tend to leave things until the last possible moment when...',
     options: [
       { text: 'it matters enough that a bad result would genuinely sting.', subtype: 'fearOfFailure' },
@@ -90,19 +71,7 @@ export const avoidantSubtypeQuestions: AvoidantSubtypeQuestion[] = [
     ],
   },
   {
-    id: 8,
-    text: 'If you imagine someone actually reviewing your work, what do you think about most?',
-    options: [
-      { text: "Whether they'll notice it's not as good as it should be.", subtype: 'fearOfFailure' },
-      { text: "What they'll expect from me next time, if this one goes well.", subtype: 'fearOfSuccess' },
-      { text: "Whether they'll know about the circumstances that affected it.", subtype: 'selfHandicapping' },
-      { text: "Not much. Reviewing it just isn't something I look forward to.", subtype: 'taskAversiveness' },
-      { text: "Not much, since I didn't choose this task in the first place.", subtype: 'autonomyResistance' },
-      { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
-    ],
-  },
-  {
-    id: 9,
+    id: 6,
     text: 'Your procrastination on this kind of task tends to lift when...',
     options: [
       { text: 'someone reassures you the stakes are lower than you think.', subtype: 'fearOfFailure' },
@@ -114,7 +83,7 @@ export const avoidantSubtypeQuestions: AvoidantSubtypeQuestion[] = [
     ],
   },
   {
-    id: 10,
+    id: 7,
     text: "Look back at the tasks you've delayed the longest in your life. What do they have in common?",
     options: [
       { text: 'They were the ones where being judged mattered most.', subtype: 'fearOfFailure' },
@@ -126,55 +95,19 @@ export const avoidantSubtypeQuestions: AvoidantSubtypeQuestion[] = [
     ],
   },
   {
-    id: 11,
-    text: "A low-stakes version of the same kind of task comes up: nobody's watching, nothing really rides on it. You...",
+    id: 8,
+    text: 'Someone strips every real stake off the task: no grade, no audience, entirely private, no one will ever know the result. You...',
     options: [
-      { text: "get it done without much trouble, since there's nothing left to fail at.", subtype: 'fearOfFailure' },
-      { text: 'still hesitate a little, less about failing and more about starting a pattern.', subtype: 'fearOfSuccess' },
-      { text: "still put it off. The excuse-making habit isn't really about the stakes.", subtype: 'selfHandicapping' },
-      { text: "still delay it if it's tedious. Low stakes don't make it less boring.", subtype: 'taskAversiveness' },
-      { text: 'get it done quickly, since nobody else is dictating how I do it.', subtype: 'autonomyResistance' },
-      { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
-    ],
-  },
-  {
-    id: 12,
-    text: "You just did excellent work on something you'd been avoiding. Your first reaction is closer to...",
-    options: [
-      { text: "relief that it wasn't judged badly.", subtype: 'fearOfFailure' },
-      { text: "a flicker of 'now what happens next.'", subtype: 'fearOfSuccess' },
-      { text: 'mild surprise, since part of you expected to need the excuses.', subtype: 'selfHandicapping' },
-      { text: "satisfaction that the unpleasant part is finally behind you.", subtype: 'taskAversiveness' },
-      { text: 'pride that you did it your own way, on your own terms.', subtype: 'autonomyResistance' },
-      { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
-    ],
-  },
-  {
-    id: 13,
-    text: "Someone offers to strip all the stakes off a task you've been avoiding: no grade, no audience, entirely private. You...",
-    options: [
-      { text: "finally get started, since there's nothing left to fear.", subtype: 'fearOfFailure' },
-      { text: 'still hesitate a bit. Good work has a way of getting noticed anyway.', subtype: 'fearOfSuccess' },
-      { text: "still stall. It's more habit at this point than fear.", subtype: 'selfHandicapping' },
-      { text: 'still avoid it, if it is genuinely tedious or effortful.', subtype: 'taskAversiveness' },
+      { text: "get it done without much trouble. There's nothing left to fail at.", subtype: 'fearOfFailure' },
+      { text: 'still hesitate a little. Good work has a way of getting noticed anyway, private or not.', subtype: 'fearOfSuccess' },
+      { text: "still stall. The excuse-making habit isn't really about the stakes.", subtype: 'selfHandicapping' },
+      { text: 'still avoid it, if it is genuinely tedious or effortful. Stakes were never the issue.', subtype: 'taskAversiveness' },
       { text: "get moving right away, now that it's actually on your own terms.", subtype: 'autonomyResistance' },
       { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
     ],
   },
   {
-    id: 14,
-    text: 'Of these, which explanation feels closest to the actual truth about why you delay?',
-    options: [
-      { text: "I'm scared of finding out I'm not good enough.", subtype: 'fearOfFailure' },
-      { text: "I'm scared of what happens if I turn out to be good enough.", subtype: 'fearOfSuccess' },
-      { text: 'I want a reason ready, just in case.', subtype: 'selfHandicapping' },
-      { text: "I just don't want to do something unpleasant.", subtype: 'taskAversiveness' },
-      { text: "I don't want to do it on someone else's terms.", subtype: 'autonomyResistance' },
-      { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
-    ],
-  },
-  {
-    id: 15,
+    id: 9,
     text: 'If the task vanished tomorrow with zero consequences, what would you actually feel?',
     options: [
       { text: 'Enormous relief, mostly about not being evaluated on it.', subtype: 'fearOfFailure' },
@@ -182,6 +115,18 @@ export const avoidantSubtypeQuestions: AvoidantSubtypeQuestion[] = [
       { text: "Relief that you don't need the excuse anymore.", subtype: 'selfHandicapping' },
       { text: 'Relief, purely because the tedious task is gone.', subtype: 'taskAversiveness' },
       { text: "Relief at being off someone else's hook, not your own.", subtype: 'autonomyResistance' },
+      { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
+    ],
+  },
+  {
+    id: 10,
+    text: 'Of these, which explanation feels closest to the actual truth about why you delay?',
+    options: [
+      { text: "I'm scared of finding out I'm not good enough.", subtype: 'fearOfFailure' },
+      { text: "I'm scared of what happens if I turn out to be good enough.", subtype: 'fearOfSuccess' },
+      { text: 'I want a reason ready, just in case.', subtype: 'selfHandicapping' },
+      { text: "I just don't want to do something unpleasant.", subtype: 'taskAversiveness' },
+      { text: "I don't want to do it on someone else's terms.", subtype: 'autonomyResistance' },
       { text: 'None of these describes me', subtype: null, isNoneOfAbove: true },
     ],
   },
