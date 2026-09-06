@@ -8,6 +8,8 @@ import { avoidantSubtypeQuestions } from '@/lib/avoidant-subtype-quiz-data';
 import {
   calculateAvoidantSubtypeResult,
   AVOIDANT_SUBTYPE_DETAILS,
+  AvoidantSubtypeOption,
+  AvoidantSubtypeQuestion,
   AvoidantSubtypeResult,
 } from '@/lib/avoidant-subtype-scoring';
 import { track } from '@/lib/analytics';
@@ -24,11 +26,45 @@ const quizJsonLd = {
   isAccessibleForFree: true,
 };
 
+type RandomizedOption = AvoidantSubtypeOption & { originalIndex: number };
+type RandomizedQuestion = Omit<AvoidantSubtypeQuestion, 'options'> & { options: RandomizedOption[] };
+
+function shuffleArray<T>(array: T[]): T[] {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
+// Shuffles each question's answer options so the subtype an option maps to
+// isn't always in the same position, while keeping "None of these" fixed at
+// the end. Original indices are preserved so scoring still matches against
+// the unshuffled question data.
+function createRandomizedQuestions(questions: AvoidantSubtypeQuestion[]): RandomizedQuestion[] {
+  return questions.map((question) => {
+    const optionsWithIndices: RandomizedOption[] = question.options.map((option, index) => ({
+      ...option,
+      originalIndex: index,
+    }));
+
+    const noneOfAboveOptions = optionsWithIndices.filter((opt) => opt.isNoneOfAbove);
+    const regularOptions = optionsWithIndices.filter((opt) => !opt.isNoneOfAbove);
+
+    return {
+      ...question,
+      options: [...shuffleArray(regularOptions), ...noneOfAboveOptions],
+    };
+  });
+}
+
 export default function AvoidantSubtypeQuizPage() {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [answers, setAnswers] = useState<{ questionId: number; selectedOptionIndices: number[] }[]>([]);
   const [selectedOptions, setSelectedOptions] = useState<number[]>([]);
   const [result, setResult] = useState<AvoidantSubtypeResult | null>(null);
+  const [randomizedQuestions, setRandomizedQuestions] = useState<RandomizedQuestion[]>([]);
 
   const [email, setEmail] = useState('');
   const [isEmailSubmitting, setIsEmailSubmitting] = useState(false);
@@ -36,10 +72,19 @@ export default function AvoidantSubtypeQuizPage() {
   const [emailError, setEmailError] = useState('');
 
   useEffect(() => {
+    setRandomizedQuestions(createRandomizedQuestions(avoidantSubtypeQuestions));
     track('avoidant_subtype_quiz_start');
   }, []);
 
-  const questions = avoidantSubtypeQuestions;
+  if (randomizedQuestions.length === 0) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-osmo-bg text-osmo-muted transition-colors duration-500">
+        <p className="text-xl font-light">Preparing quiz...</p>
+      </div>
+    );
+  }
+
+  const questions = randomizedQuestions;
   const currentQuestion = questions[currentQuestionIndex];
   const isLastQuestion = currentQuestionIndex === questions.length - 1;
 
@@ -62,14 +107,20 @@ export default function AvoidantSubtypeQuizPage() {
   const handleNext = () => {
     if (selectedOptions.length === 0) return;
 
+    // Map shuffled-position indices back to the original option order so
+    // scoring (which reads against the unshuffled question data) still lines up.
+    const originalOptionIndices = selectedOptions.map(
+      (index) => currentQuestion.options[index].originalIndex
+    );
+
     const updatedAnswers = [
       ...answers,
-      { questionId: currentQuestion.id, selectedOptionIndices: selectedOptions },
+      { questionId: currentQuestion.id, selectedOptionIndices: originalOptionIndices },
     ];
     setAnswers(updatedAnswers);
 
     if (isLastQuestion) {
-      const finalResult = calculateAvoidantSubtypeResult(updatedAnswers, questions);
+      const finalResult = calculateAvoidantSubtypeResult(updatedAnswers, avoidantSubtypeQuestions);
       setResult(finalResult);
       track('avoidant_subtype_quiz_complete', { subtype: finalResult.primarySubtype });
 
