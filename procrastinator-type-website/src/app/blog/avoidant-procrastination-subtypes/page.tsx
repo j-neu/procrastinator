@@ -287,6 +287,16 @@ export default function AvoidantProcrastinationSubtypesPage() {
                   </BookLink>
                 )}
               </div>
+              <p className="mt-6 text-sm text-osmo-muted">
+                Already know you land on Avoidant? Skip straight to the{' '}
+                <Link
+                  href="/quiz/avoidant-subtypes"
+                  className="text-osmo-text underline underline-offset-4 hover:no-underline"
+                >
+                  2-minute subtype quiz
+                </Link>{' '}
+                to find out which of the five patterns above is actually yours.
+              </p>
             </section>
           </div>
         </article>

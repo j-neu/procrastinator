@@ -28,6 +28,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     { path: "/quiz", changeFrequency: "weekly" as const, priority: 0.9 },
+    { path: "/quiz/avoidant-subtypes", changeFrequency: "monthly" as const, priority: 0.7 },
     { path: "/workbooks", changeFrequency: "monthly" as const, priority: 0.7 },
     { path: "/research", changeFrequency: "monthly" as const, priority: 0.6 },
     { path: "/stats", changeFrequency: "daily" as const, priority: 0.6 },

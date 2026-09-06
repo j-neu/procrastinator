@@ -268,6 +268,27 @@ export default function ResultsPage() {
           className="mb-12"
         />
 
+        {/* Avoidant subtype follow-up */}
+        {result.primaryType === 'avoidant' && (
+          <div className="p-6 sm:p-8 border border-osmo-border mb-12 bg-osmo-surface/50">
+            <h3 className="text-xl font-display font-light text-osmo-text mb-2">
+              Avoidant Procrastination Isn&apos;t One Thing
+            </h3>
+            <p className="text-sm text-osmo-muted font-light leading-relaxed mb-6 max-w-lg">
+              There are 5 separate, research-backed reasons people avoid tasks: fear of failure, fear of success,
+              self-handicapping, task aversiveness, and autonomy resistance. A 2-minute follow-up narrows down
+              which one is actually driving yours.
+            </p>
+            <Link
+              href="/quiz/avoidant-subtypes"
+              className="inline-flex items-center gap-2 px-8 py-3 bg-osmo-text text-osmo-bg rounded-full font-medium hover:scale-105 transition-transform"
+            >
+              <span className="text-xs uppercase tracking-widest font-bold">Find Your Subtype</span>
+              <span className="material-symbols-outlined text-[16px]">arrow_forward</span>
+            </Link>
+          </div>
+        )}
+
         {/* Strategies & Strengths Grid */}
         <div className="grid md:grid-cols-2 gap-8 mb-12">
           <div className="p-6 sm:p-8 border border-osmo-border hover:bg-osmo-surface transition-colors duration-500">

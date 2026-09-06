@@ -4,7 +4,7 @@ import { JWT } from 'google-auth-library';
 
 export async function POST(request: NextRequest) {
   try {
-    const { email, type, source } = await request.json();
+    const { email, type, source, subtype } = await request.json();
 
     if (!email) {
       return NextResponse.json({ error: 'Email is required' }, { status: 400 });
@@ -46,12 +46,22 @@ export async function POST(request: NextRequest) {
     // Get the first sheet
     const sheet = doc.sheetsByIndex[0];
 
-    // Add the email signup data
+    // Self-healing schema: Subtype was added after this sheet was first
+    // created, so extend the header row in place rather than requiring the
+    // write to fail if the column name doesn't already match exactly.
+    await sheet.loadHeaderRow();
+    if (!sheet.headerValues.includes('Subtype')) {
+      await sheet.setHeaderRow([...sheet.headerValues, 'Subtype']);
+    }
+
+    // Add the email signup data. Subtype is only populated by the avoidant
+    // subtype follow-up quiz; every other signup source leaves it blank.
     await sheet.addRow({
       Email: email,
       Type: type || '',
       Source: source || 'website',
       Timestamp: new Date().toISOString(),
+      Subtype: subtype || '',
     });
 
     return NextResponse.json({ success: true, message: 'Email added successfully' });

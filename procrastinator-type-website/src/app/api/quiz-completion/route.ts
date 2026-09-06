@@ -4,7 +4,7 @@ import { JWT } from 'google-auth-library';
 
 export async function POST(request: NextRequest) {
   try {
-    const { primaryType, secondaryType, confidence, matchStrength, neutralResponseRate } = await request.json();
+    const { primaryType, secondaryType, confidence, matchStrength, neutralResponseRate, subtype } = await request.json();
 
     // Check for required environment variables
     if (!process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL || !process.env.GOOGLE_PRIVATE_KEY || !process.env.GOOGLE_SHEET_ID) {
@@ -31,22 +31,26 @@ export async function POST(request: NextRequest) {
     if (!sheet) {
       sheet = await doc.addSheet({
         title: 'Quiz Completions',
-        headerValues: ['Primary Type', 'Secondary Type', 'Confidence', 'Timestamp', 'Match Strength', 'Neutral Response Rate']
+        headerValues: ['Primary Type', 'Secondary Type', 'Confidence', 'Timestamp', 'Match Strength', 'Neutral Response Rate', 'Subtype']
       });
     } else {
       // Self-healing schema: the sheet was created before Match Strength /
-      // Neutral Response Rate existed, so extend the header row in place on
-      // first write rather than requiring a manual migration.
+      // Neutral Response Rate / Subtype existed, so extend the header row in
+      // place on first write rather than requiring a manual migration.
       await sheet.loadHeaderRow();
-      if (!sheet.headerValues.includes('Match Strength')) {
-        await sheet.setHeaderRow([...sheet.headerValues, 'Match Strength', 'Neutral Response Rate']);
+      const missingHeaders = ['Match Strength', 'Neutral Response Rate', 'Subtype'].filter(
+        (header) => !sheet!.headerValues.includes(header)
+      );
+      if (missingHeaders.length > 0) {
+        await sheet.setHeaderRow([...sheet.headerValues, ...missingHeaders]);
       }
     }
 
     // Add the quiz completion data. Match Strength and Neutral Response Rate
     // are only computed by the improved (35-question) scoring path, so they
     // are blank for completions from the original quiz -- same pattern as
-    // Secondary Type and Confidence above.
+    // Secondary Type and Confidence above. Subtype is only populated by the
+    // avoidant subtype follow-up quiz.
     await sheet.addRow({
       'Primary Type': primaryType || '',
       'Secondary Type': secondaryType || '',
@@ -54,6 +58,7 @@ export async function POST(request: NextRequest) {
       'Timestamp': new Date().toISOString(),
       'Match Strength': typeof matchStrength === 'number' ? matchStrength : '',
       'Neutral Response Rate': typeof neutralResponseRate === 'number' ? neutralResponseRate : '',
+      'Subtype': subtype || '',
     });
 
     return NextResponse.json({ success: true, message: 'Quiz completion tracked' });
