@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Slogan Pin: Naturalist Plate</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --bg:#F3ECDA; --surface:#EDE3CB; --surface-2:#E0D3B4;
+  --ink:#3A3226; --ink-muted:#7C7060;
+  --chart-1:#4E7A34; --chart-2:#3A6FB0; --chart-3:#8F2F28; --chart-4:#9A7104;
+  --de-emphasis:#C9BC9E;
+  --font-display:'Cormorant Garamond',serif; --font-body:'EB Garamond',serif;
+}
+
+html, body { background: var(--bg); }
+body { width: var(--canvas-w); font-family: var(--font-body); color: var(--ink); }
+h1,.display { font-family:var(--font-display); font-weight:600; line-height:1;
+              text-transform:uppercase; letter-spacing:.1em; }
+.latin { font-style: italic; font-family: var(--font-body); }
+.figtag { font-variant: small-caps; letter-spacing: .06em; }
+
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; background: var(--bg);
+  padding: 54px 58px;
+}
+.foxing {
+  position: absolute; z-index: 0; pointer-events: none; border-radius: 50%;
+  background: radial-gradient(circle, rgba(58,50,38,0.10), transparent 70%);
+}
+.frame { position: absolute; inset: 26px; border: 2px solid var(--ink); pointer-events: none; z-index: 1; }
+.frame::after { content: ''; position: absolute; inset: 6px; border: 1px solid var(--ink); }
+
+.content { position: relative; z-index: 2; height: 100%; display: flex; flex-direction: column; padding: 30px 26px; }
+
+.plate-no { text-align: center; font-variant: small-caps; letter-spacing: .18em; font-size: 26px; color: var(--ink-muted); }
+.title { margin-top: 14px; text-align: center; font-size: 62px; }
+.latin-sub { margin-top: 10px; text-align: center; font-size: 32px; color: var(--chart-3); }
+
+/* ---- engraved specimen: a seated figure, head in hands, with a faint clock ---- */
+.plate-figure { flex: 1; position: relative; margin-top: 30px; display: flex; align-items: center; justify-content: center; }
+.plate-figure svg { width: 620px; height: 620px; }
+.leader { stroke: var(--ink); stroke-width: 1.4; fill: none; }
+.leader-dot { fill: none; stroke: var(--ink); stroke-width: 1.4; }
+.fig-label { font-size: 26px; }
+.fig-label .n { font-variant: small-caps; letter-spacing: .04em; color: var(--ink-muted); }
+
+.caption-strip {
+  margin-top: 26px; padding-top: 20px; border-top: 1px solid var(--ink);
+  font-size: 24px; line-height: 1.5; color: var(--ink-muted);
+}
+.caption-strip b { color: var(--ink); font-weight: 600; }
+
+.footer {
+  margin-top: 24px; display: flex; align-items: baseline; justify-content: space-between;
+  font-size: 26px;
+}
+.footer .cta { font-family: var(--font-display); font-weight: 700; font-size: 40px; color: var(--chart-3); }
+.footer .url { font-size: 24px; color: var(--ink-muted); }
+</style>
+</head>
+<body>
+<!-- COMPOSITION: Big Object — one engraved specimen (a seated figure caught
+     mid-avoidance) with three leader-labeled figures, plate chrome (frame,
+     plate number, Latin binomial) as mandatory world-building. Text sized
+     for thumbnail reading: title 62px, figure labels 26px, nothing smaller
+     than 24px. -->
+<div class="canvas" data-document-role="page" data-label="Slogan Pin — Naturalist Plate">
+  <div class="foxing" style="width:220px; height:220px; top:60px; left:-40px;"></div>
+  <div class="foxing" style="width:180px; height:180px; bottom:120px; right:-30px;"></div>
+  <div class="frame"></div>
+
+  <div class="content">
+    <div class="plate-no">Plate VII.</div>
+    <h1 class="title">The Common Procrastinator</h1>
+    <div class="latin-sub latin">Cras&#183;tinus Vulgaris</div>
+
+    <div class="plate-figure" data-hero>
+      <svg viewBox="0 0 620 620">
+        <!-- engraving: seated figure, elbows on knees, head down -->
+        <g fill="none" stroke="var(--ink)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+          <ellipse cx="310" cy="130" rx="46" ry="50" fill="color-mix(in srgb, var(--chart-4) 45%, var(--bg))"/>
+          <path d="M245 210 Q310 170 375 210 L390 420 Q310 460 230 420 Z" fill="color-mix(in srgb, var(--chart-2) 40%, var(--bg))"/>
+          <path d="M245 220 L170 330 L195 365 L260 290"/>
+          <path d="M375 220 L450 330 L425 365 L360 290"/>
+          <path d="M255 420 L235 520 L280 560"/>
+          <path d="M365 420 L385 520 L340 560"/>
+          <path d="M280 560 L340 560"/>
+        </g>
+        <!-- hatching shadow -->
+        <g stroke="var(--ink-muted)" stroke-width="1" opacity="0.4">
+          <line x1="250" y1="230" x2="380" y2="230"/>
+          <line x1="248" y1="250" x2="382" y2="250"/>
+          <line x1="246" y1="270" x2="384" y2="270"/>
+          <line x1="244" y1="290" x2="386" y2="290"/>
+        </g>
+        <!-- faint clock, ghosted -->
+        <g opacity="0.35">
+          <circle cx="470" cy="120" r="60" fill="none" stroke="var(--chart-3)" stroke-width="2"/>
+          <line x1="470" y1="120" x2="470" y2="82" stroke="var(--chart-3)" stroke-width="2.5" stroke-linecap="round"/>
+          <line x1="470" y1="120" x2="498" y2="130" stroke="var(--chart-3)" stroke-width="2.5" stroke-linecap="round"/>
+        </g>
+
+        <!-- leader lines + figure labels -->
+        <circle class="leader-dot" cx="310" cy="130" r="4"/>
+        <path class="leader" d="M330 110 L440 60"/>
+
+        <circle class="leader-dot" cx="470" cy="120" r="4"/>
+
+        <circle class="leader-dot" cx="245" cy="270" r="4"/>
+        <path class="leader" d="M225 270 L60 300"/>
+
+        <circle class="leader-dot" cx="280" cy="560" r="4"/>
+        <path class="leader" d="M280 580 L200 610"/>
+      </svg>
+
+      <div class="fig-label" style="position:absolute; left:660px; top:36px;"><span class="n">Fig. 1.</span> The mood veto</div>
+      <div class="fig-label" style="position:absolute; left:10px; top:280px; text-align:right; width:200px;"><span class="n">Fig. 2.</span> Avoidant posture</div>
+      <div class="fig-label" style="position:absolute; left:0px; top:580px; width:200px;"><span class="n">Fig. 3.</span> Deadline dependence</div>
+    </div>
+
+    <div class="caption-strip">
+      <b>Observed in the wild:</b> waits for motivation that never arrives, mistakes discomfort for danger, and does its best work nine minutes before it&rsquo;s too late. Seven documented subspecies exist &mdash; each with its own trigger, and its own cure.
+    </div>
+
+    <div class="footer">
+      <div class="cta">Identify your subspecies &rarr;</div>
+      <div class="url">procrastitype.jnorthwood.com</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

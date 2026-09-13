@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Slogan Pin: Dark Glass</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;800&family=Albert+Sans:ital,wght@0,400;0,500;0,700;1,400&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --bg:#0B0E17; --bg-2:#10141F;
+  --glass:rgb(255 255 255 / 0.06); --glass-border:1px solid rgb(255 255 255 / 0.14);
+  --ink:#EDF1FA; --ink-muted:#8B93A7;
+  --accent:#2B8CC4;
+  --chart-1:#2B8CC4; --chart-2:#BF7A20; --chart-3:#12A379; --chart-4:#8B6CF0; --chart-5:#E05590;
+  --de-emphasis:#3A4157;
+  --font-display:'Sora',sans-serif; --font-body:'Albert Sans',sans-serif; --font-data:'IBM Plex Mono',monospace;
+}
+
+html, body { background: var(--bg); }
+body { width: var(--canvas-w); font-family: var(--font-body); color: var(--ink); }
+h1,.display { font-family:var(--font-display); font-weight:800; letter-spacing:-0.02em; line-height:1.04; }
+
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; background: var(--bg);
+  padding: 60px 60px 50px;
+  display: flex; flex-direction: column;
+}
+.aurora { position: absolute; border-radius: 50%; filter: blur(2px); pointer-events: none; z-index: 0; }
+.dotgrid {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background-image: radial-gradient(rgb(255 255 255 / 0.12) 1.5px, transparent 1.8px);
+  background-size: 30px 30px;
+}
+
+.kicker {
+  position: relative; z-index: 2; font: 500 22px/1 var(--font-data); text-transform: uppercase;
+  letter-spacing: .18em; color: var(--accent);
+}
+.title { position: relative; z-index: 2; margin-top: 20px; font-size: 76px; }
+.title .grad {
+  background: linear-gradient(90deg, var(--accent), var(--chart-4));
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+
+.hero-wrap { position: relative; z-index: 1; flex: 1; display: flex; align-items: center; justify-content: center; margin-top: 20px; }
+.hero-mark {
+  font-family: var(--font-display); font-weight: 800; font-size: 380px; color: var(--accent);
+  filter: drop-shadow(0 0 16px rgba(43,140,196,0.65)) drop-shadow(0 0 56px rgba(139,108,240,0.45));
+  line-height: 1;
+}
+
+.panel {
+  position: relative; z-index: 3; margin-top: -130px;
+  background: var(--glass); border: var(--glass-border); border-radius: 24px;
+  backdrop-filter: blur(14px); padding: 52px 48px; text-align: center;
+}
+.panel .run { font-family: var(--font-display); font-weight: 800; font-size: 52px; color: var(--ink); }
+.panel .sub { margin-top: 14px; font: 500 28px/1.4 var(--font-body); color: var(--ink-muted); }
+.panel .btn {
+  margin-top: 30px; display: inline-block; background: var(--accent); color: #fff;
+  font-family: var(--font-display); font-weight: 700; font-size: 34px;
+  padding: 22px 46px; border-radius: 14px;
+  filter: drop-shadow(0 0 18px rgba(43,140,196,0.55));
+}
+
+.footer { position: relative; z-index: 2; margin-top: 30px; padding-bottom: 10px; text-align: center; font: 500 24px/1 var(--font-data); color: var(--de-emphasis); }
+</style>
+</head>
+<body>
+<!-- COMPOSITION: Overlap stack — a glowing hero "?" mark overlaps the top
+     edge of a frosted glass CTA panel. Aurora blobs + dot-grid constellation
+     behind, per style. Text sized for thumbnail reading: title 76px, panel
+     CTA 46px, nothing smaller than 22px. -->
+<div class="canvas" data-document-role="page" data-label="Slogan Pin — Dark Glass">
+  <div class="aurora" style="width:520px; height:520px; top:-120px; left:-100px; background:radial-gradient(circle, rgba(43,140,196,0.22), transparent 70%);"></div>
+  <div class="aurora" style="width:600px; height:600px; top:420px; right:-160px; background:radial-gradient(circle, rgba(139,108,240,0.20), transparent 70%);"></div>
+  <div class="aurora" style="width:460px; height:460px; bottom:-140px; left:120px; background:radial-gradient(circle, rgba(18,163,121,0.16), transparent 70%);"></div>
+  <div class="dotgrid"></div>
+
+  <div class="kicker">// procrastitype diagnostic</div>
+  <h1 class="title">You already know<br>the tips. You just<br><span class="grad">don&rsquo;t know your type.</span></h1>
+
+  <div class="hero-wrap" data-hero><div class="hero-mark">?</div></div>
+
+  <div class="panel">
+    <div class="run">Run the 2-minute scan</div>
+    <div class="sub">free &middot; 7 possible types &middot; instant result</div>
+    <div class="btn">Take the quiz &rarr;</div>
+  </div>
+
+  <div class="footer">// procrastitype.jnorthwood.com</div>
+</div>
+</body>
+</html>

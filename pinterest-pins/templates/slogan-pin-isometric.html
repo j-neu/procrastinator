@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Slogan Pin: Isometric World</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito+Sans:ital,opsz,wght@0,6..12,400;0,6..12,600;0,6..12,800;1,6..12,400&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --bg:#E8EDEF; --ground:#CFD8DB; --ground-2:#B8C2C6;
+  --ink:#22333B; --ink-muted:#5D6E75;
+  --chart-1:#D9503F; --chart-1-top:#E58272; --chart-1-dark:#A93A2D;
+  --chart-2:#009B7D; --chart-2-top:#4DB49D; --chart-2-dark:#007259;
+  --chart-3:#4A55C8; --chart-3-top:#7A82D8; --chart-3-dark:#363F9B;
+  --chart-4:#B57300; --chart-4-top:#CC9440; --chart-4-dark:#8A5700;
+  --de-emphasis:#AEB9BD;
+  --font-display:'Fredoka',sans-serif; --font-body:'Nunito Sans',sans-serif;
+}
+
+html, body { background: var(--bg); }
+body { width: var(--canvas-w); font-family: var(--font-body); color: var(--ink); }
+h1,.display { font-family:var(--font-display); font-weight:700; line-height:1; }
+
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; background: var(--bg);
+  padding: 54px 56px;
+  display: flex; flex-direction: column;
+}
+.glow {
+  position: absolute; z-index: 0; pointer-events: none; border-radius: 50%;
+  background: radial-gradient(circle, rgba(0,155,125,0.16), transparent 70%);
+  width: 900px; height: 900px; top: 480px; left: 50px;
+}
+
+.kicker { position: relative; z-index: 2; font: 800 26px/1 var(--font-body); text-transform: uppercase; letter-spacing: .06em; color: var(--ink-muted); }
+.title { position: relative; z-index: 2; margin-top: 14px; font-size: 74px; }
+.title .hl { color: var(--chart-2); }
+
+.scene { position: relative; z-index: 1; flex: 1; margin-top: 20px; }
+.tag {
+  position: absolute; z-index: 5; display: inline-block; background: #FFFFFF; border: 3px solid var(--ink);
+  border-radius: 10px; padding: 10px 18px; font-family: var(--font-display); font-weight: 700;
+}
+.tag.big { font-size: 40px; background: var(--chart-2); color: #fff; border-color: var(--chart-2-dark); }
+.tag.small { font-size: 26px; color: var(--ink-muted); background: var(--surface, #fff); opacity: 0.9; }
+
+.footer { position: relative; z-index: 2; margin-top: 18px; display: flex; flex-direction: column; align-items: center; gap: 10px; }
+.footer .sub { font: 600 26px/1.3 var(--font-body); color: var(--ink); text-align: center; }
+.footer .url { font: 700 22px/1 var(--font-body); color: var(--ink-muted); }
+</style>
+</head>
+<body>
+<!-- COMPOSITION: Big Object — one floating isometric diorama (slab +
+     destination tower, computed via the true-iso formula) with a dashed
+     road running through it past three muted "wrong turn" signposts to
+     one glowing "TAKE THE QUIZ" signpost at the tower. Text sized for
+     thumbnail reading: title 74px, the payoff tag 40px, nothing smaller
+     than 22px. -->
+<div class="canvas" data-document-role="page" data-label="Slogan Pin — Isometric World">
+  <div class="glow"></div>
+
+  <div class="kicker">Procrastitype</div>
+  <h1 class="title">Stop guessing why<br>you delay. <span class="hl">Find out.</span></h1>
+
+  <div class="scene" data-hero>
+    <svg viewBox="0 0 1000 1250" width="1000" height="1250" style="position:absolute; inset:0;">
+      <!-- ground slab: computed true-iso diamond, X0=500 Y0=560, S=48 -->
+      <polygon points="500,560 915.7,800 624.8,968 209,728" fill="var(--ground)"/>
+      <polygon points="915.7,800 915.7,824 624.8,992 624.8,968" fill="var(--ground-2)"/>
+      <polygon points="209,728 209,752 624.8,992 624.8,968" fill="var(--ground-2)"/>
+
+      <!-- destination tower at local (3,1)-(5,3), h=180, computed -->
+      <polygon points="583.1,476 666.3,524 583.1,572 500,524" fill="var(--chart-2-top)"/>
+      <polygon points="666.3,524 583.1,572 583.1,752 666.3,704" fill="var(--chart-2)"/>
+      <polygon points="583.1,572 500,524 500,704 583.1,752" fill="var(--chart-2-dark)"/>
+      <!-- flag on top -->
+      <line x1="583" y1="476" x2="583" y2="410" stroke="var(--ink)" stroke-width="4"/>
+      <path d="M583 410 L640 428 L583 446 Z" fill="var(--chart-1)"/>
+
+      <!-- dashed road winding from lower-left up to the tower -->
+      <path d="M230 900 Q 360 820 420 780 T 560 660" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+      <path d="M230 900 Q 360 820 420 780 T 560 660" fill="none" stroke="var(--ink)" stroke-width="2" stroke-dasharray="2 16" stroke-linecap="round"/>
+
+      <!-- walking figure on the road -->
+      <g transform="translate(300,865)">
+        <circle cx="0" cy="0" r="9" fill="var(--ink)"/>
+        <path d="M0 9 L0 38 M0 16 L-15 30 M0 16 L16 8 M0 38 L-11 60 M0 38 L12 60"
+              stroke="var(--ink)" stroke-width="5" stroke-linecap="round" fill="none"/>
+      </g>
+
+      <!-- trees -->
+      <g transform="translate(760,860)">
+        <rect x="-5" y="20" width="10" height="26" fill="#8a6a4a"/>
+        <polygon points="0,-40 32,26 -32,26" fill="var(--chart-2-dark)"/>
+        <polygon points="0,-14 24,26 -24,26" fill="var(--chart-2)"/>
+      </g>
+      <g transform="translate(250,700)">
+        <rect x="-4" y="14" width="8" height="20" fill="#8a6a4a"/>
+        <polygon points="0,-28 22,18 -22,18" fill="var(--chart-2-dark)"/>
+        <polygon points="0,-10 17,18 -17,18" fill="var(--chart-2)"/>
+      </g>
+
+      <!-- clouds -->
+      <g fill="#FFFFFF" opacity="0.9">
+        <ellipse cx="150" cy="140" rx="60" ry="22"/>
+        <ellipse cx="200" cy="130" rx="44" ry="18"/>
+        <ellipse cx="820" cy="180" rx="50" ry="20"/>
+      </g>
+    </svg>
+
+    <div class="tag small" style="left:40px; top:640px;">&ldquo;be more disciplined&rdquo;</div>
+    <div class="tag small" style="left:60px; top:770px;">&ldquo;just start earlier&rdquo;</div>
+    <div class="tag small" style="left:380px; top:900px;">&ldquo;try harder&rdquo;</div>
+    <div class="tag big" style="left:660px; top:530px;">TAKE THE QUIZ &rarr;</div>
+  </div>
+
+  <div class="footer">
+    <div class="sub">generic directions got you lost. your type is the map.</div>
+    <div class="url">procrastitype.jnorthwood.com</div>
+  </div>
+
+</div>
+</body>
+</html>
