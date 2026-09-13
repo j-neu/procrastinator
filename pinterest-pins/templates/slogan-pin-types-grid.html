@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Slogan Pin: 7 Types Grid</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,500;0,700;0,800;1,500&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --bg:#FDFBF4; --surface:#F4EFDF; --surface-2:#E9E2CC;
+  --ink:#2E2A25; --ink-muted:#7A7365;
+  --chart-1:#E4573D; --chart-2:#3E7CC1; --chart-3:#57A15A; --chart-4:#9268B8;
+  --de-emphasis:#C9C2AE;
+  --font-display:'Shantell Sans',cursive; --font-body:'Shantell Sans',cursive;
+  --font-aside:'Caveat',cursive;
+}
+
+html, body { background: var(--bg); }
+body { width: var(--canvas-w); font-family: var(--font-body); font-weight: 500; color: var(--ink); }
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; display: flex; flex-direction: column; align-items: center;
+  padding: 70px 56px 44px;
+}
+.paper-glow {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(ellipse 900px 700px at 50% 6%, rgba(255,255,255,0.9), rgba(253,251,244,0) 70%);
+}
+.scribble { position: absolute; z-index: 2; pointer-events: none; }
+
+.kicker {
+  font-family: var(--font-aside); font-weight: 700; font-size: 32px;
+  color: var(--chart-4); transform: rotate(-1.2deg); text-align: center;
+  position: relative; z-index: 1;
+}
+.headline {
+  margin-top: 14px; font-weight: 800; font-size: 52px; line-height: 1.16;
+  text-align: center; position: relative; z-index: 1;
+}
+.headline .hl { color: var(--chart-1); }
+
+.grid-wrap {
+  flex: 1; display: flex; align-items: center; justify-content: center;
+  position: relative; z-index: 1; width: 100%;
+}
+.grid {
+  position: relative;
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 76px 24px;
+  width: 100%;
+}
+.grid .spacer { visibility: hidden; }
+.type {
+  display: flex; flex-direction: column; align-items: center; gap: 18px;
+}
+.type .ring { position: relative; width: 216px; height: 216px; }
+.type .ring svg.rim { position: absolute; inset: 0; }
+.type .ring .ic { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
+.type .label { font-weight: 800; font-size: 23px; text-align: center; line-height: 1.24; }
+
+.tagline {
+  font-family: var(--font-aside); font-weight: 700; font-size: 30px;
+  color: var(--ink-muted); text-align: center; transform: rotate(-0.5deg);
+  position: relative; z-index: 1; margin-top: 14px;
+}
+
+.footer {
+  margin-top: 40px; position: relative; z-index: 1;
+  display: flex; flex-direction: column; align-items: center; gap: 16px;
+}
+.cta-btn {
+  background: var(--chart-1); color: #FDFBF4;
+  font-size: 32px; font-weight: 800; text-align: center; line-height: 1.2;
+  padding: 26px 46px; border: 3px solid var(--ink);
+  transform: rotate(-1deg);
+}
+.cta-sub {
+  font-family: var(--font-aside); font-weight: 700; font-size: 27px;
+  color: var(--ink); text-align: center;
+}
+.url { font-size: 20px; color: var(--ink-muted); text-align: center; font-weight: 600; }
+</style>
+</head>
+<body>
+<!-- TEMPLATE: Slogan Pin — 7 Types Grid. Row of 7 identity-colored rings,
+     each holding that type's icon (reused from the per-type pins) with a
+     short label underneath. 8th grid cell is an empty spacer to keep the
+     4+3 layout centered. -->
+<div class="canvas" data-document-role="page" data-label="Slogan Pin — 7 Types Grid">
+  <div class="paper-glow"></div>
+
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="wobble">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="4"/>
+    </filter>
+    <filter id="wobbleSm">
+      <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="2.5"/>
+    </filter>
+  </svg>
+
+  <svg class="scribble" style="top:8px; right:10px;" width="26" height="26" viewBox="0 0 24 24">
+    <path d="M12 2 L14.3 9.3 L22 12 L14.3 14.7 L12 22 L9.7 14.7 L2 12 L9.7 9.3 Z"
+          fill="var(--chart-1)" fill-opacity="0.85" filter="url(#wobbleSm)"/>
+  </svg>
+
+  <div class="kicker">PROCRASTITYPE</div>
+  <div class="headline">There are <span class="hl">7 kinds</span> of procrastination.<br>You&rsquo;re doing one of them.</div>
+
+  <div class="grid-wrap">
+  <div class="grid" data-hero>
+    <!-- Arousal — lightning, chart-1 -->
+    <div class="type">
+      <div class="ring">
+        <svg class="rim" viewBox="0 0 216 216"><circle cx="108" cy="108" r="98" fill="none" stroke="var(--chart-1)" stroke-width="7" filter="url(#wobble)"/></svg>
+        <div class="ic"><svg width="100" height="100" viewBox="0 0 54 54"><path d="M30 4 L14 30 L24 30 L20 50 L36 24 L26 24 Z" fill="var(--chart-1)" filter="url(#wobbleSm)"/></svg></div>
+      </div>
+      <div class="label">Arousal</div>
+    </div>
+    <!-- Avoidant — shield, chart-4 -->
+    <div class="type">
+      <div class="ring">
+        <svg class="rim" viewBox="0 0 216 216"><circle cx="108" cy="108" r="98" fill="none" stroke="var(--chart-4)" stroke-width="7" filter="url(#wobble)"/></svg>
+        <div class="ic"><svg width="100" height="100" viewBox="0 0 54 54"><path d="M27 6 C14 10 12 16 12 24 C12 36 20 44 27 48 C34 44 42 36 42 24 C42 16 40 10 27 6 Z" fill="var(--chart-4)" filter="url(#wobbleSm)"/></svg></div>
+      </div>
+      <div class="label">Avoidant</div>
+    </div>
+    <!-- Decisional — fork, chart-2 -->
+    <div class="type">
+      <div class="ring">
+        <svg class="rim" viewBox="0 0 216 216"><circle cx="108" cy="108" r="98" fill="none" stroke="var(--chart-2)" stroke-width="7" filter="url(#wobble)"/></svg>
+        <div class="ic"><svg width="100" height="100" viewBox="0 0 54 54"><path d="M25 6 L29 6 L29 22 L40 40 L36 44 L27 30 L18 44 L14 40 L25 22 Z" fill="var(--chart-2)" filter="url(#wobbleSm)"/></svg></div>
+      </div>
+      <div class="label">Decisional</div>
+    </div>
+    <!-- Perfectionist — magnifying glass, chart-3 -->
+    <div class="type">
+      <div class="ring">
+        <svg class="rim" viewBox="0 0 216 216"><circle cx="108" cy="108" r="98" fill="none" stroke="var(--chart-3)" stroke-width="7" filter="url(#wobble)"/></svg>
+        <div class="ic"><svg width="100" height="100" viewBox="0 0 54 54"><path d="M10 22 A12 12 0 1 1 34 22 A12 12 0 1 1 10 22 Z M31 31 L44 44 L40 48 L27 35 Z" fill="var(--chart-3)" filter="url(#wobbleSm)"/></svg></div>
+      </div>
+      <div class="label">Perfectionist</div>
+    </div>
+    <!-- Passive — Z glyph, chart-1 -->
+    <div class="type">
+      <div class="ring">
+        <svg class="rim" viewBox="0 0 216 216"><circle cx="108" cy="108" r="98" fill="none" stroke="var(--chart-1)" stroke-width="7" filter="url(#wobble)"/></svg>
+        <div class="ic"><svg width="100" height="100" viewBox="0 0 54 54"><path d="M14 14 L40 14 L40 20 L24 34 L40 34 L40 40 L14 40 L14 34 L30 20 L14 20 Z" fill="var(--chart-1)" filter="url(#wobbleSm)"/></svg></div>
+      </div>
+      <div class="label">Passive</div>
+    </div>
+    <!-- Active — rocket, chart-2 -->
+    <div class="type">
+      <div class="ring">
+        <svg class="rim" viewBox="0 0 216 216"><circle cx="108" cy="108" r="98" fill="none" stroke="var(--chart-2)" stroke-width="7" filter="url(#wobble)"/></svg>
+        <div class="ic"><svg width="100" height="100" viewBox="0 0 54 54"><path d="M22 46 L22 30 C22 16 27 8 27 8 C27 8 32 16 32 30 L32 46 Z M17 44 L10 50 L20 48 Z M37 44 L44 50 L34 48 Z" fill="var(--chart-2)" filter="url(#wobbleSm)"/></svg></div>
+      </div>
+      <div class="label">Active</div>
+    </div>
+    <!-- Emotion-Regulation — heart, chart-4 -->
+    <div class="type">
+      <div class="ring">
+        <svg class="rim" viewBox="0 0 216 216"><circle cx="108" cy="108" r="98" fill="none" stroke="var(--chart-4)" stroke-width="7" filter="url(#wobble)"/></svg>
+        <div class="ic"><svg width="100" height="100" viewBox="0 0 54 54"><path d="M27 42 C10 30 10 16 20 13 C25 11 27 16 27 16 C27 16 29 11 34 13 C44 16 44 30 27 42 Z" fill="var(--chart-4)" filter="url(#wobbleSm)"/></svg></div>
+      </div>
+      <div class="label">Emotion-<br>Regulation</div>
+    </div>
+    <div class="type spacer"></div>
+  </div>
+  </div>
+
+  <div class="tagline">generic advice targets none of them. this quiz finds yours.</div>
+
+  <div class="footer">
+    <div class="cta-btn">WHICH ONE ARE YOU?</div>
+    <div class="cta-sub">take the free 2-minute quiz</div>
+    <div class="url">procrastitype.jnorthwood.com</div>
+  </div>
+
+</div>
+</body>
+</html>

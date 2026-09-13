@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Slogan Pin: Quiz Card</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,500;0,700;0,800;1,500&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --bg:#FDFBF4; --surface:#F4EFDF; --surface-2:#E9E2CC;
+  --ink:#2E2A25; --ink-muted:#7A7365;
+  --chart-1:#E4573D; --chart-2:#3E7CC1; --chart-3:#57A15A; --chart-4:#9268B8;
+  --de-emphasis:#C9C2AE;
+  --id-color: var(--chart-2);
+  --font-display:'Shantell Sans',cursive; --font-body:'Shantell Sans',cursive;
+  --font-aside:'Caveat',cursive;
+}
+
+html, body { background: var(--bg); }
+body { width: var(--canvas-w); font-family: var(--font-body); font-weight: 500; color: var(--ink); }
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; display: flex; flex-direction: column; align-items: center;
+  padding: 64px 56px 40px;
+}
+.paper-glow {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(ellipse 900px 700px at 50% 4%, rgba(255,255,255,0.9), rgba(253,251,244,0) 70%);
+}
+.scribble { position: absolute; z-index: 2; pointer-events: none; }
+
+.kicker {
+  font-family: var(--font-aside); font-weight: 700; font-size: 30px;
+  color: var(--id-color); transform: rotate(-1.2deg); text-align: center;
+  position: relative; z-index: 1;
+}
+
+/* big ? avatar */
+.avatar { margin: 26px auto 0; position: relative; width: 260px; height: 260px; z-index: 1; }
+.avatar svg.rim { position: absolute; inset: 0; }
+.avatar .q { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+  font-weight: 800; font-size: 150px; color: var(--id-color); }
+
+.headline {
+  margin-top: 22px; font-weight: 800; font-size: 50px; line-height: 1.14;
+  text-align: center; position: relative; z-index: 1;
+}
+
+/* conversational card */
+.card {
+  margin-top: 46px; position: relative; z-index: 1; width: 100%;
+  padding: 46px 42px;
+}
+.card .frame { position: absolute; inset: 0; z-index: 0; }
+.card-head {
+  position: relative; z-index: 1;
+  font-family: var(--font-aside); font-weight: 700; font-size: 31px;
+  color: var(--ink); transform: rotate(-0.6deg); margin-bottom: 30px; text-align: center;
+}
+.bullet { position: relative; z-index: 1; display: flex; gap: 18px; align-items: flex-start; margin-top: 30px; }
+.bullet:first-of-type { margin-top: 0; }
+.bullet .dot { flex: none; width: 32px; height: 32px; margin-top: 4px; }
+.bullet .txt { font-size: 24px; line-height: 1.44; }
+.bullet .txt b { font-weight: 800; }
+
+.footer {
+  margin-top: 50px; position: relative; z-index: 1;
+  display: flex; flex-direction: column; align-items: center; gap: 16px;
+}
+.cta-btn {
+  background: var(--id-color); color: #FDFBF4;
+  font-size: 32px; font-weight: 800; text-align: center; line-height: 1.2;
+  padding: 26px 46px; border: 3px solid var(--ink);
+  transform: rotate(-1deg);
+}
+.cta-sub {
+  font-family: var(--font-aside); font-weight: 700; font-size: 26px;
+  color: var(--ink); text-align: center;
+}
+.url { font-size: 19px; color: var(--ink-muted); text-align: center; font-weight: 600; }
+</style>
+</head>
+<body>
+<!-- TEMPLATE: Slogan Pin — Quiz Card. Big "?" avatar up top, conversational
+     surface card with teaser bullets across a few types, warm CTA button. -->
+<div class="canvas" data-document-role="page" data-label="Slogan Pin — Quiz Card">
+  <div class="paper-glow"></div>
+
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="wobble">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="4"/>
+    </filter>
+    <filter id="wobbleSm">
+      <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="2.5"/>
+    </filter>
+  </svg>
+
+  <svg class="scribble" style="top:6px; right:10px;" width="26" height="26" viewBox="0 0 24 24">
+    <path d="M12 2 L14.3 9.3 L22 12 L14.3 14.7 L12 22 L9.7 14.7 L2 12 L9.7 9.3 Z"
+          fill="var(--id-color)" fill-opacity="0.85" filter="url(#wobbleSm)"/>
+  </svg>
+
+  <div class="kicker">PROCRASTITYPE</div>
+
+  <div class="avatar">
+    <svg class="rim" viewBox="0 0 260 260"><circle cx="130" cy="130" r="118" fill="var(--surface)" stroke="var(--id-color)" stroke-width="9" filter="url(#wobble)"/></svg>
+    <div class="q">?</div>
+  </div>
+
+  <div class="headline">What kind of procrastinator<br>are <i>you</i>?</div>
+
+  <div class="card" data-hero>
+    <svg class="frame" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <rect x="2" y="2" width="96" height="96" fill="var(--surface)" stroke="var(--ink)"
+            stroke-width="2.5" vector-effect="non-scaling-stroke" filter="url(#wobble)"/>
+    </svg>
+    <div class="card-head">&#8220;maybe you&rsquo;re the type who&hellip;&#8221;</div>
+
+    <div class="bullet">
+      <svg class="dot" viewBox="0 0 30 30"><circle cx="15" cy="15" r="13" fill="var(--chart-1)" filter="url(#wobbleSm)"/></svg>
+      <div class="txt"><b>only starts when the deadline is close enough to hurt.</b></div>
+    </div>
+    <div class="bullet">
+      <svg class="dot" viewBox="0 0 30 30"><circle cx="15" cy="15" r="13" fill="var(--chart-4)" filter="url(#wobbleSm)"/></svg>
+      <div class="txt"><b>avoids the task because the outcome might say something about you.</b></div>
+    </div>
+    <div class="bullet">
+      <svg class="dot" viewBox="0 0 30 30"><circle cx="15" cy="15" r="13" fill="var(--chart-3)" filter="url(#wobbleSm)"/></svg>
+      <div class="txt"><b>can't start until the plan is perfect &mdash; and it never is.</b></div>
+    </div>
+    <div class="bullet">
+      <svg class="dot" viewBox="0 0 30 30"><circle cx="15" cy="15" r="13" fill="var(--chart-2)" filter="url(#wobbleSm)"/></svg>
+      <div class="txt"><b>waits for the mood to show up before doing anything.</b></div>
+    </div>
+    <div class="bullet">
+      <svg class="dot" viewBox="0 0 30 30"><circle cx="15" cy="15" r="13" fill="var(--chart-1)" filter="url(#wobbleSm)"/></svg>
+      <div class="txt"><b>says &ldquo;I work best under pressure&rdquo; a little too often.</b></div>
+    </div>
+    <div class="bullet">
+      <svg class="dot" viewBox="0 0 30 30"><circle cx="15" cy="15" r="13" fill="var(--chart-4)" filter="url(#wobbleSm)"/></svg>
+      <div class="txt"><b>keeps missing deadlines with no real plan to speak of.</b></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="cta-btn">TAKE THE FREE QUIZ</div>
+    <div class="cta-sub">2 minutes &middot; 7 possible types</div>
+    <div class="url">procrastitype.jnorthwood.com</div>
+  </div>
+
+</div>
+</body>
+</html>

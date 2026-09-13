@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Slogan Pin: Poster Style</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,500;0,700;0,800;1,500&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --bg:#FDFBF4; --surface:#F4EFDF;
+  --ink:#2E2A25; --ink-muted:#B8B2A2;
+  --chart-1:#E4573D; --chart-2:#3E7CC1; --chart-3:#57A15A; --chart-4:#9268B8;
+  --id-color: var(--chart-1);
+  --font-display:'Shantell Sans',cursive; --font-body:'Shantell Sans',cursive;
+  --font-aside:'Caveat',cursive;
+}
+
+html, body { background: var(--ink); }
+body { width: var(--canvas-w); font-family: var(--font-body); font-weight: 500; color: var(--bg); }
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; background: var(--ink);
+  display: flex; flex-direction: column; align-items: center;
+  padding: 76px 64px 56px;
+}
+.paper-glow {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(ellipse 850px 650px at 50% 30%, rgba(255,255,255,0.06), rgba(0,0,0,0) 70%);
+}
+.scribble { position: absolute; z-index: 2; pointer-events: none; }
+
+.kicker {
+  font-family: var(--font-aside); font-weight: 700; font-size: 34px;
+  color: var(--id-color); transform: rotate(-1.4deg); text-align: center;
+  position: relative; z-index: 1;
+}
+
+/* slogan takes the dominant share of the canvas — Big Object composition,
+   the wordmark itself is the hero */
+.slogan-wrap {
+  flex: 1; display: flex; align-items: center; justify-content: center;
+  position: relative; z-index: 1; width: 100%;
+}
+.slogan {
+  font-weight: 800; font-size: 78px; line-height: 1.16; text-align: center;
+  letter-spacing: -1px; color: var(--bg);
+}
+.slogan .accent { color: var(--id-color); }
+.slogan .mark {
+  position: relative; display: inline-block; color: var(--ink);
+  background: var(--id-color); padding: 2px 14px 8px; transform: rotate(-1.5deg);
+  margin-top: 6px;
+}
+
+.divider { width: 120px; height: 4px; background: var(--id-color); opacity: 0.55; position: relative; z-index: 1; }
+
+.footer {
+  margin-top: 46px; position: relative; z-index: 1;
+  display: flex; flex-direction: column; align-items: center; gap: 16px;
+}
+.cta-btn {
+  background: var(--id-color); color: #FDFBF4;
+  font-size: 33px; font-weight: 800; text-align: center; line-height: 1.2;
+  padding: 27px 48px; border: 3px solid var(--bg);
+  transform: rotate(-1deg);
+}
+.cta-sub {
+  font-family: var(--font-aside); font-weight: 700; font-size: 27px;
+  color: var(--bg); text-align: center;
+}
+.url { font-size: 19px; color: var(--ink-muted); text-align: center; font-weight: 500; }
+</style>
+</head>
+<body>
+<!-- COMPOSITION: Big Object — the slogan wordmark itself is the hero,
+     filling the dominant vertical share of a full-bleed dark ground.
+     Kicker pinned top, CTA pinned bottom, slogan flex-centered between
+     them so there is no dead space regardless of line count. -->
+<div class="canvas" data-document-role="page" data-label="Slogan Pin — Poster">
+  <div class="paper-glow"></div>
+
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="wobbleSm">
+      <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="2.5"/>
+    </filter>
+  </svg>
+
+  <svg class="scribble" style="top:36px; right:44px;" width="30" height="30" viewBox="0 0 24 24">
+    <path d="M12 2 L14.3 9.3 L22 12 L14.3 14.7 L12 22 L9.7 14.7 L2 12 L9.7 9.3 Z"
+          fill="var(--id-color)" fill-opacity="0.9" filter="url(#wobbleSm)"/>
+  </svg>
+
+  <div class="kicker">PROCRASTITYPE</div>
+
+  <div class="slogan-wrap">
+    <div class="slogan" data-hero>
+      The productivity tips<br>
+      aren&rsquo;t broken.<br>
+      They&rsquo;re just <span class="mark">not for you.</span>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="footer">
+    <div class="cta-btn">TAKE THE FREE QUIZ</div>
+    <div class="cta-sub">find the advice that&rsquo;s actually for your type</div>
+    <div class="url">procrastitype.jnorthwood.com</div>
+  </div>
+
+</div>
+</body>
+</html>
