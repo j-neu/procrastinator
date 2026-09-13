@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Slogan Pin: Neon Sign</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --night: #0D0F1C; --night-2: #161A2E;
+  --brick: #1B1220;
+  --pink: #FF3FA4; --cyan: #37E9E1; --yellow: #FFD23F;
+  --ink: #EDEBF5; --ink-muted: #8890AC;
+  --font-script: 'Pacifico', cursive; --font-body: 'Rubik', sans-serif;
+}
+
+html, body { background: var(--night); }
+body { width: var(--canvas-w); font-family: var(--font-body); color: var(--ink); }
+
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; background: var(--night);
+  padding: 60px 56px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+}
+.brick {
+  position: absolute; inset: 0; z-index: 0; opacity: 0.5;
+  background-image:
+    linear-gradient(var(--brick) 2px, transparent 2px),
+    linear-gradient(90deg, var(--brick) 2px, transparent 2px);
+  background-size: 90px 46px;
+}
+.glow-wash {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(ellipse 700px 500px at 50% 38%, rgba(255,63,164,0.18), transparent 70%);
+}
+
+.kicker {
+  position: relative; z-index: 2; font-weight: 700; font-size: 26px; letter-spacing: .16em; text-transform: uppercase;
+  color: var(--cyan); text-shadow: 0 0 8px rgba(55,233,225,0.9), 0 0 22px rgba(55,233,225,0.6);
+}
+
+.sign-wrap { position: relative; z-index: 2; margin-top: 44px; text-align: center; }
+.neon-script {
+  font-family: var(--font-script); font-size: 138px; line-height: 1.18; color: #fff;
+  text-shadow:
+    0 0 6px #fff, 0 0 14px var(--pink), 0 0 30px var(--pink), 0 0 60px var(--pink), 0 0 100px rgba(255,63,164,0.5);
+}
+.neon-outline {
+  margin-top: 26px; font-family: var(--font-body); font-weight: 800; font-size: 58px; letter-spacing: .03em;
+  color: var(--yellow);
+  text-shadow: 0 0 6px #fff, 0 0 14px var(--yellow), 0 0 34px var(--yellow), 0 0 70px rgba(255,210,63,0.5);
+}
+
+.tube-frame {
+  position: relative; z-index: 2; margin-top: 76px; border: 6px solid var(--cyan); border-radius: 20px;
+  box-shadow: 0 0 10px var(--cyan), 0 0 26px rgba(55,233,225,0.7), inset 0 0 16px rgba(55,233,225,0.5);
+  padding: 50px 54px; text-align: center; flex: none;
+}
+.tube-frame .run {
+  font-weight: 800; font-size: 52px; color: var(--cyan);
+  text-shadow: 0 0 6px #fff, 0 0 16px var(--cyan), 0 0 36px rgba(55,233,225,0.8);
+}
+.tube-frame .sub { margin-top: 16px; font-weight: 500; font-size: 28px; color: var(--ink-muted); }
+
+.footer { position: relative; z-index: 2; margin-top: 60px; text-align: center; }
+.footer .url { font-weight: 700; font-size: 24px; color: var(--ink-muted); letter-spacing: .02em; }
+
+.sparkle { position: absolute; z-index: 1; border-radius: 50%; background: #fff; opacity: 0.8; }
+</style>
+</head>
+<body>
+<!-- COMPOSITION: Big Object — a hand-lettered neon-tube script sign is the
+     hero, framed by a second glowing tube CTA sign below, on a dark brick
+     wall. Original style (not from any skill file): CSS text-shadow
+     stacking for the tube-glow look, no illustration beyond the signs
+     themselves and a faint brick grid. -->
+<div class="canvas" data-document-role="page" data-label="Slogan Pin — Neon Sign">
+  <div class="brick"></div>
+  <div class="glow-wash"></div>
+  <div class="sparkle" style="width:5px; height:5px; top:120px; left:110px;"></div>
+  <div class="sparkle" style="width:4px; height:4px; top:220px; right:140px;"></div>
+  <div class="sparkle" style="width:6px; height:6px; bottom:420px; left:80px;"></div>
+  <div class="sparkle" style="width:4px; height:4px; bottom:380px; right:90px;"></div>
+
+  <div class="kicker">Procrastitype</div>
+
+  <div class="sign-wrap" data-hero>
+    <div class="neon-script">If &ldquo;just start&rdquo;<br>worked...</div>
+    <div class="neon-outline">you&rsquo;d have started already.</div>
+  </div>
+
+  <div class="tube-frame">
+    <div class="run">TAKE THE QUIZ</div>
+    <div class="sub">free &middot; 5 minutes &middot; open now</div>
+  </div>
+
+  <div class="footer">
+    <div class="url">procrastitype.jnorthwood.com</div>
+  </div>
+
+</div>
+</body>
+</html>

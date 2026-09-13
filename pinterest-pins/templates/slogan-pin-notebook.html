@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Slogan Pin: Notebook Page</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Kalam:wght@400;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --paper: #FEFCF6; --line: #C9DCEA; --margin: #F0A9A9;
+  --ink: #2B3A4A; --ink-muted: #6B7A8A;
+  --hi-1: #FFF06B; --hi-2: #9BE8C8;
+  --tape: #FCE79A;
+  --font-hand: 'Patrick Hand', cursive; --font-script: 'Kalam', cursive;
+}
+
+html, body { background: var(--paper); }
+body { width: var(--canvas-w); font-family: var(--font-hand); color: var(--ink); }
+
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; background: var(--paper);
+  padding: 70px 70px 60px 110px;
+  display: flex; flex-direction: column; justify-content: center;
+}
+.ruled {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background-image: repeating-linear-gradient(var(--paper) 0 61px, var(--line) 61px 63px);
+  background-position: 0 40px;
+}
+.margin-rule { position: absolute; top: 0; bottom: 0; left: 76px; width: 3px; background: var(--margin); z-index: 0; opacity: 0.75; }
+
+.tape {
+  position: absolute; z-index: 5; width: 160px; height: 46px; background: var(--tape); opacity: 0.85;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.12);
+}
+
+.content { position: relative; z-index: 2; }
+
+.kicker { font-family: var(--font-script); font-weight: 700; font-size: 26px; color: #B8562F; transform: rotate(-2deg); }
+.headline {
+  margin-top: 14px; font-size: 76px; line-height: 1.12; color: var(--ink);
+}
+.headline .hi {
+  background: linear-gradient(to bottom, transparent 55%, var(--hi-1) 55%);
+}
+
+.list { margin-top: 56px; }
+.item { display: flex; align-items: flex-start; gap: 22px; margin-top: 38px; }
+.item:first-child { margin-top: 0; }
+.box {
+  flex: none; width: 44px; height: 44px; border: 3.5px solid var(--ink); margin-top: 4px; position: relative;
+}
+.box.checked::before, .box.checked::after {
+  content: ''; position: absolute; background: #C0392B; height: 4px; top: 50%; left: 50%;
+  transform-origin: center;
+}
+.box.checked::before { width: 46px; transform: translate(-50%,-50%) rotate(45deg); }
+.box.checked::after { width: 46px; transform: translate(-50%,-50%) rotate(-45deg); }
+.item .txt { font-size: 34px; line-height: 1.32; }
+.item .txt b { font-weight: 400; }
+
+.footer { position: relative; z-index: 2; margin-top: 64px; text-align: center; }
+.cta-btn {
+  display: inline-block; font-family: var(--font-script); font-weight: 700; font-size: 50px; color: #B8562F;
+  border: 4px solid var(--ink); border-radius: 50% / 40%; padding: 20px 50px; transform: rotate(-1deg);
+}
+.footer .sub { margin-top: 18px; font-size: 28px; color: var(--ink-muted); }
+</style>
+</head>
+<body>
+<!-- COMPOSITION: Editorial-style checklist on ruled paper — original
+     style (not from any skill file): a planner/study-notes page with
+     margin rule, washi tape, a highlighter swipe on the key word, and a
+     hand-checked to-do list whose "check" is the joke (these are all
+     things you've already tried). -->
+<div class="canvas" data-document-role="page" data-label="Slogan Pin — Notebook Page">
+  <div class="ruled"></div>
+  <div class="margin-rule"></div>
+  <div class="tape" style="top:34px; left:270px; transform:rotate(-3deg);"></div>
+  <div class="tape" style="top:34px; right:110px; transform:rotate(3deg);"></div>
+
+  <div class="content">
+    <div class="kicker">procrastitype notes, pg. 12</div>
+    <h1 class="headline">Same deadline.<br><span class="hi">Different reason.</span></h1>
+
+    <div class="list" data-hero>
+      <div class="item">
+        <div class="box checked"></div>
+        <div class="txt">tried waking up earlier</div>
+      </div>
+      <div class="item">
+        <div class="box checked"></div>
+        <div class="txt">tried a better planner</div>
+      </div>
+      <div class="item">
+        <div class="box checked"></div>
+        <div class="txt">tried &ldquo;just starting&rdquo;</div>
+      </div>
+      <div class="item">
+        <div class="box checked"></div>
+        <div class="txt">tried a stricter habit tracker</div>
+      </div>
+      <div class="item">
+        <div class="box"></div>
+        <div class="txt"><b>found out why it keeps happening</b></div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="cta-btn">take the quiz</div>
+      <div class="sub">free &middot; 5 minutes &middot; procrastitype.jnorthwood.com</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

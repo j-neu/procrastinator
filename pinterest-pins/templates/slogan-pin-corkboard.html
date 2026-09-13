@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Slogan Pin: Corkboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Archivo:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --cork: #B98552; --cork-dark: #9C6C3F;
+  --note-1: #F7E27A; --note-2: #8FD3C7; --note-3: #F4A6A0; --note-4: #C9B6E4;
+  --ink: #2A1F14; --paper: #FBF6E9;
+  --string: #C22B1F;
+  --font-hand: 'Kalam', cursive; --font-display: 'Archivo', sans-serif;
+}
+
+html, body { background: var(--cork); }
+body { width: var(--canvas-w); font-family: var(--font-display); color: var(--ink); }
+
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; background: var(--cork);
+  padding: 50px 46px;
+}
+.cork-texture {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background-image: radial-gradient(var(--cork-dark) 1.6px, transparent 1.8px);
+  background-size: 14px 14px; opacity: 0.35;
+}
+.vignette {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(ellipse 900px 1100px at 50% 40%, rgba(0,0,0,0), rgba(0,0,0,0.28) 100%);
+}
+
+.kicker {
+  position: relative; z-index: 3; font-weight: 800; font-size: 26px; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--paper); text-align: center;
+}
+.headline {
+  position: relative; z-index: 3; margin-top: 14px; font-weight: 800; font-size: 62px; line-height: 1.08;
+  text-align: center; color: var(--paper);
+}
+
+.board { position: relative; z-index: 1; margin-top: 40px; height: 900px; }
+
+.string { position: absolute; z-index: 2; stroke: var(--string); stroke-width: 4; fill: none; }
+.pin { position: absolute; z-index: 5; width: 22px; height: 22px; border-radius: 50%; box-shadow: 0 3px 4px rgba(0,0,0,0.4); }
+
+.note {
+  position: absolute; z-index: 3; width: 260px; padding: 22px 22px 26px;
+  box-shadow: 5px 8px 14px rgba(0,0,0,0.35);
+  font-family: var(--font-hand); font-weight: 700; font-size: 28px; line-height: 1.28;
+}
+.note .strike { text-decoration: line-through; text-decoration-color: var(--string); text-decoration-thickness: 4px; opacity: 0.7; }
+
+.hero-card {
+  position: absolute; z-index: 4; width: 400px; background: var(--paper);
+  padding: 34px 32px; box-shadow: 8px 12px 22px rgba(0,0,0,0.4);
+  text-align: center;
+}
+.hero-card .h { font-family: var(--font-display); font-weight: 800; font-size: 40px; line-height: 1.12; color: var(--ink); }
+.hero-card .s { margin-top: 14px; font-family: var(--font-hand); font-weight: 700; font-size: 24px; color: #6B5B3A; }
+
+.footer {
+  position: relative; z-index: 3; margin-top: 20px; display: flex; flex-direction: column; align-items: center; gap: 14px;
+}
+.cta-btn {
+  background: var(--string); color: var(--paper); font-family: var(--font-display); font-weight: 800;
+  font-size: 34px; padding: 22px 44px; transform: rotate(-1.5deg); box-shadow: 4px 6px 0 rgba(0,0,0,0.3);
+}
+.url { font-weight: 700; font-size: 22px; color: var(--paper); }
+</style>
+</head>
+<body>
+<!-- COMPOSITION: Overlap stack — a corkboard covered in crossed-out generic
+     tip notes, red string tying each to one clean "find your type" index
+     card in the center. Original style (not from any skill file):
+     pinned paper on cork, hand lettering for the crossed-out generic
+     advice, a clean printed card for the one thing that isn't generic. -->
+<div class="canvas" data-document-role="page" data-label="Slogan Pin — Corkboard">
+  <div class="cork-texture"></div>
+  <div class="vignette"></div>
+
+  <div class="kicker">Procrastitype</div>
+  <div class="headline">Not all procrastination<br>is the same.</div>
+
+  <div class="board" data-hero>
+    <svg width="908" height="900" style="position:absolute; top:0; left:0; z-index:2;">
+      <path class="string" d="M120 140 Q 420 260 500 420"/>
+      <path class="string" d="M760 170 Q 560 300 520 430"/>
+      <path class="string" d="M150 620 Q 380 520 500 460"/>
+      <path class="string" d="M780 660 Q 600 540 530 460"/>
+    </svg>
+
+    <div class="note" style="background:var(--note-1); left:20px; top:60px; transform:rotate(-6deg);">
+      <span class="strike">Wake up at 5am.</span>
+    </div>
+    <div class="pin" style="background:#D6392C; left:130px; top:50px;"></div>
+
+    <div class="note" style="background:var(--note-2); right:10px; top:90px; transform:rotate(4deg); width:230px;">
+      <span class="strike">Just use a planner.</span>
+    </div>
+    <div class="pin" style="background:#2E6E5E; right:110px; top:80px;"></div>
+
+    <div class="note" style="background:var(--note-3); left:40px; bottom:170px; transform:rotate(3deg);">
+      <span class="strike">Try harder.</span>
+    </div>
+    <div class="pin" style="background:#9C3B33; left:150px; bottom:280px;"></div>
+
+    <div class="note" style="background:var(--note-4); right:0px; bottom:130px; transform:rotate(-4deg); width:230px;">
+      <span class="strike">Eat the frog first.</span>
+    </div>
+    <div class="pin" style="background:#5B4A87; right:100px; bottom:250px;"></div>
+
+    <div class="hero-card" style="left:50%; top:50%; transform:translate(-50%,-50%) rotate(-1deg);">
+      <div class="h">Neither<br>is the fix.</div>
+      <div class="s">find out what actually works for you</div>
+    </div>
+    <div class="pin" style="background:#1A1A1A; left:50%; top:calc(50% - 158px); transform:translateX(-50%);"></div>
+  </div>
+
+  <div class="footer">
+    <div class="cta-btn">TAKE THE QUIZ</div>
+    <div class="url">procrastitype.jnorthwood.com &middot; free, 5 minutes</div>
+  </div>
+
+</div>
+</body>
+</html>
