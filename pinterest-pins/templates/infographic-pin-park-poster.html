@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Infographic Pin: Park Poster</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600&family=Jost:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --bg:#F2E4C0; --surface:#F8EFD8; --surface-2:#E5D5AC;
+  --ink:#262E22; --ink-muted:#5C6353;
+  --chart-1:#BF4F26; --chart-2:#177A5B; --chart-3:#9E750F; --chart-4:#1D6396;
+  --de-emphasis:#C8B98F;
+  --font-display:'Oswald',sans-serif; --font-body:'Jost',sans-serif;
+}
+
+html, body { background: var(--bg); }
+body { width: var(--canvas-w); font-family: var(--font-body); color: var(--ink); }
+h1,.display { font-family:var(--font-display); font-weight:600; line-height:1.02;
+              text-transform:uppercase; letter-spacing:.08em; }
+
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; background: linear-gradient(180deg, #EFCE7E 0%, var(--bg) 42%, var(--bg) 100%);
+}
+.grain {
+  position: absolute; inset: 0; z-index: 40; pointer-events: none;
+  opacity: .25; mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.6 0.6 0.6 0 0'/%3E%3C/filter%3E%3Crect width='240' height='240' filter='url(%23n)' opacity='0.35'/%3E%3C/svg%3E");
+}
+.poster-frame { position: absolute; inset: 0; z-index: 41; pointer-events: none; border: 13px solid var(--ink); }
+
+.kicker-top {
+  position: absolute; top: 34px; left: 0; right: 0; z-index: 10; text-align: center;
+  font: 500 14px/1 var(--font-body); text-transform: uppercase; letter-spacing: .22em; color: var(--ink-muted);
+}
+
+/* ---- the vista: sun, far/mid/near ranges, foreground ledge + hiker ---- */
+.scene { position: absolute; inset: 0; z-index: 1; }
+
+/* ---- peak labels ---- */
+.peak-label {
+  position: absolute; z-index: 8; text-align: center; width: 150px; margin-left: -75px;
+  font: 500 16px/1.15 var(--font-body); text-transform: uppercase; letter-spacing: .04em; color: var(--ink);
+}
+
+/* ---- title band + ranger footer ---- */
+.band-wrap { position: absolute; left: 13px; right: 13px; bottom: 13px; z-index: 20; }
+.title-band {
+  background: var(--ink); padding: 30px 40px 22px; text-align: center; position: relative;
+}
+.title-band::before {
+  content: ''; position: absolute; top: 0; left: 40px; right: 40px; height: 2px; background: var(--surface);
+}
+.title-band .t1 { font-size: 34px; color: var(--surface); }
+.title-band .t2 { font-size: 54px; color: var(--surface); margin-top: 2px; }
+.title-band .sub { margin-top: 14px; font: 400 18px/1.4 var(--font-body); font-style: italic; color: var(--de-emphasis); }
+.ranger-footer {
+  background: #1A2016; padding: 14px 40px; display: flex; align-items: center; justify-content: space-between;
+  font: 500 13px/1.3 var(--font-body); text-transform: uppercase; letter-spacing: .16em; color: var(--surface-2);
+}
+.ranger-footer .cta { color: var(--chart-3); }
+</style>
+</head>
+<body>
+<!-- COMPOSITION: Big Object — a single continuous WPA-style vista (the
+     "Seven Peaks" skyline) dominates the canvas; each peak IS one
+     procrastination type, direct-labeled with a leader tick. Depth planes
+     (sky -> sun -> far range -> mid range -> near/labeled range ->
+     foreground ledge + hiker) per park-poster rule zero. Title band +
+     ranger footer are the mandatory world-building close. No numeric
+     elevations are shown — peak height is compositional rhythm only, not
+     a claimed statistic. -->
+<div class="canvas" data-document-role="page" data-label="Infographic Pin — Park Poster">
+
+  <div class="kicker-top">Procrastitype Field Guide &middot; Est. 2026</div>
+
+  <div class="scene">
+    <svg width="1000" height="1500" viewBox="0 0 1000 1500" preserveAspectRatio="none">
+      <!-- sun -->
+      <circle cx="500" cy="330" r="150" fill="var(--chart-3)" opacity="0.16"/>
+      <circle cx="500" cy="330" r="108" fill="var(--chart-3)" opacity="0.28"/>
+      <circle cx="500" cy="330" r="72" fill="var(--chart-3)"/>
+
+      <!-- far range: low, pale, soft undulation -->
+      <path d="M0 780 L0 700 Q120 640 240 690 T480 660 T740 700 T1000 660 L1000 780 Z"
+            fill="color-mix(in srgb, var(--chart-4) 38%, var(--bg))"/>
+
+      <!-- mid range: off-register tint copy, then true copy -->
+      <path d="M0 900 L0 760 Q160 680 320 740 T640 700 T1000 750 L1000 900 Z"
+            fill="color-mix(in srgb, var(--chart-2) 55%, var(--bg))" transform="translate(3,2)" opacity="0.55"/>
+      <path d="M0 900 L0 760 Q160 680 320 740 T640 700 T1000 750 L1000 900 Z"
+            fill="color-mix(in srgb, var(--chart-2) 62%, var(--bg))"/>
+
+      <!-- near range: the 7 labeled peaks (hero) -->
+      <g data-hero>
+        <path d="M-20 1260 L80 760 L180 1260 Z" fill="var(--chart-1)" stroke="var(--bg)" stroke-width="3"/>
+        <path d="M100 1260 L220 660 L360 1260 Z" fill="var(--chart-2)" stroke="var(--bg)" stroke-width="3"/>
+        <path d="M300 1260 L360 800 L460 1260 Z" fill="var(--chart-3)" stroke="var(--bg)" stroke-width="3"/>
+        <path d="M420 1260 L500 880 L600 1260 Z" fill="var(--chart-4)" stroke="var(--bg)" stroke-width="3"/>
+        <path d="M540 1260 L640 700 L740 1260 Z" fill="var(--chart-1)" stroke="var(--bg)" stroke-width="3"/>
+        <path d="M680 1260 L760 840 L860 1260 Z" fill="var(--chart-2)" stroke="var(--bg)" stroke-width="3"/>
+        <path d="M800 1260 L900 720 L1020 1260 Z" fill="var(--chart-3)" stroke="var(--bg)" stroke-width="3"/>
+      </g>
+
+      <!-- leader lines: peak tip -> label -->
+      <g stroke="var(--ink)" stroke-width="1.5" opacity="0.5">
+        <line x1="80" y1="760" x2="130" y2="678"/>
+        <line x1="220" y1="660" x2="290" y2="578"/>
+        <line x1="360" y1="800" x2="410" y2="718"/>
+        <line x1="500" y1="880" x2="550" y2="798"/>
+        <line x1="640" y1="700" x2="690" y2="618"/>
+        <line x1="760" y1="840" x2="810" y2="758"/>
+        <line x1="900" y1="720" x2="910" y2="654"/>
+      </g>
+
+      <!-- foreground ledge -->
+      <path d="M0 1500 L0 1210 Q250 1160 500 1200 T1000 1190 L1000 1500 Z" fill="var(--ink)"/>
+
+      <!-- scale figure: hiker on the ledge -->
+      <g transform="translate(150,1155)">
+        <circle cx="0" cy="0" r="7" fill="var(--surface)"/>
+        <path d="M0 7 L0 30 M0 12 L-13 24 M0 12 L14 6 M0 30 L-9 48 M0 30 L10 48"
+              stroke="var(--surface)" stroke-width="4" stroke-linecap="round" fill="none"/>
+      </g>
+    </svg>
+
+    <div class="peak-label" style="left:130px; top:640px;">Arousal</div>
+    <div class="peak-label" style="left:290px; top:540px;">Avoidant</div>
+    <div class="peak-label" style="left:410px; top:680px;">Decisional</div>
+    <div class="peak-label" style="left:550px; top:760px;">Perfectionist</div>
+    <div class="peak-label" style="left:690px; top:580px;">Passive</div>
+    <div class="peak-label" style="left:810px; top:720px;">Active</div>
+    <div class="peak-label" style="left:910px; top:600px;">Emotion-<br>Regulation</div>
+  </div>
+
+  <div class="band-wrap">
+    <div class="title-band">
+      <div class="t1 display">The Seven Peaks</div>
+      <div class="t2 display">of Procrastination</div>
+      <div class="sub">every peak needs a different trail up.</div>
+    </div>
+    <div class="ranger-footer">
+      <span>Procrastitype Field Guide</span>
+      <span class="cta">Free Quiz &middot; procrastitype.jnorthwood.com</span>
+    </div>
+  </div>
+
+  <div class="grain"></div>
+  <div class="poster-frame"></div>
+</div>
+</body>
+</html>

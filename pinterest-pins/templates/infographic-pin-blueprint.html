@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Infographic Pin: Blueprint</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600;700&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --bg:#123A66; --bg-2:#0D3054;
+  --line:#D8E8F8; --line-soft:rgb(216 232 248 / 0.45);
+  --ink:#EAF2FB; --ink-muted:#9FB8D4;
+  --chart-1:#3E9BD6; --chart-2:#B8860B; --chart-3:#C75B9B; --chart-4:#6F9436;
+  --de-emphasis:#2A537F;
+  --font-display:'Saira Condensed',sans-serif; --font-body:'IBM Plex Mono',monospace;
+  --space-1:8px; --space-2:16px; --space-3:24px; --space-4:40px; --space-5:56px;
+}
+
+html, body { background: var(--bg); }
+body { width: var(--canvas-w); font-family: var(--font-body); color: var(--ink); }
+h1,.display { font-family:var(--font-display); font-weight:700; text-transform:uppercase;
+              letter-spacing:.04em; line-height:.95; }
+
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; background: var(--bg);
+  padding: 46px 40px 34px;
+}
+.vignette {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(ellipse 900px 1100px at 50% 20%, rgba(255,255,255,0.05), rgba(0,0,0,0) 65%);
+}
+.grid-bg {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background-image:
+    linear-gradient(var(--line-soft) 1px, transparent 1px),
+    linear-gradient(90deg, var(--line-soft) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+.frame { position: absolute; inset: 12px; z-index: 1; pointer-events: none; border: 2px solid var(--line); }
+.frame::after { content:''; position: absolute; inset: 4px; border: 1px solid var(--line-soft); }
+.reg { position: absolute; z-index: 2; width: 18px; height: 18px; }
+.reg::before, .reg::after { content:''; position:absolute; background: var(--line-soft); }
+.reg::before { left:50%; top:0; bottom:0; width:1px; transform:translateX(-50%); }
+.reg::after { top:50%; left:0; right:0; height:1px; transform:translateY(-50%); }
+
+.content { position: relative; z-index: 2; height: 100%; display: flex; flex-direction: column; }
+
+.kicker {
+  font-family: var(--font-body); font-size: 13px; letter-spacing: .18em;
+  color: var(--chart-2); text-transform: uppercase; margin-bottom: 10px;
+}
+.title { font-size: 52px; color: var(--ink); }
+.title .hl { color: var(--chart-1); }
+.subline {
+  margin-top: 14px; font-size: 14px; color: var(--ink-muted); line-height: 1.6;
+  max-width: 640px;
+}
+
+/* ---- specimen grid: 7 diagnosed parts + dimension leaders ---- */
+.grid {
+  margin-top: 44px; position: relative;
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 48px 18px;
+}
+.part { display: flex; flex-direction: column; align-items: center; position: relative; }
+.part .partno { font-size: 13px; color: var(--ink-muted); letter-spacing: .1em; margin-bottom: 8px; }
+.part .panel {
+  position: relative; width: 100%; aspect-ratio: 0.8; border: 2px solid var(--line);
+  display: flex; align-items: center; justify-content: center;
+}
+.part .panel .tick { position: absolute; width: 6px; height: 6px; border: 1px solid var(--line-soft); }
+.part .panel .tick.tl { top: -1px; left: -1px; border-right:none; border-bottom:none; }
+.part .panel .tick.tr { top: -1px; right: -1px; border-left:none; border-bottom:none; }
+.part .panel .tick.bl { bottom: -1px; left: -1px; border-right:none; border-top:none; }
+.part .panel .tick.br { bottom: -1px; right: -1px; border-left:none; border-top:none; }
+.part .name {
+  margin-top: 12px; font-family: var(--font-display); font-weight: 600;
+  font-size: 20px; text-transform: uppercase; letter-spacing: .02em; text-align: center;
+}
+.part .tag {
+  margin-top: 5px; font-size: 12.5px; color: var(--ink-muted); text-align: center; line-height: 1.4;
+}
+.part.spacer { visibility: hidden; }
+
+.spec-strip {
+  margin-top: 50px; position: relative; display: flex; align-items: center; gap: 16px;
+}
+.spec-strip .tick-l, .spec-strip .tick-r { flex: 1; height: 1px; background: var(--line-soft); position: relative; }
+.spec-strip .tick-l::after, .spec-strip .tick-r::after {
+  content: ''; position: absolute; top: -4px; width: 1px; height: 9px; background: var(--line-soft);
+}
+.spec-strip .tick-l::after { right: 0; }
+.spec-strip .tick-r::after { left: 0; }
+.spec-strip .label {
+  flex: none; font-size: 13px; color: var(--chart-2); letter-spacing: .1em; text-transform: uppercase;
+}
+
+/* revision cloud on one featured part */
+.cloud { position: absolute; z-index: -1; }
+.rev-tag {
+  position: absolute; top: -14px; right: -10px; z-index: 3;
+  background: var(--bg-2); border: 1px solid var(--chart-2); color: var(--chart-2);
+  font-size: 12px; letter-spacing: .08em; padding: 3px 7px; transform: rotate(-2deg);
+}
+
+/* ---- footer: CTA stamp + title block ---- */
+.footer-row {
+  margin-top: 46px; position: relative;
+  display: flex; align-items: flex-end; justify-content: space-between; gap: 20px;
+}
+.cta-stamp {
+  flex: 1; min-width: 0; border: 2px solid var(--chart-1); padding: 20px 24px; position: relative;
+}
+.cta-stamp::after { content:''; position:absolute; inset: 5px; border: 1px solid rgba(62,155,214,0.4); }
+.cta-stamp .run { font-family: var(--font-display); font-weight: 700; font-size: 27px;
+  text-transform: uppercase; color: var(--chart-1); letter-spacing: .02em; white-space: nowrap; }
+.cta-stamp .sub { margin-top: 6px; font-size: 12.5px; color: var(--ink-muted); letter-spacing: .03em; }
+
+.titleblock {
+  flex: none; width: 390px; border: 2px solid var(--line); background: var(--bg-2);
+}
+.titleblock .row { display: flex; border-top: 1px solid var(--line-soft); font-size: 13px; }
+.titleblock .row:first-child { border-top: none; }
+.titleblock .row .k { flex: none; width: 100px; padding: 9px 10px; color: var(--ink-muted); letter-spacing: .06em; border-right: 1px solid var(--line-soft); }
+.titleblock .row .v { padding: 9px 10px; color: var(--ink); min-width: 0; flex: 1; overflow-wrap: anywhere; }
+</style>
+</head>
+<body>
+<!-- COMPOSITION: Specimen sheet — 7 diagnosed "parts" (procrastination
+     failure modes) drawn as engineering-catalog line items on a cyanotype
+     sheet, with a stamped CTA and a title block as the mandatory footer
+     device. One part (Emotion-Regulation) carries a "REV A" callout, since
+     research literature treats it as the most recently identified type. -->
+<div class="canvas" data-document-role="page" data-label="Infographic Pin — Blueprint">
+  <div class="vignette"></div>
+  <div class="grid-bg"></div>
+  <div class="frame"></div>
+  <div class="reg" style="top:22px; left:22px;"></div>
+  <div class="reg" style="top:22px; right:22px;"></div>
+  <div class="reg" style="bottom:22px; left:22px;"></div>
+
+  <div class="content">
+    <div class="kicker">PROCRASTITYPE — DIAGNOSTIC SHEET NO. 07</div>
+    <h1 class="title">Procrastination:<br><span class="hl">7 failure modes.</span></h1>
+    <div class="subline">Every stalled task fails for a specific, identifiable reason. Cross-reference the parts catalog below and locate your pattern.</div>
+
+    <div class="grid" data-hero>
+      <div class="part">
+        <div class="partno">PART 01</div>
+        <div class="panel">
+          <div class="tick tl"></div><div class="tick tr"></div><div class="tick bl"></div><div class="tick br"></div>
+          <svg width="86" height="86" viewBox="0 0 54 54"><path d="M30 4 L14 30 L24 30 L20 50 L36 24 L26 24 Z" fill="none" stroke="var(--line)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></svg>
+        </div>
+        <div class="name">Arousal</div>
+        <div class="tag">TRIGGER: PRESSURE&nbsp;&amp;&nbsp;DEADLINE</div>
+      </div>
+      <div class="part">
+        <div class="partno">PART 02</div>
+        <div class="panel">
+          <div class="tick tl"></div><div class="tick tr"></div><div class="tick bl"></div><div class="tick br"></div>
+          <svg width="86" height="86" viewBox="0 0 54 54"><path d="M27 6 C14 10 12 16 12 24 C12 36 20 44 27 48 C34 44 42 36 42 24 C42 16 40 10 27 6 Z" fill="none" stroke="var(--line)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></svg>
+        </div>
+        <div class="name">Avoidant</div>
+        <div class="tag">TRIGGER: FEAR OF JUDGMENT</div>
+      </div>
+      <div class="part">
+        <div class="partno">PART 03</div>
+        <div class="panel">
+          <div class="tick tl"></div><div class="tick tr"></div><div class="tick bl"></div><div class="tick br"></div>
+          <svg width="86" height="86" viewBox="0 0 54 54"><path d="M25 6 L29 6 L29 22 L40 40 L36 44 L27 30 L18 44 L14 40 L25 22 Z" fill="none" stroke="var(--line)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></svg>
+        </div>
+        <div class="name">Decisional</div>
+        <div class="tag">TRIGGER: THE CHOICE ITSELF</div>
+      </div>
+      <div class="part">
+        <div class="partno">PART 04</div>
+        <div class="panel">
+          <div class="tick tl"></div><div class="tick tr"></div><div class="tick bl"></div><div class="tick br"></div>
+          <svg width="86" height="86" viewBox="0 0 54 54"><path d="M10 22 A12 12 0 1 1 34 22 A12 12 0 1 1 10 22 Z M31 31 L44 44 L40 48 L27 35 Z" fill="none" stroke="var(--line)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></svg>
+        </div>
+        <div class="name">Perfectionist</div>
+        <div class="tag">TRIGGER: FLAWLESS OR NOTHING</div>
+      </div>
+      <div class="part">
+        <div class="partno">PART 05</div>
+        <div class="panel">
+          <div class="tick tl"></div><div class="tick tr"></div><div class="tick bl"></div><div class="tick br"></div>
+          <svg width="86" height="86" viewBox="0 0 54 54"><path d="M14 14 L40 14 L40 20 L24 34 L40 34 L40 40 L14 40 L14 34 L30 20 L14 20 Z" fill="none" stroke="var(--line)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></svg>
+        </div>
+        <div class="name">Passive</div>
+        <div class="tag">TRIGGER: NO SYSTEM</div>
+      </div>
+      <div class="part">
+        <div class="partno">PART 06</div>
+        <div class="panel">
+          <div class="tick tl"></div><div class="tick tr"></div><div class="tick bl"></div><div class="tick br"></div>
+          <svg width="86" height="86" viewBox="0 0 54 54"><path d="M22 46 L22 30 C22 16 27 8 27 8 C27 8 32 16 32 30 L32 46 Z M17 44 L10 50 L20 48 Z M37 44 L44 50 L34 48 Z" fill="none" stroke="var(--line)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></svg>
+        </div>
+        <div class="name">Active</div>
+        <div class="tag">TRIGGER: TIMING, NOT FEAR</div>
+      </div>
+      <div class="part">
+        <div class="partno">PART 07</div>
+        <div class="panel">
+          <div class="tick tl"></div><div class="tick tr"></div><div class="tick bl"></div><div class="tick br"></div>
+          <svg width="86" height="86" viewBox="0 0 54 54"><path d="M27 42 C10 30 10 16 20 13 C25 11 27 16 27 16 C27 16 29 11 34 13 C44 16 44 30 27 42 Z" fill="none" stroke="var(--line)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></svg>
+          <div class="rev-tag">REV A</div>
+        </div>
+        <div class="name">Emotion-<br>Regulation</div>
+        <div class="tag">TRIGGER: THE MOOD ITSELF</div>
+      </div>
+      <div class="part spacer"></div>
+    </div>
+
+    <div class="spec-strip">
+      <div class="tick-l"></div>
+      <div class="label">7 patterns identified &middot; one is yours</div>
+      <div class="tick-r"></div>
+    </div>
+
+    <div class="footer-row">
+      <div class="cta-stamp">
+        <div class="run">&rarr; Run the diagnostic</div>
+        <div class="sub">free · 2 minutes · identifies your exact failure mode</div>
+      </div>
+      <div class="titleblock">
+        <div class="row"><div class="k">TITLE</div><div class="v">Procrastination Types</div></div>
+        <div class="row"><div class="k">DWG NO</div><div class="v">PT&#8209;007&#8209;QUIZ</div></div>
+        <div class="row"><div class="k">SCALE</div><div class="v">N.T.S.</div></div>
+        <div class="row"><div class="k">SOURCE</div><div class="v">procrastitype.jnorthwood.com</div></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
