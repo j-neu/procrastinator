@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Single Image Pin Template</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,500;0,700;0,800;1,500&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --bg:#FDFBF4; --surface:#F4EFDF; --surface-2:#E9E2CC;
+  --ink:#2E2A25; --ink-muted:#7A7365;
+  --chart-1:#E4573D; --chart-2:#3E7CC1; --chart-3:#57A15A; --chart-4:#9268B8;
+  --de-emphasis:#C9C2AE;
+  --id-color: var(--chart-4); /* swap to chart-1/2/3/4 per topic */
+  --font-display:'Shantell Sans',cursive; --font-body:'Shantell Sans',cursive;
+  --font-aside:'Caveat',cursive;
+}
+
+html, body { background: var(--bg); }
+body { width: var(--canvas-w); font-family: var(--font-body); font-weight: 500; color: var(--ink); }
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; display: flex; flex-direction: column; padding: 32px 48px 20px;
+}
+.paper-glow {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(ellipse 900px 700px at 50% 6%, rgba(255,255,255,0.9), rgba(253,251,244,0) 70%);
+}
+h1, .display { font-weight: 800; line-height: 1.05; }
+
+.header-row { display: flex; align-items: center; gap: 22px; position: relative; z-index: 1; }
+.header-side { flex: 1.35; min-width: 0; }
+.title { flex: none; font-size: 40px; letter-spacing: -0.5px; text-align: right; color: var(--ink-muted); }
+.kicker {
+  font-family: var(--font-aside); font-weight: 700; font-size: 47px; line-height: 1.1;
+  color: var(--id-color); transform: rotate(-1.2deg); display: inline-block; margin-bottom: 10px;
+}
+.subhead {
+  font-family: var(--font-aside); font-weight: 600; font-size: 22px; line-height: 1.32;
+  color: var(--ink-muted); transform: rotate(-0.4deg);
+}
+.subhead b { color: var(--ink); font-weight: 700; }
+
+.scribble { position: absolute; z-index: 2; pointer-events: none; }
+
+/* ---- hero: Big Object icon, stacked & centered ---- */
+.hero-row { margin-top: 58px; display: flex; align-items: center; gap: 38px; position: relative; z-index: 1; }
+.hero-circle { position: relative; width: 350px; height: 350px; flex: none; }
+.hero-circle .ic { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
+.hero-caption { font-size: 33px; font-weight: 700; line-height: 1.46; flex: 1; }
+
+/* ---- versus panel (the hero data element) ---- */
+.versus { margin-top: 66px; display: flex; gap: 24px; position: relative; z-index: 1; }
+.col { flex: 1; position: relative; height: 574px; }
+.col .frame { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 0; }
+.col .inner { position: relative; z-index: 1; padding: 74px 26px 34px; }
+.col-head {
+  position: absolute; top: -18px; left: 16px; right: 16px; z-index: 2;
+  text-align: center; color: #FDFBF4; font-weight: 800; font-size: 24px;
+  padding: 9px 8px; border: 2.5px solid var(--ink);
+}
+.col.works .col-head { background: var(--chart-3); transform: rotate(-1deg); }
+.col.doesnt .col-head { background: var(--chart-1); transform: rotate(1deg); }
+
+.item { display: flex; gap: 14px; align-items: flex-start; margin-top: 30px; }
+.item:first-child { margin-top: 0; }
+.item .mark { flex: none; width: 36px; height: 36px; margin-top: 3px; }
+.item .txt { font-size: 20.5px; line-height: 1.44; }
+.item .txt b { display: block; font-weight: 800; font-size: 22.5px; margin-bottom: 4px; }
+
+/* ---- footer / CTA: two columns, centered as one bundle ---- */
+.footer {
+  margin-top: 40px; position: relative; z-index: 1;
+  display: flex; align-items: center; justify-content: center; gap: 30px;
+}
+.cta-btn {
+  background: var(--id-color); color: #FDFBF4;
+  font-size: 28px; font-weight: 800; text-align: center; line-height: 1.28;
+  padding: 26px 22px; border: 3px solid var(--ink);
+  transform: rotate(-1deg); width: 220px;
+}
+.footer-info { flex: none; text-align: left; }
+.cta-sub {
+  font-family: var(--font-aside); font-weight: 700; font-size: 30px;
+  color: var(--ink); transform: rotate(-0.4deg);
+}
+.url { font-size: 21px; color: var(--ink-muted); margin-top: 9px; font-weight: 600; }
+.credit { font-size: 15px; color: var(--de-emphasis); margin-top: 11px; font-weight: 500; }
+</style>
+</head>
+<body>
+<!-- TEMPLATE: Single Image Pin — "What works / what doesn't" pattern.
+     Swap --id-color to var(--chart-1/2/3/4) per topic. Replace bracketed
+     placeholder copy and the hero icon path per use. -->
+<div class="canvas" data-document-role="page" data-label="Single Image Pin">
+  <div class="paper-glow"></div>
+
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="wobble">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="4"/>
+    </filter>
+    <filter id="wobbleSm">
+      <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="2.5"/>
+    </filter>
+  </svg>
+
+  <svg class="scribble" style="top:2px; right:6px;" width="24" height="24" viewBox="0 0 24 24">
+    <path d="M12 2 L14.3 9.3 L22 12 L14.3 14.7 L12 22 L9.7 14.7 L2 12 L9.7 9.3 Z"
+          fill="var(--id-color)" fill-opacity="0.85" filter="url(#wobbleSm)"/>
+  </svg>
+
+  <div class="header-row">
+    <div class="header-side">
+      <div class="kicker">[headline hook]</div>
+      <div class="subhead">&#8220;[short tag]&#8221; <b>[one-line supporting claim]</b></div>
+    </div>
+    <h1 class="title">[TITLE LINE 1].<br>[TITLE LINE 2].</h1>
+  </div>
+
+  <div class="hero-row">
+    <div class="hero-circle">
+      <svg viewBox="0 0 300 300" width="300" height="300">
+        <circle cx="150" cy="150" r="134" fill="none" stroke="var(--id-color)" stroke-width="11" filter="url(#wobble)"/>
+      </svg>
+      <div class="ic">
+        <svg width="140" height="140" viewBox="0 0 54 54">
+          <circle cx="27" cy="27" r="20" fill="none" stroke="var(--id-color)" stroke-width="4" filter="url(#wobbleSm)"/>
+          <text x="27" y="36" font-family="Shantell Sans" font-weight="800" font-size="26" fill="var(--id-color)" text-anchor="middle">?</text>
+        </svg>
+      </div>
+    </div>
+    <div class="hero-caption">
+      [Two sentences framing the tension the reader feels — sets up why the compare panel below matters.]
+    </div>
+  </div>
+
+  <div class="versus" data-hero>
+    <div class="col works">
+      <svg class="frame" viewBox="0 0 100 100" preserveAspectRatio="none">
+        <rect x="2" y="6" width="96" height="90" fill="var(--surface)" stroke="var(--ink)"
+              stroke-width="2.5" vector-effect="non-scaling-stroke" filter="url(#wobble)"/>
+      </svg>
+      <div class="col-head">&check; WHAT WORKS</div>
+      <div class="inner">
+        <div class="item">
+          <svg class="mark" viewBox="0 0 26 26"><path d="M5 14 L11 20 L22 6" fill="none" stroke="var(--chart-3)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#wobbleSm)"/></svg>
+          <div class="txt"><b>[Point 1 title.]</b> [Supporting detail sentence.]</div>
+        </div>
+        <div class="item">
+          <svg class="mark" viewBox="0 0 26 26"><path d="M5 14 L11 20 L22 6" fill="none" stroke="var(--chart-3)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#wobbleSm)"/></svg>
+          <div class="txt"><b>[Point 2 title.]</b> [Supporting detail sentence.]</div>
+        </div>
+        <div class="item">
+          <svg class="mark" viewBox="0 0 26 26"><path d="M5 14 L11 20 L22 6" fill="none" stroke="var(--chart-3)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#wobbleSm)"/></svg>
+          <div class="txt"><b>[Point 3 title.]</b> [Supporting detail sentence.]</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col doesnt">
+      <svg class="frame" viewBox="0 0 100 100" preserveAspectRatio="none">
+        <rect x="2" y="6" width="96" height="90" fill="var(--surface)" stroke="var(--ink)"
+              stroke-width="2.5" vector-effect="non-scaling-stroke" filter="url(#wobble)"/>
+      </svg>
+      <div class="col-head">&cross; WHAT DOESN'T</div>
+      <div class="inner">
+        <div class="item">
+          <svg class="mark" viewBox="0 0 26 26"><path d="M6 6 L20 20 M20 6 L6 20" stroke="var(--chart-1)" stroke-width="4" stroke-linecap="round" filter="url(#wobbleSm)"/></svg>
+          <div class="txt"><b>[Point 1 title.]</b> [Supporting detail sentence.]</div>
+        </div>
+        <div class="item">
+          <svg class="mark" viewBox="0 0 26 26"><path d="M6 6 L20 20 M20 6 L6 20" stroke="var(--chart-1)" stroke-width="4" stroke-linecap="round" filter="url(#wobbleSm)"/></svg>
+          <div class="txt"><b>[Point 2 title.]</b> [Supporting detail sentence.]</div>
+        </div>
+        <div class="item">
+          <svg class="mark" viewBox="0 0 26 26"><path d="M6 6 L20 20 M20 6 L6 20" stroke="var(--chart-1)" stroke-width="4" stroke-linecap="round" filter="url(#wobbleSm)"/></svg>
+          <div class="txt"><b>[Point 3 title.]</b> [Supporting detail sentence.]</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="cta-btn">[CTA LINE<br>1 / LINE 2]</div>
+    <div class="footer-info">
+      <div class="cta-sub">&larr; [supporting line]</div>
+      <div class="url">procrastitype.jnorthwood.com/[path]</div>
+      <div class="credit">Research: Ferrari (1991) &middot; Sirois &amp; Pychyl (2013)</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

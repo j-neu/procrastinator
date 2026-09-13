@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Procrastitype — Carousel Pin Template</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,500;0,700;0,800;1,500&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+:root {
+  --canvas-w: 1000px; --canvas-h: 1500px;
+  --bg:#FDFBF4; --surface:#F4EFDF; --surface-2:#E9E2CC;
+  --ink:#2E2A25; --ink-muted:#7A7365;
+  --chart-1:#E4573D; --chart-2:#3E7CC1; --chart-3:#57A15A; --chart-4:#9268B8;
+  --de-emphasis:#C9C2AE;
+  --id-color: var(--chart-4); /* swap to chart-1/2/3/4 per topic, keep same across all slides */
+  --font-display:'Shantell Sans',cursive; --font-body:'Shantell Sans',cursive;
+  --font-aside:'Caveat',cursive;
+}
+
+html, body { background: var(--bg); }
+body { width: var(--canvas-w); font-family: var(--font-body); font-weight: 500; color: var(--ink); }
+.canvas {
+  position: relative; width: var(--canvas-w); height: var(--canvas-h);
+  overflow: hidden; display: flex; flex-direction: column; padding: 44px 48px 40px;
+  margin-bottom: 40px;
+}
+.paper-glow {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(ellipse 900px 700px at 50% 8%, rgba(255,255,255,0.9), rgba(253,251,244,0) 70%);
+}
+h1, h2, .display { font-weight: 800; line-height: 1.05; }
+.scribble { position: absolute; z-index: 2; pointer-events: none; }
+
+/* ---- shared: slide index dots (bottom-left, subtle "keep swiping" cue) ---- */
+.dots { position: absolute; bottom: 30px; left: 48px; z-index: 3; display: flex; gap: 9px; align-items: center; }
+.dots .dot { width: 11px; height: 11px; border-radius: 50%; background: var(--de-emphasis); }
+.dots .dot.on { background: var(--id-color); }
+.swipe-cue {
+  position: absolute; bottom: 26px; right: 48px; z-index: 3;
+  font-family: var(--font-aside); font-weight: 700; font-size: 22px;
+  color: var(--ink-muted); transform: rotate(-1deg);
+}
+
+/* ---- kicker / eyebrow, shared ---- */
+.kicker {
+  font-family: var(--font-aside); font-weight: 700; font-size: 32px;
+  color: var(--id-color); transform: rotate(-1.5deg); display: inline-block; margin-bottom: 8px;
+}
+
+/* ================= SLIDE 1: cover / hook ================= */
+.cover-title { font-size: 66px; letter-spacing: -1px; margin-top: 10px; position: relative; z-index: 1; }
+.cover-title .accent { color: var(--id-color); }
+.cover-sub {
+  margin-top: 22px; font-size: 26px; font-weight: 700; line-height: 1.4; max-width: 820px;
+  color: var(--ink-muted); position: relative; z-index: 1;
+}
+.cover-hero { flex: 1; display: flex; align-items: center; justify-content: center; position: relative; z-index: 1; }
+.cover-circle { position: relative; width: 380px; height: 380px; }
+.cover-circle .ic { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
+
+/* ================= SLIDES 2-4: one point per slide ================= */
+.point-num {
+  position: relative; width: 120px; height: 120px; flex: none;
+}
+.point-num .digit {
+  position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+  font-size: 74px; font-weight: 800; color: var(--id-color);
+}
+.point-header { display: flex; align-items: center; gap: 22px; position: relative; z-index: 1; }
+.point-headline {
+  font-size: 46px; font-weight: 800; line-height: 1.12; margin-top: 42px; position: relative; z-index: 1;
+  max-width: 880px;
+}
+.point-body {
+  font-size: 27px; font-weight: 500; line-height: 1.52; margin-top: 26px; position: relative; z-index: 1;
+  max-width: 860px; color: var(--ink);
+}
+.point-frame {
+  margin-top: 48px; flex: 1; position: relative; z-index: 1;
+}
+.point-frame .box { position: absolute; inset: 0; z-index: 0; }
+.point-frame .inner {
+  position: relative; z-index: 1; height: 100%; display: flex; align-items: center; justify-content: center;
+  padding: 40px; font-family: var(--font-aside); font-weight: 700; font-size: 30px; text-align: center;
+  color: var(--ink-muted); line-height: 1.4;
+}
+
+/* ================= SLIDE 5: CTA ================= */
+.cta-slide { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; position: relative; z-index: 1; }
+.cta-headline {
+  font-size: 52px; text-align: center; line-height: 1.14; max-width: 800px; margin-bottom: 46px;
+}
+.cta-headline .accent { color: var(--id-color); }
+.cta-btn {
+  background: var(--id-color); color: #FDFBF4;
+  font-size: 34px; font-weight: 800; text-align: center; line-height: 1.25;
+  padding: 30px 46px; border: 3px solid var(--ink);
+  transform: rotate(-1deg);
+}
+.cta-url { margin-top: 26px; font-size: 23px; color: var(--ink-muted); font-weight: 600; }
+.cta-credit { margin-top: 12px; font-size: 15px; color: var(--de-emphasis); font-weight: 500; }
+</style>
+</head>
+<body>
+<!-- TEMPLATE: 5-slide carousel — 1 cover/hook, 3 single-point slides, 1 CTA.
+     Swap --id-color per topic (must match across all 5 slides). Replace
+     bracketed placeholder copy, icon paths, and headline per use.
+     Add/remove point slides by duplicating a "SLIDE N" block and updating
+     the .dots indicator on every slide to match the new total. -->
+
+<!-- ---- SLIDE 1: cover / hook ---- -->
+<div class="canvas" data-document-role="page" data-label="Slide 1 — Cover">
+  <div class="paper-glow"></div>
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="wobble1"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="4"/></filter>
+    <filter id="wobbleSm1"><feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2.5"/></filter>
+  </svg>
+  <svg class="scribble" style="top:14px; right:60px;" width="26" height="26" viewBox="0 0 26 26">
+    <path d="M13 2 L15.5 10 L24 13 L15.5 16 L13 24 L10.5 16 L2 13 L10.5 10 Z" fill="var(--chart-1)" fill-opacity="0.85" filter="url(#wobbleSm1)"/>
+  </svg>
+
+  <div class="kicker">[eyebrow hook]</div>
+  <h1 class="cover-title">[Big headline].<br>Here's <span class="accent">[N] things</span><br>that help.</h1>
+  <div class="cover-sub">[One sentence framing why this matters, sets up the swipe.]</div>
+
+  <div class="cover-hero">
+    <div class="cover-circle">
+      <svg viewBox="0 0 300 300" width="300" height="300">
+        <circle cx="150" cy="150" r="134" fill="none" stroke="var(--id-color)" stroke-width="11" filter="url(#wobble1)"/>
+      </svg>
+      <div class="ic">
+        <svg width="150" height="150" viewBox="0 0 54 54">
+          <circle cx="27" cy="27" r="20" fill="none" stroke="var(--id-color)" stroke-width="4" filter="url(#wobbleSm1)"/>
+          <text x="27" y="36" font-family="Shantell Sans" font-weight="800" font-size="26" fill="var(--id-color)" text-anchor="middle">?</text>
+        </svg>
+      </div>
+    </div>
+  </div>
+
+  <div class="dots"><div class="dot on"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>
+  <div class="swipe-cue">swipe &rarr;</div>
+</div>
+
+<!-- ---- SLIDE 2: point 1 ---- -->
+<div class="canvas" data-document-role="page" data-label="Slide 2 — Point 1">
+  <div class="paper-glow"></div>
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="wobble2"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="4"/></filter>
+    <filter id="wobbleSm2"><feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2.5"/></filter>
+  </svg>
+
+  <div class="point-header">
+    <div class="point-num">
+      <svg viewBox="0 0 120 140" width="120" height="140" overflow="visible">
+        <circle cx="60" cy="60" r="52" fill="none" stroke="var(--id-color)" stroke-width="7" filter="url(#wobble2)"/>
+      </svg>
+      <div class="digit">1</div>
+    </div>
+    <div class="kicker" style="margin-bottom:0;">[section label]</div>
+  </div>
+
+  <div class="point-headline">[Point 1 headline — the thing itself, stated plainly.]</div>
+  <div class="point-body">[2-3 sentences of supporting explanation. Concrete, specific, in your voice.]</div>
+
+  <div class="point-frame">
+    <svg class="box" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <rect x="2" y="2" width="96" height="96" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5" vector-effect="non-scaling-stroke" filter="url(#wobble2)"/>
+    </svg>
+    <div class="inner">"[Optional supporting quote, example, or stat goes here.]"</div>
+  </div>
+
+  <div class="dots"><div class="dot"></div><div class="dot on"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>
+  <div class="swipe-cue">swipe &rarr;</div>
+</div>
+
+<!-- ---- SLIDE 3: point 2 ---- -->
+<div class="canvas" data-document-role="page" data-label="Slide 3 — Point 2">
+  <div class="paper-glow"></div>
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="wobble3"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="4"/></filter>
+    <filter id="wobbleSm3"><feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2.5"/></filter>
+  </svg>
+
+  <div class="point-header">
+    <div class="point-num">
+      <svg viewBox="0 0 120 140" width="120" height="140" overflow="visible">
+        <circle cx="60" cy="60" r="52" fill="none" stroke="var(--id-color)" stroke-width="7" filter="url(#wobble3)"/>
+      </svg>
+      <div class="digit">2</div>
+    </div>
+    <div class="kicker" style="margin-bottom:0;">[section label]</div>
+  </div>
+
+  <div class="point-headline">[Point 2 headline — the thing itself, stated plainly.]</div>
+  <div class="point-body">[2-3 sentences of supporting explanation. Concrete, specific, in your voice.]</div>
+
+  <div class="point-frame">
+    <svg class="box" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <rect x="2" y="2" width="96" height="96" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5" vector-effect="non-scaling-stroke" filter="url(#wobble3)"/>
+    </svg>
+    <div class="inner">"[Optional supporting quote, example, or stat goes here.]"</div>
+  </div>
+
+  <div class="dots"><div class="dot"></div><div class="dot"></div><div class="dot on"></div><div class="dot"></div><div class="dot"></div></div>
+  <div class="swipe-cue">swipe &rarr;</div>
+</div>
+
+<!-- ---- SLIDE 4: point 3 ---- -->
+<div class="canvas" data-document-role="page" data-label="Slide 4 — Point 3">
+  <div class="paper-glow"></div>
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="wobble4"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="4"/></filter>
+    <filter id="wobbleSm4"><feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2.5"/></filter>
+  </svg>
+
+  <div class="point-header">
+    <div class="point-num">
+      <svg viewBox="0 0 120 140" width="120" height="140" overflow="visible">
+        <circle cx="60" cy="60" r="52" fill="none" stroke="var(--id-color)" stroke-width="7" filter="url(#wobble4)"/>
+      </svg>
+      <div class="digit">3</div>
+    </div>
+    <div class="kicker" style="margin-bottom:0;">[section label]</div>
+  </div>
+
+  <div class="point-headline">[Point 3 headline — the thing itself, stated plainly.]</div>
+  <div class="point-body">[2-3 sentences of supporting explanation. Concrete, specific, in your voice.]</div>
+
+  <div class="point-frame">
+    <svg class="box" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <rect x="2" y="2" width="96" height="96" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5" vector-effect="non-scaling-stroke" filter="url(#wobble4)"/>
+    </svg>
+    <div class="inner">"[Optional supporting quote, example, or stat goes here.]"</div>
+  </div>
+
+  <div class="dots"><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot on"></div><div class="dot"></div></div>
+  <div class="swipe-cue">swipe &rarr;</div>
+</div>
+
+<!-- ---- SLIDE 5: CTA ---- -->
+<div class="canvas" data-document-role="page" data-label="Slide 5 — CTA">
+  <div class="paper-glow"></div>
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="wobble5"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="4"/></filter>
+    <filter id="wobbleSm5"><feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2.5"/></filter>
+  </svg>
+  <svg class="scribble" style="top:14px; right:60px;" width="26" height="26" viewBox="0 0 26 26">
+    <path d="M13 2 L15.5 10 L24 13 L15.5 16 L13 24 L10.5 16 L2 13 L10.5 10 Z" fill="var(--chart-3)" fill-opacity="0.85" filter="url(#wobbleSm5)"/>
+  </svg>
+
+  <div class="cta-slide">
+    <h2 class="cta-headline">You made it to the end.<br><span class="accent">[Closing line / payoff.]</span></h2>
+    <div class="cta-btn">[CTA LINE<br>1 / LINE 2]</div>
+    <div class="cta-url">procrastitype.jnorthwood.com/[path]</div>
+    <div class="cta-credit">Research: Ferrari (1991) &middot; Sirois &amp; Pychyl (2013)</div>
+  </div>
+
+  <div class="dots"><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot on"></div></div>
+</div>
+
+</body>
+</html>
