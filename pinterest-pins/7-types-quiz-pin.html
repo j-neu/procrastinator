@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Which of the 7 Types of Procrastinator Are You?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,500;0,700;0,800;1,500&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+/* ============ reset ============ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img, svg { display: block; max-width: 100%; }
+
+/* ============ tokens (hand-drawn design language) ============ */
+:root {
+  --canvas-w: 1000px;
+  --canvas-h: 1500px;
+
+  --bg:#FDFBF4; --surface:#F4EFDF; --surface-2:#E9E2CC;
+  --ink:#2E2A25; --ink-muted:#7A7365;
+  --chart-1:#E4573D; --chart-2:#3E7CC1; --chart-3:#57A15A; --chart-4:#9268B8;
+  --de-emphasis:#C9C2AE;
+
+  --font-display:'Shantell Sans',cursive; --font-body:'Shantell Sans',cursive;
+  --font-aside:'Caveat',cursive;
+  --space-1:8px; --space-2:16px; --space-3:24px; --space-4:40px; --space-5:64px;
+}
+
+/* ============ canvas ============ */
+html, body { background: var(--bg); }
+body {
+  width: var(--canvas-w);
+  font-family: var(--font-body);
+  font-weight: 500;
+  color: var(--ink);
+}
+.canvas {
+  position: relative;
+  width: var(--canvas-w);
+  height: var(--canvas-h);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 44px 48px 36px;
+}
+
+/* paper tone: quiet radial glow, not flat white */
+.paper-glow {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(ellipse 900px 700px at 50% 8%, rgba(255,255,255,0.9), rgba(253,251,244,0) 70%);
+}
+
+h1, h2, .display { font-weight: 800; line-height: 1.05; }
+
+/* ---- header ---- */
+.kicker {
+  font-family: var(--font-aside); font-weight: 700; font-size: 30px;
+  color: var(--chart-4); transform: rotate(-2deg);
+  display: inline-block; margin-bottom: 10px;
+}
+.title {
+  font-size: 54px; margin-top: 14px; letter-spacing: -0.5px;
+  position: relative; z-index: 1;
+}
+.title .accent { color: var(--chart-4); position: relative; white-space: nowrap; display: inline-block; }
+.title .accent svg { position: absolute; left: -3%; bottom: -10px; width: 106%; height: 16px; overflow: visible; }
+
+/* margin scribbles: small hand-drawn stars, max 4 per canvas */
+.scribble { position: absolute; z-index: 2; pointer-events: none; }
+.subhead {
+  font-family: var(--font-aside); font-weight: 600; font-size: 26px;
+  color: var(--ink-muted); margin-top: 6px; transform: rotate(-0.6deg);
+}
+
+/* ---- hero: giant circled 7 ---- */
+.hero-row {
+  display: flex; align-items: center; gap: 26px;
+  margin-top: 8px; position: relative; z-index: 1;
+}
+.hero-num {
+  position: relative; width: 190px; height: 190px; flex: none;
+}
+.hero-num .digit {
+  position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+  font-size: 128px; font-weight: 800; color: var(--chart-4);
+}
+.hero-caption {
+  font-size: 22px; font-weight: 700; line-height: 1.25; max-width: 480px;
+}
+.hero-caption .em { font-family: var(--font-aside); font-weight: 700; color: var(--chart-1); font-size: 25px; }
+
+/* ---- specimen sheet ---- */
+.sheet { margin-top: 26px; display: flex; flex-direction: column; gap: 15px; position: relative; z-index: 1; flex: 1; }
+.spine { position: absolute; z-index: 0; pointer-events: none; }
+
+.card {
+  display: flex; align-items: center; gap: 18px;
+  height: 96px;
+  padding: 0 20px;
+  position: relative;
+}
+.card .frame { position: absolute; inset: 0; z-index: 0; }
+.card > .row { position: relative; z-index: 1; display: flex; align-items: center; gap: 18px; width: 100%; }
+.card .badge {
+  flex: none; width: 50px; height: 50px; position: relative;
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-display); font-weight: 800; font-size: 24px;
+}
+.card .icon { flex: none; width: 58px; height: 58px; }
+.card .text { flex: 1; min-width: 0; }
+.card .name { font-size: 24px; font-weight: 800; }
+.card .name .caveat-name { font-family: var(--font-aside); font-weight: 700; }
+.card .tell { font-size: 17px; color: var(--ink-muted); font-weight: 500; margin-top: 4px; line-height: 1.3; }
+
+.card.pop { transform: rotate(-1.3deg) translateX(6px); }
+.card.pop2 { transform: rotate(1.1deg) translateX(-8px); }
+.card.pop3 { transform: rotate(-0.8deg) translateX(4px); }
+.card.pop4 { transform: rotate(1.3deg) translateX(-4px); }
+
+/* the "breaks the grid" card: Avoidant, most common, wider, bleeds past the margin */
+.card.hero-card {
+  height: 118px; margin-left: -18px; margin-right: -18px; padding: 0 36px;
+  transform: rotate(0.6deg);
+}
+.card.hero-card .name { font-size: 27px; }
+.tape {
+  position: absolute; top: -16px; right: 26px; z-index: 2; transform: rotate(4deg);
+  background: var(--chart-4); color: #FDFBF4;
+  font-family: var(--font-aside); font-weight: 700; font-size: 17px;
+  padding: 4px 16px 5px;
+  clip-path: polygon(3% 0%, 97% 8%, 100% 100%, 0% 92%);
+}
+
+/* ---- footer / CTA: two columns, button left, copy right ---- */
+.footer {
+  margin-top: 28px; position: relative; z-index: 1;
+  display: flex; align-items: center; justify-content: center; gap: 26px;
+}
+.cta-row { flex: none; }
+.cta-btn {
+  background: var(--chart-4); color: #FDFBF4;
+  font-size: 26px; font-weight: 800; text-align: center; line-height: 1.2;
+  padding: 20px 26px; border: 3px solid var(--ink);
+  transform: rotate(-1deg); max-width: 220px;
+}
+.footer-info { flex: none; text-align: left; }
+.cta-sub {
+  text-align: left; font-family: var(--font-aside); font-weight: 700;
+  font-size: 23px; color: var(--ink); transform: rotate(-0.4deg);
+}
+.url {
+  text-align: left; font-size: 17px; color: var(--ink-muted); margin-top: 8px; font-weight: 600;
+}
+.credit {
+  text-align: left; font-size: 12.5px; color: var(--de-emphasis); margin-top: 10px; font-weight: 500;
+}
+</style>
+</head>
+<body>
+<!-- Composition pattern: Specimen sheet (7 labeled type-cards) with a Big-Object
+     hero (giant circled "7") breaking in at the top, and the Avoidant card
+     breaking the grid (larger, tagged) since it's the most common result. -->
+<div class="canvas">
+  <div class="paper-glow"></div>
+
+  <!-- hidden filter defs -->
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="wobble">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="4"/>
+    </filter>
+    <filter id="wobbleSm">
+      <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="2.5"/>
+    </filter>
+  </svg>
+
+  <!-- margin scribbles (2 of the 4 max) -->
+  <svg class="scribble" style="top:14px; right:60px;" width="26" height="26" viewBox="0 0 26 26">
+    <path d="M13 2 L15.5 10 L24 13 L15.5 16 L13 24 L10.5 16 L2 13 L10.5 10 Z"
+          fill="var(--chart-1)" fill-opacity="0.85" filter="url(#wobbleSm)"/>
+  </svg>
+  <svg class="scribble" style="top:210px; right:24px;" width="18" height="18" viewBox="0 0 18 18">
+    <path d="M9 1 L10.7 7 L17 9 L10.7 11 L9 17 L7.3 11 L1 9 L7.3 7 Z"
+          fill="var(--chart-3)" fill-opacity="0.85" filter="url(#wobbleSm)"/>
+  </svg>
+
+  <!-- header -->
+  <div class="kicker">psychology says&hellip;</div>
+  <h1 class="title">You're not lazy.<br>You're one of <span class="accent">7 types
+    <svg viewBox="0 0 100 16" preserveAspectRatio="none"><path d="M2 8 Q 25 14, 50 7 T 98 8" fill="none" stroke="var(--chart-4)" stroke-width="5" stroke-linecap="round" filter="url(#wobbleSm)"/></svg>
+  </span> of procrastinator.</h1>
+  <div class="subhead">(and knowing which one changes everything)</div>
+
+  <!-- hero: giant circled 7, connected by a doodle arrow into the list below -->
+  <div class="hero-row" data-hero>
+    <div class="hero-num">
+      <svg viewBox="0 0 190 220" width="190" height="220" overflow="visible">
+        <circle cx="95" cy="95" r="82" fill="none" stroke="var(--chart-4)" stroke-width="9"
+                filter="url(#wobble)"/>
+        <path d="M95 179 C 92 196, 78 205, 60 208" fill="none" stroke="var(--ink-muted)"
+              stroke-width="2.5" stroke-linecap="round" filter="url(#wobbleSm)"/>
+        <path d="M60 208 l 10 -6 M60 208 l 4 -11" fill="none" stroke="var(--ink-muted)"
+              stroke-width="2.5" stroke-linecap="round" filter="url(#wobbleSm)"/>
+      </svg>
+      <div class="digit">7</div>
+    </div>
+    <div class="hero-caption">
+      Researchers (Ferrari, Chu &amp; Choi) have mapped 7 distinct patterns behind
+      why you delay. <span class="em">Find yours below.</span>
+    </div>
+  </div>
+
+  <!-- specimen sheet: the 7 types, threaded by one wobbled path (rule zero: a
+       trail to follow, not a stack of cards) -->
+  <div class="sheet">
+
+    <!-- the connecting spine: a hand-drawn trail through all 7 badges
+         (row centers at y = 48, 170, 292, 403, 514, 625, 736 for the
+         96/118/96/96/96/96/96px rows with 15px gaps; x hovers around the
+         badge center, ~45px) -->
+    <svg class="spine" viewBox="0 0 904 784" width="904" height="784" style="left:0;top:0;">
+      <path d="M45 48 Q 64 108, 45 170 Q 28 230, 45 292
+               Q 62 348, 45 403 Q 28 458, 45 514
+               Q 62 570, 45 625 Q 28 680, 45 736"
+            fill="none" stroke="var(--de-emphasis)" stroke-width="2.5" stroke-linecap="round"
+            stroke-dasharray="1 11" filter="url(#wobbleSm)"/>
+    </svg>
+
+    <div class="card pop">
+      <svg class="frame" viewBox="0 0 904 96" preserveAspectRatio="none">
+        <rect x="2" y="2" width="900" height="92" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5" filter="url(#wobble)"/>
+      </svg>
+      <div class="row">
+        <div class="badge">
+          <svg viewBox="0 0 46 46" width="50" height="50"><circle cx="23" cy="23" r="20" fill="none" stroke="var(--chart-1)" stroke-width="3" filter="url(#wobbleSm)"/></svg>
+          <span style="position:absolute;color:var(--chart-1)">1</span>
+        </div>
+        <svg class="icon" viewBox="0 0 54 54" width="58" height="58">
+          <path d="M30 4 L14 30 h10 l-4 20 L36 24 H26 Z" fill="var(--chart-1)" fill-opacity="0.85" filter="url(#wobbleSm)"/>
+        </svg>
+        <div class="text">
+          <div class="name">Arousal <span class="caveat-name">("the thrill seeker")</span></div>
+          <div class="tell">Waits for the adrenaline. Swears the pressure makes the work better.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card hero-card">
+      <svg class="frame" viewBox="0 0 940 118" preserveAspectRatio="none">
+        <rect x="2" y="2" width="936" height="114" fill="#F0E9F7" stroke="var(--ink)" stroke-width="3" filter="url(#wobble)"/>
+      </svg>
+      <div class="tape">MOST COMMON &middot; 54%</div>
+      <div class="row">
+        <div class="badge">
+          <svg viewBox="0 0 46 46" width="50" height="50"><circle cx="23" cy="23" r="20" fill="none" stroke="var(--chart-4)" stroke-width="3.2" filter="url(#wobbleSm)"/></svg>
+          <span style="position:absolute;color:var(--chart-4)">2</span>
+        </div>
+        <svg class="icon" viewBox="0 0 54 54" width="58" height="58">
+          <path d="M27 6 C14 10 12 16 12 24 C12 36 20 44 27 48 C34 44 42 36 42 24 C42 16 40 10 27 6 Z"
+                fill="var(--chart-4)" fill-opacity="0.85" filter="url(#wobbleSm)"/>
+        </svg>
+        <div class="text">
+          <div class="name">Avoidant <span class="caveat-name">("the shield")</span></div>
+          <div class="tell">Delays to dodge the fear: of failing, of judgment, even of succeeding.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card pop2">
+      <svg class="frame" viewBox="0 0 904 96" preserveAspectRatio="none">
+        <rect x="2" y="2" width="900" height="92" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5" filter="url(#wobble)"/>
+      </svg>
+      <div class="row">
+        <div class="badge">
+          <svg viewBox="0 0 46 46" width="50" height="50"><circle cx="23" cy="23" r="20" fill="none" stroke="var(--chart-2)" stroke-width="3" filter="url(#wobbleSm)"/></svg>
+          <span style="position:absolute;color:var(--chart-2)">3</span>
+        </div>
+        <svg class="icon" viewBox="0 0 54 54" width="58" height="58">
+          <path d="M27 6 V24 M27 24 L12 44 M27 24 L42 44" stroke="var(--chart-2)" stroke-width="4.5"
+                stroke-linecap="round" fill="none" filter="url(#wobbleSm)"/>
+        </svg>
+        <div class="text">
+          <div class="name">Decisional <span class="caveat-name">("the freezer")</span></div>
+          <div class="tell">Won't move until the "right" choice appears. So nothing moves.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card pop3">
+      <svg class="frame" viewBox="0 0 904 96" preserveAspectRatio="none">
+        <rect x="2" y="2" width="900" height="92" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5" filter="url(#wobble)"/>
+      </svg>
+      <div class="row">
+        <div class="badge">
+          <svg viewBox="0 0 46 46" width="50" height="50"><circle cx="23" cy="23" r="20" fill="none" stroke="var(--chart-3)" stroke-width="3" filter="url(#wobbleSm)"/></svg>
+          <span style="position:absolute;color:var(--chart-3)">4</span>
+        </div>
+        <svg class="icon" viewBox="0 0 54 54" width="58" height="58">
+          <circle cx="24" cy="24" r="14" fill="none" stroke="var(--chart-3)" stroke-width="4" filter="url(#wobbleSm)"/>
+          <path d="M34 34 L44 44" stroke="var(--chart-3)" stroke-width="5" stroke-linecap="round" filter="url(#wobbleSm)"/>
+        </svg>
+        <div class="text">
+          <div class="name">Perfectionist <span class="caveat-name">("the editor")</span></div>
+          <div class="tell">Starts fine. Never ships. It's never quite good enough yet.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card pop4">
+      <svg class="frame" viewBox="0 0 904 96" preserveAspectRatio="none">
+        <rect x="2" y="2" width="900" height="92" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5" filter="url(#wobble)"/>
+      </svg>
+      <div class="row">
+        <div class="badge">
+          <svg viewBox="0 0 46 46" width="50" height="50"><circle cx="23" cy="23" r="20" fill="none" stroke="var(--chart-1)" stroke-width="3" filter="url(#wobbleSm)"/></svg>
+          <span style="position:absolute;color:var(--chart-1)">5</span>
+        </div>
+        <svg class="icon" viewBox="0 0 54 54" width="58" height="58">
+          <text x="4" y="24" font-family="Shantell Sans" font-weight="800" font-size="17" fill="var(--chart-1)" transform="rotate(-8 4 24)">z</text>
+          <text x="18" y="36" font-family="Shantell Sans" font-weight="800" font-size="22" fill="var(--chart-1)" transform="rotate(-8 18 36)">Z</text>
+          <text x="34" y="50" font-family="Shantell Sans" font-weight="800" font-size="27" fill="var(--chart-1)" transform="rotate(-8 34 50)">Z</text>
+        </svg>
+        <div class="text">
+          <div class="name">Passive <span class="caveat-name">("the drifter")</span></div>
+          <div class="tell">Loses track of time until the deadline is already gone.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card pop2">
+      <svg class="frame" viewBox="0 0 904 96" preserveAspectRatio="none">
+        <rect x="2" y="2" width="900" height="92" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5" filter="url(#wobble)"/>
+      </svg>
+      <div class="row">
+        <div class="badge">
+          <svg viewBox="0 0 46 46" width="50" height="50"><circle cx="23" cy="23" r="20" fill="none" stroke="var(--chart-2)" stroke-width="3" filter="url(#wobbleSm)"/></svg>
+          <span style="position:absolute;color:var(--chart-2)">6</span>
+        </div>
+        <svg class="icon" viewBox="0 0 54 54" width="58" height="58">
+          <path d="M22 46 L22 30 C22 16 27 8 27 8 C27 8 32 16 32 30 L32 46 Z" fill="var(--chart-2)" fill-opacity="0.85" filter="url(#wobbleSm)"/>
+          <path d="M17 44 L10 50 M37 44 L44 50" stroke="var(--chart-2)" stroke-width="3.5" stroke-linecap="round" filter="url(#wobbleSm)"/>
+        </svg>
+        <div class="text">
+          <div class="name">Active <span class="caveat-name">("the sprinter")</span></div>
+          <div class="tell">Delays on purpose, then runs the pressure like a tool.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card pop3">
+      <svg class="frame" viewBox="0 0 904 96" preserveAspectRatio="none">
+        <rect x="2" y="2" width="900" height="92" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5" filter="url(#wobble)"/>
+      </svg>
+      <div class="row">
+        <div class="badge">
+          <svg viewBox="0 0 46 46" width="50" height="50"><circle cx="23" cy="23" r="20" fill="none" stroke="var(--chart-4)" stroke-width="3" filter="url(#wobbleSm)"/></svg>
+          <span style="position:absolute;color:var(--chart-4)">7</span>
+        </div>
+        <svg class="icon" viewBox="0 0 54 54" width="58" height="58">
+          <path d="M27 42 C10 30 10 16 20 13 C25 11 27 16 27 16 C27 16 29 11 34 13 C44 16 44 30 27 42 Z"
+                fill="var(--chart-4)" fill-opacity="0.85" filter="url(#wobbleSm)"/>
+          <path d="M18 22 L36 30" stroke="var(--ink)" stroke-width="2.5" filter="url(#wobbleSm)"/>
+        </svg>
+        <div class="text">
+          <div class="name">Emotion-Reg. <span class="caveat-name">("the escaper")</span></div>
+          <div class="tell">Delays to feel better right now. Pays for it later.</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- CTA footer: button left, copy right -->
+  <div class="footer">
+    <div class="cta-row">
+      <div class="cta-btn">TAKE THE<br>FREE QUIZ</div>
+    </div>
+    <div class="footer-info">
+      <div class="cta-sub">&larr; 5 minutes, free. Find your type</div>
+      <div class="url">procrastitype.jnorthwood.com/quiz</div>
+      <div class="credit">Research: Ferrari (1991) &middot; Chu &amp; Choi (2005) &middot; Sirois &amp; Pychyl (2013)</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
