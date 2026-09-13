@@ -37,7 +37,7 @@ h1,.display { font-family:var(--font-display); font-weight:600; line-height:1.02
 
 .kicker-top {
   position: absolute; top: 34px; left: 0; right: 0; z-index: 10; text-align: center;
-  font: 500 14px/1 var(--font-body); text-transform: uppercase; letter-spacing: .22em; color: var(--ink-muted);
+  font: 600 20px/1 var(--font-body); text-transform: uppercase; letter-spacing: .18em; color: var(--ink-muted);
 }
 
 /* ---- the vista: sun, far/mid/near ranges, foreground ledge + hiker ---- */
@@ -45,24 +45,24 @@ h1,.display { font-family:var(--font-display); font-weight:600; line-height:1.02
 
 /* ---- peak labels ---- */
 .peak-label {
-  position: absolute; z-index: 8; text-align: center; width: 150px; margin-left: -75px;
-  font: 500 16px/1.15 var(--font-body); text-transform: uppercase; letter-spacing: .04em; color: var(--ink);
+  position: absolute; z-index: 8; text-align: center; width: 190px; margin-left: -95px;
+  font: 600 24px/1.12 var(--font-display); text-transform: uppercase; letter-spacing: .03em; color: var(--ink);
 }
-
 /* ---- title band + ranger footer ---- */
 .band-wrap { position: absolute; left: 13px; right: 13px; bottom: 13px; z-index: 20; }
 .title-band {
-  background: var(--ink); padding: 30px 40px 22px; text-align: center; position: relative;
+  background: var(--ink); padding: 32px 40px 26px; text-align: center; position: relative;
 }
 .title-band::before {
   content: ''; position: absolute; top: 0; left: 40px; right: 40px; height: 2px; background: var(--surface);
 }
-.title-band .t1 { font-size: 34px; color: var(--surface); }
-.title-band .t2 { font-size: 54px; color: var(--surface); margin-top: 2px; }
-.title-band .sub { margin-top: 14px; font: 400 18px/1.4 var(--font-body); font-style: italic; color: var(--de-emphasis); }
+.title-band .t1 { font-size: 40px; color: var(--surface); }
+.title-band .t2 { font-size: 64px; color: var(--surface); margin-top: 4px; }
+.title-band .sub { margin-top: 16px; font: 400 22px/1.4 var(--font-body); font-style: italic; color: var(--de-emphasis); }
 .ranger-footer {
-  background: #1A2016; padding: 14px 40px; display: flex; align-items: center; justify-content: space-between;
-  font: 500 13px/1.3 var(--font-body); text-transform: uppercase; letter-spacing: .16em; color: var(--surface-2);
+  background: #1A2016; padding: 16px 40px; display: flex; align-items: center; justify-content: space-between;
+  flex-wrap: wrap; gap: 8px 20px;
+  font: 600 17px/1.3 var(--font-body); text-transform: uppercase; letter-spacing: .1em; color: var(--surface-2);
 }
 .ranger-footer .cta { color: var(--chart-3); }
 </style>
